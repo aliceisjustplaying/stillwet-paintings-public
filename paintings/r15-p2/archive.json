@@ -1,0 +1,96 @@
+{
+  "archive": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)",
+  "identity": "r15-p2",
+  "files": [
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/finals/r15-p2 - version 02.png",
+      "repo_path": "paintings/r15-p2/finals/r15-p2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5395289,
+      "repo_bytes": 5395289,
+      "sha256": "e1678d97d9d88f265324ae2c1d34e4190b77409a4ae5fa97c533c06846da21a6"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/finals/r15-p2 - version 03.png",
+      "repo_path": "paintings/r15-p2/finals/r15-p2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7565020,
+      "repo_bytes": 7565020,
+      "sha256": "f24c0276bf902ce8cc933391d4af78e2f044fb3a757bfa47ae75dcdb81095afb"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/finals/r15-p2.png",
+      "repo_path": "paintings/r15-p2/finals/r15-p2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4727655,
+      "repo_bytes": 4727655,
+      "sha256": "6f8238b3f294fb1b5d80f08bb071b9d6266feb7238e360e92bb64c0c607f24a1"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/sessions/2026-09-26T02-34-38-810Z_01a0db90-8d59-724f-bc4b-a776efcd2609.jsonl",
+      "repo_path": "paintings/r15-p2/sessions/pi/2026-09-26T02-34-38-810Z_01a0db90-8d59-724f-bc4b-a776efcd2609.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 11043885,
+      "repo_bytes": 641748,
+      "sha256": "857c771a3a3b1a7787067436405ea6979228574edb5ae625b64b0457c6caf232"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r15-p2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 312884,
+      "repo_bytes": 309214,
+      "sha256": "4b88a372bbc6f2c2de23d94fd8ad066f1fac633da13255e4e8d94732fdf57cd9"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/video/r15-p2 - version 02.mp4",
+      "repo_path": "paintings/r15-p2/video/r15-p2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4403885,
+      "repo_bytes": 4403885,
+      "sha256": "4f696dce9daf1a0d51dc857f46c2ee3d3f7ea40149664fb02aee19d3ca5bbab9"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/video/r15-p2 - version 03.mp4",
+      "repo_path": "paintings/r15-p2/video/r15-p2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4522808,
+      "repo_bytes": 4522808,
+      "sha256": "f312882e1d58ebcada1acfb8fc068ce335752726e8382d96c1a0ea50de687515"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/video/r15-p2 - version 04.mp4",
+      "repo_path": "paintings/r15-p2/video/r15-p2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4030484,
+      "repo_bytes": 4030484,
+      "sha256": "24f06217186440c1ff9851f685a7ce98134c6529a2155514b7d5a55f13cd9ec7"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/video/r15-p2 - version 05.mp4",
+      "repo_path": "paintings/r15-p2/video/r15-p2 - version 05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1871430,
+      "repo_bytes": 1871430,
+      "sha256": "1aad953a9098a156310149b88e36f8e7721925be4f8f970af45a6fcd017347cd"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Oak in the snow at dusk (Claude Opus 5.5)/video/r15-p2.mp4",
+      "repo_path": "paintings/r15-p2/video/r15-p2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2420604,
+      "repo_bytes": 2420604,
+      "sha256": "a317c43e1bb6d26b11a166bf7867165dd30f75936dcac5b9c082dd841b2048af"
+    }
+  ]
+}

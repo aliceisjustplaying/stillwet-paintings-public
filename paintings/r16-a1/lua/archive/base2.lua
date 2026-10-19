@@ -1,0 +1,7 @@
+local rootL = poly({{388,494},{385,503},{378,507},{368,511},{372,512.5},{384,510},{392,509}}, true)
+local rootR = poly({{420,494},{423,503},{431,506},{444,510},{440,511.5},{428,509.5},{418,509}}, true)
+local rootM = poly({{399,508},{404,505},{410,508},{405,510}}, true)
+work(rootL + rootR + rootM, {hand="detail", pile=barkK, coverage=4, fill=true, load=1, pressure={0.6,0.9}, tool={kind="round", width=1.6, point=0.6}})
+local rootL2 = poly({{842,500},{838,505},{830,508},{836,509},{844,507}}, true)
+local rootR2 = poly({{857,500},{861,505},{870,507},{864,508.5},{856,507}}, true)
+work(rootL2 + rootR2, {hand="detail", pile=barkK, coverage=4, fill=true, load=1, pressure={0.6,0.9}, tool={kind="round", width=1.4, point=0.6}})

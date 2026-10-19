@@ -1,0 +1,96 @@
+{
+  "archive": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)",
+  "identity": "r14-p1a",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/finals/final.jpg",
+      "repo_path": "paintings/r14-p1a/finals/final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 166381,
+      "repo_bytes": 166381,
+      "sha256": "9643b3cf517d9d4049d784734815b3b4e372b236cc33b2866e40d6f1b9586e23"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/finals/r14-p1a - version 02.png",
+      "repo_path": "paintings/r14-p1a/finals/r14-p1a - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5290423,
+      "repo_bytes": 5290423,
+      "sha256": "9c16bb459dac11084a8da13bcb7670ffde303ea9ec2a7b26310a54f7fc264efe"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/finals/r14-p1a - version 03.png",
+      "repo_path": "paintings/r14-p1a/finals/r14-p1a - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4626053,
+      "repo_bytes": 4626053,
+      "sha256": "760533068838502eee78da45e80809cf8338fe3718e2db584cf9ddf4f16a6e96"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/finals/r14-p1a.png",
+      "repo_path": "paintings/r14-p1a/finals/r14-p1a.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6647528,
+      "repo_bytes": 6647528,
+      "sha256": "a13f5c26b3437aeea9fa662ccb4f4bac57096320ba7feffd1457cc3240d3c8ab"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/sessions/2026-09-25T20-46-30-039Z_d1e53403-5afe0f2f-a6ec045b-72da.jsonl",
+      "repo_path": "paintings/r14-p1a/sessions/pi/2026-09-25T20-46-30-039Z_d1e53403-5afe0f2f-a6ec045b-72da.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7720454,
+      "repo_bytes": 721185,
+      "sha256": "cea4fd630d97c0b4df7704d91a05642a83d7ec904b6d3185197669736f3331b4"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/video/r14-p1a - version 02.mp4",
+      "repo_path": "paintings/r14-p1a/video/r14-p1a - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2434783,
+      "repo_bytes": 2434783,
+      "sha256": "ccc093ff3f7a30f07c30ec834601bcacdb291a715314fb87770e33b0e79c216a"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/video/r14-p1a - version 03.mp4",
+      "repo_path": "paintings/r14-p1a/video/r14-p1a - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1878446,
+      "repo_bytes": 1878446,
+      "sha256": "8cc7c95632d03552d10f2d1a47f1eb7bbcc701aac1a45f6e762dba0a97b07e74"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/video/r14-p1a-looks-0.7s.mp4",
+      "repo_path": "paintings/r14-p1a/video/r14-p1a-looks-0.7s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1875318,
+      "repo_bytes": 1875318,
+      "sha256": "2b4ada1ab4409bf5b93d786daf8f1aa8eda882241580c8ebee7ace65cb36f3c9"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/video/r14-p1a-ploughed-field.mp4",
+      "repo_path": "paintings/r14-p1a/video/r14-p1a-ploughed-field.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3499522,
+      "repo_bytes": 3499522,
+      "sha256": "402d9452f267f826eb9099b1341437653263bcc59d8daaede7a1e0f5ac83c32f"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Ploughed field before Greifswald, October morning (Claude Opus 5.5)/video/r14-p1a.mp4",
+      "repo_path": "paintings/r14-p1a/video/r14-p1a.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4980848,
+      "repo_bytes": 4980848,
+      "sha256": "18d4ad4cf60cb36e9ea9179968ab0479656c1ad43a5c4149e88cda518be54991"
+    }
+  ]
+}

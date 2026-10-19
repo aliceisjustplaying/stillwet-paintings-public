@@ -1,0 +1,150 @@
+{
+  "archive": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)",
+  "identity": "r15-p1",
+  "files": [
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/finals/r15-p1 - version 02.png",
+      "repo_path": "paintings/r15-p1/finals/r15-p1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4868124,
+      "repo_bytes": 4868124,
+      "sha256": "fbc9f3194de874c86300cd75c874ec6a8a296481d56a7dfd9e5efc328fb9a21d"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/finals/r15-p1 - version 03.png",
+      "repo_path": "paintings/r15-p1/finals/r15-p1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6406411,
+      "repo_bytes": 6406411,
+      "sha256": "d820f036b076cb29400a2e56b9aceb12272207c6128ea6964d543e2134327d31"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/finals/r15-p1.png",
+      "repo_path": "paintings/r15-p1/finals/r15-p1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4093502,
+      "repo_bytes": 4093502,
+      "sha256": "53402343cd49a26df639ac5e21d4385fa7574459032dc7575f25d9befa1ff96f"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/finals/v18.jpg",
+      "repo_path": "paintings/r15-p1/finals/v18.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 146419,
+      "repo_bytes": 146419,
+      "sha256": "c19861401d6fccb4d51bfb08e7aaa66411af69c5494e60a905858e5477550e1e"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/sessions/2026-09-26T01-45-26-156Z_01a0db63-7f8b-76c0-b981-85397eb6b6c5.jsonl",
+      "repo_path": "paintings/r15-p1/sessions/pi/2026-09-26T01-45-26-156Z_01a0db63-7f8b-76c0-b981-85397eb6b6c5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7622944,
+      "repo_bytes": 556725,
+      "sha256": "e2c5ae1111a8815fb0950141f6799a4c310274a98c1affae545d301cb6cb9cab"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r15-p1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 260109,
+      "repo_bytes": 256482,
+      "sha256": "238db64b2a6490aa71fcf39b6598b7103b3a32495c68b1733dceeb55b1d6ac7e"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1 - version 02.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5022106,
+      "repo_bytes": 5022106,
+      "sha256": "febbf14783fd05f83d065fcd8a9cd83c0a4820eed51df48c1d00fbf914e97393"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1 - version 03.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3238140,
+      "repo_bytes": 3238140,
+      "sha256": "843f4b1948b742474bf188ad2533ba4ec32c50c6457fed4c885759791c0e2d2c"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1 - version 04.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2169693,
+      "repo_bytes": 2169693,
+      "sha256": "85749cc953a8ffce08371f0c0bcecd3408dde845ac60fd8ad26b0d9299e45560"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1611859,
+      "repo_bytes": 1611859,
+      "sha256": "66bb9b08a3b62e62c9a404fdad5a80f63a07df04c1d8e4a0c0129407f32897d3"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1_30s.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1_30s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3907276,
+      "repo_bytes": 3907276,
+      "sha256": "21e1a36aa6cd8d7288b461f20a932b0c5794272286f64d953abc65ac7246c3f0"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1_60s.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1_60s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5680470,
+      "repo_bytes": 5680470,
+      "sha256": "af305fb9692769b1950e1f828558bb647561f211fbc153fcc7450bb5bd736ba2"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1_cut_30s.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1_cut_30s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2220503,
+      "repo_bytes": 2220503,
+      "sha256": "d356831063e6ef55be1304469e7e77f2a996b632f86b51eb65592e94253984d4"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1_cut_60s.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1_cut_60s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3212371,
+      "repo_bytes": 3212371,
+      "sha256": "c65742dea0027b2fdff4d68037ecad421d99af1c8ae10eda7bdf12086cd41292"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15-p1_gaze.mp4",
+      "repo_path": "paintings/r15-p1/video/r15-p1_gaze.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5175594,
+      "repo_bytes": 5175594,
+      "sha256": "e9d96a58d28fd77b98aff75f8474474c6a356116e830d89f8daeafe0930728da"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Evening over a Misty Valley in the Mountains (Claude Opus 5.5)/video/r15_p1_timelapse.mp4",
+      "repo_path": "paintings/r15-p1/video/r15_p1_timelapse.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3767726,
+      "repo_bytes": 3767726,
+      "sha256": "49f27fea0a7ff4cccc5da481c4d6c3b5144e75117b8d954a859552065f45259d"
+    }
+  ]
+}

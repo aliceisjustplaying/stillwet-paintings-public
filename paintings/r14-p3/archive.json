@@ -1,0 +1,114 @@
+{
+  "archive": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)",
+  "identity": "r14-p3",
+  "files": [
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/finals/final-00090.jpg",
+      "repo_path": "paintings/r14-p3/finals/final-00090.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 139805,
+      "repo_bytes": 139805,
+      "sha256": "d91cf82cc0459b699d91e5d3301aa3e2d1b94b66cbb4f12dcd9866f57226beae"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/finals/r14-p3 - version 02.png",
+      "repo_path": "paintings/r14-p3/finals/r14-p3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4366344,
+      "repo_bytes": 4366344,
+      "sha256": "c65af7cc1b99b8c835bb056cd934d0c1eb731bfaff840749968595a118598b2b"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/finals/r14-p3 - version 03.png",
+      "repo_path": "paintings/r14-p3/finals/r14-p3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5099144,
+      "repo_bytes": 5099144,
+      "sha256": "1318ac7dbeb6026495b5de5f19107bd4314438c681560204cc245c322f8497a2"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/finals/r14-p3.png",
+      "repo_path": "paintings/r14-p3/finals/r14-p3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6406625,
+      "repo_bytes": 6406625,
+      "sha256": "cfbff471570589f855d46ce3413201c14afad0068575b4b4b70afc8cc410de40"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/sessions/2026-09-26T00-31-05-259Z_88b82f85-b28e885a-eb48b77b-b338.jsonl",
+      "repo_path": "paintings/r14-p3/sessions/pi/2026-09-26T00-31-05-259Z_88b82f85-b28e885a-eb48b77b-b338.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13361400,
+      "repo_bytes": 1026431,
+      "sha256": "a47f3c5b779a3486a5ba68020aec6731b5f6cf5dd26d2fbbaa5851f02e47b850"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r14-p3/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 440406,
+      "repo_bytes": 423122,
+      "sha256": "3ac9efecd5fb39c124c3146dc0f6b62bf6280097da6f259bbae8287b43c62fd8"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r14-p3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 429512,
+      "repo_bytes": 423122,
+      "sha256": "3ac9efecd5fb39c124c3146dc0f6b62bf6280097da6f259bbae8287b43c62fd8"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/video/r14-p3 - version 02.mp4",
+      "repo_path": "paintings/r14-p3/video/r14-p3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3148777,
+      "repo_bytes": 3148777,
+      "sha256": "171b65d9b646fac90c482ae62ee11a24e959de3a007e44e3e8fd3f97235ba413"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/video/r14-p3 - version 03.mp4",
+      "repo_path": "paintings/r14-p3/video/r14-p3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 9083362,
+      "repo_bytes": 9083362,
+      "sha256": "660529de37fddfaab4b1c3f8b9f23e6945ca4a60904c0d5fde597a8a27e32f55"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/video/r14-p3 - version 04.mp4",
+      "repo_path": "paintings/r14-p3/video/r14-p3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 9155751,
+      "repo_bytes": 9155751,
+      "sha256": "5c9e05aa96ad7b557e8e78b5032ce8c68d552a30b5285c4c79317be60594f836"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/video/r14-p3 - version 05.mp4",
+      "repo_path": "paintings/r14-p3/video/r14-p3 - version 05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4398747,
+      "repo_bytes": 4398747,
+      "sha256": "e3ca45e9da142d6e7c50d28235c8dd01d02a179a4759a133d91e12af659c0423"
+    },
+    {
+      "archive_path": "2026-09-26 r14 Evening on the Baltic shore (Claude Opus 5.5)/video/r14-p3.mp4",
+      "repo_path": "paintings/r14-p3/video/r14-p3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5151990,
+      "repo_bytes": 5151990,
+      "sha256": "ab9d612780a36f4b9fd62c3a53f3dcebc8470c5b0f2967a98a56de9021693e89"
+    }
+  ]
+}

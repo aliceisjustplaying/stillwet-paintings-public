@@ -1,0 +1,96 @@
+{
+  "archive": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)",
+  "identity": "r15-p3",
+  "files": [
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/finals/r15-p3 - version 02.png",
+      "repo_path": "paintings/r15-p3/finals/r15-p3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7075905,
+      "repo_bytes": 7075905,
+      "sha256": "02e4bce504945ce740f930520a1380b786db8ddf9d4edc6a5ee2d580543579eb"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/finals/r15-p3 - version 03.png",
+      "repo_path": "paintings/r15-p3/finals/r15-p3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4473027,
+      "repo_bytes": 4473027,
+      "sha256": "1f802197a0ae6be3a1fd6433457395982aa900916a0488d4d411339e6b61ea35"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/finals/r15-p3.png",
+      "repo_path": "paintings/r15-p3/finals/r15-p3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5305834,
+      "repo_bytes": 5305834,
+      "sha256": "4f023f2c93f7e87960ba181cc6b4a6037ed99b5428dee1eee06b052817158281"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/sessions/2026-09-26T06-29-52-724Z_01a0dc67-e9d3-74b7-8e25-65e1f24b0cb4.jsonl",
+      "repo_path": "paintings/r15-p3/sessions/pi/2026-09-26T06-29-52-724Z_01a0dc67-e9d3-74b7-8e25-65e1f24b0cb4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6637071,
+      "repo_bytes": 616297,
+      "sha256": "22c20b6e657330d6743a5aad14276c592f20c38ec6da60ac0d3bc031e64dde7c"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r15-p3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 280871,
+      "repo_bytes": 277167,
+      "sha256": "c47d22ca30767a0126e26ea6f2b67153f64bb90cfcdf7f8013c0678418852407"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/video/r15-p3 - version 02.mp4",
+      "repo_path": "paintings/r15-p3/video/r15-p3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2602015,
+      "repo_bytes": 2602015,
+      "sha256": "207bbcc35b31b37f61bc80c30e7e1c40b352451b83e14b5119c43fa25ef7d358"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/video/r15-p3 - version 03.mp4",
+      "repo_path": "paintings/r15-p3/video/r15-p3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2216230,
+      "repo_bytes": 2216230,
+      "sha256": "d2287585604c39b2d4797d4ef340e2e1afc9295c62e3267d77f11e643d78e967"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/video/r15-p3 - version 04.mp4",
+      "repo_path": "paintings/r15-p3/video/r15-p3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4406861,
+      "repo_bytes": 4406861,
+      "sha256": "af708a6b4b88a97fd55a9aa3e8d18bf9600e277fa8b9517b48c78ab2050c0d69"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/video/r15-p3 - version 05.mp4",
+      "repo_path": "paintings/r15-p3/video/r15-p3 - version 05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4485773,
+      "repo_bytes": 4485773,
+      "sha256": "7145271ac4008e3ca7c523e3741e99badf447911c2ad665da1a85d4aa39473a3"
+    },
+    {
+      "archive_path": "2026-09-26 r15 Morning on the Baltic shore (Claude Opus 5.5)/video/r15-p3.mp4",
+      "repo_path": "paintings/r15-p3/video/r15-p3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1559973,
+      "repo_bytes": 1559973,
+      "sha256": "0fa8bf205faab8d4a727853e5e2a6a82d52a2406cb9df6e9c62dfcc02b878704"
+    }
+  ]
+}

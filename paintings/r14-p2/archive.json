@@ -1,0 +1,96 @@
+{
+  "archive": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)",
+  "identity": "r14-p2",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/finals/r14-p2 - version 02.png",
+      "repo_path": "paintings/r14-p2/finals/r14-p2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6444775,
+      "repo_bytes": 6444775,
+      "sha256": "24767f744d263508e1450848a0a1ff8a2b5553e5c22eaa6815a6bd0e9bd76a7e"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/finals/r14-p2 - version 03.png",
+      "repo_path": "paintings/r14-p2/finals/r14-p2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4409737,
+      "repo_bytes": 4409737,
+      "sha256": "7bdf2c173d8d6126ffdfef342e9063e9ddbb52f718304b7ca474852ac6c5db61"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/finals/r14-p2.png",
+      "repo_path": "paintings/r14-p2/finals/r14-p2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5154038,
+      "repo_bytes": 5154038,
+      "sha256": "ec5ed26de83b7ea4653f7ebf9d769604b52805f7a4f59fb358437da74ad7d761"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/finals/v21.jpg",
+      "repo_path": "paintings/r14-p2/finals/v21.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 146380,
+      "repo_bytes": 146380,
+      "sha256": "8fb652d4b41bd2917f3619d730ede02a50459f30449d17e038a3c34872b9f6af"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/sessions/2026-09-25T23-36-40-739Z_5318755e-fca46a7a-55da3ab6-3d38.jsonl",
+      "repo_path": "paintings/r14-p2/sessions/pi/2026-09-25T23-36-40-739Z_5318755e-fca46a7a-55da3ab6-3d38.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9173195,
+      "repo_bytes": 827033,
+      "sha256": "118dbbb8a0e9b356dea7d5d9ef0140710d9182ab90cc63667391a4553b7ac688"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r14-p2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 356942,
+      "repo_bytes": 352293,
+      "sha256": "42130ec6e88bfe7c684ab2882e58623e07f1b5c3ec1f2ec464670a173d7e36d9"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/video/r14-p2 - version 02.mp4",
+      "repo_path": "paintings/r14-p2/video/r14-p2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1746341,
+      "repo_bytes": 1746341,
+      "sha256": "c0ffca2cb4139199335f4e54aad7b57cb57d693c0b2f3a329870df5a9a57d8e6"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/video/r14-p2 - version 03.mp4",
+      "repo_path": "paintings/r14-p2/video/r14-p2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2736742,
+      "repo_bytes": 2736742,
+      "sha256": "b8e7ed3620456f50ac04ba915da68c4be6fa539b006aae233fd755641cc58a4e"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/video/r14-p2 - version 04.mp4",
+      "repo_path": "paintings/r14-p2/video/r14-p2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2932802,
+      "repo_bytes": 2932802,
+      "sha256": "c1b9564ac27008713ab906e6605ef23de455e5ff8850f96185986b54f076c9e3"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Evening over the flat country (Claude Opus 5.5)/video/r14-p2.mp4",
+      "repo_path": "paintings/r14-p2/video/r14-p2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6792825,
+      "repo_bytes": 6792825,
+      "sha256": "fcd2221e7bcd93e8fa90ab36f068332219fc51deb1842c510637319888a3b35f"
+    }
+  ]
+}
