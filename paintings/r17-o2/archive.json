@@ -1,0 +1,357 @@
+{
+  "archive": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)",
+  "identity": "4fb403",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/finals/r17-o2 - version 02.png",
+      "repo_path": "paintings/r17-o2/finals/r17-o2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8371207,
+      "repo_bytes": 8371207,
+      "sha256": "ccac004e2185cd8aaac8540e254403dca8b1d8ddb2a702d59cd43d7cf44ccc71"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/finals/r17-o2 - version 03.png",
+      "repo_path": "paintings/r17-o2/finals/r17-o2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5967049,
+      "repo_bytes": 5967049,
+      "sha256": "4e877bc8f3b5ec9da64462b7638f76121406ae9a4603be54c686605c55966b70"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/finals/r17-o2.png",
+      "repo_path": "paintings/r17-o2/finals/r17-o2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3635667,
+      "repo_bytes": 3635667,
+      "sha256": "08e160a178d21432675222c7552e9e8f232a34049a3839b057dfe63da1d2b154"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/O2_finished.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/O2_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 57611,
+      "repo_bytes": 57611,
+      "sha256": "1767dc5629dfa78abe76cc341a435a55b5138df61ecc94a4adb4a5b53d211b0f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/lip2.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/lip2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 259,
+      "repo_bytes": 259,
+      "sha256": "acd60693d15d33c1f04202f32758ceb5ead53b825f15409e5029f1285009c8ab"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/lip3.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/lip3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 261,
+      "repo_bytes": 261,
+      "sha256": "34c791d7bb65b397a0a6beff94412bb63c052ad125cbf2a670d79a54decf771c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/p.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/p.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 851,
+      "repo_bytes": 851,
+      "sha256": "8b58e7d78a0cbdf31ab0412451b4337b5746c56522e997445a11b54b13f1760f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/p2.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/p2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 609,
+      "repo_bytes": 609,
+      "sha256": "183e67e2d859bbcb05e86b45a232428e2c939daedbfeadfd6eee702c4d7ad4e9"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/p3.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/p3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 751,
+      "repo_bytes": 751,
+      "sha256": "7c69fc040baa83bbbd1f73a5e171224ff4fb5337aecb5be0e8f4e1f2c12fa5fb"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/p4.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/p4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 590,
+      "repo_bytes": 590,
+      "sha256": "96ac3bfa7df0a5d15618449480a2641b3e032d332a2f86cb14bfd0129a42ac8d"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 57193,
+      "repo_bytes": 57193,
+      "sha256": "3ed3fc0273ad923500ed43ec3a63b608373874a15ba56f3768472f9f90f2a027"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/r17-O2-3.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/r17-O2-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2306,
+      "repo_bytes": 2306,
+      "sha256": "c9ef38bb8470647e34cd204870955b96c9de1f58e7a4331b5a4e16992cb3531e"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/lua/sh.lua",
+      "repo_path": "paintings/r17-o2/lua/archive/sh.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 401,
+      "repo_bytes": 401,
+      "sha256": "0574204a0a552d834e41a38a28f3e806da069c1a60f239e95e163524f8a972f7"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/2026-09-27T11-40-44-142Z_01a0e2aa-deee-71bf-9d95-94bd4be89219 - version 02.jsonl",
+      "repo_path": "paintings/r17-o2/sessions/pi/2026-09-27T11-40-44-142Z_01a0e2aa-deee-71bf-9d95-94bd4be89219 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1617521,
+      "repo_bytes": 1390519,
+      "sha256": "cb4443469b187bde2cc1581e96f4cdceeeaae4b19c857d274318093bc8303663"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/2026-09-27T11-40-44-142Z_01a0e2aa-deee-71bf-9d95-94bd4be89219.jsonl",
+      "repo_path": "paintings/r17-o2/sessions/pi/2026-09-27T11-40-44-142Z_01a0e2aa-deee-71bf-9d95-94bd4be89219.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 33181720,
+      "repo_bytes": 1397945,
+      "sha256": "c3956ba2d91f59f4da5c46232455a61cfd0a76892b3e26ff30d4e15ebac6dda2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/2026-09-27T12-12-41-459Z_01a0e2c8-2072-768f-be36-2b11d5670536 - version 02.jsonl",
+      "repo_path": "paintings/r17-o2/sessions/pi/2026-09-27T12-12-41-459Z_01a0e2c8-2072-768f-be36-2b11d5670536 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5819268,
+      "repo_bytes": 99503,
+      "sha256": "f6b1e97e81717ac108795a6fdd17e39d821c1f7d340c6df00bd4d9dfde6031e5"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/2026-09-27T12-12-41-459Z_01a0e2c8-2072-768f-be36-2b11d5670536.jsonl",
+      "repo_path": "paintings/r17-o2/sessions/pi/2026-09-27T12-12-41-459Z_01a0e2c8-2072-768f-be36-2b11d5670536.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 136634,
+      "repo_bytes": 98123,
+      "sha256": "e7b8706a494edd4a892b71b57e1f1339c309222eeb055da7872a9fc68bd6f2d2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/2026-09-27T12-27-51-330Z_01a0e2d6-02a1-7606-b7cb-264ae9cc3fcb - version 02.jsonl",
+      "repo_path": "paintings/r17-o2/sessions/pi/2026-09-27T12-27-51-330Z_01a0e2d6-02a1-7606-b7cb-264ae9cc3fcb - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 121219,
+      "repo_bytes": 91269,
+      "sha256": "c62e520747e6d3d8b9e96932087b934052032bdb55a220efe66557bd9cf7d686"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/2026-09-27T12-27-51-330Z_01a0e2d6-02a1-7606-b7cb-264ae9cc3fcb.jsonl",
+      "repo_path": "paintings/r17-o2/sessions/pi/2026-09-27T12-27-51-330Z_01a0e2d6-02a1-7606-b7cb-264ae9cc3fcb.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3185272,
+      "repo_bytes": 92059,
+      "sha256": "022341ec91ffb9879dde9be309cc7e67afb4010fa553d3dde3c977e617c7468c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/2026-09-27T12-42-06-381Z_01a0e2e3-0ead-7315-8370-b6cc42f4b806 - version 02.jsonl",
+      "repo_path": "paintings/r17-o2/sessions/pi/2026-09-27T12-42-06-381Z_01a0e2e3-0ead-7315-8370-b6cc42f4b806 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 138546,
+      "repo_bytes": 113111,
+      "sha256": "09c75449d39f1f3ec546dcf8a44cb7e804e539f9706d04f0215a260a0b479a45"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/2026-09-27T12-42-06-381Z_01a0e2e3-0ead-7315-8370-b6cc42f4b806.jsonl",
+      "repo_path": "paintings/r17-o2/sessions/pi/2026-09-27T12-42-06-381Z_01a0e2e3-0ead-7315-8370-b6cc42f4b806.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4170552,
+      "repo_bytes": 114138,
+      "sha256": "f5da6025560ba2366fa7a6b543b06b3fd3b130c650bbb56545a2d9413d4344d5"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 259455,
+      "repo_bytes": 251998,
+      "sha256": "ccdd3f6a218ecaa508a6a11049fcc6409a1ec1d7d23a0cef28d1c444e88acb8a"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 266810,
+      "repo_bytes": 252006,
+      "sha256": "81003c6ffcc1d0b96dda6b4a0942be1bbaae026ad47bfb1a46a511abc02f9dac"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 256982,
+      "repo_bytes": 249922,
+      "sha256": "2d0304e408c191f466aa5d8bab0995d6f6bb455493608379132b122db6a03af2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 272300,
+      "repo_bytes": 251998,
+      "sha256": "ccdd3f6a218ecaa508a6a11049fcc6409a1ec1d7d23a0cef28d1c444e88acb8a"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 264337,
+      "repo_bytes": 249930,
+      "sha256": "b27e069a96cd00b624d66acd38890119d920f935a5b08a597bb62f52c0aa72c5"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/events - version 07.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 259455,
+      "repo_bytes": 251998,
+      "sha256": "5289bd43cb5c0eff438cff87f2af0fb471b7c3a65efa52786b012cb8db844d9b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/events - version 08.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 264259,
+      "repo_bytes": 249864,
+      "sha256": "e34b090b58e9ac75c39420c5b31208f84e351395f60cd098f832c4b8370bc8de"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 256904,
+      "repo_bytes": 249856,
+      "sha256": "d4fa1affc5daadcbe1da691987cd5d15cbacde5d6f860b1a6ad7fb28c9b3c0d8"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r17-o2/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13855,
+      "repo_bytes": 11680,
+      "sha256": "7448a1017216dffd21e8f00ad04aa5a55ba01e4d5271540703a76b1e7b6aa098"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2 - version 02.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 337639,
+      "repo_bytes": 337639,
+      "sha256": "656cd2e61d900aa3c02dc9e396902a4cb54b457b07c4067495b3c2c5923924e2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2-1920 - version 02.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1062444,
+      "repo_bytes": 1062444,
+      "sha256": "21f3b1da1ac96c843e4d257c9084717094658f6c05a3fbc0c7bc19560edb351e"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2-1920 - version 03.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 955842,
+      "repo_bytes": 955842,
+      "sha256": "eb1e89abce790f50ef809625d690a2eeb163349746efe733cb85567a6d22e609"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2-1920.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1065572,
+      "repo_bytes": 1065572,
+      "sha256": "54c98c47d6157a40316943142d3b72dfb13cd437a6adf6968181a151adef6218"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2-720 - version 02.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 209907,
+      "repo_bytes": 209907,
+      "sha256": "0807e86b8ed163ce21634ea11f6811015f26399e7cc550a129185201d050f697"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2-720 - version 03.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 232884,
+      "repo_bytes": 232884,
+      "sha256": "ba74f1c51b0ae6095a2819ddbe351d292819f347c4339427a09166c8926a644d"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2-720.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 229756,
+      "repo_bytes": 229756,
+      "sha256": "c435afb1d56a60519e960f9a8c21f5ad8c23a9bc695a0ae60be9deeaffd75ba5"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2-social-1920.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1087869,
+      "repo_bytes": 1087869,
+      "sha256": "0020bd5ea56e3000a28b2c6cccb7e97ec748ebdacf9391d073545f47dc827985"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Low Water, Evening (Claude Opus 5.5)/video/r17-o2.mp4",
+      "repo_path": "paintings/r17-o2/video/r17-o2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 340767,
+      "repo_bytes": 340767,
+      "sha256": "cf53ba4527f118a5ef2fde3330890062ea322aea21950ade385a046c7b58d6ac"
+    }
+  ]
+}

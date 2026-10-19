@@ -1,0 +1,1050 @@
+{
+  "archive": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)",
+  "identity": "358aea",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/finals/r17-f3 - version 02.png",
+      "repo_path": "paintings/r17-f3/finals/r17-f3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9468267,
+      "repo_bytes": 9468267,
+      "sha256": "f02ec821b9993d0f1e04e2e3a3372ef16d1189d3bca2d68e0a7bc25a6affffcf"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/finals/r17-f3 - version 03.png",
+      "repo_path": "paintings/r17-f3/finals/r17-f3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6983486,
+      "repo_bytes": 6983486,
+      "sha256": "9df2d85cf553a1a36d5702986050a3064ca3dab7d50878f5dd66285704d88c23"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/finals/r17-f3.png",
+      "repo_path": "paintings/r17-f3/finals/r17-f3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4519113,
+      "repo_bytes": 4519113,
+      "sha256": "6ddcb9828e2981ee26b2a0a92a65ceee309bef81958a492046696f0432c6f540"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/F3_finished - version 02.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/F3_finished - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 162158,
+      "repo_bytes": 162158,
+      "sha256": "c5ee197fba5f27764e762967c5a4d195259f671b529f996aa1adefec447bc069"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/F3_finished.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/F3_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 154270,
+      "repo_bytes": 154270,
+      "sha256": "a26b44523dc795de24538d8b998d65b525c62e46880e7eb234030a2b882c2aaf"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/band.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/band.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 940,
+      "repo_bytes": 940,
+      "sha256": "fdef43fcb91c4eae329c80d91c6b609af72a6e59f494ad70be78503b3f8dfcda"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/birds.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/birds.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 772,
+      "repo_bytes": 772,
+      "sha256": "21ad2c158d0f3de70d7ed7191d2586b0b180e791791dc1e7ce0eb11123275184"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/clean.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/clean.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1177,
+      "repo_bytes": 1177,
+      "sha256": "68dac3e3b2b53cc7c2839bd1222a7a33e8340572670b7c6d08685cd72cfe899c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/coat.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/coat.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 996,
+      "repo_bytes": 996,
+      "sha256": "90f54e079495cc7b7d5ba3bfeb1c549094e0f8fa744417248dcdb4eb2c7ab201"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/cover.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/cover.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1363,
+      "repo_bytes": 1363,
+      "sha256": "ddfa6c821d2932475aa8765d0e4a75905a528beb3f268cacdbe6a5a43c6ce6ab"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/coverh.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/coverh.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1094,
+      "repo_bytes": 1094,
+      "sha256": "987881a3dad2a7c55c2360da2ac94577dffdc437e59ef777690b5e1d262b85aa"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/encroach.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/encroach.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1286,
+      "repo_bytes": 1286,
+      "sha256": "d20ef9799492c24fd020eb7ea7c3eb08b5b1e4dc59dd99029035c456093741c2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/far2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/far2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1969,
+      "repo_bytes": 1969,
+      "sha256": "b11c5e03a39d1db18637ca1bd975ffcaed95cdac99a7ff4ec053d658f551f5fd"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/fence.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/fence.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2342,
+      "repo_bytes": 2342,
+      "sha256": "72bd80b9da5f497684b0569b7c878e1447c9bbcc36610ddec685c3a1f7d3b716"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/fg1.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/fg1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 557,
+      "repo_bytes": 557,
+      "sha256": "ccd5827ec2f9e1f096e9478ef07f4aaee9eb44245a0b7d9af1165d814d2ec0eb"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/fgglaze.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/fgglaze.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 457,
+      "repo_bytes": 457,
+      "sha256": "085d9555b1b2a5c20e251e2adc67278b0038858d335cced415dcd609f6bfc8da"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/fig.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/fig.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3350,
+      "repo_bytes": 3350,
+      "sha256": "a31e606470932f771e991624cc8a03ddb66b1ac1c67a5e9ff4804200007fe42d"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/figfix.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/figfix.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1477,
+      "repo_bytes": 1477,
+      "sha256": "3722372e98ae8a533aca23434a7e08a8dd294ee72607e3aa8e52b60161251c62"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/figsh.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/figsh.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 714,
+      "repo_bytes": 714,
+      "sha256": "563b6e07dd8d7ae729df4d05ca75a8b15c53f0fd33e560167e9ed520e8cebdc2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/fix1.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/fix1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 624,
+      "repo_bytes": 624,
+      "sha256": "ca7adb4c7064d3a5a79f791f2a9e63342f43f829517cbd5570e96ecb2c4bd485"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/fix2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/fix2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1277,
+      "repo_bytes": 1277,
+      "sha256": "7d4db5eeca51b53402553fe0a49e416edc79dcfe86020a974bd8cc6d6c997870"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/fix3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/fix3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 512,
+      "repo_bytes": 512,
+      "sha256": "46ab93eebcd00231e2e85a875bc6a37179944c18e9dbe22e09cebfa987dac490"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/flowers.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/flowers.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2480,
+      "repo_bytes": 2480,
+      "sha256": "37029c0564f72bf06d880a4219b38f021700c491ab991893b0f57757b8e81c7a"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/fringe.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/fringe.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1058,
+      "repo_bytes": 1058,
+      "sha256": "8e50216946a0a94ecad5b1db77894de2878ae7b1c604ae474cb5154dfdb3c420"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/gaps.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/gaps.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1236,
+      "repo_bytes": 1236,
+      "sha256": "a73191faa3ed042f3fa7d16fcd0c161d14998734c0d0b1c0aaecc15a5fbc68bd"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/gaps2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/gaps2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1013,
+      "repo_bytes": 1013,
+      "sha256": "d8082abd62fef9691dcdc3a332d88fbc5b3c3ce6a13d6c8c4c712f69ca9fc0d0"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/grass5.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/grass5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1519,
+      "repo_bytes": 1519,
+      "sha256": "121294015cb49e6671ed1365a6ad2dabfa9e3743da0e4772be4e5c22b63c2220"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/grass6.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/grass6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 671,
+      "repo_bytes": 671,
+      "sha256": "19e20fc6bb097d5f6c24b1db0ed3d1b161ea27074087a48b4ca9e7c4736bca80"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/horse.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/horse.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2366,
+      "repo_bytes": 2366,
+      "sha256": "604f77085358d0e16c3fdeea455f36dce1992e998a43fad60be5e2bc0a99e2d4"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/horse2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/horse2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1943,
+      "repo_bytes": 1943,
+      "sha256": "4c1e2c6f6497c3601f0c8a68121c89becd46fb6ab7da58f760b0c52611b439b2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/horse3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/horse3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3058,
+      "repo_bytes": 3058,
+      "sha256": "d8cd17065083612dee9000863342a70ce240c4c756f24efa7d0e92ba80e73c96"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/horse4.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/horse4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1577,
+      "repo_bytes": 1577,
+      "sha256": "daf2ec89cdc883ef1ac087304b5a9fbd83ca73e9488f6224c1d0814791a4ff5d"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/land1.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/land1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1594,
+      "repo_bytes": 1594,
+      "sha256": "b0ac611bdfb73e38127b054dbd2c3983c917927e438e789da23502a8c5328cae"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/leftgrass.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/leftgrass.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 885,
+      "repo_bytes": 885,
+      "sha256": "ee167fbe215baa3e86226e3633a842b50be10f2f4deb84795c644cb675960668"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/line.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/line.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 381,
+      "repo_bytes": 381,
+      "sha256": "745ed3de15bbf7314333505023dd25b3272375edbc34df2b1eacdeff52542fda"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/meadow1.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/meadow1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1243,
+      "repo_bytes": 1243,
+      "sha256": "f0ceda38a9d1d8c22fdd3e7f40c5f6a5ae55e13035eaad500d367c5413b58762"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/meadow2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/meadow2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1497,
+      "repo_bytes": 1497,
+      "sha256": "3b34bf9ff57b74c1b606a36480234c96ce8b18de727d453b7899dc1a82c773db"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/meadow3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/meadow3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1733,
+      "repo_bytes": 1733,
+      "sha256": "72fcc66d0c1c15fd6401b39f5770d5aaed603e7526eadb629bb89c975dd3ddd7"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/meadow4.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/meadow4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 610,
+      "repo_bytes": 610,
+      "sha256": "cf3125d5b5130134d1e2f69408289a4a194e312fc14ec985cbd76972b3e6f1e2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/meadow7.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/meadow7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1192,
+      "repo_bytes": 1192,
+      "sha256": "b97d590e6159625f8409ff6ded84016df4d6863bdc8a321e74ba9cc8f555cf16"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/mid1.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/mid1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1691,
+      "repo_bytes": 1691,
+      "sha256": "60bc141b39b6eb88af4816c41793ddc5c45bf0cd42056424b19e7811bca48b6c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/mill.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/mill.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1955,
+      "repo_bytes": 1955,
+      "sha256": "9a044a26eea894fc1a58e049382ce73fddbdb4f8b0e57d678c310db19c5d3453"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 153852,
+      "repo_bytes": 153852,
+      "sha256": "76c5a32a460ad56a24189f6b405b8e629e2bdde504a207760cb62b8764e5c9c5"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 161740,
+      "repo_bytes": 161740,
+      "sha256": "9989d827a3b95da4fadd7bc98496446f2eb9281e52b45e09c6cdc7089a78b986"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/path.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/path.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1315,
+      "repo_bytes": 1315,
+      "sha256": "4beeb507ce6b7002196174d53a75cc89d1f68c3dcd4f443cff57ce9de76fb555"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/path2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/path2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1083,
+      "repo_bytes": 1083,
+      "sha256": "012e66f3dcebbca6c202d3e7da013ec25c42b24b7899266f665a793e871c50be"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/path3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/path3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 847,
+      "repo_bytes": 847,
+      "sha256": "3e8f33e36d9a96dfaac8786417df4c802deb500ab1275cc0e6f155a10fe7e189"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/path4.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/path4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1306,
+      "repo_bytes": 1306,
+      "sha256": "3d4f54bff79bf79e24abe8da96a519d2c395a7f31bfecf0b9dad6a9351347a43"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pathdet.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pathdet.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1955,
+      "repo_bytes": 1955,
+      "sha256": "e47c5adc9bd569202f8c0360f7cd834b1ef6cb1b16eefa5de6a9817a0fe4484e"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pathglaze.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pathglaze.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 496,
+      "repo_bytes": 496,
+      "sha256": "da3152a14314ee5dc6ffc5265ab7355602c8900b186629c8b23dfabb392cf929"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pw1.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pw1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2085,
+      "repo_bytes": 2085,
+      "sha256": "71fd610ac6d609aa9116f83cdb72f361f51b35640fcc7305038f7055923c12cb"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pw2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pw2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1377,
+      "repo_bytes": 1377,
+      "sha256": "493066d3be1e85e2ebe7358dc21e66cc21114ed4d9c24aefbe125bc35895080b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pw3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pw3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1370,
+      "repo_bytes": 1370,
+      "sha256": "d616fd35b8acd58871f3115a4866eb71914730a3c001b81956265db9a539d42b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pw4.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pw4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1309,
+      "repo_bytes": 1309,
+      "sha256": "038d2575f96f2ac75bc66604a25314a0a5d1664b2e2d1bf5322392bc06cb5e65"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pw5.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pw5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2320,
+      "repo_bytes": 2320,
+      "sha256": "3025c4c637cc31a08226a1a11b2d1e65a555bbc1bf4f6e3ee78e35abfc6d3624"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pw6.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pw6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1868,
+      "repo_bytes": 1868,
+      "sha256": "31888e6b0638eb53b45b0b8c8478a932093debf692cb6904612c190e83043282"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pw7.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pw7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1531,
+      "repo_bytes": 1531,
+      "sha256": "15b3cf833a89cc6ff5ad6aa6c986c0daf974bea8c71c2dd2bd1f9fae0efd65c2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/pwshadow.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/pwshadow.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1538,
+      "repo_bytes": 1538,
+      "sha256": "5a52627ce2425ce914ecdb2518a96570f28ad1d960d319effa31af1d12c6b0b4"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/railfix.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/railfix.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1328,
+      "repo_bytes": 1328,
+      "sha256": "e8df757b7bc326c6e13149340a7f56bf6d437deb140cc3817e5868c7a203755b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/rise.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/rise.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2725,
+      "repo_bytes": 2725,
+      "sha256": "64fd68567fe3244c3e4937d6a8153f6ee20ffcde113edc54c71fc2070d48334b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/rise2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/rise2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 868,
+      "repo_bytes": 868,
+      "sha256": "a97911c0b942d774fa63d0064251654e0073762ec9d898fec678a96887065923"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/rise3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/rise3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1071,
+      "repo_bytes": 1071,
+      "sha256": "7b0009868e4701cb763c600e024f0be23efd7c94914f9c305041ecdeb2feea5b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/rise4.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/rise4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1092,
+      "repo_bytes": 1092,
+      "sha256": "b26d46e0714752062ca6cc31db0c00a6ec088f739bfe98dd48d909a54d3fb2b4"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/river2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/river2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1217,
+      "repo_bytes": 1217,
+      "sha256": "559ab0f367e70dc7a62b2fd42da234d43c0c9de393b15f439ca6919a06da5c9e"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/rods.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/rods.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3027,
+      "repo_bytes": 3027,
+      "sha256": "700ed6c1e8d4f64cd298ce9f51ce0585780a4bb282bbea47b4517066deeafb25"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/shoots.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/shoots.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1850,
+      "repo_bytes": 1850,
+      "sha256": "ad3dc0c1950cc49feff50960307a8f53fa675933cd115d10860d914ea2791f2e"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/shore.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/shore.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 547,
+      "repo_bytes": 547,
+      "sha256": "fa7b1683855ba40e0470f5e3d12b44b6ecd37fbba92aa8df99dd3f628735b514"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/strip.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/strip.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 618,
+      "repo_bytes": 618,
+      "sha256": "da47583bbee3ab2a7c60fb366953bc882f7143ecf22a6bbca7bdfb8bea61a4da"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/tglaze.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/tglaze.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 628,
+      "repo_bytes": 628,
+      "sha256": "0d70c6f6d666db168867100b7bff67b16315438c18e88e046c9fb16b90b57494"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/town.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/town.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2093,
+      "repo_bytes": 2093,
+      "sha256": "d6a71cc10ea7f2a8988e255dc1d952f49212f91591d1cbfd5c7f3d367eda3c2d"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/town2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/town2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2316,
+      "repo_bytes": 2316,
+      "sha256": "2b90a287bcae527b2b6ca2b518eaa01fda6708e531799261cdda22304e7c782e"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/trfin.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/trfin.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2396,
+      "repo_bytes": 2396,
+      "sha256": "a7b7d8af64d04a66666132a1a76325a7dbb62feea0c4304ff00c4903f8ab2c81"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/trunk2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/trunk2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1377,
+      "repo_bytes": 1377,
+      "sha256": "9e66852342b0a274d7b6fe37e976dda8020dcfbee0a9e71460a74998408b0e95"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/trunk3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/trunk3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 819,
+      "repo_bytes": 819,
+      "sha256": "63ec19204af12f215e1dc4ae7cdc226d00e58772c603426631f7324d62bdfe72"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/trunk4.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/trunk4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 828,
+      "repo_bytes": 828,
+      "sha256": "e6599d4e1db69e15fe09c45fd167de23ac0278abb0c931a1bb13ddbb46f1c133"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/trunk5.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/trunk5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1709,
+      "repo_bytes": 1709,
+      "sha256": "02c5798c8ba2fecf5d67615e91f421b0d6c7924aaf6aed160421539703f08181"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/trunks.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/trunks.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2788,
+      "repo_bytes": 2788,
+      "sha256": "a3bb3d50caf7e3dc6e48e25a511a82233127e06b501244979d9dcbd3669849fd"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/trunks2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/trunks2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2053,
+      "repo_bytes": 2053,
+      "sha256": "0702f7d980b11d0859a0e558f7fe104db732372d10d45094baf6e7dfb60eaee9"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/tufts.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/tufts.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2604,
+      "repo_bytes": 2604,
+      "sha256": "20bc055a6d98c4235a07afbaf1e6a1af61db6faebc206ed888be3e4ab6bd3198"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/umbels.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/umbels.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2080,
+      "repo_bytes": 2080,
+      "sha256": "d933f075d17f811698b5207b2cabd850e7ee32f980ab552a9abc17f2e1995db2"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/umbels2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/umbels2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1059,
+      "repo_bytes": 1059,
+      "sha256": "09519878e4f78612c85f131e883305bc41bae334a5ba9d0906a23f46e4952d5c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/umbels3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/umbels3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2064,
+      "repo_bytes": 2064,
+      "sha256": "c1d002db5561c27b4ec2a650c02d921d5a1560a234049b0bd103143ece839dea"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/umbels4.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/umbels4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 891,
+      "repo_bytes": 891,
+      "sha256": "d36429613e879e2e55c952599f4558dc8c2003771e55219bb203156c1f76887f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/willow1.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/willow1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2169,
+      "repo_bytes": 2169,
+      "sha256": "252d507ee8baf430f85eec949ca8f3dc135654b0bd789b7dabed0b8c2afc35d4"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/willow2.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/willow2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1484,
+      "repo_bytes": 1484,
+      "sha256": "837ee5bfdc914e7bb06fee8de51433c8ad1fe1ff7f311927617e949a7e39b1a6"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/willow3.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/willow3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1831,
+      "repo_bytes": 1831,
+      "sha256": "b25ca2c908abdce56c410312bf0f3e1a80b010b737af9fd18eadaf18bccdaa8a"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/willow4.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/willow4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1844,
+      "repo_bytes": 1844,
+      "sha256": "e53a5413d4a83a6057da5051fa33d6c04ca530ef3dec1d6c70fe3fdd2d824f81"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/willow5.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/willow5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 509,
+      "repo_bytes": 509,
+      "sha256": "e7e015a21b4b2c6f724ef79988b9a643b3a0d531696d01f3a1cdfb66bfa646d3"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/willow6.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/willow6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1154,
+      "repo_bytes": 1154,
+      "sha256": "c9c4547e17e98ca8cfa13ad54c6a57147dc53e3243781c859039073647965836"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/willow7.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/willow7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1635,
+      "repo_bytes": 1635,
+      "sha256": "e9d92f644358b016127dc8d1907612964a867aa2242247c67359882602e9cec6"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/lua/willow8.lua",
+      "repo_path": "paintings/r17-f3/lua/archive/willow8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1581,
+      "repo_bytes": 1581,
+      "sha256": "efcf0c6ba250dd05617689340db99b39966f8ae0f138eaba63f43b6a44fc75ba"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/2026-09-27T15-26-54-915Z_01a0e379-f1be-76b4-bf53-eedb9a333b0e - version 02.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/2026-09-27T15-26-54-915Z_01a0e379-f1be-76b4-bf53-eedb9a333b0e - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 62029387,
+      "repo_bytes": 2547073,
+      "sha256": "00fae4d77996e183bc8874bbb9e839073ac600479c7ea474478193f7210eac2d"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/2026-09-27T15-26-54-915Z_01a0e379-f1be-76b4-bf53-eedb9a333b0e.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/2026-09-27T15-26-54-915Z_01a0e379-f1be-76b4-bf53-eedb9a333b0e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2909525,
+      "repo_bytes": 2534953,
+      "sha256": "0ae626562cbf0a102436a639fb008563ad16bf07a4e5689068c530358730e31d"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/2026-09-27T16-18-27-996Z_01a0e3a9-241b-725c-b9e8-2599d738d12e - version 02.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/2026-09-27T16-18-27-996Z_01a0e3a9-241b-725c-b9e8-2599d738d12e - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 21954101,
+      "repo_bytes": 447497,
+      "sha256": "4decc5c50e77df9af23b79ac6ded2a8ccef8be7451c399979d72351f43898664"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/2026-09-27T16-18-27-996Z_01a0e3a9-241b-725c-b9e8-2599d738d12e.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/2026-09-27T16-18-27-996Z_01a0e3a9-241b-725c-b9e8-2599d738d12e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 564342,
+      "repo_bytes": 443861,
+      "sha256": "d2716f2141816136aea3820469a8fbd57756fb15d06c6f9b1673cf4d9b5a48a3"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/2026-09-27T20-30-25-918Z_01a0e48f-d27e-7470-81a0-de6e0824e23e - version 02.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/2026-09-27T20-30-25-918Z_01a0e48f-d27e-7470-81a0-de6e0824e23e - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 164817,
+      "repo_bytes": 131493,
+      "sha256": "68558108487335ff028b9f7e6da91d04b24e1807f72899d6e2b07c9145c7153a"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/2026-09-27T20-30-25-918Z_01a0e48f-d27e-7470-81a0-de6e0824e23e.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/2026-09-27T20-30-25-918Z_01a0e48f-d27e-7470-81a0-de6e0824e23e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5073891,
+      "repo_bytes": 132725,
+      "sha256": "f267dac8598d0ce238dac54a32fcc550c2ab6dc8e623c6c8cb26e48bfde2953a"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/2026-09-27T20-46-24-489Z_01a0e49e-72e9-72c6-929c-caab3096f4bf - version 02.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/2026-09-27T20-46-24-489Z_01a0e49e-72e9-72c6-929c-caab3096f4bf - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3092085,
+      "repo_bytes": 95347,
+      "sha256": "b96eb6a18c511f14663c94d1b8776308954439c0d465999ea39f81390ae6a184"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/2026-09-27T20-46-24-489Z_01a0e49e-72e9-72c6-929c-caab3096f4bf.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/2026-09-27T20-46-24-489Z_01a0e49e-72e9-72c6-929c-caab3096f4bf.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 118379,
+      "repo_bytes": 94539,
+      "sha256": "4ff860c84ab9b87487711e229322e28b7c0ba86258eed842fbe725aa67be125a"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/session.jsonl",
+      "repo_path": "paintings/r17-f3/sessions/pi/session.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 21970507,
+      "repo_bytes": 460165,
+      "sha256": "65f73a819c711f5c03d63c74a1def507607fee352c29d403c4ce3ee7d3c07208"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r17-f3/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 510330,
+      "repo_bytes": 481331,
+      "sha256": "66b1f9b509c6c9c646133702db0520f2a2fecbbba653f9506becaba6172fbfbb"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r17-f3/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 495025,
+      "repo_bytes": 484187,
+      "sha256": "b6870407978179df2453405e2850b3f73c301f701c8217f0b677fe876195a9e8"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r17-f3/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 513735,
+      "repo_bytes": 484193,
+      "sha256": "e11039bcf1160e4a39f1b7780c92dbec3a77144468875f1e97c7a5384e5d997e"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r17-f3/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 510382,
+      "repo_bytes": 481375,
+      "sha256": "b1fb941e263929a473e416c8f1730559d777de3da990dbaa034a35334a8b0259"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r17-f3/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 495025,
+      "repo_bytes": 484187,
+      "sha256": "7b08ab521dfff2867f2304758cebd46f21abb9cb0d3ce46256bad40d07f89cc5"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/events - version 07.json",
+      "repo_path": "paintings/r17-f3/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 491620,
+      "repo_bytes": 481325,
+      "sha256": "b201374320ea64f62954770273b35b914f834821fc834722bf74e610739509cf"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r17-f3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 491672,
+      "repo_bytes": 481369,
+      "sha256": "c5d0c8dc08c6257ee3d3678e367136eb9f23cf03fe52d5a585bb15f0afee1a1f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3 - version 02.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 826794,
+      "repo_bytes": 826794,
+      "sha256": "fbc2e368707d455ae50571b5fe9832f8130c6b894ba9a102777083fec69472db"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3-1920 - version 02.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2759713,
+      "repo_bytes": 2759713,
+      "sha256": "920da4c713656f1183886a9d0e78ecd754efcbb9dc0335707d4679702a73065a"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3-1920 - version 03.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2994482,
+      "repo_bytes": 2994482,
+      "sha256": "5d9f591d2563a6db63bdfd573445b58cbbe25826c9112a32f9992c0a0ab949a3"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3-1920.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2991354,
+      "repo_bytes": 2991354,
+      "sha256": "4ebae30104577363f7c4ac52957ec6e9c395033e006d95ef6ffb6cf814ad73af"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3-720 - version 02.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 523912,
+      "repo_bytes": 523912,
+      "sha256": "2dee7085716a34560254d2e8d6f21d3bea2d00d10c73f170b418355abe723e18"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3-720 - version 03.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 527040,
+      "repo_bytes": 527040,
+      "sha256": "b9cb8e737bbf1b2e67216adb69693a9277dbfd3d7e175ee66b63dd729be8c2b9"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3-720.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 460768,
+      "repo_bytes": 460768,
+      "sha256": "b6358c2dc59a9477e227ee6b1363a1f672015ba4619fafc7c849ec97f0c0a6df"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3-social-1920.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3090059,
+      "repo_bytes": 3090059,
+      "sha256": "7af6366eefe85ad499176e1d1d5964ea4eb04c6d2caff8f013b61a994c9779ab"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Morning on the Ryck Meadows (Claude Opus 5.5)/video/r17-f3.mp4",
+      "repo_path": "paintings/r17-f3/video/r17-f3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 823666,
+      "repo_bytes": 823666,
+      "sha256": "88e6071a7234c7cfe8c35e8aaf9e80038af053cee3f4059913db260b28773f5a"
+    }
+  ]
+}

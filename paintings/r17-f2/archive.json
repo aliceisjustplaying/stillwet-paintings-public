@@ -1,0 +1,465 @@
+{
+  "archive": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)",
+  "identity": "497bcf",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/finals/r17-f2 - version 02.png",
+      "repo_path": "paintings/r17-f2/finals/r17-f2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4988542,
+      "repo_bytes": 4988542,
+      "sha256": "fd594558e6280acc65251095db694671b65eb9681bec2160776f9c56303a2db9"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/finals/r17-f2 - version 03.png",
+      "repo_path": "paintings/r17-f2/finals/r17-f2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9728680,
+      "repo_bytes": 9728680,
+      "sha256": "2bf9fb0da441078d767ea8bf79439b021792d8870e1be471ca379666f6a8f3dd"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/finals/r17-f2.png",
+      "repo_path": "paintings/r17-f2/finals/r17-f2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7189975,
+      "repo_bytes": 7189975,
+      "sha256": "978de781337d81388e8db008ebb2af2a7564668fefc7e7ce1045da18e1c62944"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/F2_finished.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/F2_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 158895,
+      "repo_bytes": 158895,
+      "sha256": "d5c57593f0734bc6042ca698f41a91fa86a0636f55464e5337cca699fda9ece4"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c1.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1614,
+      "repo_bytes": 1614,
+      "sha256": "c59601b36a819bf26518b00db630f99c9a4ae777f201aaeff9b0979904edc1ae"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c10.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1981,
+      "repo_bytes": 1981,
+      "sha256": "424c1cdbb4dc5ef4c62c862c0e3968e2d6677ea5e8fb8f96c5bbb61e4ca0c765"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c11.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1209,
+      "repo_bytes": 1209,
+      "sha256": "e3aee816bcfa23f5973f8c8311316ac2e8b0da7e0d7a6d2e5f6b8f2c0ce00962"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c12.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1487,
+      "repo_bytes": 1487,
+      "sha256": "09c48587368334dcf6047752029407be786b333980942c9daf769e3a846eef27"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c13.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1321,
+      "repo_bytes": 1321,
+      "sha256": "09c9c0a373bf375df4dd7fa3f8140d45b9eba9bd1bf1433dcb03f37a7673da17"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c14.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 872,
+      "repo_bytes": 872,
+      "sha256": "c5a7d79d6cf7cbeef3cc4a6885a418438fbe64ef6e6ef998dff8f04276bf0e7c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c15.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 789,
+      "repo_bytes": 789,
+      "sha256": "83d8be05d11920193da9a5d3f181d8d2ecc4c023761089071db842c7e540a9b8"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c16.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 894,
+      "repo_bytes": 894,
+      "sha256": "f47e820825435bce59bf0404351c944d5abc60ba6f1c1a4e51aa84d0d8145e69"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c17.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 894,
+      "repo_bytes": 894,
+      "sha256": "10c9f12e6206e75691818f44a2c599ff48d5c170d2fb68724c8d5c8542e5ca6b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c18.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 633,
+      "repo_bytes": 633,
+      "sha256": "2948bce5e7017c48fbbb98a381055fd8be61e13539be55c11441899672d0ac68"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c19.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 863,
+      "repo_bytes": 863,
+      "sha256": "25335fe3e16f9668129a0aad44fcab178fbe77fd7b8b23983187b9970a65247b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c2.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3325,
+      "repo_bytes": 3325,
+      "sha256": "d3e0c27bf19c193d3c15f0451dbaaabc6ffebbcda8562c74c6b0088d306f5677"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c20.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 648,
+      "repo_bytes": 648,
+      "sha256": "e7c2c667a0e468721267ec52f48f0e61d2b9060e96a62bf42c409d70345b4010"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c21.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 577,
+      "repo_bytes": 577,
+      "sha256": "44ea6feaa041ac989abf540cf22deabd57a9a2e7a568dff417c416ffbb4026a6"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c22.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c22.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1283,
+      "repo_bytes": 1283,
+      "sha256": "f0b0d418811d13cf6984ad9f82b6ce6b297e3f0c1fbe2b99113381bb584daad5"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c23.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1072,
+      "repo_bytes": 1072,
+      "sha256": "d91df6c5b5c663479b0ab854d8f9b54efdfa39e19223d0fb334c6d5652b1ae23"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c24.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 773,
+      "repo_bytes": 773,
+      "sha256": "efa6213b6b2ae82ae6d660fb25e424ea97912959e9d14db9111c3df53cca8b57"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c3.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1665,
+      "repo_bytes": 1665,
+      "sha256": "0a9943a04e17721ddaac6a68d4cedc9f923a9b1b2e10aa4e17ee4b6f3e4447b6"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c4.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 374,
+      "repo_bytes": 374,
+      "sha256": "6ac60437da39b75fbde5294265322d81a758e74a68a956d916ad9c023f3869d6"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c5.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 835,
+      "repo_bytes": 835,
+      "sha256": "807799ac29ff7a849442e4f973f064b836d9be5e95d735e60f229cca591e388c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c6.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 282,
+      "repo_bytes": 282,
+      "sha256": "e0c257d94487a67e51bf7eef01b529c62b52d92729876c41f93284c9627b3553"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c7.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1026,
+      "repo_bytes": 1026,
+      "sha256": "121403c3d8bc18ce5490cf951580e8e1944081973b72c1bf32226270639a2807"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c8.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1239,
+      "repo_bytes": 1239,
+      "sha256": "8d74a9eadddc0da4487e8903fa34dc4a3ab3db5974e99f917cff13a962a79e6b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/c9.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/c9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 446,
+      "repo_bytes": 446,
+      "sha256": "48f55d367fb49cffed15fdf5bf6ce522a88bc5770155282c6adc04c276aaf697"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r17-f2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 158477,
+      "repo_bytes": 158477,
+      "sha256": "df0e418424f39e4c61b132315be59202acf01ae4480d4780a30931253e7122d9"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/2026-09-27T13-49-34-072Z_01a0e320-d1f8-714e-8603-f59885b17a0a - version 02.jsonl",
+      "repo_path": "paintings/r17-f2/sessions/pi/2026-09-27T13-49-34-072Z_01a0e320-d1f8-714e-8603-f59885b17a0a - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 60867885,
+      "repo_bytes": 3370605,
+      "sha256": "f17d2f8ed92d8bea072673b0451c842ff5648d2dae22a8916b51f219af86a135"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/2026-09-27T13-49-34-072Z_01a0e320-d1f8-714e-8603-f59885b17a0a.jsonl",
+      "repo_path": "paintings/r17-f2/sessions/pi/2026-09-27T13-49-34-072Z_01a0e320-d1f8-714e-8603-f59885b17a0a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3776382,
+      "repo_bytes": 3351479,
+      "sha256": "a66246c8ba77b0871815c55de7a0e2d7a8717974612d200d88131a67f89a33b3"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/2026-09-27T14-44-01-498Z_01a0e352-ad5a-77ca-8916-296b0d5c1936 - version 02.jsonl",
+      "repo_path": "paintings/r17-f2/sessions/pi/2026-09-27T14-44-01-498Z_01a0e352-ad5a-77ca-8916-296b0d5c1936 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 23670510,
+      "repo_bytes": 508497,
+      "sha256": "071038bcbe8986b8a9351edcf36c85df52a0e12c8df1b577c1d540ce75bd8ba0"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/2026-09-27T14-44-01-498Z_01a0e352-ad5a-77ca-8916-296b0d5c1936.jsonl",
+      "repo_path": "paintings/r17-f2/sessions/pi/2026-09-27T14-44-01-498Z_01a0e352-ad5a-77ca-8916-296b0d5c1936.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 628489,
+      "repo_bytes": 501816,
+      "sha256": "16b3864649740db9cdd9762e351c575694fca2fe076c4313c72f1d4eed882c5c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/2026-09-27T15-07-35-249Z_01a0e368-3fd1-75db-8e32-11fa5bf0ab49 - version 02.jsonl",
+      "repo_path": "paintings/r17-f2/sessions/pi/2026-09-27T15-07-35-249Z_01a0e368-3fd1-75db-8e32-11fa5bf0ab49 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4129355,
+      "repo_bytes": 65845,
+      "sha256": "221d98898599e2bc10b31e5bbcb52d58f7c4e0baedd04959c6f613bd99e98005"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/2026-09-27T15-07-35-249Z_01a0e368-3fd1-75db-8e32-11fa5bf0ab49.jsonl",
+      "repo_path": "paintings/r17-f2/sessions/pi/2026-09-27T15-07-35-249Z_01a0e368-3fd1-75db-8e32-11fa5bf0ab49.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 75296,
+      "repo_bytes": 65452,
+      "sha256": "17c6337e0487912cd253f1b6db9a357a9746c96a126ee95826f48724c93023d0"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r17-f2/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 515924,
+      "repo_bytes": 492528,
+      "sha256": "b782fb55b0e0473b8e470f3d419f6c39b80b2dd392fcb5e91a4675c221d4c754"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r17-f2/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 503243,
+      "repo_bytes": 492566,
+      "sha256": "f0785d003fe179aa7d879679718aa161aca87ebbb11a305dd02fb16fb3573b0b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r17-f2/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 503191,
+      "repo_bytes": 492522,
+      "sha256": "79ad71dbfd6f5a11c6577a4e0553e8eaa54da98e45467a0cb18e618b62c84d53"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r17-f2/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 515976,
+      "repo_bytes": 492572,
+      "sha256": "3e8d9e6080096c1456264ac46ce355b00ddde2756534c0b3513fd2c650efa8ee"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r17-f2/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 519743,
+      "repo_bytes": 495738,
+      "sha256": "d022c2cad4a1d003cce769088ae726ee77f6a006336483b61eda9e236de4e321"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/events - version 07.json",
+      "repo_path": "paintings/r17-f2/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 507010,
+      "repo_bytes": 495732,
+      "sha256": "910c9e4743141cd416cc05435300cd33f4ba1f70e58e4e3b3dcf482a9763c369"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r17-f2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 507010,
+      "repo_bytes": 495732,
+      "sha256": "116f49923afb6fc9005621eaf190e0da604dc75f6e7697e392de9226ce710d21"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2 - version 02.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 710520,
+      "repo_bytes": 710520,
+      "sha256": "238e8fcfd270c7fe9ea4fccb670f4478b2f323c013e5ea4c334fd636dbecf75b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2-1920 - version 02.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2386161,
+      "repo_bytes": 2386161,
+      "sha256": "4a76b576c323e07ff5c20908eb935695731fb6af9460a24025de5abc85d2dc8f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2-1920 - version 03.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2112807,
+      "repo_bytes": 2112807,
+      "sha256": "4c499ae6d0a596ad72670e7708046084c54ecfb4ebf14caa29230c2ccceb254c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2-1920.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2383033,
+      "repo_bytes": 2383033,
+      "sha256": "66db6aae448f1e649291ee8560ad563f0d547afcc43ab5e93b7aa1d0bf6da269"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2-720 - version 02.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 458958,
+      "repo_bytes": 458958,
+      "sha256": "5da72d0eabf146451e934b1c5e0b194287853542bf5dcf3de2478ad5313326c4"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2-720 - version 03.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 455830,
+      "repo_bytes": 455830,
+      "sha256": "1dec655b3bd4a3ac7ca0a1c1aa18b27424ae8bad477fac4c26b02a1deeb37939"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2-720.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 410194,
+      "repo_bytes": 410194,
+      "sha256": "f12bc318fb00588ca44ed8dc235e72c391724c0b70d5dbdcbd9ddb6a85324f46"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2-social-1920.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2459558,
+      "repo_bytes": 2459558,
+      "sha256": "13c0ed25795db214f99bcc3ad1c480f75c891b8ba8392ded8187ddb9ce9c6d79"
+    },
+    {
+      "archive_path": "2026-09-27 r17 June Morning on the Meadows before the Town — attempt 2 (Claude Opus 5.5)/video/r17-f2.mp4",
+      "repo_path": "paintings/r17-f2/video/r17-f2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 713648,
+      "repo_bytes": 713648,
+      "sha256": "5cdeeb3ada6ae7396000356771e57b8563917ad1ef3b305ac860821718058dd1"
+    }
+  ]
+}

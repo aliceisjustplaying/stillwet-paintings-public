@@ -1,0 +1,249 @@
+{
+  "archive": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)",
+  "identity": "c6b5dd",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/finals/r17-o3 - version 02.png",
+      "repo_path": "paintings/r17-o3/finals/r17-o3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3638683,
+      "repo_bytes": 3638683,
+      "sha256": "cde972bb7d979fef2aa2b50227e6189a1fc4c61fe85966333493d26d0357a92e"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/finals/r17-o3 - version 03.png",
+      "repo_path": "paintings/r17-o3/finals/r17-o3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8878486,
+      "repo_bytes": 8878486,
+      "sha256": "802ec3930b58943da95a805465cec217c77183a5772abdc233c1aa6b428680a1"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/finals/r17-o3.png",
+      "repo_path": "paintings/r17-o3/finals/r17-o3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6594049,
+      "repo_bytes": 6594049,
+      "sha256": "10ce008d3fb9a0ec05b337008535becb1ce953ea3f25d9000808d329dec65636"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/lua/O3_finished.lua",
+      "repo_path": "paintings/r17-o3/lua/archive/O3_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 51408,
+      "repo_bytes": 51408,
+      "sha256": "66b8918a0ad0776b61bd9573bcfa163eca6b4eee0e20355fb034bd82e80a6cf0"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r17-o3/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 50990,
+      "repo_bytes": 50990,
+      "sha256": "86cdec53aa983daea7116b041507f1d8c383662092d20d98063baa709b8de6ea"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/lua/r17-O3-3.lua",
+      "repo_path": "paintings/r17-o3/lua/archive/r17-O3-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1914,
+      "repo_bytes": 1914,
+      "sha256": "e37929b210aabe1f02e5e6c0106be45e5779c3a1da4f00937797a2d85cd5fa6f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/2026-09-27T13-00-05-077Z_01a0e2f3-8453-7582-a67b-2a4b6a9bfb97 - version 02.jsonl",
+      "repo_path": "paintings/r17-o3/sessions/pi/2026-09-27T13-00-05-077Z_01a0e2f3-8453-7582-a67b-2a4b6a9bfb97 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1937334,
+      "repo_bytes": 1665630,
+      "sha256": "729a5800d1d6a128c8e7916e4f26d833f0bfa90699816a0901f4bb5e80f6aa57"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/2026-09-27T13-00-05-077Z_01a0e2f3-8453-7582-a67b-2a4b6a9bfb97.jsonl",
+      "repo_path": "paintings/r17-o3/sessions/pi/2026-09-27T13-00-05-077Z_01a0e2f3-8453-7582-a67b-2a4b6a9bfb97.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 46002193,
+      "repo_bytes": 1676655,
+      "sha256": "0ce34872f46b376e47662865a8d0188da769e970368c89d98e5b68eeec182531"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/2026-09-27T13-49-04-532Z_01a0e320-5e93-7621-bf36-8995146efe90 - version 02.jsonl",
+      "repo_path": "paintings/r17-o3/sessions/pi/2026-09-27T13-49-04-532Z_01a0e320-5e93-7621-bf36-8995146efe90 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 687020,
+      "repo_bytes": 58795,
+      "sha256": "adbc6789836996f26583978087965c0ae72af9431d599c448f37029affcc604c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/2026-09-27T13-49-04-532Z_01a0e320-5e93-7621-bf36-8995146efe90.jsonl",
+      "repo_path": "paintings/r17-o3/sessions/pi/2026-09-27T13-49-04-532Z_01a0e320-5e93-7621-bf36-8995146efe90.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 67665,
+      "repo_bytes": 58677,
+      "sha256": "b17a2be0753d6b32a51df9031f81b327fe8e7023533d34075470d8c7868787cf"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r17-o3/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 227352,
+      "repo_bytes": 215361,
+      "sha256": "6f74e824008b91b5d9e06a6fee0665976139ba6071acd26e39bc681dd3de90a7"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r17-o3/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 227326,
+      "repo_bytes": 215339,
+      "sha256": "44dc193aea2ce3962d381e019bc3f9f9ef4d78c8c25fbedea122ee501a841a65"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r17-o3/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 220755,
+      "repo_bytes": 215357,
+      "sha256": "1ef4873bee0c61356ccca1d6b6ff723a747aaa4c34d07f34af0542665dedd7cd"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r17-o3/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 229337,
+      "repo_bytes": 217027,
+      "sha256": "0e339593c46051e3a5783ed3f28546ee91e5e0e56c364637f553a8b62f2155e9"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r17-o3/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 220729,
+      "repo_bytes": 215335,
+      "sha256": "7f537d1bc39302bf2fceb809aebacf98e4367c96c37216a4766169c030eb6de3"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/events - version 07.json",
+      "repo_path": "paintings/r17-o3/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 222740,
+      "repo_bytes": 217023,
+      "sha256": "2a05ace37225e71b1a952185033e76d1166960a5514b126aa2085bb615cc86e0"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r17-o3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 222740,
+      "repo_bytes": 217023,
+      "sha256": "353b678b79105acce7de49b1fea34e6275ff26b534de994b5d1eac870b345b7c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r17-o3/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13093,
+      "repo_bytes": 10860,
+      "sha256": "a0e2fd1df3a0776df26456075159905d5845a8ac25215ec325e4f9e804f50d57"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3 - version 02.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 445155,
+      "repo_bytes": 445155,
+      "sha256": "960d6f233e2aacc45ce86223d003be52777785e895b2458dd79b36de8bb90dda"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3-1920 - version 02.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1312247,
+      "repo_bytes": 1312247,
+      "sha256": "8639fb041b527d4eb15d5e0aadb26465ce86d1c81399f118adc96bdc7a79e93c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3-1920 - version 03.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1157723,
+      "repo_bytes": 1157723,
+      "sha256": "cb8214bba522b7177e40a2e47ded93f52bdb2f19abdaa23f90924ff36e1328c0"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3-1920.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1309119,
+      "repo_bytes": 1309119,
+      "sha256": "fc990c7095a7b3a24cccc73122d3c454f48888711323414061a49018ca768b63"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3-720 - version 02.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 317788,
+      "repo_bytes": 317788,
+      "sha256": "bc10e3d6a69eb281d3d0ce46088d374564adf6ace5999216895829ec714b9979"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3-720 - version 03.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 285366,
+      "repo_bytes": 285366,
+      "sha256": "0fae4e3c71c4732519175ddfe753db87e6e045f20d4d23857d82a62d3cb039c4"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3-720.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 314660,
+      "repo_bytes": 314660,
+      "sha256": "65bd0c9f00ff47a1ccb5d78a8a4f6217673db74f289b04623945617884e010de"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3-social-1920.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1313113,
+      "repo_bytes": 1313113,
+      "sha256": "0596118c4f42357e55b25aa2a8714b266fd2760df29b0cf1b3ae6bea8355bbb6"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening on the Estuary, the Punt Coming Home (Claude Opus 5.5)/video/r17-o3.mp4",
+      "repo_path": "paintings/r17-o3/video/r17-o3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 442027,
+      "repo_bytes": 442027,
+      "sha256": "6d7e3c8ddc67191f7731f1ec71b3ca4e81c59e5dd2d5425dcf1af38c8351a60a"
+    }
+  ]
+}

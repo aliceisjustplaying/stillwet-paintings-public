@@ -1,0 +1,294 @@
+{
+  "archive": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)",
+  "identity": "1def1a",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/finals/r17-o1 - version 02.png",
+      "repo_path": "paintings/r17-o1/finals/r17-o1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5898330,
+      "repo_bytes": 5898330,
+      "sha256": "e1264c8e5191c6885175987af0113feeac21e84409b2dc410e52bfa96d9ef7af"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/finals/r17-o1 - version 03.png",
+      "repo_path": "paintings/r17-o1/finals/r17-o1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4214112,
+      "repo_bytes": 4214112,
+      "sha256": "05d8423cd8aef9ddf7f8299eb99164b52df7a5bb8ebcdd708f8e6e6d78e81a2f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/finals/r17-o1.png",
+      "repo_path": "paintings/r17-o1/finals/r17-o1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7774739,
+      "repo_bytes": 7774739,
+      "sha256": "0a7ff58e84a5201032a030e6fa17e88da9768a80d8a1368c8e7dd59ec656ac7f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/lua/O1_finished.lua",
+      "repo_path": "paintings/r17-o1/lua/archive/O1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 42731,
+      "repo_bytes": 42731,
+      "sha256": "34ac6342952095ebbd9e5417eb081cd275aff89b787de80be44f3c06b22bc22c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r17-o1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 42313,
+      "repo_bytes": 42313,
+      "sha256": "884f572fbdf70d1a8b17fcd6c27dc7f9fa9adb7401aabe21f3e6a068db5c6859"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/lua/r17-O1-3.lua",
+      "repo_path": "paintings/r17-o1/lua/archive/r17-O1-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1155,
+      "repo_bytes": 1155,
+      "sha256": "04a46f57246b4e046885e2edbd48af1fb18c978ad4e85703a788184fdf293520"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/lua/sky1.lua",
+      "repo_path": "paintings/r17-o1/lua/archive/sky1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 927,
+      "repo_bytes": 927,
+      "sha256": "e7aaacd5b6dd867c7445ba386a6f77298b1defb9c331e27adaa22a423a0920d0"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/2026-09-27T10-41-29-427Z_01a0e274-a153-737b-ace2-cd99b3682719 - version 02.jsonl",
+      "repo_path": "paintings/r17-o1/sessions/pi/2026-09-27T10-41-29-427Z_01a0e274-a153-737b-ace2-cd99b3682719 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 534846,
+      "repo_bytes": 352183,
+      "sha256": "eb3ff51880fc49f0e5e5ba33e9edff007e6af9c852876823de2c4216434f6344"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/2026-09-27T10-41-29-427Z_01a0e274-a153-737b-ace2-cd99b3682719.jsonl",
+      "repo_path": "paintings/r17-o1/sessions/pi/2026-09-27T10-41-29-427Z_01a0e274-a153-737b-ace2-cd99b3682719.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 34287687,
+      "repo_bytes": 359139,
+      "sha256": "fa1e42b9d7bb95e1b520c929023b877f789be8ba21805df11cc6eeb721a65a57"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/2026-09-27T11-02-44-218Z_01a0e288-14f9-744a-ad0d-7cd0ab360c8b - version 02.jsonl",
+      "repo_path": "paintings/r17-o1/sessions/pi/2026-09-27T11-02-44-218Z_01a0e288-14f9-744a-ad0d-7cd0ab360c8b - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 124909,
+      "repo_bytes": 97884,
+      "sha256": "4f0d22cbab9c89278f0563596dde7e3f3362ae1fa44b8035ef022a5074e70df0"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/2026-09-27T11-02-44-218Z_01a0e288-14f9-744a-ad0d-7cd0ab360c8b.jsonl",
+      "repo_path": "paintings/r17-o1/sessions/pi/2026-09-27T11-02-44-218Z_01a0e288-14f9-744a-ad0d-7cd0ab360c8b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4065600,
+      "repo_bytes": 98918,
+      "sha256": "2e214c49c71263b8b45aa278408a625d5795b97cfdcad1b2f55f8ef7e3fac00c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/2026-09-27T11-14-41-911Z_01a0e293-0877-7188-953b-55e90f1d9165 - version 02.jsonl",
+      "repo_path": "paintings/r17-o1/sessions/pi/2026-09-27T11-14-41-911Z_01a0e293-0877-7188-953b-55e90f1d9165 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3573361,
+      "repo_bytes": 90162,
+      "sha256": "ed45f236ceb7c83f1c2f7dfe6a33fcde83e51c9f343b01b40419cbdd78b274cb"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/2026-09-27T11-14-41-911Z_01a0e293-0877-7188-953b-55e90f1d9165.jsonl",
+      "repo_path": "paintings/r17-o1/sessions/pi/2026-09-27T11-14-41-911Z_01a0e293-0877-7188-953b-55e90f1d9165.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 109367,
+      "repo_bytes": 89199,
+      "sha256": "25d62d75dee24576b9fae39325ef6f564b0c5e6bd17c1dd7245d4b0a7d991134"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/2026-09-27T11-26-22-247Z_01a0e29d-b826-7390-8064-20c8fafa7d5d - version 02.jsonl",
+      "repo_path": "paintings/r17-o1/sessions/pi/2026-09-27T11-26-22-247Z_01a0e29d-b826-7390-8064-20c8fafa7d5d - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1960765,
+      "repo_bytes": 64911,
+      "sha256": "67fbba1941fa85e7cd17ec6d4fb194c1a9e0622b0ae9466a146b1239947c632c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/2026-09-27T11-26-22-247Z_01a0e29d-b826-7390-8064-20c8fafa7d5d.jsonl",
+      "repo_path": "paintings/r17-o1/sessions/pi/2026-09-27T11-26-22-247Z_01a0e29d-b826-7390-8064-20c8fafa7d5d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 75351,
+      "repo_bytes": 64483,
+      "sha256": "7bc41de574974fa7bd2ff12cc243180f0b6c20a426d158d5ee123445a7d8b716"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r17-o1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 217398,
+      "repo_bytes": 205886,
+      "sha256": "77e973ac21a5a286090147809587b0306bd0e3160126609fef035ed51d19a8e1"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r17-o1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 215455,
+      "repo_bytes": 204246,
+      "sha256": "5fe6a02987ed064e987473691dfdcb43d745e041c9cdf22387332da90995b3d1"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r17-o1/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 215351,
+      "repo_bytes": 204158,
+      "sha256": "0d233180e4d47236ab5a9c93751b11c556db2678eaf4d45b75f91046410881bb"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r17-o1/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 211432,
+      "repo_bytes": 205876,
+      "sha256": "e54b2c1c398a6b426f9f9a33629266c87ddac9b0f54cbaf324c4eee9c3a6c46b"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r17-o1/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 209385,
+      "repo_bytes": 204148,
+      "sha256": "0e9f0c0dbe040f2521a085584f55d1cf5dfe0ae27f174cce353650eea79c3d50"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/events - version 07.json",
+      "repo_path": "paintings/r17-o1/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 209489,
+      "repo_bytes": 204236,
+      "sha256": "a180891bac8dea1eea520ac2026c540220b043e1ee36075d99b4e21c65329e0c"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r17-o1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 211432,
+      "repo_bytes": 205876,
+      "sha256": "8e1c7ea2520556e50e334c9492d15e42481f528560e6c08512acd4dc51aeecac"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r17-o1/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13156,
+      "repo_bytes": 10516,
+      "sha256": "a5af66c10fd9ed8438eba07e3ea33d5edfb895a10343c1d764499efb77d9abfb"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1 - version 02.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 437594,
+      "repo_bytes": 437594,
+      "sha256": "5bea5e856575637bad8c04873fe84a0e2800f0d0e8d37f96bf145caed07e8b2f"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1-1920 - version 02.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1406663,
+      "repo_bytes": 1406663,
+      "sha256": "1f7f0768372f57202497f6999cf7af5b26e6694cdde828ca1ed147818c7c4d93"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1-1920 - version 03.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1403535,
+      "repo_bytes": 1403535,
+      "sha256": "37135f38343b3c86ba1b4a585a6c71102afa1cc61cead0c513dfc92320089946"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1-1920.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1249766,
+      "repo_bytes": 1249766,
+      "sha256": "77ceb902bf18cc47694eb7772c3e6f68a2626cd211d50d39b6bcddb641e1bfba"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1-720 - version 02.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 265376,
+      "repo_bytes": 265376,
+      "sha256": "3edf4a1bf1d1f1de8d245610acfdd3b8b75288920a96f9a30cb05cbe0012d0a1"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1-720 - version 03.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 297609,
+      "repo_bytes": 297609,
+      "sha256": "7d17b2345a94ec6703a0b5ec0c29426a4d6dcd138503c4b934548a143613db09"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1-720.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 300737,
+      "repo_bytes": 300737,
+      "sha256": "54c5448115831f87568250bb6b5805d940eed7656f7e237742267bb0db511c06"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1-social-1920.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1451112,
+      "repo_bytes": 1451112,
+      "sha256": "ecf2061783341f0860966d913556d982177405fa93d9e80763ef0765cb36cf69"
+    },
+    {
+      "archive_path": "2026-09-27 r17 Evening Tide, Barge off the Marsh (Claude Opus 5.5)/video/r17-o1.mp4",
+      "repo_path": "paintings/r17-o1/video/r17-o1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 440722,
+      "repo_bytes": 440722,
+      "sha256": "4bec55587107c50edbf9735a8d37b27127ffc4e4044a0e255dd482f99322ce24"
+    }
+  ]
+}
