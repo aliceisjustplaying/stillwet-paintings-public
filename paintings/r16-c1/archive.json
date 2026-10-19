@@ -1,0 +1,249 @@
+{
+  "archive": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)",
+  "identity": "3be9e8",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/finals/C1.png",
+      "repo_path": "paintings/r16-c1/finals/C1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2655832,
+      "repo_bytes": 2655832,
+      "sha256": "68b63a126e45045e943ef9e9190e30755fe4800be1187a5379cd206fec0b0e79"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/finals/painting.png",
+      "repo_path": "paintings/r16-c1/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2872891,
+      "repo_bytes": 2872891,
+      "sha256": "5b7fb653b82a4cbfbf377c2f4cf85a2d46ce35004fb8a0866e112cd3114e3f84"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/finals/r16-c1 - version 02.png",
+      "repo_path": "paintings/r16-c1/finals/r16-c1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6496444,
+      "repo_bytes": 6496444,
+      "sha256": "930125e771c3a010c1aeb71fc40e236a98df596165a6e957e85a1651f748173c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/finals/r16-c1 - version 03.png",
+      "repo_path": "paintings/r16-c1/finals/r16-c1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8868918,
+      "repo_bytes": 8868918,
+      "sha256": "7f5dd0ef0fa5b4a9ab9de6436c208f82847dbaa7465d870de77c1af58e65a8df"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/finals/r16-c1.png",
+      "repo_path": "paintings/r16-c1/finals/r16-c1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2437589,
+      "repo_bytes": 2437589,
+      "sha256": "4d5792b2e2295447281d7c0ff074187a9c12cb3269d904ba9c02b2fefe8f7181"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-c1/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r16-c1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 50263,
+      "repo_bytes": 50263,
+      "sha256": "c88d6d43e04cf150990e10a929885ee2995a54eb1731a719eb64a930c4e3278f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/lua/r16-C1-3.lua",
+      "repo_path": "paintings/r16-c1/lua/archive/r16-C1-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2375,
+      "repo_bytes": 2375,
+      "sha256": "cb9e8e38e55f1af14e89846f39c7a23b5f0ff36ea1bebcad27b01cafae69f353"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/sessions/2026-09-27T00-05-23-737Z_01a0e02e-4499-7679-a076-14887a438e3d - version 02.jsonl",
+      "repo_path": "paintings/r16-c1/sessions/pi/2026-09-27T00-05-23-737Z_01a0e02e-4499-7679-a076-14887a438e3d - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 53406171,
+      "repo_bytes": 683939,
+      "sha256": "d37b237eae97e686fccaa003cb1dcca377c38ee43cb1ffa04ad7b552fcd2dfee"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/sessions/2026-09-27T00-05-23-737Z_01a0e02e-4499-7679-a076-14887a438e3d.jsonl",
+      "repo_path": "paintings/r16-c1/sessions/pi/2026-09-27T00-05-23-737Z_01a0e02e-4499-7679-a076-14887a438e3d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 931752,
+      "repo_bytes": 674854,
+      "sha256": "8918e4e54de2de1139ef4f6d96c3a09759a1664c9124411f1f5bc7171a3b379d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-c1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 208834,
+      "repo_bytes": 202361,
+      "sha256": "4e21fe5c2f40024d2f1c233a2e5bb4275004e8cc59263748a3865bcfe34d6646"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-c1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 207345,
+      "repo_bytes": 201110,
+      "sha256": "1d1a9ab651df6986414364185bc0f02eddc6487df0b79e8c49775d004d0c7c59"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-c1/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 207332,
+      "repo_bytes": 201099,
+      "sha256": "3374ac6417860c300abd453aa4ce739b033cd7ad7e104641111293b3f638f9f3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-c1/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 219101,
+      "repo_bytes": 201101,
+      "sha256": "f2bcf85fd79b37c0417e327b7e83e74c83f52571e8cd8c4b6f3bc5e1bb96e4b6"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-c1/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 220603,
+      "repo_bytes": 202363,
+      "sha256": "eb886157e3ddb2b1dc14a5f58fee508d085ccf9df975f44afd00da058af9471b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r16-c1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 219114,
+      "repo_bytes": 201112,
+      "sha256": "fc36e59c19b9f5aebf6c53571189fe97ba026667a51bb3949106cb38ba74668d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1 - version 02.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 682940,
+      "repo_bytes": 682940,
+      "sha256": "76c26099e219da362f9d1de2e8bdfcf54317721411df29810a3855eccdc8946a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1 - version 03.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 679812,
+      "repo_bytes": 679812,
+      "sha256": "986b35d7b930cf73803492a3a1b8dd33c49557961424be70149ac8fdc2210467"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1 - version 04.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1461576,
+      "repo_bytes": 1461576,
+      "sha256": "b726b58a9b64fec7e5a19f3914376276ca73ecd52c9468932444b3f3640c35e4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2103525,
+      "repo_bytes": 2103525,
+      "sha256": "3f3cc4556aba4f667dad255d9c301e3a3f4eb1c3d2c8797376dd8cc8457458db"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2267757,
+      "repo_bytes": 2267757,
+      "sha256": "82b018af723e1d8c831db50d6e138e77fbc7206737390f2f8f569ea0f5823bf2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1-1920.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2270885,
+      "repo_bytes": 2270885,
+      "sha256": "9963124af9574e0477268e6c98c40644c22818d156bbb420850f42df5fc7b03b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1-720 - version 02.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 406606,
+      "repo_bytes": 406606,
+      "sha256": "0d47edb820472f27659481397c5da48efdce04f3b5752da4794c53dec5b37ca7"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1-720 - version 03.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 436541,
+      "repo_bytes": 436541,
+      "sha256": "c6890aa7c820104005861978599eb8f8a9a0aa5722dc289acc414fbb97f708fe"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1-720.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 439669,
+      "repo_bytes": 439669,
+      "sha256": "7bbf4778e7c42300096e38bfdadaaae915dddde6ccb2b2b0e8212680ca6e5619"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1-social-1920.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2310518,
+      "repo_bytes": 2310518,
+      "sha256": "1a2878b079231198fa4f0dbaa381625fcacf0d9b25faa22e5098c9f8b5164c14"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Stoneware Jug with Two Lemons and a Knife (Claude Opus 5.5)/video/r16-c1.mp4",
+      "repo_path": "paintings/r16-c1/video/r16-c1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1706552,
+      "repo_bytes": 1706552,
+      "sha256": "629b9b60e281f490ea217ba93698565ff467c7a56bf7a941b69ab56166e2329b"
+    }
+  ]
+}

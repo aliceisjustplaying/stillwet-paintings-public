@@ -1,0 +1,141 @@
+{
+  "archive": "2026-09-27 r16 untitled (Gemini 3.8 Flash)",
+  "identity": "6399ad",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/finals/final-comparison.jpg",
+      "repo_path": "paintings/r16-d1/finals/final-comparison.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 89602,
+      "repo_bytes": 89602,
+      "sha256": "b3ebab786f33146472791de48749cfc1960268ba21b3a96f6928c9b3654ad1f4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/finals/final-scaled.png",
+      "repo_path": "paintings/r16-d1/finals/final-scaled.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 972962,
+      "repo_bytes": 972962,
+      "sha256": "4579f8009784acd28d97fea2f492176c559d9910bf9c7b7ed6fd13674e6daa65"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/finals/r16-d1 - version 02.png",
+      "repo_path": "paintings/r16-d1/finals/r16-d1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8853262,
+      "repo_bytes": 8853262,
+      "sha256": "46601350dd58ba35663e4ed78aed6d18f54607b177b74f2949bd0a7d524dd579"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/finals/r16-d1 - version 03.png",
+      "repo_path": "paintings/r16-d1/finals/r16-d1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2434750,
+      "repo_bytes": 2434750,
+      "sha256": "38cfed65ae24cf02f31b95593d4bd939a71ef23683c92a6d4a74a17f14ebc6a8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/finals/r16-d1.1000.png",
+      "repo_path": "paintings/r16-d1/finals/r16-d1.1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 455941,
+      "repo_bytes": 455941,
+      "sha256": "04c1c47d5894574c082b66fe9a4070ce2a9e49e1ad004a284fcf877723581af1"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/finals/r16-d1.png",
+      "repo_path": "paintings/r16-d1/finals/r16-d1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9956350,
+      "repo_bytes": 9956350,
+      "sha256": "571403c64f05e27875dfc29ba7c1c58d3d57bbaf2f9d5d5b2c74c10e29d7eced"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/lua/painting.lua",
+      "repo_path": "paintings/r16-d1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 18976,
+      "repo_bytes": 18976,
+      "sha256": "d816c270b8277e186481799f06ea7654f1d062634b77a43c4a60ba3bc1f19798"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/lua/r16-D1-3.lua",
+      "repo_path": "paintings/r16-d1/lua/archive/r16-D1-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3995,
+      "repo_bytes": 3995,
+      "sha256": "b4468dfda6b408922912374569b111d72888d30319ac689dcb176806daf9396c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/sessions/2026-09-27T00-05-28-335Z_01a0e02e-568e-716b-93e7-e205c7e61733 - version 02.jsonl",
+      "repo_path": "paintings/r16-d1/sessions/pi/2026-09-27T00-05-28-335Z_01a0e02e-568e-716b-93e7-e205c7e61733 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 481925,
+      "repo_bytes": 314840,
+      "sha256": "72058f34c9284531a2f9d387923d3f9526890707cc5dd75fd97fe556e00ab056"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/sessions/2026-09-27T00-05-28-335Z_01a0e02e-568e-716b-93e7-e205c7e61733.jsonl",
+      "repo_path": "paintings/r16-d1/sessions/pi/2026-09-27T00-05-28-335Z_01a0e02e-568e-716b-93e7-e205c7e61733.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5503037,
+      "repo_bytes": 315400,
+      "sha256": "40399e724bfef1a71c308c252ae56a3b1cd81140fe3211ae17e9adc500e9ffde"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-d1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 107918,
+      "repo_bytes": 102766,
+      "sha256": "ddf6cd81170c71dffb357185af0c97f7a22b7ffde138f6b580950a0ce4add821"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-d1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 107685,
+      "repo_bytes": 102570,
+      "sha256": "05e7617a956789cf9f9cdb27b822106ae7296e081f22cfae934396d4790788af"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-d1/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 107763,
+      "repo_bytes": 102636,
+      "sha256": "152059dd44f9f8f473d788605207b8a9956cc1ad69a62b3d6eb1e49cf9d0b73e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/sessions/events.json",
+      "repo_path": "paintings/r16-d1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 107024,
+      "repo_bytes": 102765,
+      "sha256": "322fe8d351e9f8e1c3c7138b0907c964725c0b11065fc1a849a49059151ae7d0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 untitled (Gemini 3.8 Flash)/video/r16-d1.mp4",
+      "repo_path": "paintings/r16-d1/video/r16-d1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1615135,
+      "repo_bytes": 1615135,
+      "sha256": "33e0836700fb3cef5469c59b763950d07b98260a5e6cea6cec07a38de5285f90"
+    }
+  ]
+}

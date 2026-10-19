@@ -1,0 +1,249 @@
+{
+  "archive": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)",
+  "identity": "b5323f",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/finals/D3.png",
+      "repo_path": "paintings/r16-d3/finals/D3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2487352,
+      "repo_bytes": 2487352,
+      "sha256": "f6a8243229efdede17810cdde5cc0a8a37bd3ca1b26c693857a3583f7ea129ea"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/finals/painting.png",
+      "repo_path": "paintings/r16-d3/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2981872,
+      "repo_bytes": 2981872,
+      "sha256": "84964d4133e5b4afb8dbe01d35b739f179eb830142005b26fc79159eaf951624"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/finals/r16-d3 - version 02.png",
+      "repo_path": "paintings/r16-d3/finals/r16-d3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2288117,
+      "repo_bytes": 2288117,
+      "sha256": "0f40ea65674b9c4e74986dd3de4880a439e44b03212998e250716853567e1e71"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/finals/r16-d3 - version 03.png",
+      "repo_path": "paintings/r16-d3/finals/r16-d3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7023400,
+      "repo_bytes": 7023400,
+      "sha256": "0010ddf1cc7b63e0fc87d19aef60e32081a5e2fa0352773d5b912e1a009906ee"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/finals/r16-d3.png",
+      "repo_path": "paintings/r16-d3/finals/r16-d3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8279089,
+      "repo_bytes": 8279089,
+      "sha256": "a8c4c7e74c63a7d58018ec8e25211bfae094a6134b2f712a32d5c88e2e0bb756"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-d3/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/lua/painting.lua",
+      "repo_path": "paintings/r16-d3/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 35582,
+      "repo_bytes": 35582,
+      "sha256": "df91f7087c0206e8acb9a25666134e3c2b759e0c6f3492144d89785ec2cf5c27"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/lua/r16-D3-3.lua",
+      "repo_path": "paintings/r16-d3/lua/archive/r16-D3-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4686,
+      "repo_bytes": 4686,
+      "sha256": "5a9f7793f480ea1375c8a54e5a74c173dbe1e793fe94a58b55dc1e58d6dff753"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/sessions/2026-09-27T00-43-27-277Z_01a0e051-1cad-72c2-b189-4ab89d765e2a - version 02.jsonl",
+      "repo_path": "paintings/r16-d3/sessions/pi/2026-09-27T00-43-27-277Z_01a0e051-1cad-72c2-b189-4ab89d765e2a - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 567037,
+      "repo_bytes": 342860,
+      "sha256": "9485ae27bb662b3746732decf07f600b633f4fa8f89b32e7ca45394875f13a27"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/sessions/2026-09-27T00-43-27-277Z_01a0e051-1cad-72c2-b189-4ab89d765e2a.jsonl",
+      "repo_path": "paintings/r16-d3/sessions/pi/2026-09-27T00-43-27-277Z_01a0e051-1cad-72c2-b189-4ab89d765e2a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13117439,
+      "repo_bytes": 345229,
+      "sha256": "b7b423a55652c834f9e0732d1c06c0916b1cb7ef75a57ed206f131b5bf6a8229"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-d3/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 121571,
+      "repo_bytes": 119567,
+      "sha256": "f7287bfa6d0a466b9886d9994c3031b98e02b560339d624dcd0615bc97344829"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-d3/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 123660,
+      "repo_bytes": 119536,
+      "sha256": "d3b44e9e16acfaf20b71b06c9525b12a0fb5c78ed83639a7857691b88974bdae"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-d3/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 122006,
+      "repo_bytes": 119932,
+      "sha256": "f5aae598a35a161d46b86359061cf39434516fb5520d3b6670a4a4e98cb198ef"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-d3/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 123699,
+      "repo_bytes": 119569,
+      "sha256": "bcea5e5170fad09660b342a3ffaf67bd3434938627763d655736ee9efbef89c9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-d3/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 121532,
+      "repo_bytes": 119534,
+      "sha256": "075ad83e80a04726a18a1251396c3cf37e63ebc9c6efa2b650b41a93bbfd378b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/sessions/events.json",
+      "repo_path": "paintings/r16-d3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 124134,
+      "repo_bytes": 119934,
+      "sha256": "734931a053b17753fbc810fe03f95d54e2714bbf36e775e7ca322d45dd48aa7a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3 - version 02.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 449948,
+      "repo_bytes": 449948,
+      "sha256": "a2812f89311da0b129c9b6b8ed685787c5e931c6236849dc27b58245a1b60a32"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3 - version 03.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1360292,
+      "repo_bytes": 1360292,
+      "sha256": "6b03828753e1480cc199841867312938f0573032b30856087d7b0d0ca0b91b68"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3 - version 04.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1065010,
+      "repo_bytes": 1065010,
+      "sha256": "a9ed3ac870c0c81d81a25899c4a686a7c2fe333e659b6810c8e3c487fbbb5943"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1552356,
+      "repo_bytes": 1552356,
+      "sha256": "0e571cd706f287dae2f54189e11ed7a294b6b2aed7b3fab8b9153e98831fe7e5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1549228,
+      "repo_bytes": 1549228,
+      "sha256": "9ed3f966e2aa8290ecf1c039bbcfb8e27eaebfa1f3c68507e9a6aa9acc8c231f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3-1920.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1343761,
+      "repo_bytes": 1343761,
+      "sha256": "5a49029dc2d7f24d6f742b555929143397424c2befd54e1f55a636f3554e4ddb"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3-720 - version 02.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 265762,
+      "repo_bytes": 265762,
+      "sha256": "07a6b1320d89da8376b5197679d1c10d96b66b930e1c98866a132abfb7db3855"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3-720 - version 03.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 300894,
+      "repo_bytes": 300894,
+      "sha256": "34d2fe1e1f6a5e2a8bc2ed255de00e433a9dfdf95f036bb74eeae6e6d40df2a7"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3-720.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 304022,
+      "repo_bytes": 304022,
+      "sha256": "fb6e79e2ff0ab60aff5f505d38ec7ac7370432f5c1bafa639396d261a6a3529a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3-social-1920.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1573350,
+      "repo_bytes": 1573350,
+      "sha256": "7f220d953982e21760418f51fa5b267b4e17821a8137a82801a0d0e9b32fa885"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Still Life with Terracotta Jug and Quince (Gemini 3.8 Flash)/video/r16-d3.mp4",
+      "repo_path": "paintings/r16-d3/video/r16-d3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 446820,
+      "repo_bytes": 446820,
+      "sha256": "dec640655ec02fd174cdb7d83e4f8105ff314da60c4e81c15e6fd69add3c91eb"
+    }
+  ]
+}

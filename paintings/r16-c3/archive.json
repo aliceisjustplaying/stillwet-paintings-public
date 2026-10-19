@@ -1,0 +1,276 @@
+{
+  "archive": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)",
+  "identity": "96b5e4",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/finals/C3.png",
+      "repo_path": "paintings/r16-c3/finals/C3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3277491,
+      "repo_bytes": 3277491,
+      "sha256": "0359b522d54d6fa52145bf187d0876256f5c83f0b9cf15b56033b03279911971"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/finals/painting.png",
+      "repo_path": "paintings/r16-c3/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3574364,
+      "repo_bytes": 3574364,
+      "sha256": "9c3f05cd0da872c835ae109fbcc34820d3d1866835910696b0a9115de82df4ab"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/finals/r16-c3 - version 02.png",
+      "repo_path": "paintings/r16-c3/finals/r16-c3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3060974,
+      "repo_bytes": 3060974,
+      "sha256": "b7db78ef9c95b71369ff4bb35b58788c7d884b4cda9ac59643efbe780747166c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/finals/r16-c3 - version 03.png",
+      "repo_path": "paintings/r16-c3/finals/r16-c3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8125279,
+      "repo_bytes": 8125279,
+      "sha256": "18be8ec2c0f01e897083dfa0604d623f66b4f127b6666b6e8740fbcae31fbeb8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/finals/r16-c3.png",
+      "repo_path": "paintings/r16-c3/finals/r16-c3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5768384,
+      "repo_bytes": 5768384,
+      "sha256": "3465437428063579bdf890bd1786e4bb2b30033f0a7def6fe202b5606de39c27"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-c3/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r16-c3/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 44802,
+      "repo_bytes": 44802,
+      "sha256": "2ef6edda01f7fcba114937aea5480901fd846945c215654388097b68dcbe73fc"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/lua/r16-C3-3.lua",
+      "repo_path": "paintings/r16-c3/lua/archive/r16-C3-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2079,
+      "repo_bytes": 2079,
+      "sha256": "5f870c3d9b977e15a7f5f041463bbebf777c6389644db545571bbc1b8cfb79eb"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/2026-09-27T01-57-14-840Z_01a0e094-abd8-747b-9881-b958aeef477f - version 02.jsonl",
+      "repo_path": "paintings/r16-c3/sessions/pi/2026-09-27T01-57-14-840Z_01a0e094-abd8-747b-9881-b958aeef477f - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 713144,
+      "repo_bytes": 473248,
+      "sha256": "05dfceb77c3b900c56e6ded3f8e091561c3c111c5831917127b56232e86181f2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/2026-09-27T01-57-14-840Z_01a0e094-abd8-747b-9881-b958aeef477f.jsonl",
+      "repo_path": "paintings/r16-c3/sessions/pi/2026-09-27T01-57-14-840Z_01a0e094-abd8-747b-9881-b958aeef477f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 35102014,
+      "repo_bytes": 477808,
+      "sha256": "738f661427489782842fc0d7c46267a47da44044adcf1e0e8c788c24678c98a9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-c3/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 176169,
+      "repo_bytes": 167362,
+      "sha256": "d42fd190babec66f0ab812012cce3d387711fb0a5216a476de2626aff26547d0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-c3/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 171766,
+      "repo_bytes": 166476,
+      "sha256": "807e88d7ecbbe227d319bafcf16f01d3ae0904a21b5ff4cc656a400a3ad41d57"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-c3/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 175100,
+      "repo_bytes": 166467,
+      "sha256": "5914352d003d818823dabb270c0409ff450d7c9bd908b8279230b7a666b66b17"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-c3/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 172822,
+      "repo_bytes": 167360,
+      "sha256": "edafafa54c1c012cbd3d5a7b55d62f05b561fd6a74ab81f9c79344bf7b171921"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-c3/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 171753,
+      "repo_bytes": 166465,
+      "sha256": "9bfd602fd10dae03075876fcae1fc8846573a2078bb2b9b4a4664a1775598be0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r16-c3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 175113,
+      "repo_bytes": 166478,
+      "sha256": "088dafec1f455bb63009802e75988101be93214c121480a1f6708338f9d27b0d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r16-c3/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 19194,
+      "repo_bytes": 16772,
+      "sha256": "70ada10418eed9fe67e61feafbd7c827917e8550e5a62b2076d4c7c1bb36a087"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/c3-r0.3-20s-open0.5.mp4",
+      "repo_path": "paintings/r16-c3/video/c3-r0.3-20s-open0.5.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 677946,
+      "repo_bytes": 677946,
+      "sha256": "49e3dcda24c645837aec81504be11feb70d166fbb881b42e683372c278bdc138"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/c3-r0.3-20s.mp4",
+      "repo_path": "paintings/r16-c3/video/c3-r0.3-20s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 661285,
+      "repo_bytes": 661285,
+      "sha256": "fb25cee6fb60aee6399e7626600c7d7fe535c359c153270e38ff791c3c89cf30"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3 - version 02.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 678269,
+      "repo_bytes": 678269,
+      "sha256": "6b57f71de2d9e994029a1fa594a40c7ce1c576fb564d0197b20372b617008c8e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3 - version 03.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3322030,
+      "repo_bytes": 3322030,
+      "sha256": "dc9be913c31515f3294bee297ab939af7715856e7028c2f4060d1ffe0dee3002"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3 - version 04.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 675141,
+      "repo_bytes": 675141,
+      "sha256": "81572e190683557918095e90544ffcd5b345ab1f2aa6f708c905df9cdfe406f7"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2142522,
+      "repo_bytes": 2142522,
+      "sha256": "ab3548ab6f6a66fd90d01e297ca28155583c52ff9021a73585ff150a58b0caf8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1926629,
+      "repo_bytes": 1926629,
+      "sha256": "a8aa38496e709e100d53fcc2218dfa4a00181f1f70bf90d71aa7206d84c82dec"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3-1920.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2139394,
+      "repo_bytes": 2139394,
+      "sha256": "f3e13f3f636482e9e496c271debe6e645aa771fe193db051602da293089a2f1b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3-720 - version 02.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 437010,
+      "repo_bytes": 437010,
+      "sha256": "a1eb461d407dca4762ac90e9011936deb874efaaada3a1e5086b0ad6d0ea4507"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3-720 - version 03.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 399151,
+      "repo_bytes": 399151,
+      "sha256": "cf8d346e8ea05da72fa3e8c7949dbfa4dc171e4f553ad005d39d6b7bec52876d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3-720.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 440138,
+      "repo_bytes": 440138,
+      "sha256": "35a36eeb6769e0b87ab70cdd46acdc52f665fa6c73c80098dacfc041bba7c905"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3-social-1920.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2193359,
+      "repo_bytes": 2193359,
+      "sha256": "ada0d2388eaaf48bdd0576694197e5647e68898360cf6bc965cf16410e1393e4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 The Punt at Sundown (Claude Opus 5.5)/video/r16-c3.mp4",
+      "repo_path": "paintings/r16-c3/video/r16-c3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1413073,
+      "repo_bytes": 1413073,
+      "sha256": "809a7d1e24906f68650b7b9fe57c0bcecc94001a27389328527344d87085f3ac"
+    }
+  ]
+}

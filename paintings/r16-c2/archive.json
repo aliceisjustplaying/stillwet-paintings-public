@@ -1,0 +1,663 @@
+{
+  "archive": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)",
+  "identity": "75c237",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/finals/C2.png",
+      "repo_path": "paintings/r16-c2/finals/C2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1758169,
+      "repo_bytes": 1758169,
+      "sha256": "4630b1169f945012d2018de78b31155454f880fc4180cf43268ff980fdba2471"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/finals/painting.png",
+      "repo_path": "paintings/r16-c2/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2015453,
+      "repo_bytes": 2015453,
+      "sha256": "ac493a6d8296441b36eafe3a2efa6e9afa40dd3ee860fcc88af5bd80a009ee72"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/finals/r16-c2 - version 02.png",
+      "repo_path": "paintings/r16-c2/finals/r16-c2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5777168,
+      "repo_bytes": 5777168,
+      "sha256": "4c147e9ea04d8f81ccb59bd0da92a8b3699a592a16f2566e2a89a9309f542f8a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/finals/r16-c2 - version 03.png",
+      "repo_path": "paintings/r16-c2/finals/r16-c2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1612009,
+      "repo_bytes": 1612009,
+      "sha256": "77986d18003013e511ae3e78d3c23f78389c7477cac457584c0e8812ed04b7e4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/finals/r16-c2.png",
+      "repo_path": "paintings/r16-c2/finals/r16-c2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8876768,
+      "repo_bytes": 8876768,
+      "sha256": "d85a4fe8d5cd1d6307bb985d1c74b159bef791df2439cef3970c4e628c2aa9d6"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-c2/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c10.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1249,
+      "repo_bytes": 1249,
+      "sha256": "800162e4a967467bee4eaf6a34dde5bf790b3e325a4dc2fde06b54e91c160da4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c13.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 753,
+      "repo_bytes": 753,
+      "sha256": "9b36c00e92727be7e328732804311c5f4e40bd4e678e9c18af05c9c8086dfe27"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c14.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 513,
+      "repo_bytes": 513,
+      "sha256": "4c62f96a23d729cde5c05394cd4f84c572df3d363847977d3df496606d307c37"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c16.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1511,
+      "repo_bytes": 1511,
+      "sha256": "e1daadf19817177a1286e033487ff7f0e6efa8b44bcfcabbbdd3b50e7db5a92e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c20.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 917,
+      "repo_bytes": 917,
+      "sha256": "54814f21615b4a489f5c186dc11ffb44d7957addaa19cfbc368a95b4d074d8e5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c21.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1576,
+      "repo_bytes": 1576,
+      "sha256": "99e89557e0e9985bc16f0a7a858995540afa91b0c56dcdef8c423bf9e1ceb6be"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c23.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 666,
+      "repo_bytes": 666,
+      "sha256": "c357fb97630fee833a24a96229b14dae79fb044d25b5ee91069d42a100ab71ea"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c24.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 417,
+      "repo_bytes": 417,
+      "sha256": "2253be2b332347e23ab3364e412fa06e66dfa4f1d53dae5e74038ac50a10c24c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c26.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c26.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 913,
+      "repo_bytes": 913,
+      "sha256": "bc5d3f5501c9b3e847a626ba63729752b643a07ccc2dad8b4dd172df9d239e2f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c27.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c27.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 704,
+      "repo_bytes": 704,
+      "sha256": "095ebc4a2dbdb216a8efeaaa32e0712d0b852f054f27e3b037355bf9f6bb4c86"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c29.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c29.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 644,
+      "repo_bytes": 644,
+      "sha256": "5fb5dcd21462c1ceaec577a4a8796db5a816f3dbfa77afdc0da7bf663791323c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c3.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1078,
+      "repo_bytes": 1078,
+      "sha256": "07328257544a4ad37bf8595b81d312e535ff636635c1ba7c273dc7b08d85ab92"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c30.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c30.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 784,
+      "repo_bytes": 784,
+      "sha256": "041c78d7238a849d45600b5496b8069c73443b624a8b72df1805b4646e7f6bd9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c31.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c31.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 673,
+      "repo_bytes": 673,
+      "sha256": "9bbeb832f7ea966ec9faa9300956a6cc239f4757def69f4d0050bcfebaa2109b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c33.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c33.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 658,
+      "repo_bytes": 658,
+      "sha256": "e8f74e6d0266a50c2a651c9d40385fbce30064c54699c5439537572060a999b9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c35.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c35.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 366,
+      "repo_bytes": 366,
+      "sha256": "ade575f16be40ec465f03b729a79ebe1cfa273eff8d113e996e6bce380591aeb"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c36.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c36.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 689,
+      "repo_bytes": 689,
+      "sha256": "ba8961a02c1df94880a5d997092bca3a3dad23d7e9e47080e3d507e68b3a2c3c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c37.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c37.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 876,
+      "repo_bytes": 876,
+      "sha256": "43961d854f1f2562ceb72ab3fbcd38c4b4d4c88eea3d446422fcbbc7136ab929"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c38.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c38.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 689,
+      "repo_bytes": 689,
+      "sha256": "8ddb5c0c1d8f5ae9e83760bf66cdf50c1f36a62b45efad9d51266bc77bc22c0c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c39.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c39.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 725,
+      "repo_bytes": 725,
+      "sha256": "519315f285aa342fc1346c5540205dd5a2d85c207054a9cb15dccb19dd3a3484"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c4.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 687,
+      "repo_bytes": 687,
+      "sha256": "10837623cb383343a19200494412fe090e94a3559ee81fb84e9ae2de1baf1b97"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c40.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c40.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 316,
+      "repo_bytes": 316,
+      "sha256": "a4dbf3851759bb48dbd6c42ca99d291f3e285b54f77f4c15524fe6d6d50b79f5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c42.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c42.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 363,
+      "repo_bytes": 363,
+      "sha256": "6b2941735a9cff7ffe2202a88db78c33d4fb955f5fccaef9886deb138b7507f9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c44.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c44.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 319,
+      "repo_bytes": 319,
+      "sha256": "e9651ddffa9c742fdf9fdb34a6091a7ed6595eb6e5b5ca72d4fb89f5ca3a2865"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c46.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c46.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 934,
+      "repo_bytes": 934,
+      "sha256": "6d7be87b8eaf833cea9d55cb02f3f1e24f24c7b856dd720ade64f42fee47944e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c47.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c47.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 429,
+      "repo_bytes": 429,
+      "sha256": "455be0be93a26d3161ef74bfa63db1f0456158ad230d06f13017a01f98890ecd"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c49.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c49.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1179,
+      "repo_bytes": 1179,
+      "sha256": "997a97defe75b7f99f9106e7fc093c12cda7e421adb7415bede5caa05e26a2c9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c5.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1630,
+      "repo_bytes": 1630,
+      "sha256": "92e95f97fc69f61cfaebf0c94eb2b0ab059c849c753e2a6744467ef01b08e1c5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c51.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c51.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 965,
+      "repo_bytes": 965,
+      "sha256": "64a260f13925b39876cd6f76d1a0c6defa68bc30d7b68575c855dedc99a1aa41"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c52.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c52.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1029,
+      "repo_bytes": 1029,
+      "sha256": "684b0f5ac82da5ecc99912ccc17cb85a1a27c50d41ecb014c42f7f2f21be0a7d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c53.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c53.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 839,
+      "repo_bytes": 839,
+      "sha256": "ddd0bb8c4ade7a686c9b615784018932f277523b8e471a69a8358375f78083b0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c54.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c54.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1232,
+      "repo_bytes": 1232,
+      "sha256": "5dc40502576148cf5ddc96259496b0d8393d7efeb1430c11ef0ffb026edf20e7"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c57.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c57.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 508,
+      "repo_bytes": 508,
+      "sha256": "65f99cccef521a2011656ebd8a2d930a96317f1c6ce7d3573e4ac011feb1ebb7"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c58.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c58.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1018,
+      "repo_bytes": 1018,
+      "sha256": "7597f8f965ad9c2acf0609590458ece73c82bde6a070b8f2fdff978acd39ffe2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c60.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c60.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 635,
+      "repo_bytes": 635,
+      "sha256": "5e7aea4eecdc44c1f95cddd3e967a38240f728a7c5d2e572fe377d221c01db31"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c63.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c63.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 980,
+      "repo_bytes": 980,
+      "sha256": "4a179cb8e11ab41663ce76a13e47c512d1a1932242c7b8de76b36aeaf9451736"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c64.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c64.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 915,
+      "repo_bytes": 915,
+      "sha256": "1080ceee830da77a22a5e0f158ce8e76f3bdefbfb34147387fca26b6816b3f56"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c67.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c67.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 964,
+      "repo_bytes": 964,
+      "sha256": "c1ddf26491e2375ea78e11165ff78c008e5639eebf89e76a4e11e60045714ea4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c68.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c68.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 537,
+      "repo_bytes": 537,
+      "sha256": "5743217f1cb42025f81ee8373f67a2a7a169fccdb2e493ddb4cb5078773cdbd8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c69.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c69.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 474,
+      "repo_bytes": 474,
+      "sha256": "83df50b113fb72d2b1c7dc746fb42f2f45a21221889c0a75619ca69fc038e9fd"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c70.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c70.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1130,
+      "repo_bytes": 1130,
+      "sha256": "cd06fe3f521970591ce6d2a657118a569231e15959fe04df39072ef7ec0f751f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c71.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c71.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 832,
+      "repo_bytes": 832,
+      "sha256": "2c5404645180e77f6e6a0e5e4ffa4e9db29ae17515f6b74903ffcd13fbcdef8e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c73.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c73.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 494,
+      "repo_bytes": 494,
+      "sha256": "f4a5fd384bf9402cec4307ce0b398b02da4a5339b34d0d1592aae47ecef7cd97"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c74.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c74.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 960,
+      "repo_bytes": 960,
+      "sha256": "5b1f3940bfeeb25a040865b135f8b8cd3bd47bec09d7e563a119ee362e6ad2a5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c77.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c77.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 799,
+      "repo_bytes": 799,
+      "sha256": "6c7ff69c5fdba6cfe3cfc30a554971797deedf8605d017c3219f7b0be085500d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/c8.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/c8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 849,
+      "repo_bytes": 849,
+      "sha256": "9d4d8480fdd58066f8a515a20f25d19421730f13657bac0965fd6d3f42e4b436"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 44111,
+      "repo_bytes": 44111,
+      "sha256": "46476475b92513ed2871e373d91d8d0a4bc3001332919e015f00038f60fa228e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/lua/r16-C2-3.lua",
+      "repo_path": "paintings/r16-c2/lua/archive/r16-C2-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2514,
+      "repo_bytes": 2514,
+      "sha256": "f5708cdec528973d46c22ad0346bba2941b847de9756d56650a4e27e2c1cf660"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/sessions/2026-09-27T01-16-14-981Z_01a0e06f-2305-765a-8264-1cb636745ff5 - version 02.jsonl",
+      "repo_path": "paintings/r16-c2/sessions/pi/2026-09-27T01-16-14-981Z_01a0e06f-2305-765a-8264-1cb636745ff5 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 30337800,
+      "repo_bytes": 466551,
+      "sha256": "920f7a1a1910e1fd4e22653c307825b5ca39ee5ee2141dbc8202c4587dbd5e6e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/sessions/2026-09-27T01-16-14-981Z_01a0e06f-2305-765a-8264-1cb636745ff5.jsonl",
+      "repo_path": "paintings/r16-c2/sessions/pi/2026-09-27T01-16-14-981Z_01a0e06f-2305-765a-8264-1cb636745ff5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 687371,
+      "repo_bytes": 459470,
+      "sha256": "d14a099186baa7599dd6cb75c01a060df885f671e6eaef5144cc82aa7f5aeb35"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-c2/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 178517,
+      "repo_bytes": 172576,
+      "sha256": "a1c1b5f6b1ed9bd1a8e81d48ba3644296360aea4b74a2efd11dee0a4ee3d154d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-c2/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 177088,
+      "repo_bytes": 171377,
+      "sha256": "7077662bd0de0c52066e8e1e7382854c007004234a1c29d0c8160c74d9686500"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-c2/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 186769,
+      "repo_bytes": 171434,
+      "sha256": "be45479080c0ef0f35502d5e96635507d418f76886ee24f749b45e9452dba454"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-c2/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 186704,
+      "repo_bytes": 171379,
+      "sha256": "97f528990377dcfc2e9c70b5ab39316e3c811c004470f0e9211129647214a5be"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-c2/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 188133,
+      "repo_bytes": 172578,
+      "sha256": "6261f9d27f8df6dc0855a5f214fe6d52f790a2583e6168b7d3a6ba0bdd646a3f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r16-c2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 177153,
+      "repo_bytes": 171432,
+      "sha256": "ab2ad9553d26aa1529d181a67fbb7bb97c7b82c2371a49b86e4389c57a60988e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2 - version 02.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 494772,
+      "repo_bytes": 494772,
+      "sha256": "0cf143a4b93262421ffdaa2ee921a6879d653a2f7419018de33f83a272b2f897"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2 - version 03.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2178433,
+      "repo_bytes": 2178433,
+      "sha256": "47350f9d46d5a55a3ff1321ee4c03a265e13c59de0874e2c7bcf5f90e10174fd"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2 - version 04.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1058652,
+      "repo_bytes": 1058652,
+      "sha256": "e1b5f7e14b2d7c09981ff7d186ea03137911c6e382205bc8252542a4feaacc78"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1532162,
+      "repo_bytes": 1532162,
+      "sha256": "28d39820ffbad0d52db726d08028df01b195326f26ea0f68e22fc9b37192a75d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1363829,
+      "repo_bytes": 1363829,
+      "sha256": "6ad53bb3b7a43f125d2ca276a9609f58f2abfcc5bf66cdcd39cb5b47e8b7883a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2-1920.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1529034,
+      "repo_bytes": 1529034,
+      "sha256": "596ecdcb3bdfc13c7880ac6ddd8f79dc196906521e6ef5b4e8fc7d04c36a7963"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2-720 - version 02.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 337206,
+      "repo_bytes": 337206,
+      "sha256": "ff0e0423e8235b532351eb80ce6d1a74299fda6ee45c2350362001ea76b54a2e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2-720 - version 03.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 334078,
+      "repo_bytes": 334078,
+      "sha256": "ae86e58ca93ccf4e26643798b760e2ba53aaf4b00a47c145b9720fa86c2100e9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2-720.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 305951,
+      "repo_bytes": 305951,
+      "sha256": "af205b9ce926dad5a3802d0194e3d40673d0ba30e9347bfd70c1fc01b7d43934"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2-social-1920.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1534061,
+      "repo_bytes": 1534061,
+      "sha256": "561159a402be0e929ed6b7d2c571b5783f6491c890f52765db6d1c39b788f2d3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Low Water, After Sunset (Claude Opus 5.5)/video/r16-c2.mp4",
+      "repo_path": "paintings/r16-c2/video/r16-c2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 491644,
+      "repo_bytes": 491644,
+      "sha256": "651296432fb904d825bec7b240cdc4062b67f8eac9a23494c7dd4bc99b17b34b"
+    }
+  ]
+}

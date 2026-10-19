@@ -1,0 +1,231 @@
+{
+  "archive": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)",
+  "identity": "7b31aa",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/finals/D2.png",
+      "repo_path": "paintings/r16-d2/finals/D2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3453410,
+      "repo_bytes": 3453410,
+      "sha256": "4f6547b1a7ccca6f59b177aede9c65dd45cd98f773220d99d42620fb528e37a9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/finals/painting.png",
+      "repo_path": "paintings/r16-d2/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3853041,
+      "repo_bytes": 3853041,
+      "sha256": "7feac9adf9ce449f93567c9d3537212248d5da5fd7b3da5017c550896656ec7c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/finals/r16-d2 - version 02.png",
+      "repo_path": "paintings/r16-d2/finals/r16-d2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3220311,
+      "repo_bytes": 3220311,
+      "sha256": "1e47ce3761b2fc95cc748a6d2840ac244f3b7a8cab5c3cd114cb46b71770fb9b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/finals/r16-d2 - version 03.png",
+      "repo_path": "paintings/r16-d2/finals/r16-d2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8684457,
+      "repo_bytes": 8684457,
+      "sha256": "aa69cce24151ee403a69fd3a53ea74936349747096131f77f172ad14f3af64d5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/finals/r16-d2.png",
+      "repo_path": "paintings/r16-d2/finals/r16-d2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8307371,
+      "repo_bytes": 8307371,
+      "sha256": "863c3e01067e5b704412bbc0a90380ee31667ee599ab1a996f9890393e8a206c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-d2/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/lua/painting.lua",
+      "repo_path": "paintings/r16-d2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 30165,
+      "repo_bytes": 30165,
+      "sha256": "38a23dad26beef3f71fd4b1b0b570637940a540dedd2cd2c8127f59166c54b66"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/lua/r16-D2-3.lua",
+      "repo_path": "paintings/r16-d2/lua/archive/r16-D2-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3953,
+      "repo_bytes": 3953,
+      "sha256": "c4b879dc902771a78ab4c1eaf89b06ecec14951f7f2be9ed86dacb9e927fc256"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/sessions/2026-09-27T00-20-59-624Z_01a0e03c-8c67-7205-bcec-e3fe20aeee40 - version 02.jsonl",
+      "repo_path": "paintings/r16-d2/sessions/pi/2026-09-27T00-20-59-624Z_01a0e03c-8c67-7205-bcec-e3fe20aeee40 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 569456,
+      "repo_bytes": 355577,
+      "sha256": "595b545e107d4ed0a7e89c2666cf0142edc25bc294088bd404b0b39ac8b7e5b8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/sessions/2026-09-27T00-20-59-624Z_01a0e03c-8c67-7205-bcec-e3fe20aeee40.jsonl",
+      "repo_path": "paintings/r16-d2/sessions/pi/2026-09-27T00-20-59-624Z_01a0e03c-8c67-7205-bcec-e3fe20aeee40.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 12915016,
+      "repo_bytes": 357513,
+      "sha256": "41202aaa4157df04c0be290edee329759115781421642823a113799a05357c98"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-d2/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 129162,
+      "repo_bytes": 125246,
+      "sha256": "811551ebeffd33c6e43b0a65e5d02d8b7812b2babd3b01626c8e8efcef639479"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-d2/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 131153,
+      "repo_bytes": 125250,
+      "sha256": "342fa6c7e99efddd52626acfa257325ad59d35bae8af7f04475969a70750f70c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/sessions/events.json",
+      "repo_path": "paintings/r16-d2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 130851,
+      "repo_bytes": 124997,
+      "sha256": "6d2636a729865cb96445cc9a8183b0e31b04fbfb46f4b3d8d0c57b7c600ad9f9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2 - version 02.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 522458,
+      "repo_bytes": 522458,
+      "sha256": "c017c582800bc6385c22dda48872b6e7c9a8e441816aca515a12bcd375f1e957"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2 - version 03.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1791871,
+      "repo_bytes": 1791871,
+      "sha256": "b1027ce24363c14c84652d84408360de3fa86c24426112ca13f7afc33ca250c5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2 - version 04.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 48,
+      "repo_bytes": 48,
+      "sha256": "64d52708f594e8a1a3a4f76deef7275c8ad5184480c9473d8f60a0c9b6f4628b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2 - version 05.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2 - version 05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1075026,
+      "repo_bytes": 1075026,
+      "sha256": "fb15dc9148a757762135f878e84537b5ef1392528d7295736659ffbca41d2a73"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1905832,
+      "repo_bytes": 1905832,
+      "sha256": "2be7edaa449ac3fc8556a72975051ebeb34218eca346acd234e5ed28f54c5c0d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1902704,
+      "repo_bytes": 1902704,
+      "sha256": "ff3b21f05b9c7f1e7ffbc25734fa4fc4e14cf79dfd666bebf4f7b553227427fe"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2-1920.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1636085,
+      "repo_bytes": 1636085,
+      "sha256": "7d5c41636b71c313b5d795376a6527fa62400d5662f29b4d566847b73aa83f68"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2-720 - version 02.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 300280,
+      "repo_bytes": 300280,
+      "sha256": "89d450146e8ff4ac113134cf6923d7ecb446a9d1a75ca93109a93590d19c912e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2-720 - version 03.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 341480,
+      "repo_bytes": 341480,
+      "sha256": "d9d85b67a772db79e7e27a44fca583b9746b14ed4821c53bce9c51b047203c6a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2-720.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 344608,
+      "repo_bytes": 344608,
+      "sha256": "a747dae61536be3eeca9e86825735cc735bcb0c94cf0c9927c7af28b953a6380"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2-social-1920.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1969433,
+      "repo_bytes": 1969433,
+      "sha256": "78635f3e889d4518b4d749de5ad155b1209c3289a1002bba39594e9c3c24a90c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Quince, Stoneware Pitcher, and Bay Leaves on a Wooden Ledge (Gemini 3.8 Flash)/video/r16-d2.mp4",
+      "repo_path": "paintings/r16-d2/video/r16-d2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 519330,
+      "repo_bytes": 519330,
+      "sha256": "b14dd035e4a5fd7baa3c70b2ed799f8d819119ed24b5ab4fa8ece1bf1324318b"
+    }
+  ]
+}
