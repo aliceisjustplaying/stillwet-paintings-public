@@ -1,0 +1,339 @@
+{
+  "archive": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)",
+  "identity": "r07-3",
+  "files": [
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/finals/r07-3 - version 02.png",
+      "repo_path": "paintings/r07-3/finals/r07-3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8591956,
+      "repo_bytes": 8591956,
+      "sha256": "b56f70def6e3d387a3310b6f3276a19177436004fb64333005a40b4272b588a9"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/finals/r07-3 - version 03.png",
+      "repo_path": "paintings/r07-3/finals/r07-3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11438663,
+      "repo_bytes": 11438663,
+      "sha256": "ceddcd0a9744cc7271da379d0e9c1ec276b4af412ae90dc3d992c1bef8852ea5"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/finals/r07-3.p1000.png",
+      "repo_path": "paintings/r07-3/finals/r07-3.p1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 830924,
+      "repo_bytes": 830924,
+      "sha256": "4fca0f3252a1933f2601988333a655fe47225cad0ddb413c8ab3ec4de01ceda7"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/finals/r07-3.png",
+      "repo_path": "paintings/r07-3/finals/r07-3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7653137,
+      "repo_bytes": 7653137,
+      "sha256": "545c32e8b77fd59bf9e3d6c8b6a1b18a3a9545f22369407e43b57c71d044ace8"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c10.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2265,
+      "repo_bytes": 2265,
+      "sha256": "e8077e5d9f274fdeeebfa15081b16bb9273895e5fe35c744f815f269e6e3d418"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c11.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1107,
+      "repo_bytes": 1107,
+      "sha256": "6ab9ee04c8d85a4451c9b2521b1a6364c5156c73c2e0dd6003d97e03a2c0d7a1"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c12.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1644,
+      "repo_bytes": 1644,
+      "sha256": "3e592708f4885e6f5dafd65411c3152f70517ab255b633ede253cf5682fdb3da"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c13.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 785,
+      "repo_bytes": 785,
+      "sha256": "b1c66e84c349b500b8ecf9a553b623a9ab9c22d908342c325cef677f381a2c88"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c14.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1352,
+      "repo_bytes": 1352,
+      "sha256": "c5823fcc629cbfbf44be00dcfc5582a270b13b9240eecce5d5d0e802bf19b443"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c15.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3920,
+      "repo_bytes": 3920,
+      "sha256": "cdb78deaddcdc5359ddbacbbd0814be58fca11ace4dde5755bd5adf8488284c7"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c16.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 457,
+      "repo_bytes": 457,
+      "sha256": "482fcec88f757add97022e3f7752fefe27dcf04516fe0a9723df50f259c31391"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c2.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2109,
+      "repo_bytes": 2109,
+      "sha256": "aa94b433a87e1741c2300f0267371ccc92c8687c1da53bb781b8be3c56a10ef6"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c3.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 680,
+      "repo_bytes": 680,
+      "sha256": "e0a29c3c5d92622bf1b8624b0470ad76df338862549a3cef23b35fde3e85bbdc"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c4.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1283,
+      "repo_bytes": 1283,
+      "sha256": "0eca5355887695bb18e6c7a49558ce086f33b0a298b07c5c944e93351dd7247e"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c4b.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c4b.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1252,
+      "repo_bytes": 1252,
+      "sha256": "a62d74e8edc1bd747062af843d2f679a0e2e387f0464df288f09446114443fbc"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c5.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1307,
+      "repo_bytes": 1307,
+      "sha256": "764c8ddb9b6dd08454e1ece9a57d4409adf14df805daaa87287e0745678b4b32"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c5b.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c5b.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1300,
+      "repo_bytes": 1300,
+      "sha256": "7556c9269cf646cb9eafac2ef3f856d44acb823a1221ddcfe66ec6f18568ac57"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c5c.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c5c.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1320,
+      "repo_bytes": 1320,
+      "sha256": "b086b3a591e70c9b7bd7decf7074030f9dc62a55ac7eea15c34939b821f19ff6"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c5d.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c5d.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1388,
+      "repo_bytes": 1388,
+      "sha256": "0f44d0fa4c84bece6af09af77c0d019573d9c7aaf1d83cb31dfb35dd35bdbb70"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c6.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 997,
+      "repo_bytes": 997,
+      "sha256": "6d5e17c6e0415a8510f64111aba696b16e0eb2f1d33d127bf6d1f030f3002a30"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c7.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 568,
+      "repo_bytes": 568,
+      "sha256": "9017e50b86e7aad0c8925b0f7f35cbb7ad3f18972cf0e12920e4a8f806b64429"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c8.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1861,
+      "repo_bytes": 1861,
+      "sha256": "85c2b35547e2711fd444488b1c48bfe404ae109be7976543e73b17560f24dab3"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/c9.lua",
+      "repo_path": "paintings/r07-3/lua/archive/c9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2477,
+      "repo_bytes": 2477,
+      "sha256": "2a27d212ca3f9d920212f2e4c50ba729bcc291dfcb4e6a43d54d26cc6e823bc7"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/lab.lua",
+      "repo_path": "paintings/r07-3/lua/archive/lab.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2856,
+      "repo_bytes": 2856,
+      "sha256": "d3b25dc62b2b5729b445ff1ae4ab3f3e4764883c02b1f19df210a4852f450511"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/lab1.lua",
+      "repo_path": "paintings/r07-3/lua/archive/lab1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1103,
+      "repo_bytes": 1103,
+      "sha256": "5823d8abaf4c76fa66eea1c164069d61ba3ad98f45381420f4ed2e3c14523130"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/lab2.lua",
+      "repo_path": "paintings/r07-3/lua/archive/lab2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1386,
+      "repo_bytes": 1386,
+      "sha256": "599c2050a3e989a8bf1ef0b8450df029c2a3570cd107e73652b117a54feeca1a"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/r07-3.lua",
+      "repo_path": "paintings/r07-3/lua/archive/r07-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 24006,
+      "repo_bytes": 24006,
+      "sha256": "e0b3c9ed277d41028b2f81a68c7aea7235b9db5f4f4cb29b28d0819f9e00084c"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/t1.lua",
+      "repo_path": "paintings/r07-3/lua/archive/t1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 694,
+      "repo_bytes": 694,
+      "sha256": "f0d4c059675fec6b7cd423a45497c185130dd41bf2134c2ac5829e59a7382356"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/lua/t2.lua",
+      "repo_path": "paintings/r07-3/lua/archive/t2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 310,
+      "repo_bytes": 310,
+      "sha256": "0dfafff7a8776ec92dd043236cbf602c378d727377f69e366109d64837c78b1c"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/sessions/2026-09-24T22-18-22-809Z_e4603d21-4a6d6fa5-a946960e-fccb.jsonl",
+      "repo_path": "paintings/r07-3/sessions/pi/2026-09-24T22-18-22-809Z_e4603d21-4a6d6fa5-a946960e-fccb.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 12234510,
+      "repo_bytes": 636214,
+      "sha256": "556600d1c896ba88248b4ee37043eb039b25dd7d7e516c1368ab934e44f732f8"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r07-3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 179198,
+      "repo_bytes": 174072,
+      "sha256": "ca6c2c941ec19e0be66b211328106a59be938f3c27ae8f55521c0eca02a0599c"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/video/r07-3 - version 02.mp4",
+      "repo_path": "paintings/r07-3/video/r07-3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 566867,
+      "repo_bytes": 566867,
+      "sha256": "e0363d329147170fd3d5235de6540b1035d80605b886adf7c927352480dffbce"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/video/r07-3 - version 03.mp4",
+      "repo_path": "paintings/r07-3/video/r07-3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 499440,
+      "repo_bytes": 499440,
+      "sha256": "e834e24190374c2400c5bdafa0bc5f0d1615f7f9138681aa0fea708381f545af"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/video/r07-3 - version 04.mp4",
+      "repo_path": "paintings/r07-3/video/r07-3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2678408,
+      "repo_bytes": 2678408,
+      "sha256": "319005fdeb08f1a2d88228c6bd6befd01aeb42b36e2e0aca80c5433105d9a827"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/video/r07-3-social.mp4",
+      "repo_path": "paintings/r07-3/video/r07-3-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 578802,
+      "repo_bytes": 578802,
+      "sha256": "b319e3b31a05c4df2fc9d16355c7ab1204bf0228a5f7c7747f03dd7de62204a6"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/video/r07-3.mp4",
+      "repo_path": "paintings/r07-3/video/r07-3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 563739,
+      "repo_bytes": 563739,
+      "sha256": "211d12074258b63adfe1b4404bda68594d5b564b093ae8bd831ff06dd6756e59"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Evening on the Bodden (Claude Opus 5.5)/video/r07-arm3.mp4",
+      "repo_path": "paintings/r07-3/video/r07-arm3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4081752,
+      "repo_bytes": 4081752,
+      "sha256": "2160346efc2d58afc465f8429d319c06f84ceecbe1d5715f6b37d77ac5ca840d"
+    }
+  ]
+}

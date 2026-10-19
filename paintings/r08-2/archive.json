@@ -1,0 +1,105 @@
+{
+  "archive": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)",
+  "identity": "r08-2",
+  "files": [
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/finals/final.jpg",
+      "repo_path": "paintings/r08-2/finals/final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 228344,
+      "repo_bytes": 228344,
+      "sha256": "fbc2e34912d8e8d72c54840bf4c921d07ad9a6ec53b180b49d0ef9ed5d6ec300"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/finals/r08-2 - version 02.png",
+      "repo_path": "paintings/r08-2/finals/r08-2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8907462,
+      "repo_bytes": 8907462,
+      "sha256": "4a387678d915c3cef5aeb3eeee12432fd0f0996a15fc9b314e6ee27342f3636e"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/finals/r08-2 - version 03.png",
+      "repo_path": "paintings/r08-2/finals/r08-2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9583302,
+      "repo_bytes": 9583302,
+      "sha256": "0dfcf7b3d5ce0a1758fcf9dda5c76505896ebabe92ee0a236f341e619242e9b4"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/finals/r08-2.png",
+      "repo_path": "paintings/r08-2/finals/r08-2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 12273509,
+      "repo_bytes": 12273509,
+      "sha256": "0a4eedb198dd09ab4eab53087ba1da2077b0e9eadc5ef3422e94bed8040590de"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/sessions/2026-09-24T23-28-51-478Z_39663abb-2c0e21e7-564efa86-1161.jsonl",
+      "repo_path": "paintings/r08-2/sessions/pi/2026-09-24T23-28-51-478Z_39663abb-2c0e21e7-564efa86-1161.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 11495639,
+      "repo_bytes": 597738,
+      "sha256": "ed7a954eb8d9aa63693451bc0de4eba567715dddb5c64bb43c89991be6b3c6ee"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r08-2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 290508,
+      "repo_bytes": 287077,
+      "sha256": "d14ee877eb9dd3f755d732e8fb9b0fb588feefd5a4799bcd499b3137d318cc32"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/video/r08-2 - version 02.mp4",
+      "repo_path": "paintings/r08-2/video/r08-2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4335828,
+      "repo_bytes": 4335828,
+      "sha256": "518efcc66d2f1654f62fc31efcc6bfec7bdf2a1d73b34e568045626c58dbd412"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/video/r08-2 - version 03.mp4",
+      "repo_path": "paintings/r08-2/video/r08-2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3145319,
+      "repo_bytes": 3145319,
+      "sha256": "a90911629ec70d3e622511d94cb74138ed3a51d33376c946f5498bd64abeb79c"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/video/r08-2 - version 04.mp4",
+      "repo_path": "paintings/r08-2/video/r08-2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6125168,
+      "repo_bytes": 6125168,
+      "sha256": "f1d8213d53c83c361aa14e529eff966f108d9f983b0331bffd1dc04a14e5234a"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/video/r08-2.mp4",
+      "repo_path": "paintings/r08-2/video/r08-2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5370868,
+      "repo_bytes": 5370868,
+      "sha256": "5db11848343f81446685cf186d52c275a73e0272bc0fe387c2d97551a2b4be37"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening, the Way to the Ruined Choir (Claude Opus 5.5)/video/r08-arm2.mp4",
+      "repo_path": "paintings/r08-2/video/r08-arm2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 8231095,
+      "repo_bytes": 8231095,
+      "sha256": "2a15f635ea7f227fef1cfed13ba2e6b30f036872d2407a4339c90c78247cf711"
+    }
+  ]
+}

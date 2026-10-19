@@ -1,0 +1,357 @@
+{
+  "archive": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)",
+  "identity": "r07-1",
+  "files": [
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/finals/final.jpg",
+      "repo_path": "paintings/r07-1/finals/final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 224499,
+      "repo_bytes": 224499,
+      "sha256": "6997d75461cd369080fdd934b961913057d9b8c60069d8125c162402687ee862"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/finals/r07-1 - version 02.png",
+      "repo_path": "paintings/r07-1/finals/r07-1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 12259173,
+      "repo_bytes": 12259173,
+      "sha256": "89c1a747e2455f0a12d9ca86c7e3c39527b71e907c4d318028fcee5274d73ceb"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/finals/r07-1 - version 03.png",
+      "repo_path": "paintings/r07-1/finals/r07-1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9879656,
+      "repo_bytes": 9879656,
+      "sha256": "37d0adfcd4883cc5f1f21d9517734f3c0d109bb34df2af84e7a81b6099e60127"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/finals/r07-1.p1000.png",
+      "repo_path": "paintings/r07-1/finals/r07-1.p1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 948798,
+      "repo_bytes": 948798,
+      "sha256": "4f38fcef4ced0e034d7a45aed781d5ecf989ed66055b478762846d38747dc890"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/finals/r07-1.png",
+      "repo_path": "paintings/r07-1/finals/r07-1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8676423,
+      "repo_bytes": 8676423,
+      "sha256": "c31df4d3dfeaa6abaa114a0bc47a0c1efad63f27c4859bb50d80e5f51b6c2b2a"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c12.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1345,
+      "repo_bytes": 1345,
+      "sha256": "4ef152918cf3dbac5984e84a0a268f59b47b85f0d2d31b46d7253681a10c6891"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c13.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1225,
+      "repo_bytes": 1225,
+      "sha256": "874b9a95862ed89ff1eb9ab816e23b0bd6d89006f350301a11fc834b67ad3efb"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c14.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1410,
+      "repo_bytes": 1410,
+      "sha256": "065f549687d1588c29b13d6885519042c921c65f1815925babe94ced227547c1"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c15.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 600,
+      "repo_bytes": 600,
+      "sha256": "a7ef3d81bf362439a480b9f09b2b001b160e8db35f4a1a3012bcd095ab6c9811"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c16.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1135,
+      "repo_bytes": 1135,
+      "sha256": "5540fb21de40a2e77f5f36b2a05ebf35a9023d2b6615c71ff234376735437910"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c18.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 662,
+      "repo_bytes": 662,
+      "sha256": "0197c360736e8ae18af928337f6d4e8010a85356cd4a4f7656299f2a867cc4ff"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c19.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2878,
+      "repo_bytes": 2878,
+      "sha256": "36cb57f6dfb78ef5e5ab635a9c5a2cdb42e101be2e3a7e49b175882d81729d4f"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c2.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3158,
+      "repo_bytes": 3158,
+      "sha256": "6ea3f088a9720ea4ed350bb25444043c4426ac77fa5313fd81c0d00ba3bff697"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c20.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1532,
+      "repo_bytes": 1532,
+      "sha256": "39942a3a9141541772fc7066b154d38b5019115a17ca1b37363930e9adbeb1b3"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c21.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1317,
+      "repo_bytes": 1317,
+      "sha256": "7cdf92267e22517a269995fd091ad3e85de44298a8a83539ed92a50fc3d59b9c"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c22.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c22.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 799,
+      "repo_bytes": 799,
+      "sha256": "7688f35b91db7bf2d6756c2db8f8cce09e40a4bdb17f7bce961070f5b2de37a3"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c23.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3466,
+      "repo_bytes": 3466,
+      "sha256": "d7c87d132eb275dc2f4d1be5ec1abaf56aa2aa33c1065839d4d2f78673f0c79d"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c24.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1128,
+      "repo_bytes": 1128,
+      "sha256": "c9c658f942481070577bc4dadafedb436ae529b3bca995f6dfe3fbebff411dae"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c25.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c25.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1344,
+      "repo_bytes": 1344,
+      "sha256": "a7bc281f6b3fc70ed88114ce47f376f41cc2d096dbf3c05c21cb7e41948279ea"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c26.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c26.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1431,
+      "repo_bytes": 1431,
+      "sha256": "b78881719791d9f1802cdd22c0e5ffaaf82a5a89ee00e0d6b49958d830e1b364"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c27.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c27.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1836,
+      "repo_bytes": 1836,
+      "sha256": "9a9f26d5deed3165be5d8f2fa0a4bca172bb7ce4f76645e161fe55a0ef108905"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c28.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c28.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1436,
+      "repo_bytes": 1436,
+      "sha256": "c0f5ba90fca6a64b828adcffd8e6996b10696d3c8e356d5222de94f6191dd889"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c29.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c29.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1037,
+      "repo_bytes": 1037,
+      "sha256": "554b2c72b40fb06c7e80453ead4cc5c2fd4a88e1512ea8ced9b34782e7120ae2"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c3.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 878,
+      "repo_bytes": 878,
+      "sha256": "b6015e37ada52158f964e83b1899a66e2617e10c04239ebd368b981e16d25dcc"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c30.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c30.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 594,
+      "repo_bytes": 594,
+      "sha256": "4518d9e40ed3a9b6a9d74711b201fa06693bde304203abb9402fc37a26214ba6"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c31.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c31.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2248,
+      "repo_bytes": 2248,
+      "sha256": "4a00164e84d7ec083a5d6d018c2826d5c8b96bff204f1d722384d99e47057e67"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c4.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 919,
+      "repo_bytes": 919,
+      "sha256": "4661f18faab6924572ee85ea94bc617cef554578113d91ebb8b3598f1747334c"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c5.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1045,
+      "repo_bytes": 1045,
+      "sha256": "0ff233dfae83ea0284f0604615749f9bf42adce42e8fbf35ce485fc9c49fb0f8"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/c7.lua",
+      "repo_path": "paintings/r07-1/lua/archive/c7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1180,
+      "repo_bytes": 1180,
+      "sha256": "7fd243b487958bc1c84c716e78e66a20b2edd46c3f04723d1b7bbcd59cbc1212"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/r07-1.lua",
+      "repo_path": "paintings/r07-1/lua/archive/r07-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 35980,
+      "repo_bytes": 35980,
+      "sha256": "2775f54a4d9d2803d2442721d60206c40a32d2b5ccb13a476546b567b81e30e2"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/lua/t.lua",
+      "repo_path": "paintings/r07-1/lua/archive/t.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1537,
+      "repo_bytes": 1537,
+      "sha256": "34302cd4fe4bca668e6c35f19ccb8a96464ac20d497e0dddbbab5d58686629f4"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/sessions/2026-09-24T22-18-22-766Z_a03452ff-34fbd933-0c408931-4cd4.jsonl",
+      "repo_path": "paintings/r07-1/sessions/pi/2026-09-24T22-18-22-766Z_a03452ff-34fbd933-0c408931-4cd4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 17023390,
+      "repo_bytes": 718358,
+      "sha256": "55456d44c424d3f3021d35fff6799b7c2d8aff73c163f02af7f330a3c503073e"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r07-1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 228591,
+      "repo_bytes": 221615,
+      "sha256": "bcc07d2dfbf1ca6933f3dea6ac71d3853b1e42b26b37ca41a7f4badc1c11b39f"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/video/r07-1 - version 02.mp4",
+      "repo_path": "paintings/r07-1/video/r07-1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 592384,
+      "repo_bytes": 592384,
+      "sha256": "17e094f7c3d52eb178bc6108d6957d95452036923280fa6b9aa81801d99ef4a4"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/video/r07-1 - version 03.mp4",
+      "repo_path": "paintings/r07-1/video/r07-1 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 671862,
+      "repo_bytes": 671862,
+      "sha256": "f6c189eb948164b78860ec615ee1575ce7b84c26e8ea857386b2ec67b132034e"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/video/r07-1 - version 04.mp4",
+      "repo_path": "paintings/r07-1/video/r07-1 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3438662,
+      "repo_bytes": 3438662,
+      "sha256": "0fbb791903ab8bdcb135e7f6014bd2f9bdd75355060401317d380b1d941db551"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/video/r07-1-social.mp4",
+      "repo_path": "paintings/r07-1/video/r07-1-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 707528,
+      "repo_bytes": 707528,
+      "sha256": "3872e4a9ed3b305b68de3852f3323084392601d39fe52adf416d6c53d6dae83a"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/video/r07-1.mp4",
+      "repo_path": "paintings/r07-1/video/r07-1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 674990,
+      "repo_bytes": 674990,
+      "sha256": "d6d9d550f220545a7dab57f3f890653e300fe88c5047aaa0cf6d961c2a21ebaa"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Old Willow at Evening (Claude Opus 5.5)/video/r07-arm1.mp4",
+      "repo_path": "paintings/r07-1/video/r07-arm1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4890245,
+      "repo_bytes": 4890245,
+      "sha256": "e8e9180215acd96ba8f104a0004111a796d326853ac96db922613c0499833a4e"
+    }
+  ]
+}

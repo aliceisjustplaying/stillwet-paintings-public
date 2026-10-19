@@ -1,0 +1,78 @@
+{
+  "archive": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)",
+  "identity": "r07-python",
+  "files": [
+    {
+      "archive_path": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)/finals/final_3200.jpg",
+      "repo_path": "paintings/r07-python/finals/final_3200.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 178860,
+      "repo_bytes": 178860,
+      "sha256": "0c242a659c6bd2be70e09fabe2a048391d2fab5a72be7bcf2d437dd20713c0cc"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)/finals/v13.jpg",
+      "repo_path": "paintings/r07-python/finals/v13.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 186015,
+      "repo_bytes": 186015,
+      "sha256": "b55bc6a8fbdab43c74b6bf9466570a7353d72381b6823a2b27075d58902819f8"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)/finals/v13_3200.png",
+      "repo_path": "paintings/r07-python/finals/v13_3200.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4994244,
+      "repo_bytes": 4994244,
+      "sha256": "84dd50e51dde20bdc52bb649d846ee771ccd1adc44ac1a6befb9d5068821c32d"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)/sessions/2026-09-24T19-44-53-914Z_76f9e54c-1f294a57-5a260467-b25a.jsonl",
+      "repo_path": "paintings/r07-python/sessions/pi/2026-09-24T19-44-53-914Z_76f9e54c-1f294a57-5a260467-b25a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6947170,
+      "repo_bytes": 348231,
+      "sha256": "9b3b0468269317c70d6167ae78916f77f15cdd0cbe831c2f67a0273b56d777a5"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r07-python/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 174457,
+      "repo_bytes": 172519,
+      "sha256": "80dce28eb03f390629b471a1b8004a46893e8953a79f689f3bc0112a29619425"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)/video/r07-python - version 02.mp4",
+      "repo_path": "paintings/r07-python/video/r07-python - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2648282,
+      "repo_bytes": 2648282,
+      "sha256": "a04279fdec0e48fb05080b537e8e713cf4cb37386d4832683448a27f8ceac550"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)/video/r07-python - version 03.mp4",
+      "repo_path": "paintings/r07-python/video/r07-python - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1903091,
+      "repo_bytes": 1903091,
+      "sha256": "84114809b69c9c376f2c0dc158bf7788b4aa8f9730bd72677a272e89da618aac"
+    },
+    {
+      "archive_path": "2026-09-24 r07 The Chapel Gable at Evening (Claude Opus 5.5)/video/r07-python.mp4",
+      "repo_path": "paintings/r07-python/video/r07-python.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3997141,
+      "repo_bytes": 3997141,
+      "sha256": "568a82580688031e10c9bd94e3c80d9c31a550c0b4372192d6b1732d67133f27"
+    }
+  ]
+}

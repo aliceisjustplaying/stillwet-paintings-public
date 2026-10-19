@@ -1,0 +1,339 @@
+{
+  "archive": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)",
+  "identity": "r08-1",
+  "files": [
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/finals/live.png",
+      "repo_path": "paintings/r08-1/finals/live.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 841808,
+      "repo_bytes": 841808,
+      "sha256": "0bac4dadcb606c61fdce1dde7198b2f3d9961cb1cede47a857ae3f04b294b68b"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/finals/r08-1 - version 02.png",
+      "repo_path": "paintings/r08-1/finals/r08-1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8810717,
+      "repo_bytes": 8810717,
+      "sha256": "fa5a7c6fc401641cfc2e661d8adac5b21302e3dc29862966df2fdc56bbc571d3"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/finals/r08-1.png",
+      "repo_path": "paintings/r08-1/finals/r08-1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 12053371,
+      "repo_bytes": 12053371,
+      "sha256": "3c3ada6256c4bca6c16eca2c10d67a03987095146e8e7af3ed1e3f44247dc015"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/finals/v2_3200.png",
+      "repo_path": "paintings/r08-1/finals/v2_3200.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7901810,
+      "repo_bytes": 7901810,
+      "sha256": "5545a903c05c9382d73fcb47ab54c6da4287fdaed1429d9b7b53538498bbb06f"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/08b.lua",
+      "repo_path": "paintings/r08-1/lua/archive/08b.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 619,
+      "repo_bytes": 619,
+      "sha256": "7fd96a581da7597da25ac8c3a3a5f6c57e20475cd23cde9770692eb5ca0c1654"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/frozen_pond_v1.lua",
+      "repo_path": "paintings/r08-1/lua/archive/frozen_pond_v1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 31199,
+      "repo_bytes": 31199,
+      "sha256": "18f49d2d23a8f4c6734fa6d37c6958ae32e3dee696a7ec40e813d9ad245e8127"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/frozen_pond_v2.lua",
+      "repo_path": "paintings/r08-1/lua/archive/frozen_pond_v2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 31576,
+      "repo_bytes": 31576,
+      "sha256": "a4af31b43046a8d53da03f70b1f7a64c5eebcc78afe223ee559563864efed9ed"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00002.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00002.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2511,
+      "repo_bytes": 2511,
+      "sha256": "353fc9d0b1039ade2fcf0b1736eec12c9b0e643151f718fe2a28ca6dcf460969"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00003.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00003.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 555,
+      "repo_bytes": 555,
+      "sha256": "92e05de879c89c317ec6a41fed68c95861030b4de4c814409c10b44f94c3744f"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00004.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00004.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 217,
+      "repo_bytes": 217,
+      "sha256": "dbf8b86527c49aa913fd47132d578576612bc5ad8d04d94e87da14fa0e00f346"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00005.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00005.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 541,
+      "repo_bytes": 541,
+      "sha256": "6e5924fbe9a2aaf9e0e25d11705f49de42af316abb9cd128cbb4d7f622cb9496"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00006.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00006.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1041,
+      "repo_bytes": 1041,
+      "sha256": "d9ba7ec60a9ef5f135d5092c72cda41e7178ca4228d06e9b338c5cca977f9295"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00007.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00007.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 773,
+      "repo_bytes": 773,
+      "sha256": "f693ae5b22ce70d0c32c0c132fe9f182d07186e9c45b3816fc01737cd6da3adf"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00008.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00008.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1033,
+      "repo_bytes": 1033,
+      "sha256": "ff951134a2b3b17d938b28de7bc535252d8c1f47129a5e42405c59f36aef8335"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00009.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00009.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 567,
+      "repo_bytes": 567,
+      "sha256": "959bb7061c64ba51c98151c1d55f1608ee29581c70d2a235ab732c10cd5f0608"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00010.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00010.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2075,
+      "repo_bytes": 2075,
+      "sha256": "163b2e154153e603d55e6bfef533c39a6f0c88ee6ea2dd62c20984dc6f4b8844"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00011.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00011.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2215,
+      "repo_bytes": 2215,
+      "sha256": "621848059a9d77c972b2a41e588317e9e91ea542a7891495b505a2e6ff4cfe61"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00012.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00012.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2361,
+      "repo_bytes": 2361,
+      "sha256": "c066ac98d999db7c438a68e442bb7ea2f6ebd93bdbd184b38dcc1ff29565632d"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00013.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00013.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 991,
+      "repo_bytes": 991,
+      "sha256": "431a9fde1ba6df5c4671f9e8c1e16a3d41bd27b6495965d89d4764741bfb7d70"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00014.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00014.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 878,
+      "repo_bytes": 878,
+      "sha256": "59659781c7b89d166088dc92f28741860ad8cd5e6008f95e9cc7a63d98d124f8"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00015.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00015.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1807,
+      "repo_bytes": 1807,
+      "sha256": "33b01b6f2b2465be8cb9b55c057e765531291a3e7fe44b44e773da0f940bf202"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00016.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00016.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1487,
+      "repo_bytes": 1487,
+      "sha256": "ae8c7d007035d112e46528b32989321bc3b96d5b7dac3801a4001ec1d9a48522"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00017.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00017.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2037,
+      "repo_bytes": 2037,
+      "sha256": "487f0c28c87d343022250fc7fb9a2932c91b84ad73c7dc2120a441994732ddea"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00018.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00018.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2736,
+      "repo_bytes": 2736,
+      "sha256": "095fa417aca70b349e3cc030f1c94145335a4e89a6d50d5e8c1b8453142ca9a8"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00019.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00019.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 588,
+      "repo_bytes": 588,
+      "sha256": "73b3933456c51239c852b7e9f3744f76b8f94cb92c03ad5922486ff33f6d15bc"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00020.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00020.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1207,
+      "repo_bytes": 1207,
+      "sha256": "192be4a290d1b1f3419ee4d89a8fc16b3127bf9e6660336160df5fcb971c8d20"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00021.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00021.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1502,
+      "repo_bytes": 1502,
+      "sha256": "a370cacf9e29605e9cf8b74372047a7bd9658041b63c9503fc32f9aef0278613"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00022.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00022.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1523,
+      "repo_bytes": 1523,
+      "sha256": "c8dba31d573be78b0a809b53b1a39764ee4172b95ddaff80f1b2982b2c47b6f3"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/lua/lua-00023.lua",
+      "repo_path": "paintings/r08-1/lua/archive/lua-00023.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2017,
+      "repo_bytes": 2017,
+      "sha256": "0f5d7a222b488abc5863535dc1a94fbcbf74b2bce7211cb608f0acf303a3bfa9"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/sessions/2026-09-24T23-28-51-455Z_9db3d2a9-e0363be6-8262abff-e6a8.jsonl",
+      "repo_path": "paintings/r08-1/sessions/pi/2026-09-24T23-28-51-455Z_9db3d2a9-e0363be6-8262abff-e6a8.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8452425,
+      "repo_bytes": 561274,
+      "sha256": "c73262993d973bfc67b26c5ca7c94a50598b8f4fa6ba353d49138df587c799af"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r08-1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 185910,
+      "repo_bytes": 181001,
+      "sha256": "7d0832ab1ba18cec3543333d6f37f3bc6b8f6866bd0c0961f4133ee10e650bf1"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/video/r08-1 - version 02.mp4",
+      "repo_path": "paintings/r08-1/video/r08-1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 469398,
+      "repo_bytes": 469398,
+      "sha256": "73f9e3f6d3e857caebe8b3aa8818adc4504687c2eda666924ceec81c95e9a1c0"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/video/r08-1 - version 03.mp4",
+      "repo_path": "paintings/r08-1/video/r08-1 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1595546,
+      "repo_bytes": 1595546,
+      "sha256": "ff756dc448b6dc074ed2964c43c6fb25d2dd5e14a7482b51d7ea72507bda6565"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/video/r08-1 - version 04.mp4",
+      "repo_path": "paintings/r08-1/video/r08-1 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 466270,
+      "repo_bytes": 466270,
+      "sha256": "51437956bd83a56453f36b4d8e613266489ace9c80c86f05397d60d68a07aa86"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/video/r08-1-social.mp4",
+      "repo_path": "paintings/r08-1/video/r08-1-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 461050,
+      "repo_bytes": 461050,
+      "sha256": "86d8683ba8f45057ddfe733c40f6bd450116d62c686302a89cd1d7ef385292ca"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/video/r08-1.mp4",
+      "repo_path": "paintings/r08-1/video/r08-1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 392785,
+      "repo_bytes": 392785,
+      "sha256": "354c58e38d357dad89c6eae67f3f78cba0642161494d6bde36ede223099ab279"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Evening by a Frozen Pond, with a Wayside Cross (Claude Opus 5.5)/video/r08-arm1.mp4",
+      "repo_path": "paintings/r08-1/video/r08-arm1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2352561,
+      "repo_bytes": 2352561,
+      "sha256": "47e659a9f4a9bc9ff5e0f425532d5e36866d66f1967c19a450131a55b7f620e3"
+    }
+  ]
+}

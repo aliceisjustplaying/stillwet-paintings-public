@@ -1,0 +1,29 @@
+# The painter's last reply
+
+(´-ω-`) The painting is finished and committed on branch `r8-arm2` (not pushed). It took about 45 minutes, including five full 3200px renders.
+
+**Title:** *Winter Evening, the Way to the Ruined Choir*
+
+A flat field of snow under a low violet-gray overcast that clears to a pale cold band at the horizon. On the left, in the middle distance, stands the ruined gable of a Gothic choir: one empty lancet window, a stump of its mullion, the wall broken down in steps along its courses. Below it are a few leaning crosses of the old churchyard, all half lost in ground mist. On the right, a near-symmetrical stand of spruces rises out of the same mist, and a gnarled bare oak with snow along its limbs grows from a bank in front of them. On the left bank sits a snow-capped boulder with dry grass. One traveler in a dark coat and hat, with a stick, walks away from us toward the ruin through untrodden snow. His footprints and a shallow trough run back toward us, and there are a few crows.
+
+I wrote every motif by hand as brush gestures: the ruin geometry, spruces, oak, boulder, figure, grass and crows. No engine growth or motif helpers were used.
+
+**Files:**
+- Source: `paintings/src/bin/winter_ruin.rs`
+- 1000px render: `notes/round8/arm2/painting_1000.png`
+- 3200px render: `notes/round8/arm2/painting_3200.png`
+- Notes (composition, method stage by stage and 15 friction items): `notes/round8/arm2/notes.md`
+
+**Top five friction points**
+1. **One RNG and stale checkpoints.** Any change in an early stage re-shapes every later motif: the oak changed completely three times while I worked on the sky. Any helper edit or first-stage edit also forces a full rerender, because the checkpoint error says a stage is stale if "its block and everything before it" changed. My workaround was a separate RNG for the oak (`let mut rng = Rng::new(oseed * 7919 + 13);`) and helper functions nested inside the stage blocks.
+2. **Narrow bands and thin veils don't work well.**
+   - `c.work` on a 4–13-unit band of snow over dark rock laid almost nothing (on the first try, a row of "teeth").
+   - Short strokes laid along a contour leave a scallop at every stroke end.
+   - `st.glaze()` is a 26-unit filbert (`Tool::filbert(self.broad.width * 1.2)`), its strokes left a hard top on the mist veil, and a `Handling` has no way to change its brush.
+   - A clipped badger stops where its mask stops and leaves an edge.
+   - My workarounds: hand strokes along a contour scanned from the mask, a hand-built veil with a 7-unit filbert, and an unclipped badger (`.clip(false)`) over a mask reaching well above the mist.
+3. **A badger over a wet stipple lifts the sky down to the red ground.** The whole sky got rust-orange streaks, and a hog filbert drawn into the wet sky did the same. My fix was to drop that badger pass and paint the streaks with a soft brush that doesn't plough (`push: 0.0, pickup: 0.03, stiffness: 0.3`).
+4. **Some faults only show at 3200px, and a crop isn't cheap.** Brushes ran dry along long oak limbs into dotted chains: the stock `run` is `40.0 + 6.0 * width`, so I raised it to 320. Stroke-end scallops, impasto lozenges and comb-like spruce needles also only appeared at full resolution. Meanwhile a 3200px crop took 18–24 s, about as long as a whole 1000px preview, because masks are built for the whole canvas.
+5. **No mask edge queries, and `roughen` moves edges away from my geometry.** Snow placed from my own geometry floated off the roughened wall. I had to scan `mask.sample` down each column (`top_at`, `top_y`) to find where to put the snow.
+
+Also worth noting: I hit the known NaN trap again (`sin(π·u).powf(0.6)` at u = 1). The engine now panics with "Gesture point 6 is not finite", which found it immediately, but it cost a render. The switch that turns off corner cracks (`corners: false`) is only in `crack.rs`, not in any note. I used it because at this size those cracks read as ruled hatching over the snow.

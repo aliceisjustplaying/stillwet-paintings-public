@@ -1,0 +1,96 @@
+{
+  "archive": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)",
+  "identity": "r07-2",
+  "files": [
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/finals/r07-2 - version 02.png",
+      "repo_path": "paintings/r07-2/finals/r07-2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 10461694,
+      "repo_bytes": 10461694,
+      "sha256": "266b61c29fb9480a1220bacb17c5da20ec053de5f1a9e57d00e9b26874fb5db1"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/finals/r07-2 - version 03.png",
+      "repo_path": "paintings/r07-2/finals/r07-2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8035092,
+      "repo_bytes": 8035092,
+      "sha256": "16b4c31d55026f74beb0071ebba7f4d0d7982b9c3ac7ecf280b405d5cd242108"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/finals/r07-2.png",
+      "repo_path": "paintings/r07-2/finals/r07-2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8916784,
+      "repo_bytes": 8916784,
+      "sha256": "c9691bce42c3ffa2a627bb10aac7e87d41d8b823a57b75dc7fb7a38ba028ba05"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/sessions/2026-09-24T22-18-22-789Z_8aa78f94-a15d7ece-080a43e9-7ced.jsonl",
+      "repo_path": "paintings/r07-2/sessions/pi/2026-09-24T22-18-22-789Z_8aa78f94-a15d7ece-080a43e9-7ced.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6778077,
+      "repo_bytes": 732572,
+      "sha256": "c1e51dec68a971fa658e5da453af9e704f7762d2da5f41b499450f10022bb2c9"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r07-2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 272863,
+      "repo_bytes": 269375,
+      "sha256": "9cd9b9992ed2e3489c0a1d2c4fc79c01cba54c3171a9cc6681dceea45f39f3cb"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/video/r07-2 - version 02.mp4",
+      "repo_path": "paintings/r07-2/video/r07-2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2385921,
+      "repo_bytes": 2385921,
+      "sha256": "f59e9ecaf5d8bcee91fb552d8970b01d0b4cf49c59e10c20ce3ad224f8c1e24e"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/video/r07-2 - version 03.mp4",
+      "repo_path": "paintings/r07-2/video/r07-2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1282853,
+      "repo_bytes": 1282853,
+      "sha256": "0609ebc5168e93b49e561c490be3fa37466dfeea14a403122e5248ac25fdcec5"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/video/r07-2 - version 04.mp4",
+      "repo_path": "paintings/r07-2/video/r07-2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4848907,
+      "repo_bytes": 4848907,
+      "sha256": "c05ecf6a9f22a82f69953e558e5a082eec2e2a43f0cd0796bd0431606fca6c92"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/video/r07-2.mp4",
+      "repo_path": "paintings/r07-2/video/r07-2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1900271,
+      "repo_bytes": 1900271,
+      "sha256": "db8ebaef7e106d2778e99cc50b27125daf14fa9d461f314a92243daae1fad437"
+    },
+    {
+      "archive_path": "2026-09-24 r07 Two Poplars at a Pond, Evening (Claude Opus 5.5)/video/r07-arm2.mp4",
+      "repo_path": "paintings/r07-2/video/r07-arm2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2553531,
+      "repo_bytes": 2553531,
+      "sha256": "ca5ba026d18f2da40bfd2449a614ca0762d4fd772b99f2f1ae9ae4e738e046d2"
+    }
+  ]
+}
