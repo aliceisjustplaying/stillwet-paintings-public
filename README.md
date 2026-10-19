@@ -30,7 +30,7 @@ Existing paths and the site manifest are unchanged. The raw archive stays in pri
 
 Local paths, account names, email addresses and private network addresses are replaced with bracketed markers such as `[local path redacted]`. Tokens and opaque provider signatures are removed. Long quotations from published sources are cut to their first ten words and marked `[…]`, with the attribution kept. Where an archive filename contained a private local path, the R2 reference shows a bracketed redaction in its place. The timestamp and session ID in the name still identify the original in R2.
 
-Four paintings were made with a stealth model offered through OpenRouter, whose terms bar sharing confidential technical information about its performance: r18-bun, r21-frdc1, r21-frdc2 and r21-frdc3. An unfinished studio from the same model, paint-studio-ba1453, was found in the archive. Because of those terms, their session logs, viewer logs and sitting records are left out. Their briefs, journals, Lua and last replies are here.
+Four paintings were made with a stealth model offered through OpenRouter: r18-bun, r21-frdc1, r21-frdc2 and r21-frdc3, plus the unfinished studio paint-studio-ba1453. Their full records are here like every other painting's, session logs included.
 
 ## Credits
 
