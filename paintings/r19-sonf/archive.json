@@ -1,0 +1,249 @@
+{
+  "archive": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)",
+  "identity": "58dfc6",
+  "files": [
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/finals/r19-sonf - version 02.png",
+      "repo_path": "paintings/r19-sonf/finals/r19-sonf - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6489772,
+      "repo_bytes": 6489772,
+      "sha256": "a7a6ef22c79e87f92e5aeae1e84124e84f4e5b9775b7febb5e83bec6c9a86655"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/finals/r19-sonf - version 03.png",
+      "repo_path": "paintings/r19-sonf/finals/r19-sonf - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4298104,
+      "repo_bytes": 4298104,
+      "sha256": "7cb285786f430a4caa0d0cea64605f8ef9215f601f81f393bfc2cf24e557116f"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/finals/r19-sonf.png",
+      "repo_path": "paintings/r19-sonf/finals/r19-sonf.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8275342,
+      "repo_bytes": 8275342,
+      "sha256": "ac48bf4d542e66072de7ab6e9642e6388bc5e2f4bb5e087d9d7f348c75e16add"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/lua/SONF1_finished.lua",
+      "repo_path": "paintings/r19-sonf/lua/archive/SONF1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 224936,
+      "repo_bytes": 224936,
+      "sha256": "1fc91fdff39db8bc46c7d0f8d87259c82035c8b6157e86ce616ab9369310c1d9"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r19-sonf/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 224518,
+      "repo_bytes": 224518,
+      "sha256": "b1f2c7fa715254dafb720aaf544add31fceb7a29251584f8d3bf2108a05b37f7"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T18-26-38-620Z_01a0e944-d99c-76ae-a113-4cc70139cd77 - version 02.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T18-26-38-620Z_01a0e944-d99c-76ae-a113-4cc70139cd77 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 271045923,
+      "repo_bytes": 14385582,
+      "sha256": "960b1bef3b619ae9240a935bfdd853f6bbf5dbb52d4001deed36059c15663c73"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T18-26-38-620Z_01a0e944-d99c-76ae-a113-4cc70139cd77 - version 03.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T18-26-38-620Z_01a0e944-d99c-76ae-a113-4cc70139cd77 - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 18024592,
+      "repo_bytes": 14328272,
+      "sha256": "bdc6074c104f1a99ef2eedd32f1cc438741a202b8a12fdd671c511176c926a0b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T18-26-38-620Z_01a0e944-d99c-76ae-a113-4cc70139cd77.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T18-26-38-620Z_01a0e944-d99c-76ae-a113-4cc70139cd77.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 18741050,
+      "repo_bytes": 14307778,
+      "sha256": "47f83a159ca5ebb6575870d2c60665bc154879274d40144a8222addd9d3b2085"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T21-49-37-109Z_01a0e9fe-add5-719b-9c11-0f81b1314c64 - version 02.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T21-49-37-109Z_01a0e9fe-add5-719b-9c11-0f81b1314c64 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 25261513,
+      "repo_bytes": 908896,
+      "sha256": "db2df129ce3f9e546a87e635dc8593035d896e232f8319a1e502a61d21f8455c"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T21-49-37-109Z_01a0e9fe-add5-719b-9c11-0f81b1314c64 - version 03.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T21-49-37-109Z_01a0e9fe-add5-719b-9c11-0f81b1314c64 - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1469746,
+      "repo_bytes": 901856,
+      "sha256": "e3f05d48132313c253fdb1410ada11d79c6de4b27e2d8c4043bbd3dfcb053e71"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T21-49-37-109Z_01a0e9fe-add5-719b-9c11-0f81b1314c64.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T21-49-37-109Z_01a0e9fe-add5-719b-9c11-0f81b1314c64.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1969479,
+      "repo_bytes": 901480,
+      "sha256": "507b4d07e164223ff94b767167c7a6969d204305601b9e22656910a9cafe8f9d"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T22-16-33-164Z_01a0ea17-568b-71ae-b250-6355a75de3a7 - version 02.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T22-16-33-164Z_01a0ea17-568b-71ae-b250-6355a75de3a7 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 188524,
+      "repo_bytes": 111727,
+      "sha256": "32f55dca2e5d89e6086eee5a6d672415310843bb9842ed89d8d7bdfa3ba1a784"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T22-16-33-164Z_01a0ea17-568b-71ae-b250-6355a75de3a7 - version 03.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T22-16-33-164Z_01a0ea17-568b-71ae-b250-6355a75de3a7 - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 209865,
+      "repo_bytes": 111149,
+      "sha256": "85d737ab378556bd1e28bef2f5e0aafd3adfbf16aa3f6813284911b531ed2820"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/2026-09-28T22-16-33-164Z_01a0ea17-568b-71ae-b250-6355a75de3a7.jsonl",
+      "repo_path": "paintings/r19-sonf/sessions/pi/2026-09-28T22-16-33-164Z_01a0ea17-568b-71ae-b250-6355a75de3a7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10625923,
+      "repo_bytes": 113279,
+      "sha256": "1d05a216a0d3faf268df03031f1049a4f658e4e5d6dbc0a50680fde7019c2abe"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1814381,
+      "repo_bytes": 1781914,
+      "sha256": "8f9faed8f0d861dc05b4f9983dcdbcc0499ed2d54fae2e4b3fc2c5f6e259a73d"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1793175,
+      "repo_bytes": 1762510,
+      "sha256": "9f3c01a482d5433b728a426cc55b4cf3978c1eb91418c46fc48dc13f97092fb9"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1838581,
+      "repo_bytes": 1781914,
+      "sha256": "8f9faed8f0d861dc05b4f9983dcdbcc0499ed2d54fae2e4b3fc2c5f6e259a73d"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1816985,
+      "repo_bytes": 1762180,
+      "sha256": "fa522e16e2b6e0a4ede6406badbc58d101903da2842defb179d68037904fed26"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1814381,
+      "repo_bytes": 1781914,
+      "sha256": "863a04c2c6843c6f90e065dd3ec992222c4a90f3cf505c167f50e6e2ab914887"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1817375,
+      "repo_bytes": 1762510,
+      "sha256": "9f3c01a482d5433b728a426cc55b4cf3978c1eb91418c46fc48dc13f97092fb9"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/events.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1792785,
+      "repo_bytes": 1762180,
+      "sha256": "fa522e16e2b6e0a4ede6406badbc58d101903da2842defb179d68037904fed26"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/packet - version 02.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13123,
+      "repo_bytes": 10780,
+      "sha256": "3277128a98bf7ea4a6936eb683f21eb5c8e3009c2fef81b2b6d1932d3c49a893"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r19-sonf/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 14291,
+      "repo_bytes": 12161,
+      "sha256": "0d576e6808bf2b949442a12011515102fb7b0b4c34b9b4725c7d235091243cdb"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/video/old-oak-lagoon-sonnet.mp4",
+      "repo_path": "paintings/r19-sonf/video/old-oak-lagoon-sonnet.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2607550,
+      "repo_bytes": 2607550,
+      "sha256": "37fd63f64a18abb9d2c310b4c4e88fc28bdcb42cdb5ac81f52ea32ff2089f36d"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/video/r19-sonf-1920.mp4",
+      "repo_path": "paintings/r19-sonf/video/r19-sonf-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2718271,
+      "repo_bytes": 2718271,
+      "sha256": "00379e4fd9e9167fdb5331a1723fb7bf59234d024c40f085283f50cb5c7a7c18"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/video/r19-sonf-720.mp4",
+      "repo_path": "paintings/r19-sonf/video/r19-sonf-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 564570,
+      "repo_bytes": 564570,
+      "sha256": "506beb9cff75f40c9a4ab46d2a1e81f5464c0b246e2e34f296bb5b24d6eb98a2"
+    },
+    {
+      "archive_path": "2026-09-28 r19 The Old Oak, Evening on the Lagoon (Claude Sonnet 5.5)/video/r19-sonf.mp4",
+      "repo_path": "paintings/r19-sonf/video/r19-sonf.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 939527,
+      "repo_bytes": 939527,
+      "sha256": "b905be3206427dcad9b634958b21094544644a6332cb4bbe315767b812613ddf"
+    }
+  ]
+}

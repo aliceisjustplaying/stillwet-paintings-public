@@ -1,0 +1,5 @@
+# The painter's last reply
+
+**Between Customers**
+
+A woman pauses over a newspaper in a sunlit cleaners’ window. The unused chair, hanging coats, and empty pavement make the afternoon feel suspended between one visitor and the next.

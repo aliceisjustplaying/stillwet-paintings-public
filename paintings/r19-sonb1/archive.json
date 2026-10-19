@@ -1,0 +1,141 @@
+{
+  "archive": "2026-09-29 r19 untitled (Claude Sonnet 5.5)",
+  "identity": "bfd78b",
+  "files": [
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/finals/final-comparison.jpg",
+      "repo_path": "paintings/r19-sonb1/finals/final-comparison.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 71910,
+      "repo_bytes": 71910,
+      "sha256": "427f07a1ceb5fbb1ef489523b2160bfe1cec7e273d68f664f366a2a8ae0c3fca"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/finals/final-scaled.png",
+      "repo_path": "paintings/r19-sonb1/finals/final-scaled.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 930466,
+      "repo_bytes": 930466,
+      "sha256": "0646e68f7899f9c41fefd16d1148ccd9daf547f356bf4f7c38a005090e862d90"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/finals/r19-sonb1.png",
+      "repo_path": "paintings/r19-sonb1/finals/r19-sonb1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 510219,
+      "repo_bytes": 510219,
+      "sha256": "d885849172b26a4b7da50ff11ecd4e4f669e7243a0e1a7454dce57b34f764915"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/lua/SONB1_finished.lua",
+      "repo_path": "paintings/r19-sonb1/lua/archive/SONB1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 275031,
+      "repo_bytes": 275031,
+      "sha256": "e2fcbbaf464f29cc25c196d7b851b9b5ec9ef12dbacfdd57312df3744a976867"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r19-sonb1/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 274613,
+      "repo_bytes": 274613,
+      "sha256": "bb5725da8b260e47969c9089ce55d6c9d19a0c73022027b9cf0bc860dbee579c"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r19-sonb1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 272353,
+      "repo_bytes": 272353,
+      "sha256": "c9908c2f800ab438c203c9e7e0a5962544b2dc2ca3ebc06ad716ea71fea96a16"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/sessions/2026-09-28T18-26-43-580Z_01a0e944-ecfb-748b-8033-a4708468dd4d - version 02.jsonl",
+      "repo_path": "paintings/r19-sonb1/sessions/pi/2026-09-28T18-26-43-580Z_01a0e944-ecfb-748b-8033-a4708468dd4d - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 263464705,
+      "repo_bytes": 14600705,
+      "sha256": "ede83559d9a49bc1487d90cf8a590344a0e9dda6cd93811321acff3b2224a029"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/sessions/2026-09-28T18-26-43-580Z_01a0e944-ecfb-748b-8033-a4708468dd4d.jsonl",
+      "repo_path": "paintings/r19-sonb1/sessions/pi/2026-09-28T18-26-43-580Z_01a0e944-ecfb-748b-8033-a4708468dd4d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 18594884,
+      "repo_bytes": 14564501,
+      "sha256": "22c4a71eb1e18903324718e0582445ee56d335b92b0b3bc2b156cdf671361c5c"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-sonb1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1728161,
+      "repo_bytes": 1686553,
+      "sha256": "62f1640b3b4ea098dc13e564aef3acef9a5fdbfc399c8c62afe471ffda7fe4ea"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-sonb1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1724459,
+      "repo_bytes": 1698551,
+      "sha256": "dc5080825c1b0986a0f55ff17b136ceabfc002235cdd5947c637452c4730c90c"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-sonb1/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1728642,
+      "repo_bytes": 1686960,
+      "sha256": "c03e00354f78693a1ecacee113a1e0eb6212ed404951e1bdbd944619f6589411"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-sonb1/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1711574,
+      "repo_bytes": 1686960,
+      "sha256": "c03e00354f78693a1ecacee113a1e0eb6212ed404951e1bdbd944619f6589411"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-sonb1/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1711093,
+      "repo_bytes": 1686553,
+      "sha256": "62f1640b3b4ea098dc13e564aef3acef9a5fdbfc399c8c62afe471ffda7fe4ea"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/sessions/events.json",
+      "repo_path": "paintings/r19-sonb1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1741527,
+      "repo_bytes": 1698551,
+      "sha256": "dc5080825c1b0986a0f55ff17b136ceabfc002235cdd5947c637452c4730c90c"
+    },
+    {
+      "archive_path": "2026-09-29 r19 untitled (Claude Sonnet 5.5)/video/r19-sonb1.mp4",
+      "repo_path": "paintings/r19-sonb1/video/r19-sonb1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5174243,
+      "repo_bytes": 5174243,
+      "sha256": "91ca6e226d4424e54061bf22f3d2f0fcafbca07ed6e76d3e8b9e6a551a427c25"
+    }
+  ]
+}

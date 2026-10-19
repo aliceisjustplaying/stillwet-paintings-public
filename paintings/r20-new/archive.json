@@ -1,0 +1,177 @@
+{
+  "archive": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)",
+  "identity": "3cab71",
+  "files": [
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/finals/r20-new - version 02.png",
+      "repo_path": "paintings/r20-new/finals/r20-new - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3535927,
+      "repo_bytes": 3535927,
+      "sha256": "1b3382096835a88c8f93855d33ce2f3d852241de9e09d147c0bdcf2e53dde0a8"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/finals/r20-new - version 03.png",
+      "repo_path": "paintings/r20-new/finals/r20-new - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6757913,
+      "repo_bytes": 6757913,
+      "sha256": "571a5216256954217d5443505c705127858a4ca349f7334ed9924f37eff19f9f"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/finals/r20-new.png",
+      "repo_path": "paintings/r20-new/finals/r20-new.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8782712,
+      "repo_bytes": 8782712,
+      "sha256": "15c0e4dae0eaa77c24f3204abeecd00ccf2f239542b1a1ffb4e7484ab59a377b"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/lua/NEW1_finished.lua",
+      "repo_path": "paintings/r20-new/lua/archive/NEW1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 44620,
+      "repo_bytes": 44620,
+      "sha256": "889ecce17f78d5abbb46be5f0ca802cef283170f78945dc340453c7a6b0d3499"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/lua/painting.lua",
+      "repo_path": "paintings/r20-new/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 44202,
+      "repo_bytes": 44202,
+      "sha256": "2ad8c719c6f78030a6c8847e2590d8d554b5913841dfae12e60ce2aa8477ed70"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/2026-09-29T17-15-16-713Z_01a0ee29-df69-7087-bf4f-dbb782d884aa - version 02.jsonl",
+      "repo_path": "paintings/r20-new/sessions/pi/2026-09-29T17-15-16-713Z_01a0ee29-df69-7087-bf4f-dbb782d884aa - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 178855,
+      "repo_bytes": 121803,
+      "sha256": "704b308f3e6f6c8814970ee74318936292e0aa7e8e78f9c3656f13e869dc6c83"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/2026-09-29T17-15-16-713Z_01a0ee29-df69-7087-bf4f-dbb782d884aa.jsonl",
+      "repo_path": "paintings/r20-new/sessions/pi/2026-09-29T17-15-16-713Z_01a0ee29-df69-7087-bf4f-dbb782d884aa.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6292807,
+      "repo_bytes": 122303,
+      "sha256": "aade5a970d3d2e769d677a82d262e482af8e20a88b425344bf9444dae1fa6c56"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/2026-09-29T17-31-10-583Z_01a0ee38-6d76-7103-8328-4cf6fe169a77 - version 02.jsonl",
+      "repo_path": "paintings/r20-new/sessions/pi/2026-09-29T17-31-10-583Z_01a0ee38-6d76-7103-8328-4cf6fe169a77 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 435344,
+      "repo_bytes": 187903,
+      "sha256": "b91f795c18a45c84b79bf3064595f9120dbcfdacf2d2ae56117a9a49f1ffae30"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/2026-09-29T17-31-10-583Z_01a0ee38-6d76-7103-8328-4cf6fe169a77.jsonl",
+      "repo_path": "paintings/r20-new/sessions/pi/2026-09-29T17-31-10-583Z_01a0ee38-6d76-7103-8328-4cf6fe169a77.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13818696,
+      "repo_bytes": 189679,
+      "sha256": "fed6fe28d43c9772183900718a6bec7298d02b1ce71b23c43b2e7fa03ff85549"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/2026-09-29T18-08-08-951Z_01a0ee5a-46f7-7109-8a71-4bde1b8accc7 - version 02.jsonl",
+      "repo_path": "paintings/r20-new/sessions/pi/2026-09-29T18-08-08-951Z_01a0ee5a-46f7-7109-8a71-4bde1b8accc7 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 82235,
+      "repo_bytes": 75270,
+      "sha256": "9d5b030d9d8c5038644fbca46e2fb93d41879695bfc1d1ca9265fb1f306089e7"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/2026-09-29T18-08-08-951Z_01a0ee5a-46f7-7109-8a71-4bde1b8accc7.jsonl",
+      "repo_path": "paintings/r20-new/sessions/pi/2026-09-29T18-08-08-951Z_01a0ee5a-46f7-7109-8a71-4bde1b8accc7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1045645,
+      "repo_bytes": 75492,
+      "sha256": "75e2ae677d20a10cf007378a1f66227cbbcd46a07a8fe5cf8a5bb19d4c4d0819"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/events - version 02.json",
+      "repo_path": "paintings/r20-new/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 98110,
+      "repo_bytes": 95240,
+      "sha256": "787105fccfc189cbf121b7d7d41c786d60c00c83b46136d9d12b23af252bca5c"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/events - version 03.json",
+      "repo_path": "paintings/r20-new/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 98954,
+      "repo_bytes": 96002,
+      "sha256": "05d106d8227a1d89ebf69cc9c6687a243d2eee6b7551dde699556cf2a95423fa"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/events - version 04.json",
+      "repo_path": "paintings/r20-new/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 96871,
+      "repo_bytes": 95229,
+      "sha256": "8ea29f1edf632844678d7f259a471213dd1c3610a846fe7740067d214bf67c96"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/events - version 05.json",
+      "repo_path": "paintings/r20-new/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 98097,
+      "repo_bytes": 95229,
+      "sha256": "8ea29f1edf632844678d7f259a471213dd1c3610a846fe7740067d214bf67c96"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/events - version 06.json",
+      "repo_path": "paintings/r20-new/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 99932,
+      "repo_bytes": 96002,
+      "sha256": "05d106d8227a1d89ebf69cc9c6687a243d2eee6b7551dde699556cf2a95423fa"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/events - version 07.json",
+      "repo_path": "paintings/r20-new/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 96884,
+      "repo_bytes": 95240,
+      "sha256": "787105fccfc189cbf121b7d7d41c786d60c00c83b46136d9d12b23af252bca5c"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/events - version 08.json",
+      "repo_path": "paintings/r20-new/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 97728,
+      "repo_bytes": 96002,
+      "sha256": "05d106d8227a1d89ebf69cc9c6687a243d2eee6b7551dde699556cf2a95423fa"
+    },
+    {
+      "archive_path": "2026-09-29 r20 Between Customers (GPT-6.1 Sol)/sessions/events.json",
+      "repo_path": "paintings/r20-new/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 97728,
+      "repo_bytes": 96002,
+      "sha256": "ca46f3e10b4e9b724f712fc30bf2cc09294f41a3e814c96038e8cd80b6152cff"
+    }
+  ]
+}

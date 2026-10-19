@@ -1,0 +1,63 @@
+{
+  "archive": "2026-10-02 r21 Flooded Birch Wood, Evening (Space Bunny Free)",
+  "identity": "35c488",
+  "files": [
+    {
+      "archive_path": "2026-10-02 r21 Flooded Birch Wood, Evening (Space Bunny Free)/finals/final.png",
+      "repo_path": "paintings/r21-frdc1/finals/final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5687543,
+      "repo_bytes": 5687543,
+      "sha256": "65527783b69e248cf4f8afb2a54450143a985cd8cea1d12d59b5602bcb789707"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Flooded Birch Wood, Evening (Space Bunny Free)/finals/r21-frdc1 - version 02.png",
+      "repo_path": "paintings/r21-frdc1/finals/r21-frdc1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7324759,
+      "repo_bytes": 7324759,
+      "sha256": "cce778703f1e4f31f96537f168302b081120ee594e5b5424efa964554530fa67"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Flooded Birch Wood, Evening (Space Bunny Free)/finals/r21-frdc1 - version 03.png",
+      "repo_path": "paintings/r21-frdc1/finals/r21-frdc1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 10852424,
+      "repo_bytes": 10852424,
+      "sha256": "e7ce4e91e6acc2d71f5fb3534fe96dfe87291c1ac0af062a379b1c5971115e8d"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Flooded Birch Wood, Evening (Space Bunny Free)/finals/r21-frdc1.png",
+      "repo_path": "paintings/r21-frdc1/finals/r21-frdc1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11240641,
+      "repo_bytes": 11240641,
+      "sha256": "fb1aef7f4273f25b4f7b16083ca4107421a1f120dc16a32a6f43c6d27548604d"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Flooded Birch Wood, Evening (Space Bunny Free)/lua/painting.lua",
+      "repo_path": "paintings/r21-frdc1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 430739,
+      "repo_bytes": 430739,
+      "sha256": "3fef281a56f9a132ed214fe8a30b08c418f8fe3e3b12e3c639804f8c748f1047"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Flooded Birch Wood, Evening (Space Bunny Free)/video/r21-frdc1.mp4",
+      "repo_path": "paintings/r21-frdc1/video/r21-frdc1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 16019327,
+      "repo_bytes": 16019327,
+      "sha256": "d1cf00f8f1055135312f56db7299cb4a9acda6e9fcca56b15b4ab1b695108bbf"
+    }
+  ],
+  "exclusions": [
+    "Session logs, viewer logs and sitting records are private under OpenRouter stealth-model confidentiality terms."
+  ]
+}

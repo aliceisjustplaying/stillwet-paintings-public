@@ -1,0 +1,195 @@
+{
+  "archive": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)",
+  "identity": "6e8898",
+  "files": [
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/finals/final-comparison.jpg",
+      "repo_path": "paintings/r19-self1/finals/final-comparison.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 116316,
+      "repo_bytes": 116316,
+      "sha256": "2148a952ad19387a408fb43ffab7b705793ee137b6cb5421e830758a696ebe4c"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/finals/final-scaled.png",
+      "repo_path": "paintings/r19-self1/finals/final-scaled.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1617427,
+      "repo_bytes": 1617427,
+      "sha256": "ee953b43af2cf55c97f4a8b4fbf6a64d3e70f1b3b572feff09cc903b3eecdda3"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/finals/r19-self1 - version 02.png",
+      "repo_path": "paintings/r19-self1/finals/r19-self1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9992551,
+      "repo_bytes": 9992551,
+      "sha256": "6ce1a3b92cc2068dcd041758fa93929ea6af8413afa56d8ca8a2536412a6e58b"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/finals/r19-self1 - version 03.png",
+      "repo_path": "paintings/r19-self1/finals/r19-self1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9767106,
+      "repo_bytes": 9767106,
+      "sha256": "90d15a68255332d5616bc2acdf29fc9a7dbee1432b96a8616d4528eb3f6b3403"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/finals/r19-self1.1000.png",
+      "repo_path": "paintings/r19-self1/finals/r19-self1.1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 581864,
+      "repo_bytes": 581864,
+      "sha256": "5fcd8a0d75274cbdbee334cfcb207ffe46338985c99c0296ac8378d245e6fbff"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/finals/r19-self1.png",
+      "repo_path": "paintings/r19-self1/finals/r19-self1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4217287,
+      "repo_bytes": 4217287,
+      "sha256": "5760a69f56ba6a09f077773e5a5c1534de3e211528c46b47505cd2a4714ade4e"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r19-self1/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 48271,
+      "repo_bytes": 48271,
+      "sha256": "9e28f180a10628708f75db10bdde8b51af4bcfea5ba242d3e5baf1a53e1ca34d"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/lua/painting.lua",
+      "repo_path": "paintings/r19-self1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 47731,
+      "repo_bytes": 47731,
+      "sha256": "4e627063e459b8a4f8f06455e878ffddaa6be8560711a1667bd005b7389ed782"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/2026-09-28T23-20-34-688Z_01a0ea51-f480-76ad-bcd1-b2a55d2c6526 - version 02.jsonl",
+      "repo_path": "paintings/r19-self1/sessions/pi/2026-09-28T23-20-34-688Z_01a0ea51-f480-76ad-bcd1-b2a55d2c6526 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 42964742,
+      "repo_bytes": 378157,
+      "sha256": "1f8bea2cc6a0c565358643161b7c528e5c59689e94e587d1f5e22a2682bc5796"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/2026-09-28T23-20-34-688Z_01a0ea51-f480-76ad-bcd1-b2a55d2c6526.jsonl",
+      "repo_path": "paintings/r19-self1/sessions/pi/2026-09-28T23-20-34-688Z_01a0ea51-f480-76ad-bcd1-b2a55d2c6526.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 773011,
+      "repo_bytes": 372007,
+      "sha256": "ed3702ae9a7d2e53af15bf2e13945a6101fca794d1f60402af24859f3b6a8387"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/2026-09-29T00-00-37-551Z_01a0ea76-9eae-76fd-aa32-9f7399506300 - version 02.jsonl",
+      "repo_path": "paintings/r19-self1/sessions/pi/2026-09-29T00-00-37-551Z_01a0ea76-9eae-76fd-aa32-9f7399506300 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 467955,
+      "repo_bytes": 262071,
+      "sha256": "203e49078c12fd4d14aca910e740e9d6f58d5aae4aecdc517a91d2aec6752783"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/2026-09-29T00-00-37-551Z_01a0ea76-9eae-76fd-aa32-9f7399506300.jsonl",
+      "repo_path": "paintings/r19-self1/sessions/pi/2026-09-29T00-00-37-551Z_01a0ea76-9eae-76fd-aa32-9f7399506300.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 23188920,
+      "repo_bytes": 266142,
+      "sha256": "ad2ace5cd9c412aa81188b60dcf8961449cbc227e4115fc178ece61289b33f7d"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-self1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 313729,
+      "repo_bytes": 306880,
+      "sha256": "71920f5dc381ee8800e81551ba555361d3ed38c8d57e263645d65d4c7213e3b8"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-self1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 309661,
+      "repo_bytes": 303229,
+      "sha256": "e29bb7ae2983af3ee60abf6e337e39c5d621a29e7967b3bf207f8e19cfffb9cc"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-self1/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 309752,
+      "repo_bytes": 303306,
+      "sha256": "5ca841ae8d46d5296e4cc23284ec968e282413646fb5eae7154cb3aad90c9793"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-self1/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 319272,
+      "repo_bytes": 306880,
+      "sha256": "9c6887491959bf9df12f897aa46b62eb45262cad1d49a26dd35564f5b4fc4076"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-self1/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 313729,
+      "repo_bytes": 306880,
+      "sha256": "9c6887491959bf9df12f897aa46b62eb45262cad1d49a26dd35564f5b4fc4076"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-self1/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 315204,
+      "repo_bytes": 303229,
+      "sha256": "e29bb7ae2983af3ee60abf6e337e39c5d621a29e7967b3bf207f8e19cfffb9cc"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/events.json",
+      "repo_path": "paintings/r19-self1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 315295,
+      "repo_bytes": 303306,
+      "sha256": "5ca841ae8d46d5296e4cc23284ec968e282413646fb5eae7154cb3aad90c9793"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/sessions/packet.json",
+      "repo_path": "paintings/r19-self1/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 11659,
+      "repo_bytes": 9812,
+      "sha256": "2c108cfdd8f113229d0fa0a84030edf719a7fe56c331bfa8c7a4f2a62ffd6017"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Half-Lit (Claude Sonnet 5)/video/r19-self1.mp4",
+      "repo_path": "paintings/r19-self1/video/r19-self1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2224101,
+      "repo_bytes": 2224101,
+      "sha256": "4065a39795bcdfe2edaeec069260f4996dac11896333e88c60b158cc7be909df"
+    }
+  ]
+}

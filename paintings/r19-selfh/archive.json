@@ -1,0 +1,204 @@
+{
+  "archive": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)",
+  "identity": "b3a3c7",
+  "files": [
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/finals/r19-selfh - version 02.png",
+      "repo_path": "paintings/r19-selfh/finals/r19-selfh - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 10199823,
+      "repo_bytes": 10199823,
+      "sha256": "4840342d388003d6bfed0935791819a6728553d67f2705ba3dc107c77d0345e4"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/finals/r19-selfh - version 03.png",
+      "repo_path": "paintings/r19-selfh/finals/r19-selfh - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4218265,
+      "repo_bytes": 4218265,
+      "sha256": "a1491482ea651e82d5b5030c9c2fdd1857a98bab560ae6a629d8f3d538620406"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/finals/r19-selfh.png",
+      "repo_path": "paintings/r19-selfh/finals/r19-selfh.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9503308,
+      "repo_bytes": 9503308,
+      "sha256": "deae18e0e19f032f246c9a765203db9632269102c081ac3ca04cb5fb7b6c1bba"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/lua/SELFH1_finished.lua",
+      "repo_path": "paintings/r19-selfh/lua/archive/SELFH1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 41552,
+      "repo_bytes": 41552,
+      "sha256": "d1465363987b1fc6dd5fcd98c462390c1430882b96f0b414887c55d15b0e9c70"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/lua/painting.lua",
+      "repo_path": "paintings/r19-selfh/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 41134,
+      "repo_bytes": 41134,
+      "sha256": "f6c52878e0ae2521af228963080ed3d9decd82b700907e2ac563dedbd3a88746"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/2026-09-29T00-45-42-205Z_01a0ea9f-e3bc-719c-9238-1d52a20bd804 - version 02.jsonl",
+      "repo_path": "paintings/r19-selfh/sessions/pi/2026-09-29T00-45-42-205Z_01a0ea9f-e3bc-719c-9238-1d52a20bd804 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 608344,
+      "repo_bytes": 343425,
+      "sha256": "3b5bd88b4a48b09d945baef4dde6cfe09cd7635cbbbc171c8e2ee9117271d00e"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/2026-09-29T00-45-42-205Z_01a0ea9f-e3bc-719c-9238-1d52a20bd804.jsonl",
+      "repo_path": "paintings/r19-selfh/sessions/pi/2026-09-29T00-45-42-205Z_01a0ea9f-e3bc-719c-9238-1d52a20bd804.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 40885849,
+      "repo_bytes": 349950,
+      "sha256": "883c61f0a4b96298c675f8941719c250d74915f1d8946859dc9444759c1d9aaa"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/2026-09-29T01-22-02-620Z_01a0eac1-28fb-72b2-8e30-406376cb8ea5 - version 02.jsonl",
+      "repo_path": "paintings/r19-selfh/sessions/pi/2026-09-29T01-22-02-620Z_01a0eac1-28fb-72b2-8e30-406376cb8ea5 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 73616,
+      "repo_bytes": 63839,
+      "sha256": "a46756e589096aca26553418d7181d91c78193091226a80db9317bcfc441b71c"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/2026-09-29T01-22-02-620Z_01a0eac1-28fb-72b2-8e30-406376cb8ea5.jsonl",
+      "repo_path": "paintings/r19-selfh/sessions/pi/2026-09-29T01-22-02-620Z_01a0eac1-28fb-72b2-8e30-406376cb8ea5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2167179,
+      "repo_bytes": 64448,
+      "sha256": "949d64cf587e7b8378da8bbc68ad0f791ad9a8e193f95eeadf917f393ceebb4a"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 177368,
+      "repo_bytes": 173356,
+      "sha256": "4a95bef86eac2a53fa9d530257654f4fa5365094a9e00943a7d8d17cbde83c73"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 177472,
+      "repo_bytes": 173444,
+      "sha256": "d58c123f3a074bfb681944642b599aa28b824827aa5dddc4c152f4b39abbcbef"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 183322,
+      "repo_bytes": 175614,
+      "sha256": "af4c4c94f279ce2db704160fed899a2cabecf2143b09bd8286f69eb025392174"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 179889,
+      "repo_bytes": 175614,
+      "sha256": "af4c4c94f279ce2db704160fed899a2cabecf2143b09bd8286f69eb025392174"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 180801,
+      "repo_bytes": 173356,
+      "sha256": "4a95bef86eac2a53fa9d530257654f4fa5365094a9e00943a7d8d17cbde83c73"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 180905,
+      "repo_bytes": 173444,
+      "sha256": "d58c123f3a074bfb681944642b599aa28b824827aa5dddc4c152f4b39abbcbef"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/events.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 179889,
+      "repo_bytes": 175614,
+      "sha256": "88bb9a4ebb0b4c700027048b821f7cdad595d33a0aa81d1403b6a27584542470"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/packet - version 02.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 19261,
+      "repo_bytes": 16892,
+      "sha256": "013d49f21370b2e6332779ad34c37fa42ea3bf4d61057afd8522e1a94a404b6b"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/packet - version 03.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/packet - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 9614,
+      "repo_bytes": 7852,
+      "sha256": "6bd3578cb537a7f6e82ccc4b2d5e6aa8708ffb65c5aa8ce495bcd3034b35d669"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/sessions/packet.json",
+      "repo_path": "paintings/r19-selfh/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12457,
+      "repo_bytes": 10664,
+      "sha256": "b95efc58c1cf7966aeb1c2f289ca9005395fbada057aaf45a0d683ec69389e7e"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/video/r19-selfh-1920.mp4",
+      "repo_path": "paintings/r19-selfh/video/r19-selfh-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1498386,
+      "repo_bytes": 1498386,
+      "sha256": "afb84951fc4812ec9213c44b059dbba363a113bd15c632806ba602aa7eeae7e9"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/video/r19-selfh-720.mp4",
+      "repo_path": "paintings/r19-selfh/video/r19-selfh-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 365769,
+      "repo_bytes": 365769,
+      "sha256": "0815b1d2b423d388d44c32500392fda01f412df455db6053394e4a5fc8f4a33a"
+    },
+    {
+      "archive_path": "2026-09-29 r19 Self-Portrait with Palette (Claude Sonnet 5)/video/r19-selfh.mp4",
+      "repo_path": "paintings/r19-selfh/video/r19-selfh.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 579824,
+      "repo_bytes": 579824,
+      "sha256": "576944179d1454a63050cd17d12edbf6dd82b3d240ddabf930edfe56cdb8d45b"
+    }
+  ]
+}
