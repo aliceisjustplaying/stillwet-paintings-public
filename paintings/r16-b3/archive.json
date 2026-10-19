@@ -1,0 +1,690 @@
+{
+  "archive": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)",
+  "identity": "774267",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/B3.png",
+      "repo_path": "paintings/r16-b3/finals/B3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2352596,
+      "repo_bytes": 2352596,
+      "sha256": "fbd7fca614e08b8bc990175653d97e480d9d128c9bbdd36652e0fc9bef7bbc3a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/b3-final.png",
+      "repo_path": "paintings/r16-b3/finals/b3-final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2541209,
+      "repo_bytes": 2541209,
+      "sha256": "7c28fb36ee07bdbd2bbfc68a1cfec05d1e5fe6544878b622d3abf4b1056f3d61"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/r16-b3 - version 02.png",
+      "repo_path": "paintings/r16-b3/finals/r16-b3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2187737,
+      "repo_bytes": 2187737,
+      "sha256": "e5a3c4a0613fc33a755240c04561645497ab4fce539db767e705ce3c5d279bab"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/r16-b3 - version 03.png",
+      "repo_path": "paintings/r16-b3/finals/r16-b3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5070081,
+      "repo_bytes": 5070081,
+      "sha256": "aaa6cad4dc82023a416c56158b2dd5ee4afaa6426abd6f6ab19732d5b915578a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/r16-b3-color.jpg",
+      "repo_path": "paintings/r16-b3/finals/r16-b3-color.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 139599,
+      "repo_bytes": 139599,
+      "sha256": "3ac59d0ce6487d1989108e35f51ad66fdb54a6da057cc0a9664107cde644d951"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/r16-b3-gallery.jpg",
+      "repo_path": "paintings/r16-b3/finals/r16-b3-gallery.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 191357,
+      "repo_bytes": 191357,
+      "sha256": "4c23841efd062fa4af1bbd07af37b40b4edddb257c12125125b365a771e731e0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/r16-b3-relief.jpg",
+      "repo_path": "paintings/r16-b3/finals/r16-b3-relief.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 293605,
+      "repo_bytes": 293605,
+      "sha256": "fec490632f3d334a32f03d82b8275cf9b5a2f31eec39df484146d95f7e7fcba9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/r16-b3.png",
+      "repo_path": "paintings/r16-b3/finals/r16-b3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7321939,
+      "repo_bytes": 7321939,
+      "sha256": "f5b3c870d92bb1fcb09ea4b3ae3c6bfa08d17b1159667326d608293af7ff6850"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-b3/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r16-b3/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 103048,
+      "repo_bytes": 103048,
+      "sha256": "fcc3835d1752deb25fbdc78c5dbca63650bd872c1c986ae149934ed3cf3f2e47"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/lua/r16-B3-3.lua",
+      "repo_path": "paintings/r16-b3/lua/archive/r16-B3-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3964,
+      "repo_bytes": 3964,
+      "sha256": "f7f637bf3aa6e8fbbabfa1302f410d16f06bca69699240b3e4e61a9b3f6b6e14"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/sessions/2026-09-27T01-45-46-518Z_01a0e08a-2b15-7399-b15d-39b7cbcbdaa5 - version 02.jsonl",
+      "repo_path": "paintings/r16-b3/sessions/pi/2026-09-27T01-45-46-518Z_01a0e08a-2b15-7399-b15d-39b7cbcbdaa5 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 31550427,
+      "repo_bytes": 683454,
+      "sha256": "9695396946d3b4bdb3b57863da1ab3dc3bf01cdd0aad829f3209243363d4cd5e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/sessions/2026-09-27T01-45-46-518Z_01a0e08a-2b15-7399-b15d-39b7cbcbdaa5.jsonl",
+      "repo_path": "paintings/r16-b3/sessions/pi/2026-09-27T01-45-46-518Z_01a0e08a-2b15-7399-b15d-39b7cbcbdaa5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 975563,
+      "repo_bytes": 670959,
+      "sha256": "5f32c827db0ff59e0dc6e73a2d7540c64131214e0093ce46f5812237274f5e19"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-b3/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 308278,
+      "repo_bytes": 286323,
+      "sha256": "1c0b0276318a07dacad84746fc037de644604a9ffec99a4e32bf8b13bd46e7b6"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-b3/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 308239,
+      "repo_bytes": 286290,
+      "sha256": "fdfd2d75d4508a6df4df4b021dbc9fd620656622129bf78e8a9eeee3d5c5dab6"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-b3/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 310257,
+      "repo_bytes": 287986,
+      "sha256": "6a3d1938b97c18501b9b41feb3c419d4ba47afc4c72cd0c6d9e18356cb064419"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-b3/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 296048,
+      "repo_bytes": 287983,
+      "sha256": "0ade7a761ef8fce6d057436490c9a8871e966f6ebf9b85b1e6677793d7a869ac"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-b3/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 294030,
+      "repo_bytes": 286287,
+      "sha256": "3ec04bd8023e8113271e97bf53394206dc893d969caafbd50c1ab31ad83ced1d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r16-b3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 294069,
+      "repo_bytes": 286320,
+      "sha256": "1db6222ebcee9a00d4747db77180a29b53c4c38e5d2bce8dcfe73ccdb1c74f25"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.05-20s.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.05-20s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 454877,
+      "repo_bytes": 454877,
+      "sha256": "10932fba90d5c42ee8a07f5440ab7752d896069cf0fa0afa4a243128be565dea"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.05-30s.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.05-30s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 583753,
+      "repo_bytes": 583753,
+      "sha256": "dd989ff5e5dba97703888577f21c081d3f862fb5754785c73ab0d869c4a3f868"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.05.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 808321,
+      "repo_bytes": 808321,
+      "sha256": "699fb11fcdfcc9ff2ce4c062318c6999108431569b05c268933634c979f07403"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.1-20s.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.1-20s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 466030,
+      "repo_bytes": 466030,
+      "sha256": "0de50281aac93e560e136728e4c1d24391f7a6b8c7d277584fbad3929833035e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.1-30s.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.1-30s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 593946,
+      "repo_bytes": 593946,
+      "sha256": "f7e0553b906f9380be5101c4b39d5233e43b3e19ddc54346d8bb7cdc57427aea"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.1.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 824538,
+      "repo_bytes": 824538,
+      "sha256": "9528882d0b909d42b35d2c8538ee3cd63c52a5c255bd637aca46119a973bcc6a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.15-span0.2.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.15-span0.2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 843737,
+      "repo_bytes": 843737,
+      "sha256": "fc2a69c689d1b624f0b4f756f95163a16104e256984f94815c132f6c154e1955"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.15-span0.5.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.15-span0.5.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 843616,
+      "repo_bytes": 843616,
+      "sha256": "b6734c17876691815370da6b4c00e333ea27cdafce71961768a40c94fedfd989"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.15.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.15.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 837347,
+      "repo_bytes": 837347,
+      "sha256": "5d0fe3c4e20ada35d5b4682898cf72443a123369904019ef2badff345aa20249"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.2-20s.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.2-20s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 482273,
+      "repo_bytes": 482273,
+      "sha256": "7d83cfa6d04ed1c703e8609150186d882ed883fad2db40bd3371c6cb582e5d8b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.2-30s.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.2-30s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 613609,
+      "repo_bytes": 613609,
+      "sha256": "0c9ce067890736ab42aba3b53d6043b0e5b44c0730ee6a9d9dc974b79f2aef61"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.2.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 848090,
+      "repo_bytes": 848090,
+      "sha256": "94641c6478614a540066ec4c7174419f210a2029cc916ce8a6434daee8a9cae3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.3-20s-open0.5.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.3-20s-open0.5.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 494999,
+      "repo_bytes": 494999,
+      "sha256": "a1daa7c040aa0fc82b691357f14fbe683676f92be8c796cc8cfbcb8ea8925301"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.3-20s.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.3-20s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 494588,
+      "repo_bytes": 494588,
+      "sha256": "21f973fd493c3c58c8371e3b02c17a88a5ab0fa0c786a54f78e4d4642178043b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.3.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 863800,
+      "repo_bytes": 863800,
+      "sha256": "3b7d78c1ffb3af9a281ceb7a4ebb00e4abeab5246f4b424c030dd963daf80ee8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.5-20s.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.5-20s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 496280,
+      "repo_bytes": 496280,
+      "sha256": "9c830f608a2ecb3e1c9535a4ab2551b6c09f55e3a02eb1396c2971331d2ad9f8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r0.5.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r0.5.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 885711,
+      "repo_bytes": 885711,
+      "sha256": "62cdc7e77fc8f8a0056a72d85ebd7908568d2a1b6dff9f451a25f987a0a00cd4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/b3-r1.0-baseline.mp4",
+      "repo_path": "paintings/r16-b3/video/b3-r1.0-baseline.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 878821,
+      "repo_bytes": 878821,
+      "sha256": "93bcee26aabeaee58f2c1b3ad821e6c04e1fedff888d6e71677851d2e11ea6d6"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/check2.mp4",
+      "repo_path": "paintings/r16-b3/video/check2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2069860,
+      "repo_bytes": 2069860,
+      "sha256": "55b583961132f21951c8e5c47023d36f13707640479974cb32b26a5b5c6e17d3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3 - version 02.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 499543,
+      "repo_bytes": 499543,
+      "sha256": "a4a6074df5a034951c1f0cfd8b66435fc938cb490fa48fa90d9f11201c7daf50"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3 - version 03.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2064413,
+      "repo_bytes": 2064413,
+      "sha256": "79bc4dbf90ec53f6cc369654a2c59ce326966667665c1f350dc7944efe9f2d57"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1712701,
+      "repo_bytes": 1712701,
+      "sha256": "3296647454dd35383f903adf1dcede0ee1b31de8831eb013a74b750344f77f4f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1523151,
+      "repo_bytes": 1523151,
+      "sha256": "371f91cd418924880d2f56100d73891d5b64841f9e4ff6c34319a1797cf12166"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-1920.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1715829,
+      "repo_bytes": 1715829,
+      "sha256": "e5903c5ae9eca53a3e66f4773fe782344581e974e86be33f8c4aff126e2c8bf8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-720 - version 02.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 291767,
+      "repo_bytes": 291767,
+      "sha256": "f06caaba08ecf718fc4ac5a5cb15d41255c17fa22787b4ea655e3d6ee97fee38"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-720 - version 03.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 325140,
+      "repo_bytes": 325140,
+      "sha256": "ebd0df393f594350b669985745b9fc239ab3456134dc6fa8ea83d5bc91bef3f8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-720.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 328268,
+      "repo_bytes": 328268,
+      "sha256": "0a75d1d0144d47234994e130b985781b7732587be539e33ed346b6ed39988958"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-dyn-f05-50s.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-dyn-f05-50s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 874050,
+      "repo_bytes": 874050,
+      "sha256": "ce6ac7cb15aca30de0ca6463bc7332b7485fbf562e637de0a0800de5808b9fa3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-dyn-g04-50s.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-dyn-g04-50s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 878763,
+      "repo_bytes": 878763,
+      "sha256": "f1b3ec2560d818b8dc6a28a05b411311968348208ecf953492d9adabff3657de"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-dynamic-40s.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-dynamic-40s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 763853,
+      "repo_bytes": 763853,
+      "sha256": "4e6f0d4fa019edfaec980ea9d143c32c8381170bdde36ed651e653eebd52562d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-finalfirst-0.25s.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-finalfirst-0.25s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1660141,
+      "repo_bytes": 1660141,
+      "sha256": "52749fe6677f8f0ec1009dea874ec78bf6732674da98233ffe54ca55c5a159cf"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-finalfirst-0.5s.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-finalfirst-0.5s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1698009,
+      "repo_bytes": 1698009,
+      "sha256": "d424b5ec7c6dcfc306b37c9a1ec8373759795bc177be2e6808b148cfdb870c30"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-finalfirst-1s.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-finalfirst-1s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1721637,
+      "repo_bytes": 1721637,
+      "sha256": "a6f1a1e162f85c6b14816944b2b3c1e734e81aa7e05fb4c1225997fc6bdf8e25"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-hand-90.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-hand-90.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1155578,
+      "repo_bytes": 1155578,
+      "sha256": "4bbe39977f466652d26dc37f880b2ff4b542875271644efe9467f798f6b48591"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-hand.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-hand.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1145356,
+      "repo_bytes": 1145356,
+      "sha256": "6cbf7d86d65809b86f13b6d21fe8bc78100e938fd15201a5eddb226b6fa47803"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-pace0.6-39s.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-pace0.6-39s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 807780,
+      "repo_bytes": 807780,
+      "sha256": "302ca822a8d0fb650a87de967cf462ccf8714d098905922e209d1f202e1b2960"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-pace0.6-51s.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-pace0.6-51s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 931500,
+      "repo_bytes": 931500,
+      "sha256": "348de1b40e1a1b6cbd617bd40c85a1b89b51fd6665ae3ae9003f1e9eff5c8ca0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-pace0.6.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-pace0.6.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1131838,
+      "repo_bytes": 1131838,
+      "sha256": "5190a4535102e4391e24d83264f96b1af99102e398e7473924c4ba52e474f52e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-pace0.7.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-pace0.7.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1151872,
+      "repo_bytes": 1151872,
+      "sha256": "7dca8615130d8e38a94e04d3ec4f0322f6b2140f5c22b1b9b0e27d3420f0e7b8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-1920.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1776252,
+      "repo_bytes": 1776252,
+      "sha256": "60d946c8179d1383d9f09046bd37eee2a2e42aba24c8329aa5a2f2091534230e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-fade.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-fade.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2215468,
+      "repo_bytes": 2215468,
+      "sha256": "45feb0dd959460075b431e8b7d83de96732fc2d826067b1ac32ccb57a63524b4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-label.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-label.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2208044,
+      "repo_bytes": 2208044,
+      "sha256": "f8adff5378722743d71fcd32efe236dfad98b8630e9084751fafeaa7852f7f37"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-label2.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-label2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2161598,
+      "repo_bytes": 2161598,
+      "sha256": "dedbbfd23a7280302e6e32a3949897b9b656385cf4611abe520e9b3c5565b024"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-label3.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-label3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2165379,
+      "repo_bytes": 2165379,
+      "sha256": "bc56c3b7807ff2f72ab48d49ca4b408e24d15a55fd9f972bff32609e6e284ae9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-label4.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-label4.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2048115,
+      "repo_bytes": 2048115,
+      "sha256": "aa65a441ee9ec8d1eecea10e06fc2524e63a23dcbb58675d7633054f3616cfc4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-label5.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-label5.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2053890,
+      "repo_bytes": 2053890,
+      "sha256": "6b737b4637b50e824644e4974266ce894fd681b8e296fbc99cb4732d3d106e58"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-light-4x3.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-light-4x3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2069852,
+      "repo_bytes": 2069852,
+      "sha256": "ffc3bec3aa052b6fb49e09c7ba44d7ab7317c49b0b8ddf33373b83c0fc25a764"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-text.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-text.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2189866,
+      "repo_bytes": 2189866,
+      "sha256": "eff3cc98e5ce2c29b73350604f818a7bc2f9c370ddec94f9114c4d0c4225bb85"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-white-url.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-white-url.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2072301,
+      "repo_bytes": 2072301,
+      "sha256": "cdd3a50cf13fd7749e9f63e918d3ba87f02b6dbae62158b86ffae26acfef132f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3-social-white-url2.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3-social-white-url2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2073887,
+      "repo_bytes": 2073887,
+      "sha256": "8cb94d1c114bc5e9c54b81ccdc86afe10b33ecd5b44ee827ff0fcceba7c78661"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/r16-b3.mp4",
+      "repo_path": "paintings/r16-b3/video/r16-b3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 502671,
+      "repo_bytes": 502671,
+      "sha256": "ffa17363b452dfe8f076ab9abbdca67194dda6284848f80fce6d1d55b6f24651"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/t-t1.mp4",
+      "repo_path": "paintings/r16-b3/video/t-t1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1744907,
+      "repo_bytes": 1744907,
+      "sha256": "a6b50fefe9b3023c33cc2f220785dd2863589542d618654989adca55cb9e52d6"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/t-t2.mp4",
+      "repo_path": "paintings/r16-b3/video/t-t2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2025328,
+      "repo_bytes": 2025328,
+      "sha256": "ddf515b59b23f32d65d43053fe206ad0cb9ce6e4996dcb1086deda2e39262573"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/t-t3.mp4",
+      "repo_path": "paintings/r16-b3/video/t-t3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1804454,
+      "repo_bytes": 1804454,
+      "sha256": "08c0a803e106e6ad5512da3dff282d4cc90b490fc1e59db368bb23d720842b82"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/try-dyn-g0.5.mp4",
+      "repo_path": "paintings/r16-b3/video/try-dyn-g0.5.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 886062,
+      "repo_bytes": 886062,
+      "sha256": "4390708ffe33547a853657a38a5e4fd11fc73dd38e7e74ef47fd71f68f5250ac"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/try-dyn-g0.7.mp4",
+      "repo_path": "paintings/r16-b3/video/try-dyn-g0.7.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 868774,
+      "repo_bytes": 868774,
+      "sha256": "881bc17a43d41aa907f7bf7394d06ed01d2e902ff3ade82ba790d5a76a4b2c95"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before the Town (Claude Opus 5.5)/video/try-num.mp4",
+      "repo_path": "paintings/r16-b3/video/try-num.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 825400,
+      "repo_bytes": 825400,
+      "sha256": "5fa09d1fa37764e6eeca33eee7fab1da3568c53304116fa32b94bb84d8f70bf9"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+local sky = rect(0, 0, 1000, 450)
+blend(sky, {angle=0, coverage=2})
+blend(rect(0, 80, 1000, 70):soften(20), {angle=0.0, coverage=2})
+blend(rect(0, 220, 1000, 60):soften(20), {angle=0.0, coverage=2})
+blend(rect(0, 320, 1000, 60):soften(20), {angle=0.0, coverage=2})
+print(drying(500, 50), drying(500, 400))

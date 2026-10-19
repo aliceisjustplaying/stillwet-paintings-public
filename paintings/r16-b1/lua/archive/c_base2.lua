@@ -1,0 +1,15 @@
+baseGround = pile{{"raw umber", 2.3}, {"green earth", 2.1}, {"bone black", 0.7}, {"yellow ochre", 0.3}, medium=0.08}
+local zone = ((ellipse(300, 594, 80, 36):roughen(3, 12, 1202)) * bankM2) - above(function(x) return crestY(x) + 1 end) - figM:grow(2)
+zone = zone - (oakM2 * above(function(x) return 560 end))
+work(zone, {hand="body", pile=baseGround, angle=-1.4, coverage=3.2, fill=true, clip=true, length={4,10}, tool="filbert 4"})
+blend(zone, {angle=-1.5, coverage=2, length={8,20}, tool="badger 12"})
+rootM2 = poly({{277, 556}, {275, 572}, {272, 586}, {264, 595}, {249, 601}, {258, 603}, {270, 601}, {280, 603}, {290, 601}, {299, 605}, {308, 602}, {318, 603}, {330, 605}, {351, 603}, {336, 597}, {326, 588}, {322, 574}, {320, 556}}, true)
+work(rootM2, {hand="detail", pile=barkD, angle=-1.5, coverage=4, fill=true, clip=true, length={4,12}})
+work(rootM2 * rect(260, 540, 30, 70), {hand="detail", pile=barkDark, angle=-1.5, coverage=1.5, clip=true, length={4,12}, pressure={0.3,0.6}})
+blend(rootM2 + (oakM2 * rect(260, 540, 80, 30)), {angle=-1.5708, coverage=2, length={15, 40}, tool="badger 12"})
+local rl = brush{kind="round", width=1.3, point=1}
+rl:load(barkRim, 0.55)
+rl:stroke({{319, 566}, {322, 582}, {329, 593}, {343, 601}}, {pressure={rl:pressure_for(0.7), rl:pressure_for(0.2)}})
+rl:load(barkDark, 0.7)
+rl:stroke({{296, 575}, {298, 590}, {300, 603}}, {pressure={rl:pressure_for(0.8), rl:pressure_for(0.3)}})
+rl:stroke({{284, 580}, {282, 592}, {279, 601}}, {pressure={rl:pressure_for(0.7), rl:pressure_for(0.3)}})

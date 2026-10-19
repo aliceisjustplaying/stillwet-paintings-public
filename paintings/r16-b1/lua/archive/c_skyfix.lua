@@ -1,0 +1,15 @@
+function skyRepaint(zone)
+  local bot = 238
+  local base = zone * (rect(0, 0, 1000, bot):roughen(4, 30, 555))
+  local b1 = base * rect(0, 0, 1000, 95)
+  local b2 = base * rect(0, 70, 1000, 110)
+  local b3 = base * rect(0, 160, 1000, 100)
+  work(b1, {hand="body", pile=skyTop, angle=0, coverage=2.6, fill=true, clip=true, length={20,50}, tool="filbert 10"})
+  work(b2, {hand="body", pile=skyMid, angle=0, coverage=2.6, fill=true, clip=true, length={20,50}, tool="filbert 10"})
+  work(b3, {hand="body", pile=skyLow, angle=0, coverage=2.4, fill=true, clip=true, length={20,50}, tool="filbert 10"})
+  blend(base, {angle=0, coverage=3, ruler=true, length={80, 250}, tool="badger 20"})
+  blend(base, {angle=1.5708, coverage=2, length={20, 60}, tool="badger 20"})
+  blend(base, {angle=0, coverage=2, ruler=true, length={80, 250}, tool="badger 20"})
+end
+skyKeep = treeZone:grow(3) + moonM:grow(4)
+skyRepaint(rect(700, 0, 300, 260) - skyKeep)

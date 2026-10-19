@@ -1,0 +1,249 @@
+{
+  "archive": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)",
+  "identity": "9cf69b",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/finals/A2.png",
+      "repo_path": "paintings/r16-a2/finals/A2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3281847,
+      "repo_bytes": 3281847,
+      "sha256": "c1c022293c04ec02849da5e2470938be6cdb38e7401b839cbfcbf9a4aab5292f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/finals/painting.png",
+      "repo_path": "paintings/r16-a2/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3680698,
+      "repo_bytes": 3680698,
+      "sha256": "1bf484c54ca552a666ffcd71744d763559a5376ec9117481bd780a2646db0274"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/finals/r16-a2 - version 02.png",
+      "repo_path": "paintings/r16-a2/finals/r16-a2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3117384,
+      "repo_bytes": 3117384,
+      "sha256": "c665f8641437a80ff480854902e5a65bb3378489ca15053ca0c3da463b904ba0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/finals/r16-a2 - version 03.png",
+      "repo_path": "paintings/r16-a2/finals/r16-a2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9712491,
+      "repo_bytes": 9712491,
+      "sha256": "1ebb728995e6907a9be3430335a4c894cd55810a7589931f42390c082968d3e2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/finals/r16-a2.png",
+      "repo_path": "paintings/r16-a2/finals/r16-a2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6524525,
+      "repo_bytes": 6524525,
+      "sha256": "1142312501a1460480a06582f38be9323f2b01fa526c4521e4b8002a8e764df1"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-a2/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r16-a2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 71380,
+      "repo_bytes": 71380,
+      "sha256": "d7a1790bd40c2e80e630a81fd5ed16845204bcdfb6666ebe1acde602bbf23445"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/lua/r16-A2-3.lua",
+      "repo_path": "paintings/r16-a2/lua/archive/r16-A2-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3308,
+      "repo_bytes": 3308,
+      "sha256": "ddb8c8fe0c60354a851491d989ebb5994d1a3a5370f1cd4b731ce2c58ee1fc6e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/sessions/2026-09-27T01-01-36-545Z_01a0e061-bba0-77a2-b20e-a6ea1d0439ee - version 02.jsonl",
+      "repo_path": "paintings/r16-a2/sessions/pi/2026-09-27T01-01-36-545Z_01a0e061-bba0-77a2-b20e-a6ea1d0439ee - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 37601832,
+      "repo_bytes": 656718,
+      "sha256": "c4e9f9ad82529cce7ac31fb7119ed08941c32b2acb557563005d3f4c8f33beff"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/sessions/2026-09-27T01-01-36-545Z_01a0e061-bba0-77a2-b20e-a6ea1d0439ee.jsonl",
+      "repo_path": "paintings/r16-a2/sessions/pi/2026-09-27T01-01-36-545Z_01a0e061-bba0-77a2-b20e-a6ea1d0439ee.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 938309,
+      "repo_bytes": 643813,
+      "sha256": "d899b2ac26c15d7c4d42d38cdc31efc6334e9ab6f526c37cc3e3dbf6e68baee2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-a2/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 239492,
+      "repo_bytes": 232586,
+      "sha256": "168b7f33f7b77e48e1cf5eabc435dfc058f217f7937fc15547112ac35e75bf42"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-a2/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 251821,
+      "repo_bytes": 232588,
+      "sha256": "bbf733553e169044e080705a77bdced61ceb5e43166c716addb07ac36d95f68e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-a2/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 237813,
+      "repo_bytes": 231175,
+      "sha256": "f9bc403e0e1df324deba10dbb7a83fdb0c48913f569c0912e59143d20e89ea90"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-a2/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 250116,
+      "repo_bytes": 231155,
+      "sha256": "cb6f3395604d4cf65d7f04f37cf6f716b40b08609df8057050d96cbf16cf3f13"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-a2/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 250142,
+      "repo_bytes": 231177,
+      "sha256": "cad9e811f1061e999a239f741b7b9e4bbb33e5c3d6b7bbe9c1dc39d538457755"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r16-a2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 237787,
+      "repo_bytes": 231153,
+      "sha256": "afd0c7e25bc43d2c5d5dde654f166040b28afa628629df71156d10eb4a37439e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2 - version 02.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 502520,
+      "repo_bytes": 502520,
+      "sha256": "ef2066b989f3a5c807026dc0b134365ff29f428d3c266df429fad690e8086f03"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2 - version 03.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 505648,
+      "repo_bytes": 505648,
+      "sha256": "899dcff8ae99451dd8921c302e26143aecb1d39d51128b3cca48f0ad2c7ea312"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2 - version 04.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1197371,
+      "repo_bytes": 1197371,
+      "sha256": "b6eb693af4cd7dc2e78068faf585a6d44a295fdb056ed111a1afac43a452a57a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1753838,
+      "repo_bytes": 1753838,
+      "sha256": "b2a3b9a9abd1ca07936af97296a65db8e67647392f895486548178d2b2e2b7de"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1756966,
+      "repo_bytes": 1756966,
+      "sha256": "fd3a5bf174f05cfaa5d3872166e46daa44acac6f767ca291d2cde01e98bec984"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2-1920.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1514807,
+      "repo_bytes": 1514807,
+      "sha256": "90fead8e133c3636431e39eaa26f535218052babd491a96f4af49ffaeb5f6318"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2-720 - version 02.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 293690,
+      "repo_bytes": 293690,
+      "sha256": "138817cdda8e1fdcfd96818ab765410f80007a11fab22a853059dc91ef285bf3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2-720 - version 03.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 340319,
+      "repo_bytes": 340319,
+      "sha256": "237c1a713109f11aed946f61f165fdcf3c2740155709dc685a012a0dfce490b2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2-720.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 343447,
+      "repo_bytes": 343447,
+      "sha256": "b1b991df3c41996cbc148d1ac9089f236498ac17cc67d0fd5fbf2ca168b0679b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2-social-1920.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1783750,
+      "repo_bytes": 1783750,
+      "sha256": "3b30f66ca98fe41d81a67a7f261a1da6e3ac3aab4ce12654cec65b73508e7fc2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Hünengrab im Schnee am Abend (Dolmen in Snow at Evening) — attempt 2 (Claude Opus 5.5)/video/r16-a2.mp4",
+      "repo_path": "paintings/r16-a2/video/r16-a2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2054885,
+      "repo_bytes": 2054885,
+      "sha256": "c2b1036d13d2143d6a756934162863338e62642fc0ce0a7c8d7e2e88dcc489b8"
+    }
+  ]
+}

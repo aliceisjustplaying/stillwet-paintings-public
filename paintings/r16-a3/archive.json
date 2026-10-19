@@ -1,0 +1,249 @@
+{
+  "archive": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)",
+  "identity": "7ff345",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/finals/A3.png",
+      "repo_path": "paintings/r16-a3/finals/A3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4747309,
+      "repo_bytes": 4747309,
+      "sha256": "48ca334d3f9f787ea4d2a3a9055765260be36e2dae2653a54d5b2746faa2714b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/finals/painting.png",
+      "repo_path": "paintings/r16-a3/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5281309,
+      "repo_bytes": 5281309,
+      "sha256": "e91e796550fb82b2d180d66ea06fe417ec91ff22e35e94a0f0ba055073412099"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/finals/r16-a3 - version 02.png",
+      "repo_path": "paintings/r16-a3/finals/r16-a3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4654613,
+      "repo_bytes": 4654613,
+      "sha256": "5d1e41a4ced250bde57b21c3ca86cd461eb2fb6dcbd1a3936b4e66559353c2a0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/finals/r16-a3 - version 03.png",
+      "repo_path": "paintings/r16-a3/finals/r16-a3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8169970,
+      "repo_bytes": 8169970,
+      "sha256": "6cd5bbd2ec09ae1577eeba434b9f80ab7d7d1ebce2a4ab27f98a200cb0cd9498"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/finals/r16-a3.png",
+      "repo_path": "paintings/r16-a3/finals/r16-a3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6508699,
+      "repo_bytes": 6508699,
+      "sha256": "6b24381c23f5756b1570caa591d2c4ab3470d26af37e91bd872436e2cd09cd15"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-a3/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r16-a3/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 86648,
+      "repo_bytes": 86648,
+      "sha256": "66b8b666c8f7574be109a5bb4a0362bc23887515bc5907058bc2d14bcd7149ad"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/lua/r16-A3-3.lua",
+      "repo_path": "paintings/r16-a3/lua/archive/r16-A3-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3228,
+      "repo_bytes": 3228,
+      "sha256": "4b3b0996fc65eb0315d4b55a242cbd49be0dac3422bd654c8d7a09c352509346"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/sessions/2026-09-27T01-44-18-407Z_01a0e088-d2e7-773b-9c9d-99185b3c6680 - version 02.jsonl",
+      "repo_path": "paintings/r16-a3/sessions/pi/2026-09-27T01-44-18-407Z_01a0e088-d2e7-773b-9c9d-99185b3c6680 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 55886240,
+      "repo_bytes": 828639,
+      "sha256": "559f70dd1e3f59a30bf134d0c1bbf3ab638a80c0a71232cbc46cba54a4038e6b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/sessions/2026-09-27T01-44-18-407Z_01a0e088-d2e7-773b-9c9d-99185b3c6680.jsonl",
+      "repo_path": "paintings/r16-a3/sessions/pi/2026-09-27T01-44-18-407Z_01a0e088-d2e7-773b-9c9d-99185b3c6680.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1131240,
+      "repo_bytes": 819039,
+      "sha256": "6dd5ba1af72e0f0b2a5abbe2f3d4f31f48d8a0c678e87089acb4c3924eda2f94"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-a3/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 271594,
+      "repo_bytes": 265573,
+      "sha256": "5f9304542ff6fe69a482ac1dd031b6e0700408af97ff5cd27f86abd12c8a92f6"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-a3/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 284377,
+      "repo_bytes": 263969,
+      "sha256": "3ace2327aa2781aa84e5ccff7a9ea0b17b8e114a03e2a1bb14daebb19d78a88b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-a3/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 269683,
+      "repo_bytes": 263967,
+      "sha256": "0a0a3dd64219a27c33cd5753ce7b909009f44cb29a46e89c2200693a054b8151"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-a3/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 286288,
+      "repo_bytes": 265575,
+      "sha256": "4ffc25b10e223377b523611344482785b47b665edf158e96f4ef1ff92e3ee4cb"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-a3/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 284481,
+      "repo_bytes": 264057,
+      "sha256": "fe016853b754086c18e8b712820cc70f46ce19f63764e0ed17b368651b4e2774"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r16-a3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 269787,
+      "repo_bytes": 264055,
+      "sha256": "deafc6cfe13136e5ecaab1082e252fd07c6dfaf0bd262b09e51ddffb6864ebdb"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3 - version 02.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 765782,
+      "repo_bytes": 765782,
+      "sha256": "bb001ee46d459737798bddfbcbefdb560b1f724c051fca000a2f822c53919306"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3 - version 03.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3241517,
+      "repo_bytes": 3241517,
+      "sha256": "0a419fefd9071326483a6a4a3116e2957d74764e0cfd633a2739641ffdfdacc4"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3 - version 04.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1671123,
+      "repo_bytes": 1671123,
+      "sha256": "9f87a07db249b71558e17e0057191bc4f8d9690e47b3e3e49ad3117ed2c0ea12"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2492624,
+      "repo_bytes": 2492624,
+      "sha256": "42ba9094ef4ab608b7fb4fbe37f37835aee465e233c0400c718adf8102474539"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2888141,
+      "repo_bytes": 2888141,
+      "sha256": "958964f17c9e759a178e986cbb2374411f5dfea774e4738a278a1798a97c0274"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3-1920.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2885013,
+      "repo_bytes": 2885013,
+      "sha256": "feafecce5ef8bbdcd7dfdaa17854e8534d416216f567c24e67d5ef467bafc393"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3-720 - version 02.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 513565,
+      "repo_bytes": 513565,
+      "sha256": "4659bebd9b31f8915f4c475780cff623a92195ad92e059ac276be12e38add84d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3-720 - version 03.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 441961,
+      "repo_bytes": 441961,
+      "sha256": "05ffe74ead674848236cf817cfa0e6a943d3806ad115b37a5b0c71217eb6217f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3-720.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 516693,
+      "repo_bytes": 516693,
+      "sha256": "ead73db684d99521664eab356ed33e93b7372b05560bcae6671525e1b644144a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3-social-1920.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3067999,
+      "repo_bytes": 3067999,
+      "sha256": "ee9be452a320c43a1656017fc3d544d4ddc5cec54817ab36ceb3a67586009475"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Evening at the Frozen Mere (Claude Opus 5.5)/video/r16-a3.mp4",
+      "repo_path": "paintings/r16-a3/video/r16-a3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 762654,
+      "repo_bytes": 762654,
+      "sha256": "b5c2d41917f2e591c32b17df31bf6f7f079ab64d006866aee3f6a46387ca1255"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+-- easel session "painting": a painting replayed chunk by chunk.
+-- Each "--@ chunk" line starts one chunk as it was run at the easel.
+
+--@ chunk 1
+canvas{size=450, aspect=1.4, linen={15,13}, seed=1823, ground={{pile={{"red earth",2},{"yellow ochre",2},{"lead white",1}}, um=120, apply="knife", texture=0.3},{pile={{"lead white",6},{"yellow ochre",0.3},{"raw umber",0.1}}, um=60, apply="brush"}}}
+print(W,H)
+
+--@ chunk 2
+HZ = 470
+mound = {{0,478},{60,466},{130,446},{210,425},{300,414},{390,418},{470,434},{540,455},{610,471},{700,476}}
+h = pencil("2H")
+-- horizon line, ruled
+h:rule({560,HZ},{1000,HZ},{pressure=0.25})
+-- mound
+h:sketch(mound,{pressure=0.3, passes=2})
+-- distant wood line
+h:sketch({{560,466},{620,462},{700,460},{760,463},{830,458},{900,461},{1000,457}},{pressure=0.2,passes=2})
+-- church
+h:line({{786,462},{786,432},{796,432},{796,462}},{pressure=0.3,smooth=false})
+h:line({{786,432},{791,412},{796,432}},{pressure=0.3,smooth=false})
+h:line({{796,446},{820,446},{820,462}},{pressure=0.25,smooth=false})
+-- dolmen
+h:line({{282,402},{300,392},{350,386},{400,388},{418,396},{414,406},{360,404},{300,410},{282,402}},{pressure=0.35})
+for _,u in ipairs({{298,305,322,436},{344,352,368,428},{388,396,408,428}}) do
+  h:line({{u[1],408},{u[2]-2,u[4]},{u[3],u[4]-2},{u[3]-2,406}},{pressure=0.35,smooth=false})
+end
+-- oak trunk
+h:sketch({{176,436},{182,380},{186,330},{180,290},{176,260}},{pressure=0.35,passes=2})
+h:sketch({{208,432},{204,380},{206,330},{214,295},{222,270}},{pressure=0.35,passes=2})
+-- main limbs
+h:sketch({{182,290},{150,250},{120,215},{100,170}},{pressure=0.3})
+h:sketch({{195,285},{200,230},{190,170},{200,110},{210,70}},{pressure=0.3})
+h:sketch({{214,290},{260,250},{300,210},{330,165},{360,140}},{pressure=0.3})
+h:sketch({{210,300},{270,295},{330,280},{380,280}},{pressure=0.3})
+h:sketch({{178,310},{130,300},{80,290},{50,270}},{pressure=0.3})
+-- moon
+h:line({{752,142},{760,156},{770,160}},{pressure=0.25})
+-- figure
+h:line({{602,556},{600,535},{604,522},{610,522},{612,535},{610,556}},{pressure=0.3})
+-- spruces right
+for _,s in ipairs({{880,494,38},{905,498,52},{930,496,34},{952,500,24}}) do
+  h:line({{s[1]-s[3]*0.25,s[2]},{s[1],s[2]-s[3]},{s[1]+s[3]*0.25,s[2]}},{pressure=0.25,smooth=false})
+end
+-- fence posts foreground left
+h:line({{88,640},{94,572}},{pressure=0.3}); h:line({{150,622},{152,566}},{pressure=0.3}); h:line({{215,606},{214,560}},{pressure=0.3})
+-- foreground rise
+h:sketch({{0,640},{150,600},{350,585},{600,600},{800,620},{1000,610}},{pressure=0.2,passes=1})
+
+--@ chunk 3
+skyline = {{0,478},{60,466},{130,446},{210,425},{300,414},{390,418},{470,434},{540,455},{610,471},{700,474},{1000,474}}
+sky = above(skyline)
+skyA = pile{{"lead white",3},{"pale smalt",3},{"smalt",1},{"bone black",0.12}, medium=0.15}
+skyB = pile{{"lead white",5},{"pale smalt",2},{"smalt",0.3},{"raw umber",0.08}, medium=0.15}
+skyC = pile{{"lead white",7},{"yellow ochre",0.35},{"pale smalt",0.5},{"vermilion",0.04}, medium=0.15}
+skyD = pile{{"lead white",7},{"yellow ochre",0.9},{"vermilion",0.14}, medium=0.15}
+local bands = {{skyA,-20,170},{skyB,140,300},{skyC,270,400},{skyD,370,500}}
+for i,b in ipairs(bands) do
+  local m = sky * rect(-20, b[2], 1040, b[3]-b[2])
+  work(m, {hand="broad", pile=b[1], angle=0, coverage=2, fill=true, angle_jitter=0.05, pressure={0.5,0.8}})
+end
+

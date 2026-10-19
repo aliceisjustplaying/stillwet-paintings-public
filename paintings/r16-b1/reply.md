@@ -1,0 +1,18 @@
+# The painter's last reply
+
+The painting is saved and the session is closed.
+
+- **Painting:** `[local path redacted]
+- **Log:** `[local path redacted]
+- **Title:** *Summer Evening on the Elbe Meadows*
+
+It's a low-horizon evening after sunset. The sky runs smooth from blue at the top down to a lemon glow, with a thin new moon, the evening star, a few faint pink cloud strata and a small line of rooks flying home.
+
+On the left stands an old oak with a dead, stag-headed crown. Near the middle, two figures seen from behind (a woman in a red dress and pale shawl, a man in a dark coat with a stick) stand on the dark near bank. They look out over hay cocks, a ditch lined with pollard willows, and a winding river with a sailing barge. Beyond, a misty town with a spire sits under pale hills. The foreground has summer grass, thistles, seed heads and a granite boulder.
+
+Some weak spots are still visible up close:
+- the crown clumps have speckled edges;
+- a faint pale ghost shows below the low-hanging clump;
+- the foreground blades are a little busy.
+
+I didn't varnish it because parts were still wet. My journal notes are in `notes/journal.md`.

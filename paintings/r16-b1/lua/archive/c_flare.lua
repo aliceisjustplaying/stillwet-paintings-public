@@ -1,0 +1,6 @@
+local fl = poly({{286, 528}, {283, 545}, {278, 558}, {272, 572}, {273, 590}, {326, 590}, {324, 572}, {321, 558}, {319, 545}, {318, 528}}, true)
+work(fl, {hand="detail", pile=barkD, angle=-1.5708, coverage=4, fill=true, clip=true, length={6,16}})
+work(fl * rect(260, 520, 22, 80), {hand="detail", pile=barkDark, angle=-1.5708, coverage=1.5, clip=true, length={6,16}, pressure={0.3,0.6}})
+blend(fl, {angle=-1.5708, coverage=2, length={15,35}, tool="badger 12", clip=true})
+local rim = (fl - fl:shrink(2)) * rect(316, 520, 20, 60)
+work(rim, {hand="detail", pile=barkRim, angle=-1.5708, coverage=1.3, clip=true, length={6,16}, pressure={0.3,0.5}})

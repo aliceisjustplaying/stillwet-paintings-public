@@ -1,0 +1,1059 @@
+{
+  "archive": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)",
+  "identity": "cd267e",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/finals/B1.png",
+      "repo_path": "paintings/r16-b1/finals/B1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2703951,
+      "repo_bytes": 2703951,
+      "sha256": "8b7f84980f365eea12f933304f7de396711b08e02b6abd5fc782a8171fd188bd"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/finals/painting.png",
+      "repo_path": "paintings/r16-b1/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2944539,
+      "repo_bytes": 2944539,
+      "sha256": "62fafc1c9d4b3328deb94d2ce1d5d925c3197fdf61763b0a09439a050465ab61"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/finals/r16-b1 - version 02.png",
+      "repo_path": "paintings/r16-b1/finals/r16-b1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8038261,
+      "repo_bytes": 8038261,
+      "sha256": "a6310923c7d9a2a47f4df3215631fbe2ebde608e2695a9f43ef6d485ffe266eb"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/finals/r16-b1 - version 03.png",
+      "repo_path": "paintings/r16-b1/finals/r16-b1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5718979,
+      "repo_bytes": 5718979,
+      "sha256": "defc511c7be4d5f2e04279f67086247474e6cf65fc54c16165123bce923f6e60"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/finals/r16-b1.png",
+      "repo_path": "paintings/r16-b1/finals/r16-b1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2519091,
+      "repo_bytes": 2519091,
+      "sha256": "a36166f925557963347727e78727b0908e7058800e5516135830b18579bf41f8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-b1/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_bank.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_bank.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 424,
+      "repo_bytes": 424,
+      "sha256": "a827010191c1d1d9c0c0ee0a98a69972b9ce1d8f81d0c21577792dfbae769c6a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_barge.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_barge.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1854,
+      "repo_bytes": 1854,
+      "sha256": "600aa6d4c74d7b90ea1f9810be969feb1b1242537a99f2bd4bc2bb4702f0da22"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_base.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_base.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1219,
+      "repo_bytes": 1219,
+      "sha256": "a2392198e3827439e2d2cc92821f6c5e7b0e0f66fd9bd1507bdffefbd3d2205d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_base2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_base2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1524,
+      "repo_bytes": 1524,
+      "sha256": "92be37c033885efaa9e52e9a7b2eceeafba85429e4f8cc69e4c481bf3417d130"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_basegrass.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_basegrass.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2020,
+      "repo_bytes": 2020,
+      "sha256": "bff99fb61407d6d97bfe65d85223fa8018897d0b0524de05d5ce42e968c9a625"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_basegrass2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_basegrass2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 469,
+      "repo_bytes": 469,
+      "sha256": "98695ed28cf12d39fc4d6f963ef85b9da560edc265a5772d2c8977c2072bf389"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_batch1.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_batch1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1648,
+      "repo_bytes": 1648,
+      "sha256": "f3671930ea68553131195b83e419c4efc4f89b10308dee16ba604abc382060b3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_boulder3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_boulder3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1320,
+      "repo_bytes": 1320,
+      "sha256": "5fef00b1d0dd32718fa84cd96781e01913a0022f8dac24bf6b15ecda7a571095"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_boulder4.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_boulder4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 468,
+      "repo_bytes": 468,
+      "sha256": "b620d32cb93bc6b2497ea8e24fbc7d83dd395dc42537b35b0497feab94e2bf86"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_cl2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_cl2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 275,
+      "repo_bytes": 275,
+      "sha256": "d2db25613627f04d02f7c8077e54febdbb6182ca22bc33a43212c3ad7c728478"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_cloud.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_cloud.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 940,
+      "repo_bytes": 940,
+      "sha256": "e04fc9d8940bcf99dd7aec23cb33d33bff7999ef7c2aae25f995d8a1b34f48f0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_clump.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_clump.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 705,
+      "repo_bytes": 705,
+      "sha256": "9e64f9307dc1b6eeaad82a8d490f49ce2d7a13707d6084ee2ba4199d747de6ff"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_crest.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_crest.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 849,
+      "repo_bytes": 849,
+      "sha256": "a0b565b7bf1192d362cf6244d3d797f030bcf80666c77d901c3b88cda4ddb692"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_crestgrass.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_crestgrass.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1373,
+      "repo_bytes": 1373,
+      "sha256": "92f58f7934395ff10aba7dee0d403876fac4c4b98dc6eba36e35877073fb1d2a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_crotch.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_crotch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 716,
+      "repo_bytes": 716,
+      "sha256": "6e7a887ae2e92ac6a7cae14d6fce8e0f8571e755b4cf0918d5e490bbd439bd33"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_details1.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_details1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2367,
+      "repo_bytes": 2367,
+      "sha256": "621e1d76ef29b3bb06c6438683e5c8072c4278edf34af1442207be8498cd60b8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_draw.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_draw.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1862,
+      "repo_bytes": 1862,
+      "sha256": "07c7dfc8a072b64b7ea88d207052d644165dd5c511df0e97600405818ae94184"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_far.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_far.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1826,
+      "repo_bytes": 1826,
+      "sha256": "f12ece50f2e6fd01e2bb0a09ffca99d3ebd292fb9ef7dbf91fa480994f9078f2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fg1.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fg1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1071,
+      "repo_bytes": 1071,
+      "sha256": "1f3d7984ffc043473345af194feaa50b9bdc10b56a8a8ac2653dc0fef213167d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fg2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fg2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 973,
+      "repo_bytes": 973,
+      "sha256": "bc24ca3090411414816689bd2b2d7e2c628152a4c762e0ee80caa6b68ddbca38"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fg3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fg3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 333,
+      "repo_bytes": 333,
+      "sha256": "f3117f97ee44ac8a79ae7f60ec8e5d84929a11b7b696e5900cf6daa9ab60cc85"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fg4.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fg4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 951,
+      "repo_bytes": 951,
+      "sha256": "917641162b53b25e296075d4652474ff9fca07076fcf82ee2b4a5c0077480d10"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fg5.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fg5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 112,
+      "repo_bytes": 112,
+      "sha256": "f4a696601847c1911af3244550102d55c80188b27c5899451ebfd4d7e4c2f38b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fg6.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fg6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 679,
+      "repo_bytes": 679,
+      "sha256": "351300ebc65e46c4cf4ad9ba1f095cf97b11367769b397f19e057c603cbcc504"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fgcover.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fgcover.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 725,
+      "repo_bytes": 725,
+      "sha256": "e674fef9a72ce3a766fec073577b6f131c9fafdbdce99de90d8fa93a52ad58fe"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fggrass.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fggrass.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1124,
+      "repo_bytes": 1124,
+      "sha256": "8f609a601adc0e4913373470d4380696cf1cc6dcf61f602ea6ee56fe6c22672c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fig.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fig.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2144,
+      "repo_bytes": 2144,
+      "sha256": "8a969e9a288cdd3ae4233085c4653123e3466c2ac6a96a4ad7be23e45ed2cd0e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_final1.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_final1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1122,
+      "repo_bytes": 1122,
+      "sha256": "7ea85cbd2ce31bcec1242a5a2723ecb01f6a7cbe77b1ed4d41944cb0389e2bfc"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_final2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_final2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1208,
+      "repo_bytes": 1208,
+      "sha256": "9686b0f19f0dc51b6394bd584e0b585b99292f2b307f216cf3b416366749781e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_fix2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_fix2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 416,
+      "repo_bytes": 416,
+      "sha256": "c6b62a1df394ca2e5d6c9290a2f733b1d80f2c8a3bcc466ad16aac6e5c7fd7a5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_flare.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_flare.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 644,
+      "repo_bytes": 644,
+      "sha256": "726c47d7bad5c4faf6cdb61441f97e0aa7093529addde741b821024f9ee1f35a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_flare2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_flare2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1390,
+      "repo_bytes": 1390,
+      "sha256": "f868e5bf882a5a48f8c8b950e110bd86f6d66eef6b11c8f04f13ac2aa64f2bda"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_glaze.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_glaze.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 311,
+      "repo_bytes": 311,
+      "sha256": "c4310c9e241cb3a8fd0d9fef78b32180cb6ccdffb7aa67de743a93171bfb8b4e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_glazeblend.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_glazeblend.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 329,
+      "repo_bytes": 329,
+      "sha256": "134a1c7bc2553897325364e06ff3212f95299ede55b8941d469030cabd065c4d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_grass.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_grass.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1763,
+      "repo_bytes": 1763,
+      "sha256": "e993ecae306d65912f1d674fcc356bee7df867be172096e14d21cf3ce221632f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_halo.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_halo.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 675,
+      "repo_bytes": 675,
+      "sha256": "7681db6f55f5e57f53c2f57330281acf5c78191e84a82d3cd34a92ccb4094741"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_halo2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_halo2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1149,
+      "repo_bytes": 1149,
+      "sha256": "8cf978e5f30686b3b43cf065727c3e5d2c2aabfe98e46e02fe35aef05580ac45"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_halo3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_halo3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 489,
+      "repo_bytes": 489,
+      "sha256": "1c08f6a0af572293c09b0408aeae202e1569313f6b767c85fdcd5fde220d1360"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_halo4.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_halo4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 489,
+      "repo_bytes": 489,
+      "sha256": "6088f3d28af472291e64e90fc24fd8d6cf84c7078bd4a9b9e311a214c653bc17"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_hem.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_hem.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 707,
+      "repo_bytes": 707,
+      "sha256": "a49c7656c98f08ecf7476dd0a224454e060629ed9f5eae9ce6290809ded6154c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_land1.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_land1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1125,
+      "repo_bytes": 1125,
+      "sha256": "9a9c6c8c0a19de86fc9d6faed5eeb4dec776285001e3fe4dfbf4ada56cb07e4f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_land2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_land2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1056,
+      "repo_bytes": 1056,
+      "sha256": "60c0d944f039f0f10c48170e433f6e4c8c9707a04ac667b880538003930d4dfc"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_land3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_land3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 621,
+      "repo_bytes": 621,
+      "sha256": "2aca1f709688b99c8351b5f16ebd9b5e1e84446f14f307539d0e23326ea1dbec"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_leafedge.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_leafedge.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 772,
+      "repo_bytes": 772,
+      "sha256": "b8297dba46fa4b16a8c0e4cdd78e752f52dffcef2fedefd887cff17a31953e12"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_leafedge2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_leafedge2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 864,
+      "repo_bytes": 864,
+      "sha256": "afd3c65fbdf43ebeb8328a426a4317ac104dd6b52941357fa4f0e064fab07fc3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_leafedge3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_leafedge3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 598,
+      "repo_bytes": 598,
+      "sha256": "6e1221d986753c58f94caacd0eb429919d4a3138a91be86585e4a2a0b9a36fb5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_leafedge4.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_leafedge4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 641,
+      "repo_bytes": 641,
+      "sha256": "4ee79b7c3216b18734fd67df6acddb734f75b77daa23fe1398403deeb5a70086"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_leafedge5.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_leafedge5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1145,
+      "repo_bytes": 1145,
+      "sha256": "c9a5ec0d105b132e7b3c8a70ad2010c16e8d65e9051a15828bec4b5038903590"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_mead.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_mead.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 869,
+      "repo_bytes": 869,
+      "sha256": "84145a892306aeff30e9f3ce96732944c558d963b95741b72c285fbef96925ce"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_mead2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_mead2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1407,
+      "repo_bytes": 1407,
+      "sha256": "3d2e23abbbb712579894008cc324ba89c8481788b8eff6feacfb9c598caa8b0d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_mead3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_mead3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 245,
+      "repo_bytes": 245,
+      "sha256": "6e1cad8f347e4e98de741e6a6858b0612bc4b1ab38254a81ad971683c7361cec"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_meadfix.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_meadfix.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 184,
+      "repo_bytes": 184,
+      "sha256": "ec8fc170e288a3fdb470d92ebeebcc3b1801d53a4c4fc9d98e45511d5ce23a56"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_mist.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_mist.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 489,
+      "repo_bytes": 489,
+      "sha256": "a4a9de4e0ed898432d50c774dd05b9d318a2e9546001b7c2b685464d186e6197"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_mist2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_mist2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 547,
+      "repo_bytes": 547,
+      "sha256": "fe3062c1133b1006711bbd977ecb41e9f29e43c08210aba253a500bfcfa6c160"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_mistfix.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_mistfix.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 730,
+      "repo_bytes": 730,
+      "sha256": "364db5d807670cb299d54bc615be9a6dd3936e5cbf328c6d33b4bec5bb671e0f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_moon.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_moon.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 466,
+      "repo_bytes": 466,
+      "sha256": "d263b3de9803f6ca11e88ba5afaa5fd7eaa7aa26bc71d9b5bd4d77129b6075cc"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak1.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1315,
+      "repo_bytes": 1315,
+      "sha256": "8cc1e0d040f9f9271f8c8c8e4510dee549e6bee9a0135536ffec2e87fb205091"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2207,
+      "repo_bytes": 2207,
+      "sha256": "83067691fdd11ecea7af85b7e69b1e649b5290baac97982ed8ba67c20a8b1daf"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2574,
+      "repo_bytes": 2574,
+      "sha256": "56c3d5e48207c5883b3bff7950dfc15b2d5833ae43ac92faf9464d88f82f542e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak4.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 957,
+      "repo_bytes": 957,
+      "sha256": "359bca80d686556a32bdd58617af6c343ca7689bb4785a7544f9f948fe5888ba"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak5.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 260,
+      "repo_bytes": 260,
+      "sha256": "1cdcfe404e6dd9d93d1a2a2a14dfe6b6dfa5184f1f8406bcd54851e51ef9a437"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak6.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 460,
+      "repo_bytes": 460,
+      "sha256": "b3961973bb8e5a5db6b5d114ebc66249248db041336de0814b1c81085f1d852c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak7.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 522,
+      "repo_bytes": 522,
+      "sha256": "2af76bbac1ec0a973dba8e1c4e8b6312d143feb7c8e1a2c6de339da556aea042"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak8.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 181,
+      "repo_bytes": 181,
+      "sha256": "2ca5b82f7658b2b3c2fec7b36790b810f41b539e862d36876d2222678de30196"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_oak9.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_oak9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 991,
+      "repo_bytes": 991,
+      "sha256": "45520b633b6cc8b0a4b78827ec3468abf4fc67b0f3cee0a325437c7ccc1b689d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_river.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_river.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1498,
+      "repo_bytes": 1498,
+      "sha256": "1bb224eebc56a99cbc98490836033a9184afebae2ea3d249b0232bb414bc40bf"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_river2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_river2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1413,
+      "repo_bytes": 1413,
+      "sha256": "8183c8306e6a67aa5d8932c0eda88e54c798dbbef0d5ce361ca5ac591c376e40"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_shawl.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_shawl.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1236,
+      "repo_bytes": 1236,
+      "sha256": "786ba4a3a22e59f782546849903dd3cca4e9ecca84a62abe96e46404ee6e2581"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_sky1.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_sky1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1129,
+      "repo_bytes": 1129,
+      "sha256": "eda70a82ffbba76adba48c105b519e218d088619c319d8117c991cc081288899"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_sky2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_sky2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 306,
+      "repo_bytes": 306,
+      "sha256": "1f1577b999de77a85ec6971bf12cf7d279696f47a6381359f2866700bdabec79"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_sky3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_sky3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 523,
+      "repo_bytes": 523,
+      "sha256": "582f5c2cac212b535ec9a810c2e39b7a6f8c10b7575572ba3fb2e8ff0705104f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_sky4.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_sky4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 493,
+      "repo_bytes": 493,
+      "sha256": "9f5284d53488e895bfbdf0811a9dabf5dbb924ca03dc58a81d4bb8f3de3b219d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_sky5.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_sky5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 271,
+      "repo_bytes": 271,
+      "sha256": "e7e4908b82583a51fabde09c1f5e53066123def24466a54da341f48e3ed62ed7"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_sky6.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_sky6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 604,
+      "repo_bytes": 604,
+      "sha256": "0544d899e1da7c66907300bf1106ec1abd833fb043ef9340faa157af9e27cd1a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_sky7.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_sky7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 376,
+      "repo_bytes": 376,
+      "sha256": "b49a4504b1e0a138462da96b6743dd8af046a1b31141ecd797c66d9ece0f8306"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_skyfix.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_skyfix.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 934,
+      "repo_bytes": 934,
+      "sha256": "e7bb83d2851d97b4fc35a1f27aac62a00c55e6227899e252742769e7e91946c0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_skyfix2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_skyfix2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 796,
+      "repo_bytes": 796,
+      "sha256": "a7353c2300156758d1063efa5255b3ea69914d5e4b4e57a117a6faf04c6e3421"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_sliver.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_sliver.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 601,
+      "repo_bytes": 601,
+      "sha256": "ed18ba75b1d67a5f1cc5ad3484e7e5f1ba93edd248821199c2c97921299588b1"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_tg2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_tg2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 374,
+      "repo_bytes": 374,
+      "sha256": "db8c93756a7cc4a30b5dbc7733938456910e035c5be37300494dbc035de1df3c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_tg3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_tg3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 813,
+      "repo_bytes": 813,
+      "sha256": "4cfd3ad51b615bbf0f1bfcb51f7582888fa0ad86085c194bdcf90de7948e3219"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_thcover.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_thcover.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1128,
+      "repo_bytes": 1128,
+      "sha256": "0034a46b8b7a75aa3848881b97482d09739bdeeefe86e90af6af30cb20fdbfb0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_thistle.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_thistle.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2943,
+      "repo_bytes": 2943,
+      "sha256": "4be65932c6c204a7eb9ce52cfca8a6dfd8156208cb6eb71472b028cd53358317"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_thistle2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_thistle2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3650,
+      "repo_bytes": 3650,
+      "sha256": "2649c5592ce75c0c166b83a74eb5f18f303519d48782503ce2b7964f7fcf498a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_thistle3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_thistle3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2827,
+      "repo_bytes": 2827,
+      "sha256": "7b5376e5151c775464f450d4fe2791c79e916d6231d4cd6d2bd9e5525bc50119"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_trunk.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_trunk.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 725,
+      "repo_bytes": 725,
+      "sha256": "9d69cd61365147c421cb10706b587c5b63b0415443b141d62a3994379e73c56b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_trunk2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_trunk2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1217,
+      "repo_bytes": 1217,
+      "sha256": "06b9861180acc31da4ec0f2a0ad78f7ae05e55c02c393d9f82689db5d4dda164"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_trunkglaze.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_trunkglaze.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 661,
+      "repo_bytes": 661,
+      "sha256": "07101bf222f1a4e9ab7c83caf3d7ae6ef945a14dbce59be83fc812fe8cc52032"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_willow.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_willow.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2176,
+      "repo_bytes": 2176,
+      "sha256": "73f2e82acdc573b5d86dc700cf571d7a7383ff6a5473373176508f510e3ff7b2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_willow2.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_willow2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1688,
+      "repo_bytes": 1688,
+      "sha256": "328f929a62011d495258a8f17402d4030465bf9cd5d867de579e67c16e5e061f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/c_willow3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/c_willow3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1402,
+      "repo_bytes": 1402,
+      "sha256": "55275163646d0c557dba98e77da8cdc3bec8165b7f8d9ac477791ba9e939320f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 102220,
+      "repo_bytes": 102220,
+      "sha256": "428748e41688eb9740f91e271f9a1b86d3d025a90faa0a9d265e879185b0f4a8"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/lua/r16-B1-3.lua",
+      "repo_path": "paintings/r16-b1/lua/archive/r16-B1-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2355,
+      "repo_bytes": 2355,
+      "sha256": "16bb374c78d4fda01c035b15fa15bd7c381619ccd84500c772763b7db16a0502"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/sessions/2026-09-27T00-05-18-938Z_01a0e02e-31d9-7012-8398-c52834cf6a81 - version 02.jsonl",
+      "repo_path": "paintings/r16-b1/sessions/pi/2026-09-27T00-05-18-938Z_01a0e02e-31d9-7012-8398-c52834cf6a81 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 62668660,
+      "repo_bytes": 1161190,
+      "sha256": "404a0afb8507f8d56a55f6d11d908c7caae9f3061f930ebf08e325463a7cdab9"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/sessions/2026-09-27T00-05-18-938Z_01a0e02e-31d9-7012-8398-c52834cf6a81.jsonl",
+      "repo_path": "paintings/r16-b1/sessions/pi/2026-09-27T00-05-18-938Z_01a0e02e-31d9-7012-8398-c52834cf6a81.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1654124,
+      "repo_bytes": 1147582,
+      "sha256": "872b411f5f5ac60f8f1768c6fa8c9462fa9d2301d2a83c78d8e7ee990548aa15"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-b1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 365926,
+      "repo_bytes": 342122,
+      "sha256": "3281dcdd3b57f568e99474809455141daab12fce5c977c4e94758abc38333df2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-b1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 366004,
+      "repo_bytes": 342188,
+      "sha256": "617d894f99559bb0bc78ca645e47d7f2e5f6a4a66c71e6a4872ce1c38ebf00ec"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-b1/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 368381,
+      "repo_bytes": 344186,
+      "sha256": "f02282bfd10a53e054c8cde956bc3ff73eabd475eaa5213cc8061529002a4f5b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-b1/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 349716,
+      "repo_bytes": 342120,
+      "sha256": "eb778b447dc34691674ff4335c3314f7bc44dba9740623bb939666ba19a0b176"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-b1/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 352171,
+      "repo_bytes": 344184,
+      "sha256": "431426103af21424e60335253b8efc4045a442230a5bc2143c7ad8e91ffd58a3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r16-b1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 349794,
+      "repo_bytes": 342186,
+      "sha256": "f2c852013b035a836d1709d1af6ae3989616bc46477f656218613a6f65c22fa7"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1 - version 02.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1484646,
+      "repo_bytes": 1484646,
+      "sha256": "ab1105b20dfdd7bff34b487949bf7d8f857fa984267d30c2141fa2da40f0af27"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1 - version 03.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 647355,
+      "repo_bytes": 647355,
+      "sha256": "e6a808da9e4d113f53336648184396c19e7f62320958d234a7b4849f1490f5e5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1 - version 04.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 644227,
+      "repo_bytes": 644227,
+      "sha256": "9796cecf550da7f7f09b3f3482b7dd4237ef830c9655c8e85f17d0e460c349ce"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2085304,
+      "repo_bytes": 2085304,
+      "sha256": "b62dfcbb07a7a539e311f3bb198bae68db96a821c3d8a228882766ddcc9ff515"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2088432,
+      "repo_bytes": 2088432,
+      "sha256": "387dba1be65f71d742ffbe5d3788325a32e9b7062cafa4e0036f848e2475a0e2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1-1920.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1850093,
+      "repo_bytes": 1850093,
+      "sha256": "a81052892cbde0063581506abb24c5fa742479b360b79042c78c9b572656af25"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1-720 - version 02.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 438127,
+      "repo_bytes": 438127,
+      "sha256": "b29009b3ae0dbb231ba9bc71c22ac4707a6fa4fe181269ba49840e62354b877b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1-720 - version 03.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 434999,
+      "repo_bytes": 434999,
+      "sha256": "1e7206da50c9c81fd1c6a9ef9fcf3c59f3433a6e466c556c7eec7eb196303290"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1-720.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 390043,
+      "repo_bytes": 390043,
+      "sha256": "f6726560bf3f87f8dbe515d0872edd57ba02d207a1612e970e9c09931fb01678"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1-social-1920.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2055187,
+      "repo_bytes": 2055187,
+      "sha256": "8027d3c25dc9d44f5104f8fa6c3bcf500432c08a701589e53969be28a15de71b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Elbe Meadows (Claude Opus 5.5)/video/r16-b1.mp4",
+      "repo_path": "paintings/r16-b1/video/r16-b1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1620819,
+      "repo_bytes": 1620819,
+      "sha256": "dd89b83e1e3a7914eeb39995b8777487e67af935a8624d23bb60a314cc84a98b"
+    }
+  ]
+}

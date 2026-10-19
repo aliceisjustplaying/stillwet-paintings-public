@@ -1,0 +1,582 @@
+{
+  "archive": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)",
+  "identity": "7ace8e",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/finals/B2.png",
+      "repo_path": "paintings/r16-b2/finals/B2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3500368,
+      "repo_bytes": 3500368,
+      "sha256": "72ff2d337dedbc6c767f06c8806a935e7f0f7cbcc3ab0615af52078538f1f556"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/finals/painting.png",
+      "repo_path": "paintings/r16-b2/finals/painting.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3956312,
+      "repo_bytes": 3956312,
+      "sha256": "c63fce9bd06de1a480957c4be3dc222d5c3f6d67b4efc516f56f3e4fcbd214aa"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/finals/r16-b2 - version 02.png",
+      "repo_path": "paintings/r16-b2/finals/r16-b2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3340690,
+      "repo_bytes": 3340690,
+      "sha256": "344d7ab66a98828382ccf85f1b391a8665ebb81dd58a4d312288077412ee7c95"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/finals/r16-b2 - version 03.png",
+      "repo_path": "paintings/r16-b2/finals/r16-b2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6345237,
+      "repo_bytes": 6345237,
+      "sha256": "35cf4e4cb377ea62a9b4889832a8b941c18839c34184f809f21e7e9811f757e0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/finals/r16-b2.png",
+      "repo_path": "paintings/r16-b2/finals/r16-b2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8933815,
+      "repo_bytes": 8933815,
+      "sha256": "15adb2d3bbeee457fa1278819f8c9084c250a6585e2a80ecb1a9022b6851105b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/finals/sheet.jpg",
+      "repo_path": "paintings/r16-b2/finals/sheet.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 144634,
+      "repo_bytes": 144634,
+      "sha256": "839a71674d288bc8c62bd71f7ff8d5ace0c8c5fc194fc1825de696eccc4d5db3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c100.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c100.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 323,
+      "repo_bytes": 323,
+      "sha256": "55d9370a4d0d28bc78908ebed8f0924d1b26d00983cd8efd6d7bdd69275cd0c3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c101.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c101.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 344,
+      "repo_bytes": 344,
+      "sha256": "34097b4acd45d620b6775038c7ea23e274543e7f30b32f54a68d1427995f3ba3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c102.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c102.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 335,
+      "repo_bytes": 335,
+      "sha256": "1f632b5538931247db9a3f30fd18758e986f934b33ef011e5b0ca8a426c66a55"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c105.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c105.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 592,
+      "repo_bytes": 592,
+      "sha256": "5b0024ead84977315d4a552d97d34640bd9ea9f866c518268184c65b458e10fd"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c107.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c107.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 531,
+      "repo_bytes": 531,
+      "sha256": "789a10ae1831cca0daea709ae183ffd0560d66d2e675526722a607ada38d9a99"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c12.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1856,
+      "repo_bytes": 1856,
+      "sha256": "c53e1eb0c2043d10d96f7e1f915c76569a5a998dd60f89a85fdf84b41a47588f"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c19.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1349,
+      "repo_bytes": 1349,
+      "sha256": "b3970d46de120dd2af65a1a330b5f0161c7592dd57485b188a033cdc8ba1d49e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c2.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2531,
+      "repo_bytes": 2531,
+      "sha256": "c93e8cb2e60cb596f9eb3db4feeda396fcaff04c81a25a539a6373e7652e3d2a"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c25.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c25.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1453,
+      "repo_bytes": 1453,
+      "sha256": "99202b74323998a5aeadbf08a917fe26d361b16b5e0c33b271ab889c3329894e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c28.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c28.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 644,
+      "repo_bytes": 644,
+      "sha256": "07eb89a7943d8cf79d46dd116e407aee0c0afc31425310bac95f38f2441f2bdb"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c32.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c32.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 511,
+      "repo_bytes": 511,
+      "sha256": "18c45ab5f2014f72ce0937ccc983c476a5ca75b0d7405f2ef3602b524408db46"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c43.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c43.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 396,
+      "repo_bytes": 396,
+      "sha256": "701831c2fef837ecec67ebe92374ebc696f8a92996350ac1f7038d80f62075df"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c45.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c45.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 501,
+      "repo_bytes": 501,
+      "sha256": "26883f06817d2f766a081b39c1a6159021b1953e91199e05537f09670f3ec1c5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c48.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c48.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 539,
+      "repo_bytes": 539,
+      "sha256": "16279f71dba4552b5aca0c10586fa9da91b378c27bf93dab6834a5320c8e895b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c56.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c56.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 670,
+      "repo_bytes": 670,
+      "sha256": "73e48c819bdf7534a93ad2567d4d7d3b36ec44fbd7b12c7a3c317b802e2c76fc"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c59.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c59.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 927,
+      "repo_bytes": 927,
+      "sha256": "9ee577d872decc1b336493d89a8ee9236b38af1ee1f92703d136d2ba041f07c3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c6.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 580,
+      "repo_bytes": 580,
+      "sha256": "0f4833ab9aad541a6c1954d636673b4ecd1a0a0fa52b40345a9484b6ceba5f05"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c61.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c61.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1215,
+      "repo_bytes": 1215,
+      "sha256": "4df093de8ebd97719d1287b0b0dc3e7c0d6a1f4ca4c6b35439871ec9b2247ccd"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c62.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c62.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1443,
+      "repo_bytes": 1443,
+      "sha256": "51d9fc06b6bc5f5bea094aa1ca3a0bb2b445bad5d50e481574e9d902ffc4d00c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c65.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c65.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1583,
+      "repo_bytes": 1583,
+      "sha256": "123fbcdd0ef791168dc8ceaec0b2bb39863c8da16048ac47a17145daa9ac9fd0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c76.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c76.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 572,
+      "repo_bytes": 572,
+      "sha256": "c5b14cf5d2566fd8ea4202721b0af9c3b2341d02e4fc8423fcd435fe8c1ffca0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c78.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c78.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 330,
+      "repo_bytes": 330,
+      "sha256": "d3ca1a4d45796084155cce4d2755c0b14094734ea661986b31fd7c44f073d7d3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c79.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c79.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 157,
+      "repo_bytes": 157,
+      "sha256": "58752310eb1d6605c86e75fc4348d0df5f50ca2b59e78f5375ba08d9da64ac2e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c81.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c81.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2712,
+      "repo_bytes": 2712,
+      "sha256": "a94f6722da61bed76232e9dfc0d3b5e52835ba02d48a09cb0127d968d809fa58"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c82.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c82.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2966,
+      "repo_bytes": 2966,
+      "sha256": "af8b05874b57073f2023dc8fbd92e3af41e515aad003f857387ec88753301ccb"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c83.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c83.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 577,
+      "repo_bytes": 577,
+      "sha256": "6821cf4ee139d32318100d4ff510423a7f0798e77ce3563c7043d7c9bd144a17"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c85.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c85.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 758,
+      "repo_bytes": 758,
+      "sha256": "1d703de06c17cb10c34f355cf8fb8345c14bbf9b7d8066e2a988f801cc3a7b62"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c86.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c86.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 293,
+      "repo_bytes": 293,
+      "sha256": "4a6c02ab056e812c002904105fba64d38c93107a0f1f4e7f2b0a41e2d4c160df"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c88.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c88.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 776,
+      "repo_bytes": 776,
+      "sha256": "a16d8c392868bdafc96a41282c79a43b0878183c0e8c3ccc4d246f8a14de5495"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c9.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 836,
+      "repo_bytes": 836,
+      "sha256": "bdabbef18e77bd49091c53462f4be67ec24be8f69e10e9ff2bd0c3103e3516da"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c90.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c90.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 271,
+      "repo_bytes": 271,
+      "sha256": "50a3bdbfab7725c83c4d50e38674c607bc0f730e4f673ac7768f6b62a1cce65c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c91.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c91.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 377,
+      "repo_bytes": 377,
+      "sha256": "460e3acba80e2e3fe11c06662f62e5529345144dc2122337a6479d089ab1dd2e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c92.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c92.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 143,
+      "repo_bytes": 143,
+      "sha256": "b73f743beb9fe8cf07348efbddea5d57747199e3370ba500c9ba9d46fa58bec3"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c94.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c94.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 325,
+      "repo_bytes": 325,
+      "sha256": "9187f229f35c0183eda44e025c71e88cd85bef033a5eac017ccde7e1ff1470c7"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c95.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c95.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 222,
+      "repo_bytes": 222,
+      "sha256": "f0ae14a86961ab2b43f337fa3aafbc612b7939a61b380e9d66baf3dc73164024"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c96.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c96.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 215,
+      "repo_bytes": 215,
+      "sha256": "715c526f8fcce40026cb81bad62cc3cce2d55df759f97e6bf73eb58f6ee92ca0"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/c98.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/c98.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 167,
+      "repo_bytes": 167,
+      "sha256": "80ea79168b6b90ac5c71b7ed0240f0ebb3a5864149262c1e113ce3c739d48e24"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 68349,
+      "repo_bytes": 68349,
+      "sha256": "85ffcc6673be829e4c642420ffa780ee82c27555964cd3b61bb421ab23843e0c"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/lua/r16-B2-3.lua",
+      "repo_path": "paintings/r16-b2/lua/archive/r16-B2-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3647,
+      "repo_bytes": 3647,
+      "sha256": "a4262d4482e0b2d243c7a432b3698f643153c7431846f59a4448b1b5f7528521"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/sessions/2026-09-27T01-00-54-414Z_01a0e061-170d-7502-9e90-8ae2af26c0a5 - version 02.jsonl",
+      "repo_path": "paintings/r16-b2/sessions/pi/2026-09-27T01-00-54-414Z_01a0e061-170d-7502-9e90-8ae2af26c0a5 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1030293,
+      "repo_bytes": 722256,
+      "sha256": "ee50257a35ee631de0d121158ef7a30e7aa24469182e5e9898833eb975a420b5"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/sessions/2026-09-27T01-00-54-414Z_01a0e061-170d-7502-9e90-8ae2af26c0a5.jsonl",
+      "repo_path": "paintings/r16-b2/sessions/pi/2026-09-27T01-00-54-414Z_01a0e061-170d-7502-9e90-8ae2af26c0a5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 42199389,
+      "repo_bytes": 731760,
+      "sha256": "7154d7d06e8fc3451041c58aa8995832e12143443601e46e15c8fdcb181d3512"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r16-b2/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 253863,
+      "repo_bytes": 234723,
+      "sha256": "f119906553c108e9e18643c8169d556ae4ff49caccb54e31503b1e2ce5aa2f21"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r16-b2/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 253824,
+      "repo_bytes": 234690,
+      "sha256": "f79ea60e71136ae980cf1b90821d4b681d9e24216507233b307ac8bac624f709"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r16-b2/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 243573,
+      "repo_bytes": 236114,
+      "sha256": "2c5d644f8ed8018a98e700ab3b1046c7fff6a14ff425d32f6f34535a77cd138e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/sessions/events - version 05.json",
+      "repo_path": "paintings/r16-b2/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 241876,
+      "repo_bytes": 234688,
+      "sha256": "31113db8570912afa36e545c98608d102367aee3d2ee34b03faa6e79dd26014d"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/sessions/events - version 06.json",
+      "repo_path": "paintings/r16-b2/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 255521,
+      "repo_bytes": 236116,
+      "sha256": "4c1790924875c76bc05d916505b7be3a23c736b84d9bd973b9262b67ba38c42b"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r16-b2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 241915,
+      "repo_bytes": 234721,
+      "sha256": "2d8658ad59b2abf372d8b6c6f4772437df7ef50208e4455514a0eab1073a7cad"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2 - version 02.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2373458,
+      "repo_bytes": 2373458,
+      "sha256": "d08bb0d57c6196d94fa6991232dc9e93ad4ab501506327769d2bcc4bb30e9435"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2 - version 03.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 653182,
+      "repo_bytes": 653182,
+      "sha256": "669c452f6e30b70a504733ecfca40e3433e8b46b538174e7138448e60201d274"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2 - version 04.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 656310,
+      "repo_bytes": 656310,
+      "sha256": "8cf4cf8ad0931b87efa772e7804763c81ef8fc0bef45ade9a755fdfcc7ed3fab"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2-1920 - version 02.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2634398,
+      "repo_bytes": 2634398,
+      "sha256": "0a40807fd3d9cc289dae1daf54896b972cbb39997edef588637f4cc2a144c588"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2-1920 - version 03.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2209213,
+      "repo_bytes": 2209213,
+      "sha256": "e27b9acca349c1aef57ae8757b190ff105f2ec53cc99a5e268db5c9297f77914"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2-1920.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2631270,
+      "repo_bytes": 2631270,
+      "sha256": "a9553a5b6b9af0787eb93848d5813e7e1672910d0f0de046eac23d331a2df4c2"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2-720 - version 02.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 405405,
+      "repo_bytes": 405405,
+      "sha256": "2bb89f4d3722be309f2a27f411203d5f92d6d1012a00e582679803af8444effe"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2-720 - version 03.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 408533,
+      "repo_bytes": 408533,
+      "sha256": "262db21922237f1161a9bfacf392e398ba8f7ea6c0a609a55a4afd18c10c0983"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2-720.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 365679,
+      "repo_bytes": 365679,
+      "sha256": "175284813f7bf97dce8fd826c87637dcf6dc47e02b712c04b8249774ba1bc9f1"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2-social-1920.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2543293,
+      "repo_bytes": 2543293,
+      "sha256": "20e5558658f873d2d282d066d9ef1d368cfaff5d5ab27bd3c0314617ddb7a94e"
+    },
+    {
+      "archive_path": "2026-09-27 r16 Summer Evening on the Meadows before Greifswald (Claude Opus 5.5)/video/r16-b2.mp4",
+      "repo_path": "paintings/r16-b2/video/r16-b2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1528930,
+      "repo_bytes": 1528930,
+      "sha256": "4cea5b8857c791e64b69cb10f97612ff667fa4bd02aac46b02235e1376eef338"
+    }
+  ]
+}
