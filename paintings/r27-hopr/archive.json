@@ -1,0 +1,123 @@
+{
+  "archive": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)",
+  "identity": "7c4dd1",
+  "files": [
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/finals/r27-hopr - version 02.png",
+      "repo_path": "paintings/r27-hopr/finals/r27-hopr - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4138821,
+      "repo_bytes": 4138821,
+      "sha256": "8b0fde2d7ced03f9afaaaa83873a2518909675bdc26d1fd18757bfcab40459b6"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/finals/r27-hopr - version 03.png",
+      "repo_path": "paintings/r27-hopr/finals/r27-hopr - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1584529,
+      "repo_bytes": 1584529,
+      "sha256": "4d25be443e113a83546d57334794517b653478965635cd657e20161c52c1ab7c"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/finals/r27-hopr.png",
+      "repo_path": "paintings/r27-hopr/finals/r27-hopr.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5750578,
+      "repo_bytes": 5750578,
+      "sha256": "9db17fc5f5836ee4b8f757a0aebe72e9dbc8505e2616685601d6fd43c2ffb023"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/lua/HOPR1_finished.lua",
+      "repo_path": "paintings/r27-hopr/lua/archive/HOPR1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 64583,
+      "repo_bytes": 64583,
+      "sha256": "aab8dcdda7a0f6c36bfd6df4d57c70d7ca0a4aba5ec7878f6d662f3140fbd3dd"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r27-hopr/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 64165,
+      "repo_bytes": 64165,
+      "sha256": "b11454b8ed4bbd7f3ccc1394fd81dbb1b5859e7f776c82b3bcf5e4023dfa1a3e"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/sessions/2026-10-05T15-11-43-586Z_01a10c9e-e9e1-723b-b297-114062917975.jsonl",
+      "repo_path": "paintings/r27-hopr/sessions/pi/2026-10-05T15-11-43-586Z_01a10c9e-e9e1-723b-b297-114062917975.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 28204257,
+      "repo_bytes": 1261923,
+      "sha256": "a28ff71e51057c33361811be907fdc164387a0abfcfa0d91392c1eca3429cd49"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/sessions/2026-10-05T15-38-14-064Z_01a10cb7-2eaf-7577-b2ce-1c40bfb8aa84.jsonl",
+      "repo_path": "paintings/r27-hopr/sessions/pi/2026-10-05T15-38-14-064Z_01a10cb7-2eaf-7577-b2ce-1c40bfb8aa84.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8112170,
+      "repo_bytes": 349071,
+      "sha256": "7afa18cb8cfa2c37f8adfc1e1af5a35520ff79430d1576bfac06131a06c8cdad"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/sessions/2026-10-05T15-43-50-568Z_01a10cbc-5127-725c-a6b1-9c11b5fc45a9.jsonl",
+      "repo_path": "paintings/r27-hopr/sessions/pi/2026-10-05T15-43-50-568Z_01a10cbc-5127-725c-a6b1-9c11b5fc45a9.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1871564,
+      "repo_bytes": 57453,
+      "sha256": "686c7a43e8116fa5d48c162fb5d5d72f99cec138aafc1b5886858aea314446f0"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r27-hopr/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 264712,
+      "repo_bytes": 257200,
+      "sha256": "985cb33ce236f1c590209c01b0bc529acf97349644e1bbb0df0fd90c8b2b5083"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r27-hopr/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 264712,
+      "repo_bytes": 257200,
+      "sha256": "d3e910de8e5ac57762e8eb476cea36a5e2981560707cdeaed11910415c967951"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r27-hopr/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 274596,
+      "repo_bytes": 257200,
+      "sha256": "985cb33ce236f1c590209c01b0bc529acf97349644e1bbb0df0fd90c8b2b5083"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/video/r27-hopr - version 02.mp4",
+      "repo_path": "paintings/r27-hopr/video/r27-hopr - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1314333,
+      "repo_bytes": 1314333,
+      "sha256": "83e7e5c8bf0573478071206b6661ca5ede28d6648cd727d8d0f19e2369bc03b3"
+    },
+    {
+      "archive_path": "2026-10-05 r27 Barber Shop, Late Afternoon (Claude Opus 5.5)/video/r27-hopr.mp4",
+      "repo_path": "paintings/r27-hopr/video/r27-hopr.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1205414,
+      "repo_bytes": 1205414,
+      "sha256": "9ab33d0eb21132ba5b9abcb80fa0b5105e79ee2a8335938c61648c58059cde5c"
+    }
+  ]
+}

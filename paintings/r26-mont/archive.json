@@ -1,0 +1,123 @@
+{
+  "archive": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)",
+  "identity": "12e572",
+  "files": [
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/finals/r26-mont - version 02.png",
+      "repo_path": "paintings/r26-mont/finals/r26-mont - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5499268,
+      "repo_bytes": 5499268,
+      "sha256": "5396c28f0ea4633e022ba976783b67a09631b33eb67f8843723c41fcaa58559a"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/finals/r26-mont - version 03.png",
+      "repo_path": "paintings/r26-mont/finals/r26-mont - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6275914,
+      "repo_bytes": 6275914,
+      "sha256": "8f775d66035c1dc5de7ab4af7ba4eed163bf0abd9795b5346d496a0d7d393535"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/finals/r26-mont.png",
+      "repo_path": "paintings/r26-mont/finals/r26-mont.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7342971,
+      "repo_bytes": 7342971,
+      "sha256": "c3870bc556db3d95ec75a6e5b3939be7c9939988b5df1a913d47095c8287aa29"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/lua/MONT1_finished.lua",
+      "repo_path": "paintings/r26-mont/lua/archive/MONT1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 64247,
+      "repo_bytes": 64247,
+      "sha256": "097bff30dfdb578a49f8cb1f01320eba3cbacfc2b3bd6d423c30f34eab506445"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r26-mont/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 63829,
+      "repo_bytes": 63829,
+      "sha256": "315417d4fbc8062665f773c2d8a3f95268f8260bb687551a94ea35ddf3c76a3a"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/sessions/2026-10-05T12-43-05-462Z_01a10c16-d575-7442-9ee0-e9fcc9f5cc77.jsonl",
+      "repo_path": "paintings/r26-mont/sessions/pi/2026-10-05T12-43-05-462Z_01a10c16-d575-7442-9ee0-e9fcc9f5cc77.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 113793071,
+      "repo_bytes": 1238450,
+      "sha256": "0c494b14a10927c12ef908e2316a635f46238d6472177941c7d96666d155d7d5"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/sessions/2026-10-05T13-20-50-734Z_01a10c39-662d-7443-a3da-d7e2b6d6fa54.jsonl",
+      "repo_path": "paintings/r26-mont/sessions/pi/2026-10-05T13-20-50-734Z_01a10c39-662d-7443-a3da-d7e2b6d6fa54.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 49084347,
+      "repo_bytes": 449934,
+      "sha256": "5ca25658c9ea475e11b975abbb8e5b5c283f8148ecf52861f25b1ef8c3de03f0"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/sessions/2026-10-05T13-31-30-759Z_01a10c43-2a46-76d4-8342-849fd04a09bd.jsonl",
+      "repo_path": "paintings/r26-mont/sessions/pi/2026-10-05T13-31-30-759Z_01a10c43-2a46-76d4-8342-849fd04a09bd.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 15091471,
+      "repo_bytes": 137683,
+      "sha256": "98fb6b72945d05abf0c274920994dc9e909e2a9a90956f3e44aa8e4f93e8db36"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r26-mont/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 283708,
+      "repo_bytes": 275032,
+      "sha256": "d08e28a354ed038197e14549d95889d757e5bdac265ea1b89fff2fa0e7093d74"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r26-mont/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 294367,
+      "repo_bytes": 275032,
+      "sha256": "d08e28a354ed038197e14549d95889d757e5bdac265ea1b89fff2fa0e7093d74"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r26-mont/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 283708,
+      "repo_bytes": 275032,
+      "sha256": "9384eaa059e0c34a2d762844975f72473dcbadc16556ef7da2fae78377e85881"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/video/r26-mont - version 02.mp4",
+      "repo_path": "paintings/r26-mont/video/r26-mont - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5908775,
+      "repo_bytes": 5908775,
+      "sha256": "5ccf787148fb0cf2b6e38f187e06c2fce439dee788aec8e71ab8c8ba908d8693"
+    },
+    {
+      "archive_path": "2026-10-05 r26 Nymphéas, reflet du soir (Claude Opus 5.5)/video/r26-mont.mp4",
+      "repo_path": "paintings/r26-mont/video/r26-mont.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5944351,
+      "repo_bytes": 5944351,
+      "sha256": "65d3bf297b2a37940e1ad83f66a17994761e8d4d060b0d049e2ee088913a3dad"
+    }
+  ]
+}

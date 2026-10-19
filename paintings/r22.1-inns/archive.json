@@ -1,0 +1,114 @@
+{
+  "archive": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)",
+  "identity": "33a5bf",
+  "files": [
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/finals/r22.1-inns - version 02.png",
+      "repo_path": "paintings/r22.1-inns/finals/r22.1-inns - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6512801,
+      "repo_bytes": 6512801,
+      "sha256": "aad6b9021339c9703585e1ab0c4a56ae9b142597af2b26fc3b2f26260f7e7770"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/finals/r22.1-inns - version 03.png",
+      "repo_path": "paintings/r22.1-inns/finals/r22.1-inns - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4858983,
+      "repo_bytes": 4858983,
+      "sha256": "777432c2a0e3a6717d8713853ef136792cde61048bc8a243a0d2fa7d976690e1"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/finals/r22.1-inns.png",
+      "repo_path": "paintings/r22.1-inns/finals/r22.1-inns.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2203001,
+      "repo_bytes": 2203001,
+      "sha256": "96a9eb41d3db541b249c2868b788f71a5ba16c485d9198d0d34631567918d97f"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r22.1-inns/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 174675,
+      "repo_bytes": 174675,
+      "sha256": "1d6858a926a1661e33588874331e50d06349bd8ea6e7d5ef49a81a7d92d57c60"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/sessions/2026-10-02T20-15-52-317Z_01a0fe42-49fd-736b-a464-cdca26bfb7be.jsonl",
+      "repo_path": "paintings/r22.1-inns/sessions/pi/2026-10-02T20-15-52-317Z_01a0fe42-49fd-736b-a464-cdca26bfb7be.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 134236312,
+      "repo_bytes": 5806898,
+      "sha256": "28b55353cfaf6d702cc77b15a5812ec781671094b3599f5b5eb7bb41828b489f"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/sessions/2026-10-02T21-35-33-873Z_01a0fe8b-3ff0-7395-8e09-b95d284a8a2a.jsonl",
+      "repo_path": "paintings/r22.1-inns/sessions/pi/2026-10-02T21-35-33-873Z_01a0fe8b-3ff0-7395-8e09-b95d284a8a2a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 16026833,
+      "repo_bytes": 683068,
+      "sha256": "d142b85a3743dc96ae2e72fa48565ec0747137fd172a43e50e936869f872b865"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/sessions/2026-10-02T21-47-52-348Z_01a0fe96-849c-7478-83cb-e55ef099d41d.jsonl",
+      "repo_path": "paintings/r22.1-inns/sessions/pi/2026-10-02T21-47-52-348Z_01a0fe96-849c-7478-83cb-e55ef099d41d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1664484,
+      "repo_bytes": 44814,
+      "sha256": "adc540ffa2d7cc053466a2042a35eb1eb954532233eea003d22473a83b498c91"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r22.1-inns/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 620654,
+      "repo_bytes": 584940,
+      "sha256": "b1e169f3cd021b7cb5feaecaa7ccb5f8a74f290a4fb417619fc5cc3bb5521714"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r22.1-inns/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 599785,
+      "repo_bytes": 584940,
+      "sha256": "6ab96299fbce7e5a83a5ffaf54e93e1d3968a54f2bfa4d2c9df3bd7ff95274d2"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r22.1-inns/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 599785,
+      "repo_bytes": 584940,
+      "sha256": "b1e169f3cd021b7cb5feaecaa7ccb5f8a74f290a4fb417619fc5cc3bb5521714"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/video/r22.1-inns-substitute-f334aef.mp4",
+      "repo_path": "paintings/r22.1-inns/video/r22.1-inns-substitute-f334aef.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2880752,
+      "repo_bytes": 2880752,
+      "sha256": "006632b23900f200af0743b46018d9e51bf37d9ca46914b357abe137b532a9e6"
+    },
+    {
+      "archive_path": "2026-10-02 r22.1 Evening, the Edge of the Grove (Claude Opus 5.5)/video/r22.1-inns.mp4",
+      "repo_path": "paintings/r22.1-inns/video/r22.1-inns.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2783395,
+      "repo_bytes": 2783395,
+      "sha256": "f319083ce4830f12ebaef7b4d7cee536e96c60312c88218af9d11ace121b5bd9"
+    }
+  ]
+}

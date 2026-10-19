@@ -1,0 +1,141 @@
+{
+  "archive": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)",
+  "identity": "ea8319",
+  "files": [
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/finals/r24-inns - version 02.png",
+      "repo_path": "paintings/r24-inns/finals/r24-inns - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5444499,
+      "repo_bytes": 5444499,
+      "sha256": "69b5fccd8cdf15fda1d651d3b07d22db25d3461b797dbfeaa0898d5f319e93a9"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/finals/r24-inns - version 03.png",
+      "repo_path": "paintings/r24-inns/finals/r24-inns - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4806288,
+      "repo_bytes": 4806288,
+      "sha256": "a058106c56fed9f8a093fffa2e40ea5d6f96f8e9aa633a82cb2b8f1579f0e440"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/finals/r24-inns.png",
+      "repo_path": "paintings/r24-inns/finals/r24-inns.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2660679,
+      "repo_bytes": 2660679,
+      "sha256": "6799556281331a80a45c59042279fcb8e8604df1f30ff5ac3780658399df00fb"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/lua/INNS1_finished.lua",
+      "repo_path": "paintings/r24-inns/lua/archive/INNS1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 109776,
+      "repo_bytes": 109776,
+      "sha256": "9585defd06dc3b028c65ff76e0545a969098f3fcba259d7bdba52f5259d56f0c"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/lua/painting.lua",
+      "repo_path": "paintings/r24-inns/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 109358,
+      "repo_bytes": 109358,
+      "sha256": "8f438d6864f987ef32d37a44308d370b9f7cf0367dc537bff83202003eeea332"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/sessions/2026-10-04T21-56-53-747Z_01a108eb-7f72-7159-90e8-129948ac0ab1.jsonl",
+      "repo_path": "paintings/r24-inns/sessions/pi/2026-10-04T21-56-53-747Z_01a108eb-7f72-7159-90e8-129948ac0ab1.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 74354774,
+      "repo_bytes": 714602,
+      "sha256": "0b972cf93d85ae5a759557caaa7c625697c31d8fe12c8105352eaa258512c3e3"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/sessions/2026-10-04T22-44-43-435Z_01a10917-492a-760a-ad04-afc3bc9fc9a4.jsonl",
+      "repo_path": "paintings/r24-inns/sessions/pi/2026-10-04T22-44-43-435Z_01a10917-492a-760a-ad04-afc3bc9fc9a4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1499380,
+      "repo_bytes": 21211,
+      "sha256": "6b4c993646157f55a2be8b75ab8f897bfe0845fdbe9e18a068634ff3285cd137"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/sessions/events - version 02.json",
+      "repo_path": "paintings/r24-inns/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 227726,
+      "repo_bytes": 222291,
+      "sha256": "45bbe29569672a65feabaf9d42dd63681db478378628209e5a560a0e8c70f889"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/sessions/events - version 03.json",
+      "repo_path": "paintings/r24-inns/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 227726,
+      "repo_bytes": 222291,
+      "sha256": "f1accfd2eefc4095a2a12a7d601ce58a6aec94a0c3a9b1cbebd6cd8b8fce7edb"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/sessions/events - version 04.json",
+      "repo_path": "paintings/r24-inns/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 238396,
+      "repo_bytes": 222291,
+      "sha256": "f1accfd2eefc4095a2a12a7d601ce58a6aec94a0c3a9b1cbebd6cd8b8fce7edb"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/sessions/events.json",
+      "repo_path": "paintings/r24-inns/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 235272,
+      "repo_bytes": 222291,
+      "sha256": "f1accfd2eefc4095a2a12a7d601ce58a6aec94a0c3a9b1cbebd6cd8b8fce7edb"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/sessions/packet - version 02.json",
+      "repo_path": "paintings/r24-inns/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 21971,
+      "repo_bytes": 19197,
+      "sha256": "7ec8efee1e965508e73587d0153fc1dfdea77da098fc4657d8bb82d69638aef3"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/sessions/packet.json",
+      "repo_path": "paintings/r24-inns/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 14976,
+      "repo_bytes": 12528,
+      "sha256": "11f9718fac48bade655c6386b51296a04bcfed4a3cee6ebf057db410da4ad955"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/video/r24-inns - version 02.mp4",
+      "repo_path": "paintings/r24-inns/video/r24-inns - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3634036,
+      "repo_bytes": 3634036,
+      "sha256": "367b343b918f144dea6a0f7917b5b86ed0100032af0e3a5717799e6c432a7255"
+    },
+    {
+      "archive_path": "2026-10-04 r24 Evening Pool, After Haying (Claude Fable 5.1)/video/r24-inns.mp4",
+      "repo_path": "paintings/r24-inns/video/r24-inns.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3564155,
+      "repo_bytes": 3564155,
+      "sha256": "ab6b9eb345ff5ce41a61f4e42daaf75de384abf7dc254cd3f35941a71a8e7775"
+    }
+  ]
+}

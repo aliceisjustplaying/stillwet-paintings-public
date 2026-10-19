@@ -1,0 +1,123 @@
+{
+  "archive": "2026-10-05 r28 untitled (Claude Opus 5.5)",
+  "identity": "002de5",
+  "files": [
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/finals/r28-hopr - version 02.png",
+      "repo_path": "paintings/r28-hopr/finals/r28-hopr - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4582024,
+      "repo_bytes": 4582024,
+      "sha256": "4321d3a812b44f7944c578d15acec605e61ca5cde17ae388c8bedad153862e69"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/finals/r28-hopr - version 03.png",
+      "repo_path": "paintings/r28-hopr/finals/r28-hopr - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7389322,
+      "repo_bytes": 7389322,
+      "sha256": "2868d19402615aed72ed9c1f02236c03e9df0557c7891b0be6dd0f1d2aa42a08"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/finals/r28-hopr.1000.png",
+      "repo_path": "paintings/r28-hopr/finals/r28-hopr.1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 64550,
+      "repo_bytes": 64550,
+      "sha256": "7f6557acbefd180c093d0f770ee0522fa71b085383e214c50c55486b11fe0e9a"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/finals/r28-hopr.png",
+      "repo_path": "paintings/r28-hopr/finals/r28-hopr.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 686166,
+      "repo_bytes": 686166,
+      "sha256": "b60f4f5c61ddb9040231b35d80a4839d1a8211cd35064f5a338674f52406cf20"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/lua/chunk-1.lua",
+      "repo_path": "paintings/r28-hopr/lua/archive/chunk-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 357,
+      "repo_bytes": 357,
+      "sha256": "4c342d4f5cc4e89467588bc24b49c8ba89f59c53f16f2b02958a8a7709c0b408"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/lua/chunk-2.lua",
+      "repo_path": "paintings/r28-hopr/lua/archive/chunk-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1001,
+      "repo_bytes": 1001,
+      "sha256": "ef3ecf01f1b56d6be5d4484e4286d24017baf3eb2b91b1276a3cc611d377aab4"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/lua/chunk-3.lua",
+      "repo_path": "paintings/r28-hopr/lua/archive/chunk-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 391,
+      "repo_bytes": 391,
+      "sha256": "588058bbbff67d16d6f32d468279e77ea39168ac562e09ef0a7dd6e7561fea46"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r28-hopr/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1954,
+      "repo_bytes": 1954,
+      "sha256": "a88f8a88b34693100cb0b997ea3d454f381eea5ce2e7daf9daa192c0a151f375"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/sessions/2026-10-05T19-39-43-161Z_01a10d94-44b8-760c-9d8c-03b9d10a86ab.jsonl",
+      "repo_path": "paintings/r28-hopr/sessions/pi/2026-10-05T19-39-43-161Z_01a10d94-44b8-760c-9d8c-03b9d10a86ab.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 291042,
+      "repo_bytes": 107362,
+      "sha256": "d9fb754b55799a7a255caff650d3a462daecafd2ab5216a43711657290168b28"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r28-hopr/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 18747,
+      "repo_bytes": 18264,
+      "sha256": "0526dae054c62de314f25585624f51e17949860b7c9baf7b2aaa1f076ee404fd"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r28-hopr/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 18586,
+      "repo_bytes": 18264,
+      "sha256": "0526dae054c62de314f25585624f51e17949860b7c9baf7b2aaa1f076ee404fd"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/sessions/viewer-sessions.json",
+      "repo_path": "paintings/r28-hopr/sessions/viewer/viewer-sessions.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 339588,
+      "repo_bytes": 258458,
+      "sha256": "241d05937f45aea23cec0afccd57b16b1173667102e8aa8c24a22e5be273279b"
+    },
+    {
+      "archive_path": "2026-10-05 r28 untitled (Claude Opus 5.5)/video/r28-hopr.mp4",
+      "repo_path": "paintings/r28-hopr/video/r28-hopr.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 222606,
+      "repo_bytes": 222606,
+      "sha256": "8cbc4c9dd72f795d9710111d872fc7bb5010cbe950e1938d0618e0692b990aeb"
+    }
+  ]
+}

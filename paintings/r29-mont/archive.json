@@ -1,0 +1,186 @@
+{
+  "archive": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)",
+  "identity": "aef22d",
+  "files": [
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/finals/r29-mont - version 02.png",
+      "repo_path": "paintings/r29-mont/finals/r29-mont - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6157043,
+      "repo_bytes": 6157043,
+      "sha256": "0d23c0e68818379edabc0c2c7aadf8c78aa7b726e38d4f3cac43732362a91d7e"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/finals/r29-mont - version 03.png",
+      "repo_path": "paintings/r29-mont/finals/r29-mont - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5048111,
+      "repo_bytes": 5048111,
+      "sha256": "b0436c6bad4f633318974e96d7d4bb501f325008f361e810d09e4dc6277eef87"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/finals/r29-mont.png",
+      "repo_path": "paintings/r29-mont/finals/r29-mont.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5427772,
+      "repo_bytes": 5427772,
+      "sha256": "3718db4e41681fb7fc810152f2e56997c226f97dee8d3210486a32b91d00229a"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/lua/MONT1_finished.lua",
+      "repo_path": "paintings/r29-mont/lua/archive/MONT1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 93749,
+      "repo_bytes": 93749,
+      "sha256": "6cd355f323bc6b79359d9a518eb52ce4203e1b7a6796ea8cf96d6405641e0921"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r29-mont/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 93331,
+      "repo_bytes": 93331,
+      "sha256": "899f817f0087e8bd03a4ea54cceb915f9895add3e266f36807d2bc425c6f2e8b"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/lua/r29-mont-plain.lua",
+      "repo_path": "paintings/r29-mont/lua/archive/r29-mont-plain.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 93835,
+      "repo_bytes": 93835,
+      "sha256": "961ff148e3146845f3552a83a026a96369a3ad120fc4bd3db2ce5b5fd0350907"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/2026-10-05T19-43-21-155Z_01a10d97-9842-74bc-8ba2-3fffdbec00cd.jsonl",
+      "repo_path": "paintings/r29-mont/sessions/pi/2026-10-05T19-43-21-155Z_01a10d97-9842-74bc-8ba2-3fffdbec00cd.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 135574963,
+      "repo_bytes": 2746242,
+      "sha256": "bfde3bc7f6ba0957c49c7384d206b0bc22ef49fd95debcafb84f58781be56406"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/2026-10-05T21-07-11-670Z_01a10de4-5ab5-70ad-86f2-5342aec85c88.jsonl",
+      "repo_path": "paintings/r29-mont/sessions/pi/2026-10-05T21-07-11-670Z_01a10de4-5ab5-70ad-86f2-5342aec85c88.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 20348117,
+      "repo_bytes": 280685,
+      "sha256": "538546303dc26ddb635d912c4cd715d59e7ee4d0085c37bfac84c66e3ac23cd4"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/2026-10-05T21-12-45-038Z_01a10de9-70ed-7466-b341-c7af417c40de.jsonl",
+      "repo_path": "paintings/r29-mont/sessions/pi/2026-10-05T21-12-45-038Z_01a10de9-70ed-7466-b341-c7af417c40de.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9111849,
+      "repo_bytes": 146642,
+      "sha256": "9ed8c40542ff9d3cd6b66cc83e6339ba5255739562db7d911453cbbf3ef572a0"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/2026-10-05T21-15-11-839Z_01a10deb-ae5e-7742-bd57-24426b6329f9.jsonl",
+      "repo_path": "paintings/r29-mont/sessions/pi/2026-10-05T21-15-11-839Z_01a10deb-ae5e-7742-bd57-24426b6329f9.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8597624,
+      "repo_bytes": 142447,
+      "sha256": "2f3c997262f40848bbdb95c29997781fefa39acf478346a386a49ce041dbc960"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/2026-10-05T21-16-40-640Z_01a10ded-0940-7018-bca6-e98093edc34b.jsonl",
+      "repo_path": "paintings/r29-mont/sessions/pi/2026-10-05T21-16-40-640Z_01a10ded-0940-7018-bca6-e98093edc34b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10402309,
+      "repo_bytes": 154127,
+      "sha256": "7aab208ef967eee90fd6df8ee1cf6a14e9990fa291d171815889cad798cb3193"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/2026-10-05T21-18-27-449Z_01a10dee-aa79-760d-ab59-2e5ca53b81fc.jsonl",
+      "repo_path": "paintings/r29-mont/sessions/pi/2026-10-05T21-18-27-449Z_01a10dee-aa79-760d-ab59-2e5ca53b81fc.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4894208,
+      "repo_bytes": 69599,
+      "sha256": "d95c2f5cb49f03ee7291417cd5fc9ff46494d10f4530515ebae107475c6331e3"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r29-mont/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 408029,
+      "repo_bytes": 381006,
+      "sha256": "0c153e1946bc67bda3869cc10067ef343e94a2974e53b7eaa1f1ee186d0f04a3"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r29-mont/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 391973,
+      "repo_bytes": 381006,
+      "sha256": "0c153e1946bc67bda3869cc10067ef343e94a2974e53b7eaa1f1ee186d0f04a3"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r29-mont/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 391973,
+      "repo_bytes": 381006,
+      "sha256": "a94f6478037f142089ba4663aecdaa1d420e5054b8e7a0dc0e08e92bce88b48b"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/video/r29-mont - version 02.mp4",
+      "repo_path": "paintings/r29-mont/video/r29-mont - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4402679,
+      "repo_bytes": 4402679,
+      "sha256": "49aca5f169aff3bfa713d63dd7d096a2a0b7e298c023fc98d96fae83d02324f3"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/video/r29-mont-endfirst.mp4",
+      "repo_path": "paintings/r29-mont/video/r29-mont-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6787603,
+      "repo_bytes": 6787603,
+      "sha256": "a9a02f769527b993b09cf51618fa44c4f10c9f8ebfea888ab241be0bef7cc1e2"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/video/r29-mont-plain-endfirst.mp4",
+      "repo_path": "paintings/r29-mont/video/r29-mont-plain-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6472714,
+      "repo_bytes": 6472714,
+      "sha256": "6e3ac5135de80753a83d5aa2a7f30229036babfddb43b4db38e6d8564e8c1995"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/video/r29-mont-plain.mp4",
+      "repo_path": "paintings/r29-mont/video/r29-mont-plain.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4217628,
+      "repo_bytes": 4217628,
+      "sha256": "61acd39d4f31951da09c075908f476abf0b94d65f965299232dc264ac6ac844e"
+    },
+    {
+      "archive_path": "2026-10-05 r29 Evening Gold, Willow Pool (Claude Opus 5.5)/video/r29-mont.mp4",
+      "repo_path": "paintings/r29-mont/video/r29-mont.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4608342,
+      "repo_bytes": 4608342,
+      "sha256": "6d945e0f34d0ae6287af176dfa118203c185a9b3aae1b72b560bbfee2e5ed268"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "archive": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)",
+  "identity": "d95ea6",
+  "files": [
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/finals/r25-frdc - version 02.png",
+      "repo_path": "paintings/r25-frdc/finals/r25-frdc - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4281256,
+      "repo_bytes": 4281256,
+      "sha256": "0c61ee8468224ec2e4a39bc930693bda624d23a4ad3f55a51411d6e0e1c2a969"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/finals/r25-frdc - version 03.png",
+      "repo_path": "paintings/r25-frdc/finals/r25-frdc - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6667606,
+      "repo_bytes": 6667606,
+      "sha256": "9a210fcf68d7b1931821d7ebea8d5629678b1ec0aa526936c28fdda223bca10b"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/finals/r25-frdc.png",
+      "repo_path": "paintings/r25-frdc/finals/r25-frdc.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5544289,
+      "repo_bytes": 5544289,
+      "sha256": "8ba64ce70ed4e1a7603f634fb9d6a2cd1eb5b2b5e8b2f8e6554c82b7cc3d62aa"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/lua/FRDC1_finished.lua",
+      "repo_path": "paintings/r25-frdc/lua/archive/FRDC1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 93895,
+      "repo_bytes": 93895,
+      "sha256": "25b79362bd9b40afad0b56f9984740172de05b41a644d410079b7084ebd004b1"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r25-frdc/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 93477,
+      "repo_bytes": 93477,
+      "sha256": "ccbe3a92144f8e6b998e8cc9c81e78fb45b436eef176b35e5c19e9a7b4e0426d"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/2026-10-05T11-52-34-042Z_01a10be8-93fa-748b-b2c5-1b03214b7969.jsonl",
+      "repo_path": "paintings/r25-frdc/sessions/pi/2026-10-05T11-52-34-042Z_01a10be8-93fa-748b-b2c5-1b03214b7969.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 79407505,
+      "repo_bytes": 3088922,
+      "sha256": "245ad0802e2dfb94955d933f51a2dfcb4e313636f44f65b4a6a38810bab6dd41"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/2026-10-05T12-40-06-527Z_01a10c14-1a75-741c-a2f8-196f108c4e98.jsonl",
+      "repo_path": "paintings/r25-frdc/sessions/pi/2026-10-05T12-40-06-527Z_01a10c14-1a75-741c-a2f8-196f108c4e98.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 17071828,
+      "repo_bytes": 489719,
+      "sha256": "84e7ca9c45e6a0dcd41cad8fbb4634d3ef76027aea7cdaf7929f189e97e3c14d"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/2026-10-05T12-53-57-456Z_01a10c20-c84f-75ad-a477-325c6fc47ca4.jsonl",
+      "repo_path": "paintings/r25-frdc/sessions/pi/2026-10-05T12-53-57-456Z_01a10c20-c84f-75ad-a477-325c6fc47ca4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8962365,
+      "repo_bytes": 304895,
+      "sha256": "86f50bb0f79922783df70655fd007321a3cfaa63d245c1a033a46623c3c7ca2f"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/2026-10-05T12-58-47-384Z_01a10c25-34d8-7534-a509-37f7df338e60.jsonl",
+      "repo_path": "paintings/r25-frdc/sessions/pi/2026-10-05T12-58-47-384Z_01a10c25-34d8-7534-a509-37f7df338e60.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13008091,
+      "repo_bytes": 219841,
+      "sha256": "46c40155040e7e4e0d4408a52dcac29dc091398ac6fd8427ae84304afa3e76dc"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/2026-10-05T13-04-02-151Z_01a10c2a-0266-71f5-b8fb-e7df7458f869.jsonl",
+      "repo_path": "paintings/r25-frdc/sessions/pi/2026-10-05T13-04-02-151Z_01a10c2a-0266-71f5-b8fb-e7df7458f869.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4087816,
+      "repo_bytes": 177491,
+      "sha256": "09b532fef09534036b81c5160e7e4fb47168ec6ec924380b7be9c045f86efc25"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/2026-10-05T13-07-20-979Z_01a10c2d-0b0a-73d9-8906-048efb6affb7.jsonl",
+      "repo_path": "paintings/r25-frdc/sessions/pi/2026-10-05T13-07-20-979Z_01a10c2d-0b0a-73d9-8906-048efb6affb7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7582564,
+      "repo_bytes": 237501,
+      "sha256": "1dcba1bc05c18b84780cb5e3ce37e7013107adb551562bd925a4d930ea18e0d1"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r25-frdc/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 534815,
+      "repo_bytes": 519462,
+      "sha256": "0364a4486431f1d6e9ef2023fdad4b8843edb487d4d0b9eb54aa934f64a7d47d"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r25-frdc/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 564485,
+      "repo_bytes": 519462,
+      "sha256": "5dd58b721cab5899f697d8f2fea37ac3790dde286b89821fde3496b7a2610713"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "paintings/r25-frdc/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 559148,
+      "repo_bytes": 519462,
+      "sha256": "5dd58b721cab5899f697d8f2fea37ac3790dde286b89821fde3496b7a2610713"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r25-frdc/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 534815,
+      "repo_bytes": 519462,
+      "sha256": "5dd58b721cab5899f697d8f2fea37ac3790dde286b89821fde3496b7a2610713"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r25-frdc/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 10973,
+      "repo_bytes": 8753,
+      "sha256": "fb280e4ebf553b8b3f2249fe1209e70876bf9b9274aa8415595f0d55b64d68d1"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/video/r25-frdc - version 02.mp4",
+      "repo_path": "paintings/r25-frdc/video/r25-frdc - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2312423,
+      "repo_bytes": 2312423,
+      "sha256": "d30ef79b094421b9dd8bc89926d525564dccd3b507140a3ac090994342416dfa"
+    },
+    {
+      "archive_path": "2026-10-05 r25 The Oak in Snow at Evening (Claude Opus 5.5)/video/r25-frdc.mp4",
+      "repo_path": "paintings/r25-frdc/video/r25-frdc.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2738949,
+      "repo_bytes": 2738949,
+      "sha256": "40a029c4f24188cf843f9e656329d0c03866caa7372298fe6471683810573e73"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "archive": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)",
+  "identity": "24be5f",
+  "files": [
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/finals/r24.3-inns - version 02.png",
+      "repo_path": "paintings/r24.3-inns/finals/r24.3-inns - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2395887,
+      "repo_bytes": 2395887,
+      "sha256": "17871815d433553104503f89fc99df36a1855d7afc8ec420dc4715dda308811d"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/finals/r24.3-inns - version 03.png",
+      "repo_path": "paintings/r24.3-inns/finals/r24.3-inns - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6530416,
+      "repo_bytes": 6530416,
+      "sha256": "bfe08c092a6bd1a0ed0244870cc9a793af459e40374b51898f64ed8a771a22cd"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/finals/r24.3-inns.1000.png",
+      "repo_path": "paintings/r24.3-inns/finals/r24.3-inns.1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 467556,
+      "repo_bytes": 467556,
+      "sha256": "59d3e67f8a7b0c8bb7ed7ec3313f838ec6ab54c6440c88c0b2c41afeda961b65"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/finals/r24.3-inns.png",
+      "repo_path": "paintings/r24.3-inns/finals/r24.3-inns.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4893134,
+      "repo_bytes": 4893134,
+      "sha256": "c742735b343a4907e76a926a1aef5e429e2644a4331d36fc29bb4596826d90fc"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/lua/INNS1_finished.lua",
+      "repo_path": "paintings/r24.3-inns/lua/archive/INNS1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 221888,
+      "repo_bytes": 221888,
+      "sha256": "1820a517f23e68ad63388a65185e3828bd3ec717450f2d7ccb10a6937a1f92bb"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r24.3-inns/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 221470,
+      "repo_bytes": 221470,
+      "sha256": "ad531eefd26f1c14c6761cab293b17a389ff3d5c38315e82532b1f9dfd6c8e1b"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/2026-10-04T23-04-37-505Z_01a10929-8180-7194-880b-b9af69cf1eef.jsonl",
+      "repo_path": "paintings/r24.3-inns/sessions/pi/2026-10-04T23-04-37-505Z_01a10929-8180-7194-880b-b9af69cf1eef.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 188467770,
+      "repo_bytes": 6961180,
+      "sha256": "5dd1795e2177fda1f339e3371850971ad97e2125e86ab94d27e7ffa994892d36"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/2026-10-05T01-48-40-799Z_01a109bf-b3de-77c0-8019-2ec7f17fa302.jsonl",
+      "repo_path": "paintings/r24.3-inns/sessions/pi/2026-10-05T01-48-40-799Z_01a109bf-b3de-77c0-8019-2ec7f17fa302.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 17456592,
+      "repo_bytes": 375266,
+      "sha256": "8ac1108ce3bf2b4fd7ab0867aa4b677d2d5a9827e656166d581cdfa1c357dd78"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/2026-10-05T02-00-33-379Z_01a109ca-9362-72e8-ba9d-69ca08a833c8.jsonl",
+      "repo_path": "paintings/r24.3-inns/sessions/pi/2026-10-05T02-00-33-379Z_01a109ca-9362-72e8-ba9d-69ca08a833c8.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 15878989,
+      "repo_bytes": 215289,
+      "sha256": "bca53d466bb5ae4c694f07738fae3cc40669955016398723125bbd1fdeaa08f3"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/2026-10-05T02-08-58-261Z_01a109d2-4795-7027-b3bf-89dad5024fb4.jsonl",
+      "repo_path": "paintings/r24.3-inns/sessions/pi/2026-10-05T02-08-58-261Z_01a109d2-4795-7027-b3bf-89dad5024fb4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 14223306,
+      "repo_bytes": 194408,
+      "sha256": "8a2a9e5ff415cd284dbcc5049239bc6e52f5ba2ea90cde93acd9d53808ec83c9"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r24.3-inns/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 652905,
+      "repo_bytes": 635548,
+      "sha256": "807706fca69a3f76b621ae17b060d553c77f6285732bdd19e9ee17f2a291475f"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r24.3-inns/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 652905,
+      "repo_bytes": 635548,
+      "sha256": "a417c620d7d3c3c042d5fd07117ee7060d283a9678e007bb7ac06db68dd97ba7"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r24.3-inns/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 676705,
+      "repo_bytes": 635548,
+      "sha256": "807706fca69a3f76b621ae17b060d553c77f6285732bdd19e9ee17f2a291475f"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/packet - version 02.json",
+      "repo_path": "paintings/r24.3-inns/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 10852,
+      "repo_bytes": 8604,
+      "sha256": "300c3afc3fdb9c48105172e41b2423acc48fc1523537069fb73ab19aa21300a7"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/packet - version 03.json",
+      "repo_path": "paintings/r24.3-inns/sessions/viewer/packet - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12583,
+      "repo_bytes": 10244,
+      "sha256": "7a5c28f0005ca03f345e9e254a1a527fb8fdb84030184077de3e23412e4a8a60"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r24.3-inns/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 11601,
+      "repo_bytes": 9384,
+      "sha256": "dc695ccb5cb53a5288fa4e17ddf4f936069dedbe01ac56eb6adc03ec11962592"
+    },
+    {
+      "archive_path": "2026-10-05 r24.3 October Dusk, the River Meadow (Claude Opus 5.5)/video/r24.3-inns.mp4",
+      "repo_path": "paintings/r24.3-inns/video/r24.3-inns.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2630946,
+      "repo_bytes": 2630946,
+      "sha256": "629e7ea9e587bb3c58c55c526d02b05258a71db81a962b0daf1499245129f53d"
+    }
+  ]
+}
