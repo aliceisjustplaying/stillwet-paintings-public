@@ -1,0 +1,105 @@
+{
+  "archive": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)",
+  "identity": "r14-p1",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/finals/r14-p1 - version 02.png",
+      "repo_path": "paintings/r14-p1/finals/r14-p1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6434780,
+      "repo_bytes": 6434780,
+      "sha256": "00343f601ef270238d0457be3452f82261ae6b76ddee88b26317136224a6050a"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/finals/r14-p1 - version 03.png",
+      "repo_path": "paintings/r14-p1/finals/r14-p1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4446190,
+      "repo_bytes": 4446190,
+      "sha256": "4c8938be88a83535f453912c69cc470f3f08e331be3fa6bf93c0365900ed0287"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/finals/r14-p1.png",
+      "repo_path": "paintings/r14-p1/finals/r14-p1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5259661,
+      "repo_bytes": 5259661,
+      "sha256": "81a053c457c363385c639a50e2fbcd7fe9c7bf219ca39d9524059fb197c1c93b"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/finals/v28.jpg",
+      "repo_path": "paintings/r14-p1/finals/v28.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 166134,
+      "repo_bytes": 166134,
+      "sha256": "7ceb37d8888dfa89ad3813b950d9a461515f67c856fd0a92cd90df2775e47e3d"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/sessions/2026-09-25T22-29-46-229Z_76323043-65901236-dc32c01e-dd63.jsonl",
+      "repo_path": "paintings/r14-p1/sessions/pi/2026-09-25T22-29-46-229Z_76323043-65901236-dc32c01e-dd63.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13224642,
+      "repo_bytes": 969091,
+      "sha256": "eb9ac126f7d2d1ce94c437a7c1563995fbd2db54827be08e001220aee878249a"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r14-p1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 739228,
+      "repo_bytes": 730249,
+      "sha256": "0eb0738bf0c363e8a3980ded7350e7afb39795c23ea1058aaa49ba719ebb8833"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/video/r14-p1 - version 02.mp4",
+      "repo_path": "paintings/r14-p1/video/r14-p1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 7593503,
+      "repo_bytes": 7593503,
+      "sha256": "e9c08a2579263c971b2c756817a5f79fe30b9328f391f92a95a7fe1c1ea32be9"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/video/r14-p1 - version 03.mp4",
+      "repo_path": "paintings/r14-p1/video/r14-p1 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4066733,
+      "repo_bytes": 4066733,
+      "sha256": "5d6362d527a1d816f91897ccda0a228acf68f81666f08a103be308a08807b71e"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/video/r14-p1 - version 04.mp4",
+      "repo_path": "paintings/r14-p1/video/r14-p1 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2890549,
+      "repo_bytes": 2890549,
+      "sha256": "5b7c4923969001c020a6fc8810fd71145e13ae565c2037ddcff67eba58ab727c"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/video/r14-p1 - version 05.mp4",
+      "repo_path": "paintings/r14-p1/video/r14-p1 - version 05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 8609321,
+      "repo_bytes": 8609321,
+      "sha256": "1d991ab08421391b6b8d51a46941067277e32092f35f42a7993abfc5420b2c37"
+    },
+    {
+      "archive_path": "2026-09-25 r14 Morning in the Mountains (Claude Opus 5.5)/video/r14-p1.mp4",
+      "repo_path": "paintings/r14-p1/video/r14-p1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5076111,
+      "repo_bytes": 5076111,
+      "sha256": "742ffde86ae6eafeeb7f0786207fac33cd9dedf1419ea78c95851f34105610e4"
+    }
+  ]
+}

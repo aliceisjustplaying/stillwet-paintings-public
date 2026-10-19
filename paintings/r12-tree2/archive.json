@@ -1,0 +1,78 @@
+{
+  "archive": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)",
+  "identity": "r12-tree2",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)/finals/final_foot.jpg",
+      "repo_path": "paintings/r12-tree2/finals/final_foot.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 108855,
+      "repo_bytes": 108855,
+      "sha256": "0c61daf904ab48b4a891fb6f8817aa899ac436bc64a1f5e863938f448021a77f"
+    },
+    {
+      "archive_path": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)/finals/r12-tree2 - version 02.png",
+      "repo_path": "paintings/r12-tree2/finals/r12-tree2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 13582100,
+      "repo_bytes": 13582100,
+      "sha256": "39f22c32889a9896a06e56bb165f4d577caf68b7b285db366063897f0e567103"
+    },
+    {
+      "archive_path": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)/finals/r12-tree2 - version 03.png",
+      "repo_path": "paintings/r12-tree2/finals/r12-tree2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9209102,
+      "repo_bytes": 9209102,
+      "sha256": "dd68752baf24b304c46380258e65dec5acffc8bca90a724469302fc6cc43accd"
+    },
+    {
+      "archive_path": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)/finals/r12-tree2.png",
+      "repo_path": "paintings/r12-tree2/finals/r12-tree2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 10130342,
+      "repo_bytes": 10130342,
+      "sha256": "89e7e5d048e7306847e7f628a0fd017074b340dec8900306f481ed9caf975ab9"
+    },
+    {
+      "archive_path": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)/finals/v6.jpg",
+      "repo_path": "paintings/r12-tree2/finals/v6.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 234012,
+      "repo_bytes": 234012,
+      "sha256": "032b45b57f2c6b75c67358372c91637ed4e2267f6048d1bb8a84b35927f11b05"
+    },
+    {
+      "archive_path": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)/sessions/2026-09-25T16-23-00-175Z_4dc0f6ac-7cad2b1b-e0abe9a3-48c0.jsonl",
+      "repo_path": "paintings/r12-tree2/sessions/pi/2026-09-25T16-23-00-175Z_4dc0f6ac-7cad2b1b-e0abe9a3-48c0.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8234631,
+      "repo_bytes": 523351,
+      "sha256": "f93fca808df2973aff1fb9b9a88e61bf21a8a5494ca80f122b7afe1043a28fdd"
+    },
+    {
+      "archive_path": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r12-tree2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 187774,
+      "repo_bytes": 185801,
+      "sha256": "144c9257c3c93d6b9075c098338b9e79e0026a4abf44aefcaa625966742dac57"
+    },
+    {
+      "archive_path": "2026-09-25 r12 untitled — attempt 2 (Claude Opus 5.5)/video/r12-tree2.mp4",
+      "repo_path": "paintings/r12-tree2/video/r12-tree2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5903190,
+      "repo_bytes": 5903190,
+      "sha256": "a0d587d12247834bbf3ec4f3931b7f2b9b3ffacf1cbdfdb021db2e685f098347"
+    }
+  ]
+}

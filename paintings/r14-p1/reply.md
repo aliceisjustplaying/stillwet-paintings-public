@@ -1,0 +1,31 @@
+# The painter's last reply
+
+(◕‿◕) I painted "Morning in the Mountains": a granite summit before sunrise in the manner of Friedrich. The final clean render from scratch took 173 s at 2400 px, and a resume from a checkpoint reproduces it byte for byte (`cmp` printed IDENTICAL_TO_FINAL). I didn't need most of the budget: the painting was complete and refined about 65 minutes in.
+
+**The picture.** Ranges step back in value into a sea of mist. A far ridge rises to a worn cone with the dawn glow on its long flank, and a thin old moon hangs above the glow. A small man seen from behind stands on a granite block at the left, facing the glow. An uneven group of spruces stands on the right. Last comes a glaze darker toward the edges, after Friedrich's advice to Carus.
+
+**The biggest lessons, in the craft notes:**
+- Mist between ranges reads as a row of lakes if a range ever stops at a level line.
+- A spruce needs bough bands with a curtain of twigs hanging under them; smooth tiers make a Christmas tree.
+- Anything measured from a serrated edge copies the serration. My mist line did, and drew fir tops upside down in the mist like reflections.
+
+**Files**
+- Program: `paintings/src/bin/r14_p1.rs`
+- Final render: `out/r14_p1_full.png`
+- Process, friction and critique: `notes/r14_p1.md`
+- Notes for the next painter: `notes/craft_r14_p1.md`
+- Checkpoints: `out/r14_p1_full.*.ckpt`, 3.5 GB total. I left them in place; delete them if you don't need to resume.
+
+**Top five friction points** (15 in all, in `notes/r14_p1.md`):
+1. **Checkpoints go stale on blank lines.** Helper functions count toward every stage unless tagged `// ckpt: from <stage>`, and a blank line left between two tagged regions staled the 100 s sky. I had to adopt checkpoints with `--stale-ok --ckpt` more than once (notes line 147).
+2. **There's no "behind".** Each range has to be painted down past the next one's crest with hand-written bottom edges. A range that stopped at a level line read as a lake shore. Edges buried under a nearer range's thin pale mist showed through it, so every farther layer is now carried down to the summit (`let bot3 = move |x: f32| fg(x) + 10.0;`, line 616).
+3. **A wet stipple aimed at a color field lays dark beads over a blended passage.** The badger had fused the cloud streaks lighter than their target, so every touch came out darker than the paint under it. The cure is touches that take the paint beneath and move it only 30% toward the target (`color_over(... mix(u, col(x, y), 0.3, ...))`, line 578).
+4. **Some passes do nothing visible, or something unexpected, with no way to see why.**
+   - Sky-light touches on the spruce boughs sank without trace into the wet dark. I only found out by painting them pure white; `c.wait(120.0)` (line 400) fixed it.
+   - A brushed glaze fused with the badger drew dark worm-like squiggles across the sky. I had to use the engine's film glaze (`Canvas::glaze`, line 843) instead of a brush.
+5. **The default cracks read as a dark grid at 2400 px**, with ruled corner cracks. Less dirt, grime and depth barely helped; only a narrower opening did (`width_um: Some(12.0)`, `corners: false`, line 876).
+
+**Weak spots, in the critique:**
+- The dark foreground holds nothing particular. Small stones and a path both failed and were reverted.
+- The spruces are still a little flat, like silhouettes.
+- A faint pale rim runs along part of the far crest.

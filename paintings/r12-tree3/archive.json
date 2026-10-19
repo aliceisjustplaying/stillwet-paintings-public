@@ -1,0 +1,60 @@
+{
+  "archive": "2026-09-25 r12 Old Oak in Snow (a study) (Claude Opus 5.5)",
+  "identity": "r12-tree3",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r12 Old Oak in Snow (a study) (Claude Opus 5.5)/finals/r12-tree3 - version 02.png",
+      "repo_path": "paintings/r12-tree3/finals/r12-tree3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8448612,
+      "repo_bytes": 8448612,
+      "sha256": "b9a394e9194161d214b379b422eb5171ce151efd75ab540d3c91e312b881cd78"
+    },
+    {
+      "archive_path": "2026-09-25 r12 Old Oak in Snow (a study) (Claude Opus 5.5)/finals/r12-tree3 - version 03.png",
+      "repo_path": "paintings/r12-tree3/finals/r12-tree3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 13515904,
+      "repo_bytes": 13515904,
+      "sha256": "1b7a3816421b010d502e7f57a5cb6523b6a7545282e59fd28c4a659247677dd9"
+    },
+    {
+      "archive_path": "2026-09-25 r12 Old Oak in Snow (a study) (Claude Opus 5.5)/finals/r12-tree3.png",
+      "repo_path": "paintings/r12-tree3/finals/r12-tree3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9569997,
+      "repo_bytes": 9569997,
+      "sha256": "4307db1e2daa2e1cff02738d48d5094950991c016d3051da8ae2936b5ccb1f47"
+    },
+    {
+      "archive_path": "2026-09-25 r12 Old Oak in Snow (a study) (Claude Opus 5.5)/sessions/2026-09-25T16-23-00-204Z_bd77882a-b7255085-5a794aa0-ce16.jsonl",
+      "repo_path": "paintings/r12-tree3/sessions/pi/2026-09-25T16-23-00-204Z_bd77882a-b7255085-5a794aa0-ce16.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5471930,
+      "repo_bytes": 514268,
+      "sha256": "a9d3ad55cbf0e3024f9ada0bfabae1027d7a7083e7a53afe542b586034dc245d"
+    },
+    {
+      "archive_path": "2026-09-25 r12 Old Oak in Snow (a study) (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r12-tree3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 163354,
+      "repo_bytes": 161618,
+      "sha256": "272c055a7dd0c403f3ab3edff665ca51ed3f7ab55fb50a007c6fcf2dc4cbca43"
+    },
+    {
+      "archive_path": "2026-09-25 r12 Old Oak in Snow (a study) (Claude Opus 5.5)/video/r12-tree3.mp4",
+      "repo_path": "paintings/r12-tree3/video/r12-tree3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3841380,
+      "repo_bytes": 3841380,
+      "sha256": "ad15c3dc2593d69013bd833b1250090e37f75c5e200e31feef238b45af9e8432"
+    }
+  ]
+}
