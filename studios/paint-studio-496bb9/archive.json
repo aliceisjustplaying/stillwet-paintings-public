@@ -1,0 +1,51 @@
+{
+  "archive": "2026-10-03 r23 untitled (Claude Opus 5.5)",
+  "identity": "496bb9",
+  "files": [
+    {
+      "archive_path": "2026-10-03 r23 untitled (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-496bb9/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 132628,
+      "repo_bytes": 132628,
+      "sha256": "8dd44495285ae73b0a67b4855e6177f81e80403a139c6dae687e787f4ff17297"
+    },
+    {
+      "archive_path": "2026-10-03 r23 untitled (Claude Opus 5.5)/sessions/2026-10-03T10-29-46-916Z_01a10150-1124-724c-8c64-a0a0da38912f.jsonl",
+      "repo_path": "studios/paint-studio-496bb9/sessions/pi/2026-10-03T10-29-46-916Z_01a10150-1124-724c-8c64-a0a0da38912f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 137183556,
+      "repo_bytes": 4694955,
+      "sha256": "66fc0b2d41a5a4fce2403ab2cbbf70c682de22858ae9f401831aeba79108030c"
+    },
+    {
+      "archive_path": "2026-10-03 r23 untitled (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "studios/paint-studio-496bb9/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 457027,
+      "repo_bytes": 430496,
+      "sha256": "b0d21be18bcfb8eb1ad7f352b05bcc06274f6a37ce4b1f19b70980b762eff7f7"
+    },
+    {
+      "archive_path": "2026-10-03 r23 untitled (Claude Opus 5.5)/sessions/packet - version 02.json",
+      "repo_path": "studios/paint-studio-496bb9/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13211,
+      "repo_bytes": 11019,
+      "sha256": "665509233cce0dec80d4650263f2add86bb1f852fe3a3d29266942cd75e150f0"
+    },
+    {
+      "archive_path": "2026-10-03 r23 untitled (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "studios/paint-studio-496bb9/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12354,
+      "repo_bytes": 10237,
+      "sha256": "207ef8359097c0147e44d51c2ab30a0c6f03ddb9e79abd6d052d09e59a9d8d59"
+    }
+  ]
+}

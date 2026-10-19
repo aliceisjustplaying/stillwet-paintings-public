@@ -1,0 +1,33 @@
+{
+  "archive": "2026-10-17 runknown untitled (Claude Opus 5.5)",
+  "identity": "63f9c9",
+  "files": [
+    {
+      "archive_path": "2026-10-17 runknown untitled (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-63f9c9/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 637,
+      "repo_bytes": 637,
+      "sha256": "0ac20d1cbf20aa0975c48d49a166e41232705dc3bd1d0965e3303aedb54a6eb2"
+    },
+    {
+      "archive_path": "2026-10-17 runknown untitled (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-63f9c9/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2923,
+      "repo_bytes": 2923,
+      "sha256": "366d5f45768546a064f591d9eebbb376506010751cc1ff1cdc3b4f4646a27711"
+    },
+    {
+      "archive_path": "2026-10-17 runknown untitled (Claude Opus 5.5)/sessions/2026-10-17T07-20-22-803Z_01a148bb-b212-7563-acba-d990adf01d3f.jsonl",
+      "repo_path": "studios/paint-studio-63f9c9/sessions/pi/2026-10-17T07-20-22-803Z_01a148bb-b212-7563-acba-d990adf01d3f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1963997,
+      "repo_bytes": 223575,
+      "sha256": "b2bd8726f2c99d059479c475dc4bb2df221fc8cfc809d86dee4e6f73da1fb17f"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{"command":"open","args":[],"scratch":false,"new_scratch":false,"source":null,"exit":0,"reply":""}
+{"command":"status","args":[],"scratch":false,"new_scratch":false,"source":null,"exit":0,"reply":"watercolor: no paper yet\nday 1, 09:00\npainting time: 0.0000s\n"}
+{"command":"do","args":["-"],"scratch":false,"new_scratch":false,"source":"print(\"x\")","exit":1,"reply":"x\nchunk made no paper\n"}
+{"command":"status","args":[],"scratch":false,"new_scratch":false,"source":null,"exit":0,"reply":"watercolor: no paper yet\nday 1, 09:00\npainting time: 0.0000s\n"}
+{"command":"status","args":[],"scratch":false,"new_scratch":false,"source":null,"exit":0,"reply":"watercolor: no paper yet\nday 1, 09:00\npainting time: 0.0000s\n"}
+{"command":"status","args":[],"scratch":false,"new_scratch":false,"source":null,"exit":0,"reply":"watercolor: no paper yet\nday 1, 09:00\npainting time: 0.0000s\n"}
+{"command":"do","args":["-"],"scratch":false,"new_scratch":false,"source":"local t={} for k,v in pairs(_G) do t[#t+1]=k end table.sort(t) print(table.concat(t,\" \"))","exit":1,"reply":"_G _VERSION assert balance blot brush clock collectgarbage drop error frames getmetatable glaze ipairs load look math next pairs palette paper pcall print rawequal rawget rawlen rawset save select setmetatable string table tonumber tostring type utf8 wait warn xpcall\nchunk made no paper\n"}

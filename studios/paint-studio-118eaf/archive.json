@@ -1,0 +1,465 @@
+{
+  "archive": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)",
+  "identity": "118eaf",
+  "files": [
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/painting - version 02.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 145138,
+      "repo_bytes": 145138,
+      "sha256": "7727a11f1b9f5c8b0989a5975004b24d591f050c3c9334662fc22936a3de6e54"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/painting - version 03.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/painting - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 104307,
+      "repo_bytes": 104307,
+      "sha256": "9160f7c1010a63e5bae84d654526dbd767b4ef639831d2950199dd69da25ff45"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 122609,
+      "repo_bytes": 122609,
+      "sha256": "a5d5a3318971db30055e39e3ffced42f7c55b31a5246d4b04dc942ea70892f02"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch - version 02.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 9645,
+      "repo_bytes": 9645,
+      "sha256": "d96cb86adfabb0da972912b2287e702ee671aa212ee6b613bf525a481fbab6e3"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4106,
+      "repo_bytes": 4106,
+      "sha256": "eba91e093b357ff9c3a4f63ea444528f2b4489863d5c696701b829d190cb0322"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2593,
+      "repo_bytes": 2593,
+      "sha256": "9da97e996bf65de764a150c723c538900b5369bc75997ba19f602247e56a4af4"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4495,
+      "repo_bytes": 4495,
+      "sha256": "647eec95edc615d370ae0425069922008da4ae9c6a165f250eb5b95b783fc58f"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3276,
+      "repo_bytes": 3276,
+      "sha256": "32142f5c6e4eb56a7e7f801294f7bd52d6984cb76abd1e0156b6da7f50967fe3"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3608,
+      "repo_bytes": 3608,
+      "sha256": "db6546202e68201b26d29cc1ca3b67321d5708e19166e57c40194803c4c7fad8"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-15.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2110,
+      "repo_bytes": 2110,
+      "sha256": "eeb7a30d6bda95eebca885f7aeb6dee491f40eadb650a2ecdd4324a985f0cc02"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5205,
+      "repo_bytes": 5205,
+      "sha256": "0f0030ca25d54bde9a957c5f8bdc0938211de7a37e114727999c922f8bd2dcc5"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-17.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 19008,
+      "repo_bytes": 19008,
+      "sha256": "f96b26dcc674843f355439240bbdf97d17405c4c9cdd63ff70ffe1083bb618e6"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-18.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2198,
+      "repo_bytes": 2198,
+      "sha256": "fa4cb6f76ca20374fb7d999cb9b218c2352ccbb4db3a4cd927529dc9488f9e27"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-19.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5988,
+      "repo_bytes": 5988,
+      "sha256": "629cf53ae9beeb2bec62c8ce42cabd7edaa243c819a602c8be6941386ae4e5be"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5580,
+      "repo_bytes": 5580,
+      "sha256": "556a32f10a90e0684c7ff7b39126e69e216ed380440903cb58dec755afd2f736"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-20.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4428,
+      "repo_bytes": 4428,
+      "sha256": "db3d4cb8336bafc5a286fe8373c914b70e411d8c42b7763b3264e943dff3eca7"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-21.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8184,
+      "repo_bytes": 8184,
+      "sha256": "441f42a66f844bc68e09f43a10191196f9de4dacf93fa978a7e98dcae68e3d56"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-22.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-22.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7731,
+      "repo_bytes": 7731,
+      "sha256": "64ccd840053b226ec5d2a13951dce2d5a9a0ad0b2f44a57e120e7d7c1de6fb58"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-23.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 16271,
+      "repo_bytes": 16271,
+      "sha256": "3ba1917d7d81a1545416df9021a8e5fb8e66b8e665d0056fa93c6bc1ad845911"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-24.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6543,
+      "repo_bytes": 6543,
+      "sha256": "c47849948d6aa2f83a9af39267ccf79beed544997f06818c8854a1127a30c8ad"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-25.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-25.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8916,
+      "repo_bytes": 8916,
+      "sha256": "60d5c012428a1b5d8406031b80edf3ccb7643d9308e36e6d584cb067d101a982"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-26.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-26.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7161,
+      "repo_bytes": 7161,
+      "sha256": "4821827ba4d335a7a8c185010db4da526f5a39801c045fec9b3990652a8cb289"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-27.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-27.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3562,
+      "repo_bytes": 3562,
+      "sha256": "d7170e43b7b825346175ff1810387747ca5e84ae7add403d16c4487ffa38705a"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4244,
+      "repo_bytes": 4244,
+      "sha256": "ca9918ed0a20be669d057e9bb7b4759d656287eda8e7896468b32784255086b4"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2422,
+      "repo_bytes": 2422,
+      "sha256": "44161ccbae30c3941e602892e0704fb9713fc2d0c45ada16cfbb1dea94eeeb6d"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13496,
+      "repo_bytes": 13496,
+      "sha256": "f553824e49092fbd57c4f41dacb4ad96de9cb3df84262a82125994ac5cbb26e9"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 12490,
+      "repo_bytes": 12490,
+      "sha256": "8294d6f6df2aac5b700f38ed25c80decdacb4aeed409adcb10b5772fb4109f1e"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 464,
+      "repo_bytes": 464,
+      "sha256": "4d8c32b71aff2448cad0e48a395e2968efa4a5bc1b3ad9f6c2a6117b870e94ac"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4211,
+      "repo_bytes": 4211,
+      "sha256": "f640a5c481f08f7bf1c4126288242d38495b42641aa1dcb64fb5e2e932473dac"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6768,
+      "repo_bytes": 6768,
+      "sha256": "58ae4e2befb9ddac1e01714ae5548dbad31795dc058f32dab5047283a57dc403"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-118eaf/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3478,
+      "repo_bytes": 3478,
+      "sha256": "68700314a27199a91af4339acd86b0d682b7a187ca011a6c4f78c4f590ec1bd0"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-15T21-03-52-668Z_01a14160-e95a-7306-8d8c-c7b35fe4c88c.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-15T21-03-52-668Z_01a14160-e95a-7306-8d8c-c7b35fe4c88c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 75188167,
+      "repo_bytes": 5511975,
+      "sha256": "af4e7f7bd330e8bbd5e6e2725fa62d878db651492f4e0ea08537ef654c57fbde"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-15T22-54-15-415Z_01a141c5-f775-73de-b599-d49f756b8727.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-15T22-54-15-415Z_01a141c5-f775-73de-b599-d49f756b8727.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 17487164,
+      "repo_bytes": 647488,
+      "sha256": "45380dbe80f36d541b7fa6bc05ad5d90ed5e2f59d5b43b48b5df464b28c17778"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-15T23-12-19-291Z_01a141d6-815a-71e1-a78b-8a5f8e0ea79c.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-15T23-12-19-291Z_01a141d6-815a-71e1-a78b-8a5f8e0ea79c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9152854,
+      "repo_bytes": 340305,
+      "sha256": "e33f98fc82b875f5b1654ed0089686909e79bc925e319f25998045b680437c48"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-15T23-19-30-183Z_01a141dd-1485-71bb-b9c9-1642f92456de.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-15T23-19-30-183Z_01a141dd-1485-71bb-b9c9-1642f92456de.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9453119,
+      "repo_bytes": 259775,
+      "sha256": "9128dbbb4fc8749deef55b70281272da5af375882300c476a0155369a107864e"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-15T23-25-04-033Z_01a141e2-2ca0-7750-bed5-c1ef554db2ba.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-15T23-25-04-033Z_01a141e2-2ca0-7750-bed5-c1ef554db2ba.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 11353048,
+      "repo_bytes": 529426,
+      "sha256": "345b203577947ba18d2967beaf7fdad08d5e59a0c8cc8faf7b3158425bbc0f09"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-15T23-36-28-607Z_01a141ec-9ebd-73b5-b4b5-8da53d6c0bff.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-15T23-36-28-607Z_01a141ec-9ebd-73b5-b4b5-8da53d6c0bff.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9772253,
+      "repo_bytes": 372868,
+      "sha256": "8c4ce71e63f900fe126b60e4d197bdca284d118a017484f5aa50eb2987e0f89f"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-15T23-44-20-916Z_01a141f3-d3ac-757b-aa56-66efd3ff892f.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-15T23-44-20-916Z_01a141f3-d3ac-757b-aa56-66efd3ff892f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 16452198,
+      "repo_bytes": 471374,
+      "sha256": "1012b23e459d5b881d22616f17a85447cb7e76308ae960dab198d203f755c023"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-16T00-01-09-343Z_01a14203-36dd-7428-99ec-034368d98887.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-16T00-01-09-343Z_01a14203-36dd-7428-99ec-034368d98887.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 15098330,
+      "repo_bytes": 455100,
+      "sha256": "9a34de91ee62e9246041376db67ca00db0468bb6b974c4725c3cace4a798ca4c"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-16T00-13-37-014Z_01a1420e-9f75-7017-85d2-846652e7c735.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-16T00-13-37-014Z_01a1420e-9f75-7017-85d2-846652e7c735.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 14963929,
+      "repo_bytes": 410850,
+      "sha256": "0ffea00b7594d4ef29ef658ab4f4cbdb41b4235e0fde6342874ae2ec8d46f6ce"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-16T00-23-45-647Z_01a14217-e8ee-7205-b073-1a7c076a6040.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-16T00-23-45-647Z_01a14217-e8ee-7205-b073-1a7c076a6040.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13250007,
+      "repo_bytes": 464468,
+      "sha256": "8203edf65fc71f1a9d9e961e3cce166d0d9d4c598df69691810cd75c5aed4fdb"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-16T00-31-27-443Z_01a1421e-f4d2-7692-b657-6895708c2fcd.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-16T00-31-27-443Z_01a1421e-f4d2-7692-b657-6895708c2fcd.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10165888,
+      "repo_bytes": 303258,
+      "sha256": "7343a5674ecb1c8557e71f4b7eb0acd688432d89353bf7323c2d58024c18f8db"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-16T00-37-24-958Z_01a14224-695d-7270-847c-776e299489ca.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-16T00-37-24-958Z_01a14224-695d-7270-847c-776e299489ca.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 22883575,
+      "repo_bytes": 911762,
+      "sha256": "7daec5148396e3bb32c7f0fbe028ef591040276c6b0aeca9a1d626b12e93bbe7"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/2026-10-16T00-57-09-592Z_01a14236-7cd7-73c2-8e75-dc772f6571cd.jsonl",
+      "repo_path": "studios/paint-studio-118eaf/sessions/pi/2026-10-16T00-57-09-592Z_01a14236-7cd7-73c2-8e75-dc772f6571cd.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10438772,
+      "repo_bytes": 182491,
+      "sha256": "333a9f4dd82356b1e3150360fc05144b9f752eb35edf991cf606dca7049a5766"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "studios/paint-studio-118eaf/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 885199,
+      "repo_bytes": 846338,
+      "sha256": "09b8d3ccb83c477cfcb4207fdd352934f54fd4c0b9a67feaffa51c3cccfa5c5c"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "studios/paint-studio-118eaf/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1539534,
+      "repo_bytes": 1508495,
+      "sha256": "14a4b16c823b6954f5ca98a142144a9af01cb2e7db30134e5e2b39d576a655b4"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/events - version 04.json",
+      "repo_path": "studios/paint-studio-118eaf/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 563602,
+      "repo_bytes": 552457,
+      "sha256": "0c7875ee847a2bdf1272874fac5f59ee34d1bf7e27b2fbd63d9b727dbe41b26b"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "studios/paint-studio-118eaf/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1593018,
+      "repo_bytes": 1508495,
+      "sha256": "14a4b16c823b6954f5ca98a142144a9af01cb2e7db30134e5e2b39d576a655b4"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/packet - version 02.json",
+      "repo_path": "studios/paint-studio-118eaf/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12298,
+      "repo_bytes": 10129,
+      "sha256": "9d1cb7a6dc8f3d5bb7753288693331c789285856e11f078148b87bae37dcd1e5"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "studios/paint-studio-118eaf/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 17124,
+      "repo_bytes": 14819,
+      "sha256": "519604ee97634e2bb4c6a1c68655fb37e6df0d545d185b126bc5bde1fa8fd241"
+    },
+    {
+      "archive_path": "2026-10-15 runknown Boot Hill, Last Light (Claude Opus 5.5)/video/cowboy-zombie-20s.mp4",
+      "repo_path": "studios/paint-studio-118eaf/video/cowboy-zombie-20s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1194895,
+      "repo_bytes": 1194895,
+      "sha256": "cc56b0bf26ea61c15d769ec40eb8966c4ab8c51fddcf28d40ddb5a6b53811bc7"
+    }
+  ]
+}

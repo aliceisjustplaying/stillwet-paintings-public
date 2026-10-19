@@ -1,0 +1,33 @@
+{
+  "archive": "2026-10-04 r24.2 untitled (Claude Opus 5.5)",
+  "identity": "8cc0b8",
+  "files": [
+    {
+      "archive_path": "2026-10-04 r24.2 untitled (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-8cc0b8/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1787,
+      "repo_bytes": 1787,
+      "sha256": "22c49e8dde66e3692b0f3f1df8e61af81f1fe003e1a781dcfeaa42b6e1df820e"
+    },
+    {
+      "archive_path": "2026-10-04 r24.2 untitled (Claude Opus 5.5)/sessions/2026-10-04T23-00-58-370Z_01a10926-2981-71e9-9bdd-22e8a6f2ee9b.jsonl",
+      "repo_path": "studios/paint-studio-8cc0b8/sessions/pi/2026-10-04T23-00-58-370Z_01a10926-2981-71e9-9bdd-22e8a6f2ee9b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5026806,
+      "repo_bytes": 105106,
+      "sha256": "67ccd672717e6b6de4b6b69375b47c0a8f71efda20f1892eef1c7ebcb49bda9b"
+    },
+    {
+      "archive_path": "2026-10-04 r24.2 untitled (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "studios/paint-studio-8cc0b8/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 17838,
+      "repo_bytes": 17096,
+      "sha256": "1bc86a498c63b94e499f6a64a21e28e85833964fde80236e9d3ab198a828cbc0"
+    }
+  ]
+}

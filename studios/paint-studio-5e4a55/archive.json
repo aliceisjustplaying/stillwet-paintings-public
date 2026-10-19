@@ -1,0 +1,456 @@
+{
+  "archive": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)",
+  "identity": "5e4a55",
+  "files": [
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/finals/wet-on-wet-dieroll-2400-gallery.png",
+      "repo_path": "studios/paint-studio-5e4a55/finals/wet-on-wet-dieroll-2400-gallery.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 10068410,
+      "repo_bytes": 10068410,
+      "sha256": "227a16255b74526ba44eedc4d87b5894ac910bad43eb1d217064d9db4be47b20"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/finals/wet-on-wet-dieroll-2400-plain.png",
+      "repo_path": "studios/paint-studio-5e4a55/finals/wet-on-wet-dieroll-2400-plain.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4546090,
+      "repo_bytes": 4546090,
+      "sha256": "3bb33a66b66e7620819983ab793e1537de8fb041be1912eef1c5e8d3b41cc1f0"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/committed - version 02.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/committed - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 428984,
+      "repo_bytes": 428984,
+      "sha256": "3950c22bd0b8abd58241c48a9f082a07d5c59a72335ec9aab083a7eb872f0f0b"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/committed.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/committed.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 10513,
+      "repo_bytes": 10513,
+      "sha256": "a75c477e6184e4528b5c34c4a83c9937506a69a00effbee305bc12c1b9a28222"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7399,
+      "repo_bytes": 7399,
+      "sha256": "c8385628242423b9b3cf2eaba077e943f84189660ed73f38cf5e5ac5ae484f75"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1527,
+      "repo_bytes": 1527,
+      "sha256": "016b0dc2849e1bb075796a188a0cfdd291a84ed43ab703fbbbcc2a92974b5cdd"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4618,
+      "repo_bytes": 4618,
+      "sha256": "7728f35cacd9f42c8c6bc125ff43907445ce8945cc98a6f37bf32ad0551430f8"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1317,
+      "repo_bytes": 1317,
+      "sha256": "d283ae548f42775fe231d4c35089fbb58cc269e49d6e3449839aa0e306a869d6"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3150,
+      "repo_bytes": 3150,
+      "sha256": "e789834d01bd38cd959403db36f786f465910f72ce64f3fd779a2666bc1a6ac8"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1873,
+      "repo_bytes": 1873,
+      "sha256": "79ca94d80154cb54105e9de1980bc1a94c4cb47a7a45591413228ff8e7d13c91"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-15.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 717,
+      "repo_bytes": 717,
+      "sha256": "6ae44dfb42d1196a3af8dd833f42e0898ee0ac8812c4fb728b7fad17438d8b93"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2655,
+      "repo_bytes": 2655,
+      "sha256": "f9d772a08d555c83971dba79e9265124d5652bcd8e17f889ce8870c1e93ad325"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-17.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7787,
+      "repo_bytes": 7787,
+      "sha256": "036827d4097ddd6348ba30001ca9e9e15cfd9a0f74eb9d03739894c7fb76c9c2"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-18.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 18340,
+      "repo_bytes": 18340,
+      "sha256": "8cbe8fd96f6390967d8e921a7504da20c9cb7ccf340a7172b8cc3460089dbdda"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-19.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 14951,
+      "repo_bytes": 14951,
+      "sha256": "d99e7526ed8eb5ef225b6538308325bd32a3cf5b71bef6444e5d2876375a8058"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6906,
+      "repo_bytes": 6906,
+      "sha256": "3179c39e645228546ca075e03eaad1781d3bc792dc8684be67a1c75ae34f3271"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-20.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3047,
+      "repo_bytes": 3047,
+      "sha256": "af54b2e115ba14d0cb36d5f70acd79139b62e63cc169a82edcce7d56fb94aa87"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-21.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 9942,
+      "repo_bytes": 9942,
+      "sha256": "22ddfd7b2d128987564a29567ec5c237408dce8af766bc88edd16bb3ad5e05ac"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-22.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-22.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 10640,
+      "repo_bytes": 10640,
+      "sha256": "228769e013d7311f3aec2fa0a86cc517b57b827669ad5b4c59b8371d1bf961f8"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-23.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3484,
+      "repo_bytes": 3484,
+      "sha256": "5f2742e461198ec5f47f99089f3aef71e58fc11253e458f47bf4cc2088979893"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-24.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5384,
+      "repo_bytes": 5384,
+      "sha256": "2a21ce17bc0e0a04cda7ac565c2da11fd694ddf983cea47ed288aac4a9a2b73d"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-25.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-25.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 12226,
+      "repo_bytes": 12226,
+      "sha256": "66055a8ba013ba093e544389f27cd4947b7ebab92f08b4cb9d96ae8f34f0516c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 9350,
+      "repo_bytes": 9350,
+      "sha256": "59579d5cc705ac7dcf50bbc164775f82a21d6a441e944fc877f03b9563e63756"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7459,
+      "repo_bytes": 7459,
+      "sha256": "c9668f7d41f4d24a90cafb2f928cfe7bd1e120faf898f868cf7186ceba25f6e5"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 9730,
+      "repo_bytes": 9730,
+      "sha256": "6fc5ee4b39333da910c5844f93b1fbcf9aef1f267c417b3bdaa31e9ff7c9c5ab"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6747,
+      "repo_bytes": 6747,
+      "sha256": "6eb005b0cb72dfaf91cdbb54269ac694bde4bf384a55d281b933c19507f0dc74"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5378,
+      "repo_bytes": 5378,
+      "sha256": "f4d3f11aaaa01a01ef8085770f653cf9cb7c999e32256a8f774a1cf03bb16e66"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6775,
+      "repo_bytes": 6775,
+      "sha256": "964c40c1f1e096e0bfb3541e7c926488b85dd3ffe2ed4c030d7802809b685072"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-5e4a55/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 12103,
+      "repo_bytes": 12103,
+      "sha256": "052dd3bcea5807c6ef5c0da22fb71785c2bd0ca2e22e6cfc749cbfb418b33ecf"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-17T22-57-45-622Z_01a14c15-e496-76ab-b120-9e964703245c.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-17T22-57-45-622Z_01a14c15-e496-76ab-b120-9e964703245c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 37645,
+      "repo_bytes": 30272,
+      "sha256": "edf44cb6fe925f666ce85856bcd806574a8057ef6e83b454f04a80fb55bb6f2f"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-17T22-58-17-331Z_01a14c16-6073-726f-a7ea-663de980c1c9.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-17T22-58-17-331Z_01a14c16-6073-726f-a7ea-663de980c1c9.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 277997757,
+      "repo_bytes": 25638813,
+      "sha256": "8c788e43ca123c3295ae651a8914be15874c5093652d40947f7b43f44f8a2b6e"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T00-23-48-964Z_01a14c64-ade4-72f2-b20b-d11e6f93405f.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T00-23-48-964Z_01a14c64-ade4-72f2-b20b-d11e6f93405f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10144386,
+      "repo_bytes": 83665,
+      "sha256": "5bc387e9eead5b1eaba027a002cf783f104f5e12b53221bf3ca59ca9d5a37358"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T03-48-05-454Z_01a14d1f-b2ce-7799-9f1e-8150d5e397cd.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T03-48-05-454Z_01a14d1f-b2ce-7799-9f1e-8150d5e397cd.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8861844,
+      "repo_bytes": 78187,
+      "sha256": "58fa8ebe94b35791204bc3049d0825ab4cbcbb43f81d2051bbc95acb030eba0c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T04-42-00-006Z_01a14d51-0dc5-7585-af8a-09016add936b.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T04-42-00-006Z_01a14d51-0dc5-7585-af8a-09016add936b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 16672409,
+      "repo_bytes": 202154,
+      "sha256": "5dfc3f42912d509feb905572b6ae4f95a85cd183137b9aa25c50f0b3e618c9fb"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T04-51-26-487Z_01a14d59-b297-76e3-bf25-394d55dcda70.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T04-51-26-487Z_01a14d59-b297-76e3-bf25-394d55dcda70.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 76596556,
+      "repo_bytes": 4488884,
+      "sha256": "74587867e313af4f5b9cd72ecb7a6449eafe35388d241ae44d42e0e4097fc96d"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T05-47-52-818Z_01a14d8d-5e72-7096-b385-ab8b38381724.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T05-47-52-818Z_01a14d8d-5e72-7096-b385-ab8b38381724.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10915581,
+      "repo_bytes": 103444,
+      "sha256": "a17b9a49ad46e5a10e5890cd8dbeec4ddde7e844b13193e8b7c3f8c3f51a405d"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T06-00-03-499Z_01a14d98-84ab-7659-879f-27a6ec6cc9f1.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T06-00-03-499Z_01a14d98-84ab-7659-879f-27a6ec6cc9f1.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 22793280,
+      "repo_bytes": 342687,
+      "sha256": "6fa15041e8d1a4d079f11e974afcecb55713a5c04dd3d618b694b1c1a039e5df"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T06-16-47-466Z_01a14da7-d66a-72d4-b870-770df0fba5c1.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T06-16-47-466Z_01a14da7-d66a-72d4-b870-770df0fba5c1.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 46093232,
+      "repo_bytes": 2493793,
+      "sha256": "f66329f53121afa11451b9bb0703fdc92fc52bdad3d7d0997998d091db537179"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T06-36-37-922Z_01a14dba-00a1-71ec-82b0-a6fc476fac4c.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T06-36-37-922Z_01a14dba-00a1-71ec-82b0-a6fc476fac4c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 23310719,
+      "repo_bytes": 298380,
+      "sha256": "9553f87d1d4afebc9381f614df474086de224ef210489c3e3fbdcaddb6a1a3e4"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T07-09-32-220Z_01a14dd8-20bc-72ab-9dea-a047fcc79dd5.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T07-09-32-220Z_01a14dd8-20bc-72ab-9dea-a047fcc79dd5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 23716793,
+      "repo_bytes": 199270,
+      "sha256": "b9eb459bfc037905b73be3e234911517900b8c68394455ded0df2190a36d9cd4"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T07-19-42-125Z_01a14de1-6f2d-7039-8d72-46acb51b8c43.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T07-19-42-125Z_01a14de1-6f2d-7039-8d72-46acb51b8c43.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 19845387,
+      "repo_bytes": 1055089,
+      "sha256": "258dd55d7dedfea6786da63a855275fd99406e4f4f99703842158303eb298e7b"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T07-37-35-376Z_01a14df1-cf90-729a-824e-81a68324faec.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T07-37-35-376Z_01a14df1-cf90-729a-824e-81a68324faec.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 28000104,
+      "repo_bytes": 343123,
+      "sha256": "c5e9db26b1df181b70acf10e9f9647d7f36950817b0ba3211db2aaace2bf7302"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T07-55-02-230Z_01a14e01-c8d6-72d0-97d5-fb528078fd0e.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T07-55-02-230Z_01a14e01-c8d6-72d0-97d5-fb528078fd0e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 16887855,
+      "repo_bytes": 210555,
+      "sha256": "a31daacc6ed777b26d79191a00bad2b76f526144e4adda862f28f1098b2d2192"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T08-01-47-997Z_01a14e07-f9dd-7325-bcc4-02b5d52a7fe5.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T08-01-47-997Z_01a14e07-f9dd-7325-bcc4-02b5d52a7fe5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 68575546,
+      "repo_bytes": 2399553,
+      "sha256": "0c126f556aad8f970716b6e277c1900c3a58d89e5e2fad14709320d3e426306a"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T08-17-07-514Z_01a14e16-01ba-775f-af51-7cdb92c74235.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T08-17-07-514Z_01a14e16-01ba-775f-af51-7cdb92c74235.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 17226261,
+      "repo_bytes": 202491,
+      "sha256": "655b62aea05876942c73e01d777b09b898e3ec571082f01f88951851d27f9b20"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T08-51-40-786Z_01a14e35-a472-76ae-8d67-ec2527f8323a.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T08-51-40-786Z_01a14e35-a472-76ae-8d67-ec2527f8323a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7097686,
+      "repo_bytes": 154318,
+      "sha256": "cbbc50eca692dca2ee90f574d4d24000bfe5df63a3f3cc2dce744d3826e9bf54"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T08-52-46-326Z_01a14e36-a476-7041-9325-eaae58dbd24a.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T08-52-46-326Z_01a14e36-a476-7041-9325-eaae58dbd24a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3015371,
+      "repo_bytes": 114261,
+      "sha256": "30e40033a5e29bc28a344420062f311b5b1e63a2dfdcf5d0e62a4c1cae6e67c3"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/sessions/2026-10-18T08-53-25-980Z_01a14e37-3f5c-7229-8d18-5bbb082c1004.jsonl",
+      "repo_path": "studios/paint-studio-5e4a55/sessions/pi/2026-10-18T08-53-25-980Z_01a14e37-3f5c-7229-8d18-5bbb082c1004.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4284384,
+      "repo_bytes": 145002,
+      "sha256": "ba57d6069bf39104f0e1f2f9db54e9c108d4dac2228666df266755ce73058e09"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/video/gallery-cut.mp4",
+      "repo_path": "studios/paint-studio-5e4a55/video/gallery-cut.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5826640,
+      "repo_bytes": 5826640,
+      "sha256": "4ca422dd075f67da0179a61ec1b29036f933e744253dd68a74822a93db0e002d"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Where the Light Comes Down (Autumn Falls) (Claude Opus 5.5)/video/wet-on-wet-dieroll-2400-timelapse.mp4",
+      "repo_path": "studios/paint-studio-5e4a55/video/wet-on-wet-dieroll-2400-timelapse.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5793565,
+      "repo_bytes": 5793565,
+      "sha256": "df57ab0eeb3e1142c41122284817ee5494a41dd16d5316f951e191e22f962b8b"
+    }
+  ]
+}

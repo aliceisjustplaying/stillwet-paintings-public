@@ -1,0 +1,339 @@
+{
+  "archive": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)",
+  "identity": "7e20de",
+  "files": [
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/painting - version 02.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 190151,
+      "repo_bytes": 190151,
+      "sha256": "08b5024787da6fec648b657c29a246b095896e87d899d0a1554112f6f0820e3d"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/painting - version 03.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/painting - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 472,
+      "repo_bytes": 472,
+      "sha256": "9bad6740ecbd7d2712da00421d4a30f801f531bf91733d5d1150608b9271c78b"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4349,
+      "repo_bytes": 4349,
+      "sha256": "60a3b7542756e8652c13033c573e947e5a7e97bf3e004ae9f12ae1b715df90f8"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1705,
+      "repo_bytes": 1705,
+      "sha256": "e0352072e0a9d6bb81689fe72c9d4aa1a71896228667d74564ed4b615224e793"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3176,
+      "repo_bytes": 3176,
+      "sha256": "65f5c63aa21375a422f31fc9d086aae451b28b63edac7170441a732b5f9d04ad"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6647,
+      "repo_bytes": 6647,
+      "sha256": "c2b224e97f0620fda5e53d8e19a6b37a6774718f94d5313e0f68a89330c68993"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13211,
+      "repo_bytes": 13211,
+      "sha256": "c4d604f1fcc410913ea3011e569a3ee79b9824d48089b19be383f71a5bbcca3c"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 47044,
+      "repo_bytes": 47044,
+      "sha256": "a17091197fb696476763b5d24427e1de66ddba5fe1a8717859395776194acb4a"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5242,
+      "repo_bytes": 5242,
+      "sha256": "9a134c7b6842d7b7f1eeeec8803b68e746c8670c58b8e01362c557c18f0d89d7"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-15.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5667,
+      "repo_bytes": 5667,
+      "sha256": "acb914284a7ce3a1b53b32101174b8f71cf096322faa3491e5a77fbab1919318"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5545,
+      "repo_bytes": 5545,
+      "sha256": "741c35dd3798637779189004fd733df1eb8ffc13e0f57d67bd2cc5f1b58df3bc"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-17.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5714,
+      "repo_bytes": 5714,
+      "sha256": "4de6c5a5ff2d31ad414adddee87ddebdc2cb02bce889526223bce8caeb595033"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-18.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5889,
+      "repo_bytes": 5889,
+      "sha256": "dc55b11969fa743b13dbf78c2e497801ed7f7885f78c5cc4a9660003e09a59be"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5364,
+      "repo_bytes": 5364,
+      "sha256": "0ed59ebd1c221bd216b5b65583f0690ac8bd319a7d782fffdcad9afad25c45de"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6035,
+      "repo_bytes": 6035,
+      "sha256": "e93365d9fd389756f3fef7d091feace9e0d3ad3ac6dea0528168879ca59171e6"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8015,
+      "repo_bytes": 8015,
+      "sha256": "4ed513eb41f12e77e9ef0be169ffc40e6523087d4435b636073ab59218bf6bf7"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 22937,
+      "repo_bytes": 22937,
+      "sha256": "c47748f1216b90edefc4ee6a2bef86c9c0fb681aa104024aacc3c61a4dad2ad2"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5939,
+      "repo_bytes": 5939,
+      "sha256": "49ed522205e8d7e858078126102f4e1b616e0b05736b499abe53c77ddaabbf05"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2559,
+      "repo_bytes": 2559,
+      "sha256": "a9c3abae081c2f0b04370d4b611df4e4bcaff6753b4ba9402949e16eb41c6b88"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3301,
+      "repo_bytes": 3301,
+      "sha256": "fdb0ef636ad2fb2bfdb9ad3f61f4fb9cce94264707cb6f3c13cebdaceb2ddc39"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6256,
+      "repo_bytes": 6256,
+      "sha256": "3af5d2ffcf90ba45780d47489f1a513435ecc1ae11c242c470b3bdfb007ea2d8"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-7e20de/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6167,
+      "repo_bytes": 6167,
+      "sha256": "24d174fed1bdfe5d7defb81bf42222cd994743fcba70811bf5933f607014a831"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/2026-10-16T20-46-48-316Z_01a14677-a3fc-7184-b533-591d6818cf93.jsonl",
+      "repo_path": "studios/paint-studio-7e20de/sessions/pi/2026-10-16T20-46-48-316Z_01a14677-a3fc-7184-b533-591d6818cf93.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 89621751,
+      "repo_bytes": 5637939,
+      "sha256": "42a0a19ba32804dd25d829c14c68ea4b3fdcb4d5ba1f1acc0880f739a4466c21"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/2026-10-16T22-40-08-527Z_01a146df-674e-7209-a2e0-593ec14f49be.jsonl",
+      "repo_path": "studios/paint-studio-7e20de/sessions/pi/2026-10-16T22-40-08-527Z_01a146df-674e-7209-a2e0-593ec14f49be.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 40949002,
+      "repo_bytes": 1276650,
+      "sha256": "f26d5404d3342e98466eb9589b04a01115f12c203116d689952b35907e0f0ae5"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/2026-10-17T01-43-17-512Z_01a14787-1508-75b7-92d1-f8e79a559a91.jsonl",
+      "repo_path": "studios/paint-studio-7e20de/sessions/pi/2026-10-17T01-43-17-512Z_01a14787-1508-75b7-92d1-f8e79a559a91.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 31810126,
+      "repo_bytes": 2091834,
+      "sha256": "fc760d017206cc412d0def46453511c9a990c425b0db4dcdf30581e5865b2e25"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/2026-10-17T02-33-14-305Z_01a147b4-cf41-774a-a0a2-fef6bd3f0688.jsonl",
+      "repo_path": "studios/paint-studio-7e20de/sessions/pi/2026-10-17T02-33-14-305Z_01a147b4-cf41-774a-a0a2-fef6bd3f0688.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 28907530,
+      "repo_bytes": 1141756,
+      "sha256": "8933a8a6ae3b9578f59c1e5f42aec17a7bae6fab432b82ab503538f0242fa507"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/2026-10-17T03-10-56-398Z_01a147d7-538e-74d6-9883-a416d7b9f313.jsonl",
+      "repo_path": "studios/paint-studio-7e20de/sessions/pi/2026-10-17T03-10-56-398Z_01a147d7-538e-74d6-9883-a416d7b9f313.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10515742,
+      "repo_bytes": 333866,
+      "sha256": "ffa4987e275f9e6f4e763f41b3585545c2f2888575531e76527d6a4ac93fd2dc"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/2026-10-17T03-18-49-973Z_01a147de-8d75-73ee-ac48-f7fc26eb8d15.jsonl",
+      "repo_path": "studios/paint-studio-7e20de/sessions/pi/2026-10-17T03-18-49-973Z_01a147de-8d75-73ee-ac48-f7fc26eb8d15.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6080938,
+      "repo_bytes": 114449,
+      "sha256": "94af83e76cf968d4be269f92469141ea107d7dc6688494fbc64e2f123cf3fda1"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 43861,
+      "repo_bytes": 43409,
+      "sha256": "96ac7ca39a1f486594f00fcda85cf3a69d2ebeb5629e7dd5450fcb00642aa357"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 33968,
+      "repo_bytes": 33635,
+      "sha256": "ad5227ce03c04d1b00a5f9be181c1114a3b78783d1977d598e789de2a1f1a6cc"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/packet - version 02.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 14722,
+      "repo_bytes": 12470,
+      "sha256": "ec4567ae38734b6e29777c22554b6112f2ada0c5e0202025d62bafc7ce1438fa"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/packet - version 03.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/packet - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 14406,
+      "repo_bytes": 12122,
+      "sha256": "894edfaff95e7b6d52df6dd702b5138da14590057b4bc07051732ce539edf00e"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/packet - version 04.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/packet - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 17876,
+      "repo_bytes": 15363,
+      "sha256": "ccdb81234d542bcb1a548d4f4e8e1d6e29442a93fbeccbae18153eb4ed7ea335"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/packet - version 05.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/packet - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13289,
+      "repo_bytes": 11033,
+      "sha256": "8b2af47700b0c7441672797415b0069bedf30bf770fb0bd5f380e66d51858002"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/packet - version 06.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/packet - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12238,
+      "repo_bytes": 9993,
+      "sha256": "06e79c0aa764e7916a2dc170b2fbe26ee12d7a30fdce187e8816d59cf8f01c28"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/packet - version 07.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/packet - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13270,
+      "repo_bytes": 11129,
+      "sha256": "a5dd83447f89678227736df278396010fa718525468322e5ffbc3f86e58fbcb8"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Boot Hill, Midnight (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "studios/paint-studio-7e20de/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12856,
+      "repo_bytes": 10677,
+      "sha256": "1dde1386f1a0e2dceb4fcb5a2948801c3671a993eb8325339a9c73bdc8679635"
+    }
+  ]
+}

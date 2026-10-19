@@ -1,0 +1,60 @@
+{
+  "archive": "2026-10-16 runknown untitled (unknown)",
+  "identity": "33375a",
+  "files": [
+    {
+      "archive_path": "2026-10-16 runknown untitled (unknown)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-33375a/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 49215,
+      "repo_bytes": 49215,
+      "sha256": "9d9550f13d99c9c01674610a16fab9609dfc3b066e63a41047b9b5dcf108c462"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (unknown)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-33375a/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7754,
+      "repo_bytes": 7754,
+      "sha256": "61d2fb2962c6fb4f03e9bc3e810fe56d3d1a3144e471f6a6abc03affb40b4fdb"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (unknown)/sessions/transcript.jsonl",
+      "repo_path": "studios/paint-studio-33375a/sessions/native/transcript.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 324864,
+      "repo_bytes": 315728,
+      "sha256": "0896341529c4ddf8e259b4dbdfc4e6698b2d6165a31d9db3f8ab75cec990a20b"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (unknown)/sessions/agy.jsonl",
+      "repo_path": "studios/paint-studio-33375a/sessions/pi/agy.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 33883360,
+      "repo_bytes": 328879,
+      "sha256": "47c1d39bae48ab633e3897d4ce7095b97d2fcc25061413af6a741d61d13ddfe9"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (unknown)/sessions/session - version 02.jsonl",
+      "repo_path": "studios/paint-studio-33375a/sessions/pi/session - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 103450,
+      "repo_bytes": 101957,
+      "sha256": "2e27ba1989f322741b08e6e1e1ec0526f6c696f2924a9b345593fab0a52de126"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (unknown)/sessions/session.jsonl",
+      "repo_path": "studios/paint-studio-33375a/sessions/pi/session.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 33831706,
+      "repo_bytes": 277892,
+      "sha256": "6ef333f17ac16d8aac9b52bc294a72df52d4e2d0e9522003a0648e20598e28fe"
+    }
+  ]
+}

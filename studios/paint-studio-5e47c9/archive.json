@@ -1,0 +1,24 @@
+{
+  "archive": "2026-10-17 runknown untitled — Keegan 4800 (Claude Opus 5.5)",
+  "identity": "5e47c9",
+  "files": [
+    {
+      "archive_path": "2026-10-17 runknown untitled — Keegan 4800 (Claude Opus 5.5)/lua/committed.lua",
+      "repo_path": "studios/paint-studio-5e47c9/lua/archive/committed.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 12340,
+      "repo_bytes": 12340,
+      "sha256": "09d95390fedbffa993b3378d2965ea8ba4b977f80b16109df6af74dfcf6a5b2e"
+    },
+    {
+      "archive_path": "2026-10-17 runknown untitled — Keegan 4800 (Claude Opus 5.5)/sessions/2026-10-17T21-18-33-039Z_01a14bbb-104f-7114-aca8-1c694b85100d.jsonl",
+      "repo_path": "studios/paint-studio-5e47c9/sessions/pi/2026-10-17T21-18-33-039Z_01a14bbb-104f-7114-aca8-1c694b85100d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4896918,
+      "repo_bytes": 347031,
+      "sha256": "363003c132d1ab36dfdfd4609103aa48efe18757116b08609136962bbe07671d"
+    }
+  ]
+}

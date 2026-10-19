@@ -1,0 +1,33 @@
+{
+  "archive": "2026-10-04 r24.1 untitled (Claude Fable 5.1)",
+  "identity": "2f7993",
+  "files": [
+    {
+      "archive_path": "2026-10-04 r24.1 untitled (Claude Fable 5.1)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-2f7993/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 968,
+      "repo_bytes": 968,
+      "sha256": "2414bd6722de65cada05cd068efd0a083d12bbcd6f4becd5e9f48294e62c8594"
+    },
+    {
+      "archive_path": "2026-10-04 r24.1 untitled (Claude Fable 5.1)/sessions/2026-10-04T22-53-17-004Z_01a1091f-1f4b-73bf-8421-56ebcb440a70.jsonl",
+      "repo_path": "studios/paint-studio-2f7993/sessions/pi/2026-10-04T22-53-17-004Z_01a1091f-1f4b-73bf-8421-56ebcb440a70.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 85185,
+      "repo_bytes": 82761,
+      "sha256": "828f62aa4e7b7c673bb0a5d5a664f6386d9063334f79a525a8fbc9dcf0ee6f7d"
+    },
+    {
+      "archive_path": "2026-10-04 r24.1 untitled (Claude Fable 5.1)/sessions/events.json",
+      "repo_path": "studios/paint-studio-2f7993/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 11722,
+      "repo_bytes": 11447,
+      "sha256": "1f46a153a51ba9ac54bd8638cf50e74efae7c31e1e33acfdd8242d9e59187974"
+    }
+  ]
+}

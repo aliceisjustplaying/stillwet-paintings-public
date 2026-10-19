@@ -1,0 +1,375 @@
+{
+  "archive": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)",
+  "identity": "4682e0",
+  "files": [
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/finals/cowboy-zombie-dieroll-2400-gallery.png",
+      "repo_path": "studios/paint-studio-4682e0/finals/cowboy-zombie-dieroll-2400-gallery.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5094576,
+      "repo_bytes": 5094576,
+      "sha256": "a0d7b2ac924efbdbd591a6def03dfbf0fb4782602e0556dd0658a966bea57b5c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/finals/cowboy-zombie-dieroll-2400-plain.png",
+      "repo_path": "studios/paint-studio-4682e0/finals/cowboy-zombie-dieroll-2400-plain.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1619300,
+      "repo_bytes": 1619300,
+      "sha256": "62b0ebf20a7c1b6815d6e639824a90767c78d66d35d784269e1b454371b0b6a9"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/chunk294.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/chunk294.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 818,
+      "repo_bytes": 818,
+      "sha256": "40b0e482638643a97087891ecbe58a48f38521527bfa4b99365eb2a81c942bd6"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/chunk295.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/chunk295.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 241,
+      "repo_bytes": 241,
+      "sha256": "f730cfeb2f8471e380c29b997ae633c91936b8bc53e9a9fa774b8d8a05d59a6d"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/chunk296.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/chunk296.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 121,
+      "repo_bytes": 121,
+      "sha256": "274d370b08b0b1322edff7ab3e55f9924c38e94bb079fc9fe00ac8099a1288a5"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/committed - version 02.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/committed - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 212410,
+      "repo_bytes": 212410,
+      "sha256": "6ce3c255dca89a1efdcd1456f550fd5adf6c07e2b17ff7ff9157031de0762e00"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/committed.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/committed.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13746,
+      "repo_bytes": 13746,
+      "sha256": "ff89593ec1cd45287fdaae0fe904418d26460b8989b16527c1d021c29748a7a4"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/export-mask.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/export-mask.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 758,
+      "repo_bytes": 758,
+      "sha256": "0e2fa87724bfffccf274dc7364434547698d187ac3537ed080d03a7d3ec6e70c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/original.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/original.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 198339,
+      "repo_bytes": 198339,
+      "sha256": "a800f0f3a8b073a7cceeb8c343ffbf543ab199b421872aee270a6f20694ec5c3"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 197413,
+      "repo_bytes": 197413,
+      "sha256": "d8b0e5bb206b7bbb5b247159ee8973341c993d6386b30cb0d74d942153608202"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3778,
+      "repo_bytes": 3778,
+      "sha256": "2fb8548cf5bbf6febd9b9ee5cab5f524835a0bf6a91c850f98122744d35cb62a"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4358,
+      "repo_bytes": 4358,
+      "sha256": "37b01a68a2c464f1f7806135b3430e7cace554863c33c3c5de37fbb662426650"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5680,
+      "repo_bytes": 5680,
+      "sha256": "1b1dd1a3874207a716aa1c86d13c2212ac10a25102dee88a03244e451ad6d461"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5025,
+      "repo_bytes": 5025,
+      "sha256": "0673bafba5f4c190657eb949dc856060535af9ff747f35bb0424cc49214798b4"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4871,
+      "repo_bytes": 4871,
+      "sha256": "245f186dc641870f653065e271621abd40b977587aec5630e65557c660f197a2"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5980,
+      "repo_bytes": 5980,
+      "sha256": "08d5390d0282df1e8cacf71d5728d1313db829f4c20d5972b09fc56139f96e6d"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8224,
+      "repo_bytes": 8224,
+      "sha256": "08b0e9b54b81b8d1a29c358e3dfda8e2f9dd664296a23f721b00ae90753c4287"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6815,
+      "repo_bytes": 6815,
+      "sha256": "511b8ade39f4adba8980d05195683c331c963ceca0a90f89d52811cfb6440a6c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 11259,
+      "repo_bytes": 11259,
+      "sha256": "80096004e116358b9f8bc3fbaff5034353168c4b7908b263e03042a7a6407dfb"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5396,
+      "repo_bytes": 5396,
+      "sha256": "1db69682edbeb3b54638096217f7252974b5a844ad04e1b32a6b55cadba83e8f"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15005,
+      "repo_bytes": 15005,
+      "sha256": "99b1d604f6db0e806f878c438ded875ab9868883e57e01e51eef672ffade2b35"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6575,
+      "repo_bytes": 6575,
+      "sha256": "cf483b2de175c86554978e5a734ec7e9c37d6003dbd0fb257b89275ea78d0741"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-4682e0/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4867,
+      "repo_bytes": 4867,
+      "sha256": "262f42e3572632d0e13e035c5ffc03468a93be91c57eafb3da0168489d8b2570"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/session-s3-text.txt",
+      "repo_path": "studios/paint-studio-4682e0/sessions/native-text/session-s3-text.txt.jsonl",
+      "kind": "sessions",
+      "session_kind": "native-text",
+      "source_bytes": 399278,
+      "repo_bytes": 565006,
+      "sha256": "ca2aeebbfd64947d74638242a53b88dcd6a98ac0167a88bb082195aa4471aa4a"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-17T22-26-45-961Z_01a14bf9-8449-734a-bd50-0e0015fcbd20.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-17T22-26-45-961Z_01a14bf9-8449-734a-bd50-0e0015fcbd20.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 24271,
+      "repo_bytes": 20123,
+      "sha256": "418085303bc59a768ffd567edad1af66ea58722f54d47fcbcd2fd1e813642e31"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-17T22-27-12-593Z_01a14bf9-ec51-764f-8b4f-d016df19a488.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-17T22-27-12-593Z_01a14bf9-ec51-764f-8b4f-d016df19a488.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 105199631,
+      "repo_bytes": 12495262,
+      "sha256": "9d93a976d1fb46cae33e041146eb6b910fba5084c3f8c959b5af670e25a9d84f"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-17T23-31-29-787Z_01a14c34-c77b-736e-abbb-fd80a9c468b7.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-17T23-31-29-787Z_01a14c34-c77b-736e-abbb-fd80a9c468b7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 14429507,
+      "repo_bytes": 144142,
+      "sha256": "1e74e0d61dd15fa3c5facb8e86efb0827c1af1150ba8181235c41b6ca86e2a7e"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T00-47-58-390Z_01a14c7a-cbb6-76c9-83fe-6d5252431533.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T00-47-58-390Z_01a14c7a-cbb6-76c9-83fe-6d5252431533.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9838298,
+      "repo_bytes": 108022,
+      "sha256": "c737d5e79e2f651f9546b5913b69428199e509666df8eeae634131bcff5aa69a"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T01-12-51-075Z_01a14c91-9283-72e7-9108-13c807fe518f.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T01-12-51-075Z_01a14c91-9283-72e7-9108-13c807fe518f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 12329485,
+      "repo_bytes": 198163,
+      "sha256": "e5f0316dba781d91b19b2632f578ae181d6262b0bd144a75bc8041776577edc8"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T01-24-00-663Z_01a14c9b-ca17-71cf-b9b7-4af013545943.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T01-24-00-663Z_01a14c9b-ca17-71cf-b9b7-4af013545943.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 631024,
+      "repo_bytes": 60797,
+      "sha256": "49b31529cf23056c96276e705bc30dcad8351f4f955a2157fad2f1782e3f0c85"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T02-54-09-967Z_01a14cee-542f-70c3-969a-728c68baac55.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T02-54-09-967Z_01a14cee-542f-70c3-969a-728c68baac55.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 12993593,
+      "repo_bytes": 1756693,
+      "sha256": "47b36571dd6b573fa55b9cbea639a706f27641fdbb1b92f8f3b88c72eeb1430f"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T03-38-41-142Z_01a14d17-1676-7016-820a-a541ad170543.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T03-38-41-142Z_01a14d17-1676-7016-820a-a541ad170543.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7669940,
+      "repo_bytes": 119342,
+      "sha256": "a771883e6de484b34d7b199b83be6215bc5fc6c17666c2e5c2b8167b1c873de9"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T03-43-23-139Z_01a14d1b-6403-7430-b1dd-10af3081cd5a.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T03-43-23-139Z_01a14d1b-6403-7430-b1dd-10af3081cd5a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3928319,
+      "repo_bytes": 231824,
+      "sha256": "f4bf4e2e33d812cf6573d799047f47477f9ace109b2af6ec474320914c202242"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T03-45-13-967Z_01a14d1d-14ef-7636-b1fb-716b04f3bf37.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T03-45-13-967Z_01a14d1d-14ef-7636-b1fb-716b04f3bf37.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9182366,
+      "repo_bytes": 109357,
+      "sha256": "9ed2151a2f21ecd7e270523e6348584bd184dd6479c951c3cfb20edd02eb791c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T09-54-09-377Z_01a14e6e-d760-71eb-af08-70a580c4d55e.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T09-54-09-377Z_01a14e6e-d760-71eb-af08-70a580c4d55e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 23904576,
+      "repo_bytes": 1700545,
+      "sha256": "53a297ee4ea3f40b762c7739b2e943e0e24d1bedef77674108aeba966314379d"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T10-23-27-963Z_01a14e89-acda-7116-a883-aac42575c76f.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T10-23-27-963Z_01a14e89-acda-7116-a883-aac42575c76f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7336154,
+      "repo_bytes": 109471,
+      "sha256": "8340628277272fd3cf594f422f9789286b163473a39ac740ae6bf006eeda34d9"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/2026-10-18T10-34-19-401Z_01a14e93-9d88-77b2-98b8-e0dae39ed74b.jsonl",
+      "repo_path": "studios/paint-studio-4682e0/sessions/pi/2026-10-18T10-34-19-401Z_01a14e93-9d88-77b2-98b8-e0dae39ed74b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 21063188,
+      "repo_bytes": 444678,
+      "sha256": "b9d9416bf811151a09c9e0bb4acb02c7f9ed9fe7b0917960b6bf0ac7be36f588"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/STIL-205-events.json",
+      "repo_path": "studios/paint-studio-4682e0/sessions/viewer/STIL-205-events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 98742,
+      "repo_bytes": 96796,
+      "sha256": "4c2bd4ee6b9bcbf2ca3c8bb9718593a91eb45f5cb2327be08f12de650c34bd8a"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/sessions/local-events.json",
+      "repo_path": "studios/paint-studio-4682e0/sessions/viewer/local-events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 105563,
+      "repo_bytes": 103373,
+      "sha256": "5655626f4a3fd5b88724ae5d0c0bf6fccb588b569258ed24a6720a4fa9ae7bea"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/video/cowboy-zombie-dieroll-2400-timelapse.mp4",
+      "repo_path": "studios/paint-studio-4682e0/video/cowboy-zombie-dieroll-2400-timelapse.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1730934,
+      "repo_bytes": 1730934,
+      "sha256": "0e7945da24321d75d244c18cfa02036789139a9bd11d6433d44b0077dd4487bc"
+    },
+    {
+      "archive_path": "2026-10-18 runknown Last Call at the Silver Dollar (Claude Opus 5.5)/video/gallery-clip.mp4",
+      "repo_path": "studios/paint-studio-4682e0/video/gallery-clip.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1744695,
+      "repo_bytes": 1744695,
+      "sha256": "2f1479ed63ae38fc689f8859ac73161a66affc8c4f6cfe3257f6eacf8ddb816b"
+    }
+  ]
+}

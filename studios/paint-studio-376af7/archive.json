@@ -1,0 +1,42 @@
+{
+  "archive": "2026-10-01 runknown untitled (Claude Sonnet 5.5)",
+  "identity": "376af7",
+  "files": [
+    {
+      "archive_path": "2026-10-01 runknown untitled (Claude Sonnet 5.5)/sessions/2026-10-01T23-01-25-234Z_01a0f9b3-7e71-712d-8d04-6f9c8db2e3d6.jsonl",
+      "repo_path": "studios/paint-studio-376af7/sessions/pi/2026-10-01T23-01-25-234Z_01a0f9b3-7e71-712d-8d04-6f9c8db2e3d6.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 87965,
+      "repo_bytes": 86973,
+      "sha256": "7a12d32c47b0c56efe001b60398c2d18434a5b0b94b6dee6dd78fe062260b083"
+    },
+    {
+      "archive_path": "2026-10-01 runknown untitled (Claude Sonnet 5.5)/sessions/events - version 02.json",
+      "repo_path": "studios/paint-studio-376af7/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 11160,
+      "repo_bytes": 10906,
+      "sha256": "202f824fe97765da7125b0e1947b0b82ecc301ae1f1418b40feb1192d9811bee"
+    },
+    {
+      "archive_path": "2026-10-01 runknown untitled (Claude Sonnet 5.5)/sessions/events - version 03.json",
+      "repo_path": "studios/paint-studio-376af7/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 11284,
+      "repo_bytes": 10906,
+      "sha256": "202f824fe97765da7125b0e1947b0b82ecc301ae1f1418b40feb1192d9811bee"
+    },
+    {
+      "archive_path": "2026-10-01 runknown untitled (Claude Sonnet 5.5)/sessions/events.json",
+      "repo_path": "studios/paint-studio-376af7/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 11154,
+      "repo_bytes": 10906,
+      "sha256": "202f824fe97765da7125b0e1947b0b82ecc301ae1f1418b40feb1192d9811bee"
+    }
+  ]
+}

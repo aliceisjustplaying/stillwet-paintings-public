@@ -1,0 +1,42 @@
+{
+  "archive": "2026-10-13 runknown untitled — RW2 original brief (Claude Opus 5.5)",
+  "identity": "8ee1cdd2",
+  "files": [
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 original brief (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-8ee1cdd2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 121,
+      "repo_bytes": 121,
+      "sha256": "67739262c2a1aeddc376ca1ba457269dca6b86efd420d4fcc93e134724ef415b"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 original brief (Claude Opus 5.5)/sessions/tool-calls.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cdd2/sessions/native/tool-calls.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 1674,
+      "repo_bytes": 1596,
+      "sha256": "84e6cf7346c5cb1b32ca07e778b8589cdd988ef98404aa8675f130a326d35dbf"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 original brief (Claude Opus 5.5)/sessions/2026-10-13T23-07-03-581Z_01a13784-f81c-743a-b9bf-b6287e0658de.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cdd2/sessions/pi/2026-10-13T23-07-03-581Z_01a13784-f81c-743a-b9bf-b6287e0658de.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4245164,
+      "repo_bytes": 54911,
+      "sha256": "6e4d3f4dc5d9587db384d3809eee229105ac5fdb51b111d8a3b84104d4fb2752"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 original brief (Claude Opus 5.5)/sessions/[local path redacted]__2026-10-13T23-07-03-581Z_01a13784-f81c-743a-b9bf-b6287e0658de.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cdd2/sessions/pi/local-session__2026-10-13T23-07-03-581Z_01a13784-f81c-743a-b9bf-b6287e0658de.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 55525,
+      "repo_bytes": 55158,
+      "sha256": "167b651f598f25362d9993149c4bb726dff90a8fa3c0a319bc0566b1f63062bb"
+    }
+  ]
+}

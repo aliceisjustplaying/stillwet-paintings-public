@@ -1,0 +1,105 @@
+{
+  "archive": "2026-10-15 runknown untitled (Gemini 3.8 Flash)",
+  "identity": "063cbb",
+  "files": [
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/lua/painting - version 02.lua",
+      "repo_path": "studios/paint-studio-063cbb/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 23390,
+      "repo_bytes": 23390,
+      "sha256": "f34726ca83525187bf9a62e8919f8138b32544e04051cd85a2158bf158f162c4"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-063cbb/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 177,
+      "repo_bytes": 177,
+      "sha256": "ea55519d5b51565b3cf6ee76b3c3266023fcb7d59291aaa9d17cb637df611c19"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-063cbb/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2945,
+      "repo_bytes": 2945,
+      "sha256": "ff50b78241e7192d35ec7c7718a6d5bc5cdda5dbd03858c5d2c5082a8dc49c63"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/sessions/transcript.jsonl",
+      "repo_path": "studios/paint-studio-063cbb/sessions/native/transcript.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 145212,
+      "repo_bytes": 139005,
+      "sha256": "1723a63dbe08ff4f4984bbe35b9c6013291d1d3fb7439fd6155f26a69f81fc63"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/sessions/agy - version 02.jsonl",
+      "repo_path": "studios/paint-studio-063cbb/sessions/pi/agy - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 38362752,
+      "repo_bytes": 200321,
+      "sha256": "42098f5d6cade9c9f701a1b09a9293c9302f695481f5061cebbb1d83894ceec3"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/sessions/agy.jsonl",
+      "repo_path": "studios/paint-studio-063cbb/sessions/pi/agy.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 38363906,
+      "repo_bytes": 201033,
+      "sha256": "0a756345f47276d14b7f2c507f0b9e4f720f4cde56128a24d59ef2e6ae8338c9"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/sessions/session.jsonl",
+      "repo_path": "studios/paint-studio-063cbb/sessions/pi/session.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 38341645,
+      "repo_bytes": 179213,
+      "sha256": "486efefab17126619b301bb23917d00efed19ae5b4e6c33183347a18cf71fcc6"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/sessions/events - version 02.json",
+      "repo_path": "studios/paint-studio-063cbb/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 97333,
+      "repo_bytes": 95669,
+      "sha256": "6b0a14a481dd5f7a23f1544970fd16319d0c321f427be74250ff9fb050413fc4"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/sessions/events - version 03.json",
+      "repo_path": "studios/paint-studio-063cbb/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 100315,
+      "repo_bytes": 95669,
+      "sha256": "6b0a14a481dd5f7a23f1544970fd16319d0c321f427be74250ff9fb050413fc4"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/sessions/events - version 04.json",
+      "repo_path": "studios/paint-studio-063cbb/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 25434,
+      "repo_bytes": 25118,
+      "sha256": "47ffe705d601c8e925eabe2ae012aa7adc05fd0cc89c6b3073a9148a0b30f088"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 3.8 Flash)/sessions/events.json",
+      "repo_path": "studios/paint-studio-063cbb/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 100917,
+      "repo_bytes": 96823,
+      "sha256": "a99a467c79556117eda6d1597086b642b5e0b2e235421b80d53c3c8afd05cce8"
+    }
+  ]
+}
