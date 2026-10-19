@@ -1,0 +1,348 @@
+{
+  "archive": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)",
+  "identity": "c766c5",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/finals/r18-dsk - version 02.png",
+      "repo_path": "paintings/r18-dsk/finals/r18-dsk - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6982191,
+      "repo_bytes": 6982191,
+      "sha256": "6403ec28e04e9364c08eea189cde2d890c03e94a576c34983e5e13f9b0d511e4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/finals/r18-dsk - version 03.png",
+      "repo_path": "paintings/r18-dsk/finals/r18-dsk - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3741024,
+      "repo_bytes": 3741024,
+      "sha256": "612669ce4a6ac4114e9c803c990846958da0d43b259aba2495494dd75f187e63"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/finals/r18-dsk.png",
+      "repo_path": "paintings/r18-dsk/finals/r18-dsk.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9351876,
+      "repo_bytes": 9351876,
+      "sha256": "868bf2eaf8e4eb2cc5bb43be1c6b20b1504a3d7394f28f5799a904895b54920a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/lua/DSK_finished.lua",
+      "repo_path": "paintings/r18-dsk/lua/archive/DSK_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 138610,
+      "repo_bytes": 138610,
+      "sha256": "a280d25a11ef0932a2464517c4b1207430489f043fd98e4b71c06dc379c89f0e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/lua/DSK_finished_before_resume.lua",
+      "repo_path": "paintings/r18-dsk/lua/archive/DSK_finished_before_resume.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 47891,
+      "repo_bytes": 47891,
+      "sha256": "49984dcad8ec7a23e40df3d102869f4a52b30590a30fbe2c0fb3706baf783a4e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r18-dsk/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 138192,
+      "repo_bytes": 138192,
+      "sha256": "2195d1bfd91d9e3b30da210a0edf565bc257b8f1b7787ff2aa2b59b7bb559d9c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/lua/painting.lua",
+      "repo_path": "paintings/r18-dsk/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 47473,
+      "repo_bytes": 47473,
+      "sha256": "f5f28b8492b9508487d41ea3430d9af956943be0f36ae80d9133965ab24e08ab"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/lua/r18-DSK-3.lua",
+      "repo_path": "paintings/r18-dsk/lua/archive/r18-DSK-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2110,
+      "repo_bytes": 2110,
+      "sha256": "4c65ad9f16196a4ac7602155cc97c617827446f91ea1fbc23107573bb61e3bb2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T11-57-54-318Z_01a0e2ba-970e-7308-bfe3-b382e2342bcc - version 02.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T11-57-54-318Z_01a0e2ba-970e-7308-bfe3-b382e2342bcc - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 47400301,
+      "repo_bytes": 695469,
+      "sha256": "5306dc85e52c6b4d84f2c78141a0443747eb0937e853057ff707878bb06769de"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T11-57-54-318Z_01a0e2ba-970e-7308-bfe3-b382e2342bcc.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T11-57-54-318Z_01a0e2ba-970e-7308-bfe3-b382e2342bcc.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 698590,
+      "repo_bytes": 685613,
+      "sha256": "680472986fcf5b307f137b1c9c4c1e8bffd643a783da0a982c5c2df92b533e18"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T15-06-01-677Z_01a0e366-d24c-747a-9d87-e8144886e4e4.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T15-06-01-677Z_01a0e366-d24c-747a-9d87-e8144886e4e4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3169,
+      "repo_bytes": 3135,
+      "sha256": "40bb14d4b2fb8bed2d447fa47295e529dbe313f6fdc1ea9849c75d57e8e9ec86"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T16-51-14-859Z_01a0e3c7-272b-7310-b397-e691535cd833 - version 02.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T16-51-14-859Z_01a0e3c7-272b-7310-b397-e691535cd833 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 94982,
+      "repo_bytes": 95670,
+      "sha256": "056bfb1c3ea94bd49977e51c9186ad31e03adba2ffe48e9f09f52cf4377bf704"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T16-51-14-859Z_01a0e3c7-272b-7310-b397-e691535cd833.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T16-51-14-859Z_01a0e3c7-272b-7310-b397-e691535cd833.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 94967,
+      "repo_bytes": 95670,
+      "sha256": "056bfb1c3ea94bd49977e51c9186ad31e03adba2ffe48e9f09f52cf4377bf704"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T21-14-31-611Z_01a0e4b8-313a-76f8-874f-7411f582454c - version 02.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T21-14-31-611Z_01a0e4b8-313a-76f8-874f-7411f582454c - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 572317,
+      "repo_bytes": 561760,
+      "sha256": "f9048337ff9c1669d2ff752a75d5c5f2d616cc32d03c70c7dea5ad6c1798551c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T21-14-31-611Z_01a0e4b8-313a-76f8-874f-7411f582454c.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T21-14-31-611Z_01a0e4b8-313a-76f8-874f-7411f582454c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 24941123,
+      "repo_bytes": 569580,
+      "sha256": "455e1b509dba47844e28d458adec579bb0daa7cb84a8062962cc335d2bff672b"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T22-58-07-970Z_01a0e517-0be1-736f-8503-44fca25435cb - version 02.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T22-58-07-970Z_01a0e517-0be1-736f-8503-44fca25435cb - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 433627,
+      "repo_bytes": 424859,
+      "sha256": "12a2c85213ba069dba932a0582c76b2ece4edce056d6a5f3804c289176b13d03"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T22-58-07-970Z_01a0e517-0be1-736f-8503-44fca25435cb.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T22-58-07-970Z_01a0e517-0be1-736f-8503-44fca25435cb.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 20789901,
+      "repo_bytes": 430839,
+      "sha256": "50ea15eaf4d1dc11901c465f2db07a4874b63db7d637ba1752f7dc35f215d1a3"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T23-57-05-974Z_01a0e54d-0835-76da-bcae-999da9c76b19 - version 02.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T23-57-05-974Z_01a0e54d-0835-76da-bcae-999da9c76b19 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 28156934,
+      "repo_bytes": 593283,
+      "sha256": "f8d7b35e97f9db16ba924250245eb27374c16acb0a6468e5c3dd86682ea27dd3"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/2026-09-27T23-57-05-974Z_01a0e54d-0835-76da-bcae-999da9c76b19.jsonl",
+      "repo_path": "paintings/r18-dsk/sessions/pi/2026-09-27T23-57-05-974Z_01a0e54d-0835-76da-bcae-999da9c76b19.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 595753,
+      "repo_bytes": 581507,
+      "sha256": "bd9bc1ef2938b426dbfc24274aed0b415d62c9d8dd57038934763af68032c3c7"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1496633,
+      "repo_bytes": 1455204,
+      "sha256": "d397d3dd599864390c3468fd10ef8fb7dd59904e1a0493bae98a411c9fa847b4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 03.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1502553,
+      "repo_bytes": 1450693,
+      "sha256": "26980576b1298f3c10e5c29f983876c53419838dd649d5acd95a7c5e09325f8f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 04.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1507938,
+      "repo_bytes": 1455210,
+      "sha256": "7b1036960488717239d77dabb9b47f9ca0b95086e27705ee9e1990548d513715"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 05.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1476057,
+      "repo_bytes": 1455204,
+      "sha256": "d397d3dd599864390c3468fd10ef8fb7dd59904e1a0493bae98a411c9fa847b4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 06.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1476057,
+      "repo_bytes": 1455204,
+      "sha256": "7f95511497cea58b6a376be14dba7f30bbbce4a814eb98bd4ed93992b5acca01"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 07.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1470555,
+      "repo_bytes": 1450588,
+      "sha256": "449654e9bbc8436f7f383865db418135a5a20f546f6f50327518d524c875cfa1"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 08.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1507938,
+      "repo_bytes": 1455210,
+      "sha256": "95d33b519a1d4b562d095580c89f1400e366eae69e2115a37250bea7d86507c8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 09.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 09.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1476057,
+      "repo_bytes": 1455204,
+      "sha256": "bb39f4d4c14ea1024cb9be8ef50d14cabf58dfdfc8b30bc2e076a53e876c4c20"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events - version 10.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events - version 10.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1470672,
+      "repo_bytes": 1450687,
+      "sha256": "a69f6c04b047212514a75bbc4b0fca6de25accd683f6fbbad739938371c749b2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/sessions/events.json",
+      "repo_path": "paintings/r18-dsk/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1502436,
+      "repo_bytes": 1450594,
+      "sha256": "831fb262f33d0e2aa74c189055ab542a0ce0449934d77bc4c6c6eacccb1414e5"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk - version 02.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 858732,
+      "repo_bytes": 858732,
+      "sha256": "3230b489d84b77097050819e40ea2a728c31dead8b7a50d70226185871028b47"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk-1920 - version 02.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2243553,
+      "repo_bytes": 2243553,
+      "sha256": "66d160e2615e10e63f0a370366305baeafb693a118f13aab4f1b0dd2438eaf2d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk-1920 - version 03.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2307791,
+      "repo_bytes": 2307791,
+      "sha256": "36e67d8cba56ebdb44b8a60234b9e5f15057b4d4381c5729f77504022d12246e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk-1920.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2310919,
+      "repo_bytes": 2310919,
+      "sha256": "175c3f71dffca6a0b108de119b0fdf6cf4b11204bdf3c92b0770ed85b9796f20"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk-720 - version 02.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 555408,
+      "repo_bytes": 555408,
+      "sha256": "165234d002e7a31898221af487c5a5713abfda6b5b4b3a169be2efbd41340b42"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk-720 - version 03.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 544736,
+      "repo_bytes": 544736,
+      "sha256": "1ff983146872d808fa62d241ef701dce424d00923f04c7af6e682da1341263bc"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk-720.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 558536,
+      "repo_bytes": 558536,
+      "sha256": "326838034884f9b0717490fb004743bd76efc9921c3364871ffa6adb05c7c45d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk-social-1920.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2267816,
+      "repo_bytes": 2267816,
+      "sha256": "bcbc18d34f4396f6eb8a8c7f1a284f223ec5a8616ecbe63ef233c2876fffa023"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with a Dark Bottle and a Bowl of Lemons (DeepSeek V4.1 Flash)/video/r18-dsk.mp4",
+      "repo_path": "paintings/r18-dsk/video/r18-dsk.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 855604,
+      "repo_bytes": 855604,
+      "sha256": "e70405c164c34a9f9265daa09a9cb3cceae08ee781b8465d7f1ae7f7e686a391"
+    }
+  ]
+}

@@ -1,0 +1,1089 @@
+{
+  "archive": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)",
+  "identity": "520026",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/finals/r18-bun - version 02.png",
+      "repo_path": "paintings/r18-bun/finals/r18-bun - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3725341,
+      "repo_bytes": 3725341,
+      "sha256": "6824c2adc63c8ee859de4be4baef6039d21fab5b3b47992eb1b7871790b4e5f9"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/finals/r18-bun - version 03.png",
+      "repo_path": "paintings/r18-bun/finals/r18-bun - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2807688,
+      "repo_bytes": 2807688,
+      "sha256": "f54336a38119184b0b6b98abb2ca8e10d6087b195d730757049e45609ac32a5e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/finals/r18-bun.png",
+      "repo_path": "paintings/r18-bun/finals/r18-bun.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4531178,
+      "repo_bytes": 4531178,
+      "sha256": "0416fa6445f4e060c6f4c1f3d8c7d0e9aa30f410317845a39cac3ee8cd93d566"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/BUN_finished.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/BUN_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 398801,
+      "repo_bytes": 398801,
+      "sha256": "9eb61131f4fe1a458d7644be3b1c91a002200bb6250fcadcdf42df4adcdf269f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/BUN_finished_before_resume.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/BUN_finished_before_resume.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 156555,
+      "repo_bytes": 156555,
+      "sha256": "7436613a73df71113f4d1769d6af2e1d974ba6fb0141bf93ccfe5187d3afe1cc"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/accents.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/accents.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2395,
+      "repo_bytes": 2395,
+      "sha256": "7d3a6989757ae1c73ce848f34a6efbe3240e9049114d0b30da4d17de14894cca"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/appleB.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/appleB.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1608,
+      "repo_bytes": 1608,
+      "sha256": "ba0df2cb560c2f4ee1dc86772a00c851dcf6dedbed6bfd4c53d34141e462b2e0"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/bowl.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/bowl.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1453,
+      "repo_bytes": 1453,
+      "sha256": "686ddc4708477b54a2734888dd5f55998c3d3d1a373b839212e140a0d020e922"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/bowl2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/bowl2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1846,
+      "repo_bytes": 1846,
+      "sha256": "4c3d8273ac6a553b00b41e5d82fde0f8ae4cd12249619fb652ee37e5d5cf6678"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/bowl3.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/bowl3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1797,
+      "repo_bytes": 1797,
+      "sha256": "f605be9f62cc5903d4b597fe4e67d47ef5646af43f35d3b3ecc828fc73976152"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/bowl4.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/bowl4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1837,
+      "repo_bytes": 1837,
+      "sha256": "53cec54d9edf268647bf3c556c53bd693da20f73e95dad7dfb972fedc5b40ca9"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/cleanup.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/cleanup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 779,
+      "repo_bytes": 779,
+      "sha256": "3fc2f0a533bfd219b2a7f76e26512e063350f4a7cf2cbe23baa2ad0c5ed8ed20"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/cloth.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/cloth.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2150,
+      "repo_bytes": 2150,
+      "sha256": "d61a300b149182c801b35c658fccd185db2aa4e3e94c2809bf9f59302baefb09"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/cloth2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/cloth2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2073,
+      "repo_bytes": 2073,
+      "sha256": "ff92dd0d2d217dad9ef94370752c616fc3e89cfff3c52a073995cb65e73fe136"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/cloth3.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/cloth3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1950,
+      "repo_bytes": 1950,
+      "sha256": "f36edeebbde3fbf4167f4aa6fe7679d4136b88f7ba95a06ad77a9ca7de467cfb"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/cloth4.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/cloth4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2194,
+      "repo_bytes": 2194,
+      "sha256": "fdb33e5b74f9bad420b932d1eb6ed7d51fadcfee66464996ecce2af7fb3edfc3"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/cloth5.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/cloth5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1945,
+      "repo_bytes": 1945,
+      "sha256": "f111feefb809ee490e98d4243100dd57fb394f1bc1abd448810e1eb9491a215f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/cloth6.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/cloth6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1394,
+      "repo_bytes": 1394,
+      "sha256": "f1e05348384a389967262a4a7d86787c10da16427cb8ea1fafc982c27c8232ec"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/cloth7.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/cloth7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1906,
+      "repo_bytes": 1906,
+      "sha256": "faeb998a575d4250303a669fcb34ab479297ae72ed3dad0860a2e94940bdf4c7"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/deepen.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/deepen.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2660,
+      "repo_bytes": 2660,
+      "sha256": "706c3007476062e87cff24a8891735d8dab10e80fdc64dce9c73ea19823274b5"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/final_group.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/final_group.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4110,
+      "repo_bytes": 4110,
+      "sha256": "e555cd4de9f266ce829853998f6c3450fd8091d2fe375b3eae67507172bcd12c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/final_light.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/final_light.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 956,
+      "repo_bytes": 956,
+      "sha256": "a74943538699094d2c287570d14da94abf5f5cd8e6720c4f4ae1b462739d131a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/fixups.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/fixups.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3980,
+      "repo_bytes": 3980,
+      "sha256": "a01e3d193210fb01af7e8b05d247aa95500db019585337408677b300e873b80b"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/folds.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/folds.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1104,
+      "repo_bytes": 1104,
+      "sha256": "b5d6d48a2729517c03d47ffabf55c43854c94f986e06ff7b2b9ce6c545b166d4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/fruit.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/fruit.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2172,
+      "repo_bytes": 2172,
+      "sha256": "01ab99d66b9df6ae21595cc5acd8cb484fd5c11253ba668e375c10150f66a028"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/fruit2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/fruit2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1388,
+      "repo_bytes": 1388,
+      "sha256": "168463fe8f4bdfac5b1d28c81b6e2227f58a38149f4dc1b9f04dbfb0c109d706"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/fruit_final.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/fruit_final.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3700,
+      "repo_bytes": 3700,
+      "sha256": "6c5777e823a4688adf1ba56c1290a9b4893446f527efb9d9ecc8b91866e739ac"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/greenB.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/greenB.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1541,
+      "repo_bytes": 1541,
+      "sha256": "417924a05e768274b04718f5a0b5060e59c802a688c5252f6bb5f5c5d56ea979"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/group.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/group.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3369,
+      "repo_bytes": 3369,
+      "sha256": "5b990d01f8155be224aa3ff85e7cd3a2d4c8af075c6da24620fff97eb4096613"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/group2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/group2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3712,
+      "repo_bytes": 3712,
+      "sha256": "b16ee5b866c614af789cace50c3fc6823d1482d1563c22bebbbd3bfb5451e7be"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/group3.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/group3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5436,
+      "repo_bytes": 5436,
+      "sha256": "8455436fe4bcfe0b557e7b52c5c77291de693cfc48a7bfe0718f38cb7f82e483"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/group4.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/group4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5357,
+      "repo_bytes": 5357,
+      "sha256": "3cb50b48d0a5b847e82e76e5597624a3b0f88fdf3e14382f492808f045cff7ca"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/group_final.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/group_final.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5641,
+      "repo_bytes": 5641,
+      "sha256": "d4d13bb965b6b4462fd25443b0344c282f180731b0fad8b364c5ce51008164a2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 398383,
+      "repo_bytes": 398383,
+      "sha256": "ab0d74c99954f1a8560471a95953eed1260659b8df9c3bbc13e74d6718747ca8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/painting.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 156137,
+      "repo_bytes": 156137,
+      "sha256": "0ab0972087bf8b0bf1a8fd89d31e35314a10a15394196a4517fab648a6d2cfbf"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r01_field.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r01_field.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 458,
+      "repo_bytes": 458,
+      "sha256": "d023c042a4317502d5bf91b2e51ba0de8039f97c1319a44d85479dbff2cbde9c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r02_field.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r02_field.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 171,
+      "repo_bytes": 171,
+      "sha256": "8989429198c208e8b07218a73967724e8b26510246bfeabfb64384fa676e0897"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r03_field.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r03_field.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 167,
+      "repo_bytes": 167,
+      "sha256": "bc87504fa7af5c9d3f663558f18e305d48d3e5f5aa164d29b434045c0fea90c0"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r04_field.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r04_field.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 284,
+      "repo_bytes": 284,
+      "sha256": "8ad0e68da255c3ab239068a3179dd555871012468e66011b84b7ecf22a9a9b77"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r05_reset.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r05_reset.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 449,
+      "repo_bytes": 449,
+      "sha256": "e2c745909235f6cb6614cad417465eab021df955f06d025174e659b907fe9ba0"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r06_wall.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r06_wall.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1153,
+      "repo_bytes": 1153,
+      "sha256": "7e3d5ecf1cd2d1bf9abf0004d29417ca99ede877d753c03f4e04a824b782647b"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r07_wall.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r07_wall.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 992,
+      "repo_bytes": 992,
+      "sha256": "f4b5d32a27dc527a06adda60479fc5fe9029a947eff3d74d647a4e502c5d4c6e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r08_table.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r08_table.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 877,
+      "repo_bytes": 877,
+      "sha256": "8ce2f62a05a1d7a8af3aa589369013aecd62646cc013537790938a8977b6c401"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r09_deep.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r09_deep.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 434,
+      "repo_bytes": 434,
+      "sha256": "c47f3e64a32f447beb2200dd5eb20288d438ae7cf1b532129e470571469793ca"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r10_wallfix.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r10_wallfix.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 507,
+      "repo_bytes": 507,
+      "sha256": "de0e6747c768060a4a04f3c438090e0e6cb2b848d5fd8488a6d1b7bdc979a5d4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r11_table.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r11_table.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1155,
+      "repo_bytes": 1155,
+      "sha256": "cbca411c6af6d8f92e9b101728ad16bd4cb21c7749bcab35387409c1485fef18"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r12_corner.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r12_corner.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 860,
+      "repo_bytes": 860,
+      "sha256": "caf4d389472572590459c5e720e96c07936fe0989c9e786cbc4baeb8cc8bcc2d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r13_cloth.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r13_cloth.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 813,
+      "repo_bytes": 813,
+      "sha256": "4125aec03f2d4f09b0493a74ac612ff62496a65eccb2480f6ab71c33cabda034"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r14_cloth2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r14_cloth2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 170,
+      "repo_bytes": 170,
+      "sha256": "a1e6ea81f95efed05b9e8e33381cfbd0e6dfe3eb13e5c0d368fb7a89f426c4f6"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r15_clothblend.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r15_clothblend.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 69,
+      "repo_bytes": 69,
+      "sha256": "1a9ddef613dc770cae163b0c831ac0c12c3f963001f551129f6a00d65ee0df72"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r16_folds.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r16_folds.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1487,
+      "repo_bytes": 1487,
+      "sha256": "4f8f1a58ac97a80114e6a63461031b024a83e935904c5ff814e00b4a7dd39162"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r17_cloth3.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r17_cloth3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 691,
+      "repo_bytes": 691,
+      "sha256": "056906d514626617c5595c6e85260877672ac9ade6607a3f75dfb2b833aaf155"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r18-BUN-3.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r18-BUN-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1098,
+      "repo_bytes": 1098,
+      "sha256": "ff3166be1570a9db0763b8a84c50f2b01cb002520af83f68fd224149a54abeb1"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r18_folds2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r18_folds2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1965,
+      "repo_bytes": 1965,
+      "sha256": "b9c3ea759387ae110e44e29a5876626e06c2cac484aebf3f303adff19e1f9341"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r19_chart.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r19_chart.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1429,
+      "repo_bytes": 1429,
+      "sha256": "0d4d76b59e5b16efd18fabf19c86fc1c597f88ef3e95276cd030967e0e61eba1"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r20_cloth4.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r20_cloth4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2226,
+      "repo_bytes": 2226,
+      "sha256": "3c2cf4e73898ddbcc8b02a7de57bcc615713f44ab1639159cb5b84565e16abf4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r21_base.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r21_base.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 349,
+      "repo_bytes": 349,
+      "sha256": "29349b88fd3beccfb3ac82fced22abb7e7f9b3dbdcbded8d5ad3d92bd54d3f7b"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r22_folds3.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r22_folds3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1825,
+      "repo_bytes": 1825,
+      "sha256": "f4e72ce6c630e6ae9591f78c4058cb8c31397abb010403395f951b2b640a001e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r23_cloth5.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r23_cloth5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2466,
+      "repo_bytes": 2466,
+      "sha256": "cc2c6af8761a0cb2e1e83d86bd1608d008b37643776e1cadf9b1214518941c54"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r24_cloth6.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r24_cloth6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1701,
+      "repo_bytes": 1701,
+      "sha256": "b5f73d49409d4391fb05a0320000bd4403fdbf48e3495931f281e66b070c8d68"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r25_cloth7.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r25_cloth7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2036,
+      "repo_bytes": 2036,
+      "sha256": "e780599214f07d84ceb8cd158c7d192842e1d45343e2b24782ebf5fe2578f1ab"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r26_cloth8.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r26_cloth8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 493,
+      "repo_bytes": 493,
+      "sha256": "d8999a9b6476ade1c62d2c40a4a85b17aac219644f4c96cc40856dcfe294ca41"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r27_bowl.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r27_bowl.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2975,
+      "repo_bytes": 2975,
+      "sha256": "be08f4171677a9fa2064b3bcd3311131e7c840f2509f5eb13cfebbda2333c581"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r27a.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r27a.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 473,
+      "repo_bytes": 473,
+      "sha256": "2cab5b6da6012060623bc72d9135f0d8d06c61a04eb20c85784b275d479898b2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r27b.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r27b.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1102,
+      "repo_bytes": 1102,
+      "sha256": "84a00486b367e27611e4b3a0c3f407109fa015f35a4e0114d40cac1ad80e98f8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r27c.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r27c.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 430,
+      "repo_bytes": 430,
+      "sha256": "f9fa7f1b9b329b5fe0f3d469eb5c5374c2e7cc3a380f3bb82d2f584a17464c7d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r27d.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r27d.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 638,
+      "repo_bytes": 638,
+      "sha256": "1d15ec40ce25b6a9ec0c49bc582308b6013504fd2bfe2229a091ab499726a6c4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r27e.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r27e.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 949,
+      "repo_bytes": 949,
+      "sha256": "131e05743cf6230e6951ed3c9242a2c217dbd8b3bea2ce00a4c0e41a795820af"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r28_bowl2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r28_bowl2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2731,
+      "repo_bytes": 2731,
+      "sha256": "52f1f8641f1b9fa2c9eac69b17483e7cd2bd243334113eccfb72ffa6947b1acb"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r29_bowl3.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r29_bowl3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2166,
+      "repo_bytes": 2166,
+      "sha256": "b3697757e327fc7d5d4c9795bbbfe548fce31679c05fa3e95a660786f54fee2a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r30_chart2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r30_chart2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 604,
+      "repo_bytes": 604,
+      "sha256": "47569a8240ccf07ae7021239b6c24049d90067182fded865e8f8a24f073b516c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r31_bg.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r31_bg.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1560,
+      "repo_bytes": 1560,
+      "sha256": "347e2d7132ad6d00bb7879c98608fea354e3fe64d4cf7409d43341caa1c57f9f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r32_bowl4.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r32_bowl4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2509,
+      "repo_bytes": 2509,
+      "sha256": "b3bf979be718034cc66575f90ec1499241a6905ca8f257f002902057a5855210"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r33_bowl5.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r33_bowl5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1223,
+      "repo_bytes": 1223,
+      "sha256": "514c7aadc7ae71a01644dda0c0757b97dea127fa36ab2450887c3dec30a8f3f9"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r34_bowl6.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r34_bowl6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2674,
+      "repo_bytes": 2674,
+      "sha256": "bfe19c7c37ce659bd4408e8fd3fbe9d87a67202d0423a5fcdd8662a392de4fe3"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r35_appleD.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r35_appleD.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1796,
+      "repo_bytes": 1796,
+      "sha256": "c5b0d90a8657f1e8552eb33c830d07e2d8e4454256fa3c178f82efaec83635e3"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r36_appleD2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r36_appleD2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2627,
+      "repo_bytes": 2627,
+      "sha256": "b455553ecdf7e0766ecff850f873affc5439ae96d556a008f5db09935d56ca8e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r37_appleD3.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r37_appleD3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2220,
+      "repo_bytes": 2220,
+      "sha256": "f9980ddeff061afdd0df756717deca7a4cdc336f0093af6820524f9f08637fa2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r38_appleD4.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r38_appleD4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2538,
+      "repo_bytes": 2538,
+      "sha256": "e741fe4ed6200d7d5213819a9268a20e4a50acd6f0289651fa8b59b792fdfca8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r39_appleD5.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r39_appleD5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1518,
+      "repo_bytes": 1518,
+      "sha256": "53e89ef256afd89df3c9c5bef638f3d6170237b2af985529145b25be7bcdcbd5"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r40_appleD6.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r40_appleD6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2601,
+      "repo_bytes": 2601,
+      "sha256": "c1a0ccd094084e70516c54848a5bb14bfa9f5f9805287b99c79c335876635e68"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r41_clothdown.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r41_clothdown.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1326,
+      "repo_bytes": 1326,
+      "sha256": "ab8e7bfa31ac99fe708c938e6a37886d66e7f00ad0c160e8cf0d8c6ac767314d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r42_clear.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r42_clear.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2813,
+      "repo_bytes": 2813,
+      "sha256": "08addf82aae87441ae0f5ebd27e71cda89d41ab629a8858f7522b9f1fa7ad85f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r43_appleD8.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r43_appleD8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1675,
+      "repo_bytes": 1675,
+      "sha256": "5bac7e9598689c8e0d8be1ecfcf938be47e637265971561e5a50b6bdf9ddb0e3"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r44_appleD9.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r44_appleD9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1265,
+      "repo_bytes": 1265,
+      "sha256": "2c74116c04347da703e8de069440ebf77861a57bffed4382cb5f9e17e7c0f8e8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r45_fruit_bowl.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r45_fruit_bowl.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2583,
+      "repo_bytes": 2583,
+      "sha256": "b4315c274978944c375ff0e6baf624ce24ff262c69ab4af3e988618c46577cc8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r46_greens.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r46_greens.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3109,
+      "repo_bytes": 3109,
+      "sha256": "2cb5c4f970267184bf9f7f990bd2e5d3adeac99b8a21bf6e0b9bc6ceb64c986f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r47_fixups.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r47_fixups.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3952,
+      "repo_bytes": 3952,
+      "sha256": "594aba0666ffb3e527e298af54375f059f88c427360fa86c950a85a7e1e9cb5e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r48_bowl7.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r48_bowl7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2904,
+      "repo_bytes": 2904,
+      "sha256": "4e91819f05ab554ba7425d5b80208ec0024cc81591d69c35ff3a72cffb651005"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r49_rim.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r49_rim.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3473,
+      "repo_bytes": 3473,
+      "sha256": "9172a0d53c9a0a813da8f66f39269f73e21f38d1f58c704f6bde0ce2dbf88ec1"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r50_final_model.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r50_final_model.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5330,
+      "repo_bytes": 5330,
+      "sha256": "fc6cff9e3a4f37032f1772ecd196e361d241350f64bc72158656d5c25643132d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r51_hi_stems.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r51_hi_stems.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2456,
+      "repo_bytes": 2456,
+      "sha256": "182e59dfefb092eb5d2a86d490251709f291a69096587f0f276baa76e93174b2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r52_warmth.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r52_warmth.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4702,
+      "repo_bytes": 4702,
+      "sha256": "2ef0c66cd0b89590761c746f5be3ae1c68d614c2ff41f8c49e62d646037d3562"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r53_gloss.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r53_gloss.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3183,
+      "repo_bytes": 3183,
+      "sha256": "18fea12220f1e20d1b19b32c6cf849ccfa7d9cb47d546bedbb5af113c2a1765c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r54_gloss2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r54_gloss2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2491,
+      "repo_bytes": 2491,
+      "sha256": "4e1a0807d4f80401526f54e2fb8660dd339996ee341d037ffd8b3e7e8639443c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r55_calm.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r55_calm.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2397,
+      "repo_bytes": 2397,
+      "sha256": "9056de7b2c7f17ee825e2f1796e814448961f76f82c03294133b2627e29a64d4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r56_cloth2.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r56_cloth2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2722,
+      "repo_bytes": 2722,
+      "sha256": "5ab3c88fdb8b4818eb988b9d040c7e091a8aacb6ce2d0f223eccd6ecb68c5b06"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r57_unify.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r57_unify.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2822,
+      "repo_bytes": 2822,
+      "sha256": "bdd966dd31e32f10d2d87141f56b5ea588c2d05b3d59d8d370cadbf0d302550d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r58_group.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r58_group.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4936,
+      "repo_bytes": 4936,
+      "sha256": "f07647f0198d3bbf675c164ee37e4ccd987fc4b92ccc9e86329af054a61c5c94"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r59_shadows.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r59_shadows.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2322,
+      "repo_bytes": 2322,
+      "sha256": "a47512cc6d1b8db4ac65be5c398d1c13dc82596a6fea80ea852b236076575da0"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r60_contact.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r60_contact.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2955,
+      "repo_bytes": 2955,
+      "sha256": "75ead43f145cc6022e662f810def14b3722c5e27eebf28217792eae391bd567a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r61_lastmodel.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r61_lastmodel.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2726,
+      "repo_bytes": 2726,
+      "sha256": "552e82a84185487e83497ba70e963cb69a0b1da7dbe5b1d510f79fc0a7628a17"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r62_soften.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r62_soften.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3062,
+      "repo_bytes": 3062,
+      "sha256": "22116e611d95c608f538e4ee7ec0d242f837d21b7ae10a68fd959910d0da0d42"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r63_clean.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r63_clean.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2975,
+      "repo_bytes": 2975,
+      "sha256": "f57be338070e404c65f7b0084c9e7a72daf0a41542595d7dba40591b6ce7c617"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r64_finish.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r64_finish.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4108,
+      "repo_bytes": 4108,
+      "sha256": "2795a4b56ae8211feffe14b76d54fdb46592079afff0fd01a7f0217a838f0745"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r65_bowl8.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r65_bowl8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3801,
+      "repo_bytes": 3801,
+      "sha256": "c00c7ade6491ff804beb49bfd968e59d86086c2338c289f9b1e9d81d8a52579d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r66_accents.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r66_accents.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2650,
+      "repo_bytes": 2650,
+      "sha256": "6fd6521195caf3ade27a2157be1bb74f8902b0e4e0bd62bc833e64d7525d45d9"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r67_interior.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r67_interior.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1955,
+      "repo_bytes": 1955,
+      "sha256": "876eca900ee4264cbdeb060998831211546910a5219630ca1e79eab6de320280"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r68_seat.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r68_seat.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2221,
+      "repo_bytes": 2221,
+      "sha256": "a38fd8da8f4c32b3042e6a864cea9f9b934d2cf17d6431e5c5dbe69ec6f35b43"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/r69_fixbounce.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/r69_fixbounce.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1268,
+      "repo_bytes": 1268,
+      "sha256": "bbc680e7a967be1c6d68886ffd5ced754c6be3f1259f6ead909d2fd4bc496c40"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/recover.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/recover.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4517,
+      "repo_bytes": 4517,
+      "sha256": "a3b421fb3917044977e442540e9be6182123d320464adb84ba399e93a44042b4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/runAC.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/runAC.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 170,
+      "repo_bytes": 170,
+      "sha256": "fe1488907ac67610e28dde256df2930e0f8af8d97b17049de141e73130a51e17"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/lua/shadows.lua",
+      "repo_path": "paintings/r18-bun/lua/archive/shadows.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2023,
+      "repo_bytes": 2023,
+      "sha256": "d4e83043ef1c539dcc1f3b517a5ea2a5f7dccdb1c875f4dcda3d315f5b531d80"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/video/r18-bun-1920 - version 02.mp4",
+      "repo_path": "paintings/r18-bun/video/r18-bun-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3663008,
+      "repo_bytes": 3663008,
+      "sha256": "f54303418673fe1e140147fcbfa6772b15f91cb605913324a2c1fa54c26c7137"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/video/r18-bun-1920 - version 03.mp4",
+      "repo_path": "paintings/r18-bun/video/r18-bun-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3837060,
+      "repo_bytes": 3837060,
+      "sha256": "c612f9ee97a2fdebfd4a91986a073b64a18fbabf1f129c3d265c3f300ea9c1a5"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/video/r18-bun-1920.mp4",
+      "repo_path": "paintings/r18-bun/video/r18-bun-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3666136,
+      "repo_bytes": 3666136,
+      "sha256": "41b1d4e2556b53e8d29eddd79ed355cb98a2d52ac5775cb0d5610d9cc25d597e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/video/r18-bun-720 - version 02.mp4",
+      "repo_path": "paintings/r18-bun/video/r18-bun-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 895595,
+      "repo_bytes": 895595,
+      "sha256": "fd290f51a2e7da83e772396cd8063bd8bbe7c9f1a0db318f0c40331bd853cd33"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/video/r18-bun-720 - version 03.mp4",
+      "repo_path": "paintings/r18-bun/video/r18-bun-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 881459,
+      "repo_bytes": 881459,
+      "sha256": "a3db755b9087eb4d7f1c690a9fd90171b724974b1c01efb52ad1e2febcda4283"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/video/r18-bun-720.mp4",
+      "repo_path": "paintings/r18-bun/video/r18-bun-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 878331,
+      "repo_bytes": 878331,
+      "sha256": "4e5c5300103014e95591fe52497149eafe6d3a5eea4e2f73dbcb4ff5c211f58b"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Apples in an Earthenware Bowl (Space Bunny Free)/video/r18-bun-social-1920.mp4",
+      "repo_path": "paintings/r18-bun/video/r18-bun-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3711042,
+      "repo_bytes": 3711042,
+      "sha256": "7127c3c6696294b6cb23ba2ac398c925b14d41ecbec932d105a06cd041c59744"
+    }
+  ],
+  "exclusions": [
+    "Session logs, viewer logs and sitting records are private under OpenRouter stealth-model confidentiality terms."
+  ]
+}

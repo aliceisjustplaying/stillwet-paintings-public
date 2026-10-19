@@ -1,0 +1,15 @@
+m_cl = poly(cpts5, true):roughen(6, 40, 11):soften(2)
+cl_hi = pile{{"lead white",4.5},{"raw umber",2.6},{"yellow ochre",0.7}}
+cl_lo = pile{{"raw umber",2.2},{"bone black",2},{"yellow ochre",0.4}}
+T = ribbon({{310,556},{250,640},{190,730},{160,800}}, 38):soften(26)
+   + ribbon({{420,536},{368,628},{318,718},{288,800}}, 34):soften(24)
+   + ribbon({{520,528},{492,618},{466,718},{446,800}}, 32):soften(22)
+   + ribbon({{672,528},{712,618},{752,718},{782,800}}, 36):soften(24)
+   + ribbon({{782,556},{824,646},{856,740},{876,800}}, 34):soften(24)
+K = ribbon({{356,552},{300,636},{244,726},{218,800}}, 34):soften(24)
+   + ribbon({{466,532},{420,624},{374,714},{349,800}}, 32):soften(22)
+   + ribbon({{578,526},{562,616},{538,716},{518,800}}, 32):soften(22)
+   + ribbon({{726,538},{770,626},{806,720},{832,800}}, 34):soften(24)
+   + ribbon({{120,626},{80,700},{60,760}}, 30):soften(22)
+print(stipple(T * m_cl, {pile=cl_lo, width=8, coverage=2.2, feather=0.5, cluster=0.35, clip=true, seed=1740}))
+print(stipple(K * m_cl, {pile=cl_hi, width=8, coverage=1.5, feather=0.5, cluster=0.35, clip=true, seed=1741}))

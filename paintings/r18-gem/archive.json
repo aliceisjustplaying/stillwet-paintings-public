@@ -1,0 +1,276 @@
+{
+  "archive": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)",
+  "identity": "c71699",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/finals/r18-gem - version 02.png",
+      "repo_path": "paintings/r18-gem/finals/r18-gem - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3612475,
+      "repo_bytes": 3612475,
+      "sha256": "8eca51dd327ea005f3397fe32148f0a8c9e895b3390c06da9dd2d09cd3cbc328"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/finals/r18-gem - version 03.png",
+      "repo_path": "paintings/r18-gem/finals/r18-gem - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8019339,
+      "repo_bytes": 8019339,
+      "sha256": "d706e4aa68777f7354869e06e110dea9bba6e8041f52901b149daaa53b758a5f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/finals/r18-gem.png",
+      "repo_path": "paintings/r18-gem/finals/r18-gem.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6330917,
+      "repo_bytes": 6330917,
+      "sha256": "ed34f4cd2210da7d1669b16f76e759acfd6fa6a6f6fbd12cc545f310d6e372e2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/lua/GEM_finished.lua",
+      "repo_path": "paintings/r18-gem/lua/archive/GEM_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 80944,
+      "repo_bytes": 80944,
+      "sha256": "9b130e38f89a1f01df5c53d5907fa7a9c06125f8e7487787bfa29904c17510e6"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/lua/GEM_finished_after_s2.lua",
+      "repo_path": "paintings/r18-gem/lua/archive/GEM_finished_after_s2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 80897,
+      "repo_bytes": 80897,
+      "sha256": "873fcb24f2a770e896b136de0ff661dd5c09cb08e47c6ee0032c1d9a23a8bd18"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r18-gem/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 80526,
+      "repo_bytes": 80526,
+      "sha256": "5d8f1a4f9ea83bb4b56cbaccb5b17ad146c9dd09dd068e4dbc8cd38fbeb0bba0"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/lua/painting.lua",
+      "repo_path": "paintings/r18-gem/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 80479,
+      "repo_bytes": 80479,
+      "sha256": "2df2a5d936e643a3f4392fcf156215170a2fbd833fc75d351a9330c820c7cccd"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/2026-09-27T12-53-14-791Z_01a0e2ed-41a7-7483-8006-fb2433e88300 - version 02.jsonl",
+      "repo_path": "paintings/r18-gem/sessions/pi/2026-09-27T12-53-14-791Z_01a0e2ed-41a7-7483-8006-fb2433e88300 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 882761,
+      "repo_bytes": 570687,
+      "sha256": "37267d71205dac4906afb55a82039ec478108ea75b6cefd6bfbc3d1aa03eb938"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/2026-09-27T12-53-14-791Z_01a0e2ed-41a7-7483-8006-fb2433e88300.jsonl",
+      "repo_path": "paintings/r18-gem/sessions/pi/2026-09-27T12-53-14-791Z_01a0e2ed-41a7-7483-8006-fb2433e88300.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 26217293,
+      "repo_bytes": 575607,
+      "sha256": "57245c4ecf645bf17c5e9c0e50398205417647534a789a4c3182125e7045f0a8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/2026-09-27T13-21-57-870Z_01a0e307-8c6e-75a2-9e79-1680a2b94af6.jsonl",
+      "repo_path": "paintings/r18-gem/sessions/pi/2026-09-27T13-21-57-870Z_01a0e307-8c6e-75a2-9e79-1680a2b94af6.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 53482,
+      "repo_bytes": 50311,
+      "sha256": "b4da18d07ff066ea047cbf42bce1837c24bd186d75b81981e8d90194eacac52e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/2026-09-27T13-59-34-994Z_01a0e329-fd52-749c-a915-0b1ae8ce7a32 - version 02.jsonl",
+      "repo_path": "paintings/r18-gem/sessions/pi/2026-09-27T13-59-34-994Z_01a0e329-fd52-749c-a915-0b1ae8ce7a32 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 553873,
+      "repo_bytes": 449791,
+      "sha256": "197f61557103ed32f43468dcbb270e6c0522b64b5d4e46be2b04ccbc09fd14f4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/2026-09-27T13-59-34-994Z_01a0e329-fd52-749c-a915-0b1ae8ce7a32.jsonl",
+      "repo_path": "paintings/r18-gem/sessions/pi/2026-09-27T13-59-34-994Z_01a0e329-fd52-749c-a915-0b1ae8ce7a32.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6743545,
+      "repo_bytes": 450529,
+      "sha256": "76581cc1174cf8133cc865b6d1543fc07a7547580129052a1d2332b9b75ebfc1"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 373586,
+      "repo_bytes": 349120,
+      "sha256": "b6d3fbc699f9e413167b988863e09205b9db2731536be9445315db7ceb8117d9"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events - version 03.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 374871,
+      "repo_bytes": 350200,
+      "sha256": "a65adc6a8906ef0dccce52dcbbf8b9584a96ef35aae98742cd97ec4a5bc2a76a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events - version 04.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 367595,
+      "repo_bytes": 349116,
+      "sha256": "67c332a8e7ba65a94349dfe7eafaa269b4965fe37fe1da08983ff4bf23d714fb"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events - version 05.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 368880,
+      "repo_bytes": 350196,
+      "sha256": "464c72be37a5cba64d5ce34ae28227f772f00f233496ecb2df5dc064315e68fe"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events - version 06.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 374015,
+      "repo_bytes": 349483,
+      "sha256": "c4df340563d6f9e0d98952185c68377916e301b442b3113eba089b74497cda1e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events - version 07.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 368880,
+      "repo_bytes": 350196,
+      "sha256": "476ff3af8def80cf6855f249def034b37347203be2cb456ddae4509e40e3457a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events - version 08.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 374871,
+      "repo_bytes": 350200,
+      "sha256": "d5a44a641a9e8ff8edcf6883aa13164d14049789cac2282a242f321b13b8b395"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events - version 09.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events - version 09.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 368024,
+      "repo_bytes": 349479,
+      "sha256": "83a6638626ef0065d75239904e8a19917ce8ead62f6d9009ce7a8fe8bd5c2253"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/sessions/events.json",
+      "repo_path": "paintings/r18-gem/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 368880,
+      "repo_bytes": 350196,
+      "sha256": "58ed3794feb947ec2a1084da6c9facf1328a985d30ca6807c0a79f2be295232f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem - version 02.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 623221,
+      "repo_bytes": 623221,
+      "sha256": "0eeb0bdb3b797611bedb708a74884fe72fc143f5a0d04a207ec8e0e60d19106a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem-1920 - version 02.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1958638,
+      "repo_bytes": 1958638,
+      "sha256": "e756a7a62f2f4b88af53473a58a97941dfb7c6452c831f4cf22183848ab07580"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem-1920 - version 03.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1898294,
+      "repo_bytes": 1898294,
+      "sha256": "0d218f074328e62725e6f5ae0abcaa9b1523cfd476869aaeaf48ea8f85e0548e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem-1920.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1955510,
+      "repo_bytes": 1955510,
+      "sha256": "85432f727f61cd0871c8d6535c21f4fd3082ee752535179e0b2a3614f5fd0193"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem-720 - version 02.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 389756,
+      "repo_bytes": 389756,
+      "sha256": "25aa16c47522c6e6d2c674ead5bf28463b8e77ce121daa7604f10956832e362d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem-720 - version 03.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 430458,
+      "repo_bytes": 430458,
+      "sha256": "4e6825a47fd19f9f286488b6e302c4a4726554d96945c419c7d94f5352159c36"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem-720.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 427330,
+      "repo_bytes": 427330,
+      "sha256": "d93b8c3393488cba244936f17b0ea93fae3a6376d0b26c271d42b3617f441647"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem-social-1920.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1987777,
+      "repo_bytes": 1987777,
+      "sha256": "ffee97083975c65528172567c1d0543d56b3a056523a707ef4925acca2b4a5be"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Still Life with Earthenware Pitcher, Lemons, and Folded Linen (Gemini 3.8 Flash)/video/r18-gem.mp4",
+      "repo_path": "paintings/r18-gem/video/r18-gem.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 626349,
+      "repo_bytes": 626349,
+      "sha256": "c5a221b557ad31a1f903f1a5859d64c5e7ccecc4b637845444663a3edf6d2b6b"
+    }
+  ]
+}

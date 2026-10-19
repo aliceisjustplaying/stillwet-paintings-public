@@ -1,0 +1,339 @@
+{
+  "archive": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)",
+  "identity": "3f743e",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/finals/r18-glm - version 02.png",
+      "repo_path": "paintings/r18-glm/finals/r18-glm - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8045481,
+      "repo_bytes": 8045481,
+      "sha256": "973477d63c02a17a821f32b2c9cb0d0ee677002d0db970fe231696df72878cc1"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/finals/r18-glm - version 03.png",
+      "repo_path": "paintings/r18-glm/finals/r18-glm - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 12519823,
+      "repo_bytes": 12519823,
+      "sha256": "5d0264eb6e5a9a6b74a72346298ffefb1a795abe75ebc818019ce92952309539"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/finals/r18-glm.png",
+      "repo_path": "paintings/r18-glm/finals/r18-glm.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 10342100,
+      "repo_bytes": 10342100,
+      "sha256": "797f7dee9a3d8dd597d434cd74e286c0e87e7d51361c341e3b2f327b893aad10"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/lua/GLM_finished.lua",
+      "repo_path": "paintings/r18-glm/lua/archive/GLM_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 134354,
+      "repo_bytes": 134354,
+      "sha256": "a3e731946be55bb179e5300018c5360406d0306138d54b98433ac9eaf38f9be6"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r18-glm/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 74459,
+      "repo_bytes": 74459,
+      "sha256": "27f1ccdabe9bef6feacf561169e657b7800155470b648d2aedb265e13a9286bc"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/lua/painting.lua",
+      "repo_path": "paintings/r18-glm/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 133936,
+      "repo_bytes": 133936,
+      "sha256": "f9af7a4ffe8da238de06157462a7e22ab67d226b921a019a575d9c8ff1573393"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/lua/r18-GLM-3.lua",
+      "repo_path": "paintings/r18-glm/lua/archive/r18-GLM-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2358,
+      "repo_bytes": 2358,
+      "sha256": "96145d766a6a20cd327083b2c295f8498e403e3ff66b8c4d88eba9d64c26eb5e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T11-57-49-353Z_01a0e2ba-83a9-7043-9617-6f16302dcc60 - version 02.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T11-57-49-353Z_01a0e2ba-83a9-7043-9617-6f16302dcc60 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 59319807,
+      "repo_bytes": 723389,
+      "sha256": "e8d99bf5e2921f06810a134a3d7dcf4ac3ebc6adc02079e04f380f76caa54fdd"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T11-57-49-353Z_01a0e2ba-83a9-7043-9617-6f16302dcc60.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T11-57-49-353Z_01a0e2ba-83a9-7043-9617-6f16302dcc60.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 731646,
+      "repo_bytes": 713885,
+      "sha256": "a3b7ec2b16f5cbd9bcc007da5b0be6fdd87c676e5fe9da80dfc59ee4aedcde1f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T14-40-10-909Z_01a0e34f-289c-720b-ae99-4020670b8f77 - version 02.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T14-40-10-909Z_01a0e34f-289c-720b-ae99-4020670b8f77 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 45933,
+      "repo_bytes": 45909,
+      "sha256": "81104c57995adfbb71dc4ed02fe917628b12b2fbdaee927c467b662a8232af43"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T14-40-10-909Z_01a0e34f-289c-720b-ae99-4020670b8f77.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T14-40-10-909Z_01a0e34f-289c-720b-ae99-4020670b8f77.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 45927,
+      "repo_bytes": 45909,
+      "sha256": "81104c57995adfbb71dc4ed02fe917628b12b2fbdaee927c467b662a8232af43"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T16-51-29-214Z_01a0e3c7-5f3d-731c-ba1f-2a9c043b8837 - version 02.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T16-51-29-214Z_01a0e3c7-5f3d-731c-ba1f-2a9c043b8837 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 50092,
+      "repo_bytes": 49954,
+      "sha256": "e97b5e6817233c3417cfd5614bf9c467f9dbfdd421a73a5cf4f76a03dba915a5"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T16-51-29-214Z_01a0e3c7-5f3d-731c-ba1f-2a9c043b8837.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T16-51-29-214Z_01a0e3c7-5f3d-731c-ba1f-2a9c043b8837.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 50102,
+      "repo_bytes": 49954,
+      "sha256": "e97b5e6817233c3417cfd5614bf9c467f9dbfdd421a73a5cf4f76a03dba915a5"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T21-15-28-174Z_01a0e4b9-0e2d-73db-b3b8-e81b84327f5f - version 02.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T21-15-28-174Z_01a0e4b9-0e2d-73db-b3b8-e81b84327f5f - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 97496,
+      "repo_bytes": 96688,
+      "sha256": "5dc5cf33249ad804ad98385d88c409c3f3ec584bbd14bdafff7f1a7cf7acbb11"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T21-15-28-174Z_01a0e4b9-0e2d-73db-b3b8-e81b84327f5f.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T21-15-28-174Z_01a0e4b9-0e2d-73db-b3b8-e81b84327f5f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7566973,
+      "repo_bytes": 97462,
+      "sha256": "9bf18d9e677b4b06e4b43aa2ecd6f771ff23e9ed8b2f3791c9cfcf0943d3bdbc"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T21-45-35-957Z_01a0e4d4-a3d5-748c-97d5-fc148aafe00b - version 02.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T21-45-35-957Z_01a0e4d4-a3d5-748c-97d5-fc148aafe00b - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 447584,
+      "repo_bytes": 435940,
+      "sha256": "401130b67a722f0565e6cd59a9de147b1a402bcfaf54c9fb78dfec2f565b0878"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T21-45-35-957Z_01a0e4d4-a3d5-748c-97d5-fc148aafe00b.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T21-45-35-957Z_01a0e4d4-a3d5-748c-97d5-fc148aafe00b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 69680644,
+      "repo_bytes": 442906,
+      "sha256": "60e962dabc4a177a1f6ebf454b8b055139fe47c0eeb9ea4f43609b3e2f049bd3"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T22-54-50-199Z_01a0e514-0757-757c-8778-33b9842a05a9 - version 02.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T22-54-50-199Z_01a0e514-0757-757c-8778-33b9842a05a9 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7107133,
+      "repo_bytes": 125896,
+      "sha256": "8048ccc7f01ef4079403780f64ff82d6cf2349f913847af906281daaa7a6ceee"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/2026-09-27T22-54-50-199Z_01a0e514-0757-757c-8778-33b9842a05a9.jsonl",
+      "repo_path": "paintings/r18-glm/sessions/pi/2026-09-27T22-54-50-199Z_01a0e514-0757-757c-8778-33b9842a05a9.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 124125,
+      "repo_bytes": 125005,
+      "sha256": "b46395dff13f973a36a48cfc2ccf4ad4b92d05c155b578822319f48dbf22e86f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 776143,
+      "repo_bytes": 740383,
+      "sha256": "4fe022bd2ea638f4070dc47923ca51141f982be4599a01ea309aefd576b3ba1e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/events - version 03.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 757008,
+      "repo_bytes": 740720,
+      "sha256": "81d17b04b78913095e939e4ff9680f2029e0c50c7ccae7a6e38e15ceb2c9928c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/events - version 04.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 760613,
+      "repo_bytes": 743739,
+      "sha256": "9c4e06885e697ff06d46d81a3c35f88559837ca0da47cf1127f1187869771754"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/events - version 05.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 756605,
+      "repo_bytes": 740379,
+      "sha256": "95dfad0108955e7a26dff0b7e4250dee57d0d670167f039a0385807c40692c4f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/events - version 06.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 780151,
+      "repo_bytes": 743743,
+      "sha256": "3fed8bfa81d1ce03c5747703a24c938619a0ceb50b7de476785b07667f4c79b7"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/events - version 07.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 776546,
+      "repo_bytes": 740724,
+      "sha256": "c5e785dd22b5122c83ea7ee495da2fd6fb6ebe9d0f7604d5a4d73ee57686288d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/events.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 760613,
+      "repo_bytes": 743739,
+      "sha256": "3eb74569ad319d6adc5545fc9f8d2dd89bfa01519262007dcad5eb2a751a9170"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/packet - version 02.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 6835,
+      "repo_bytes": 5709,
+      "sha256": "6f5d1abf93b93c7f258de5bf29c898b951e83dad3a393ae74ef3c8c445f5ee01"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/sessions/packet.json",
+      "repo_path": "paintings/r18-glm/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12400,
+      "repo_bytes": 10343,
+      "sha256": "7bd44311627241ab648b205b5b1176a1be890c054dbd6d9f5f5282a0d8084ccc"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm - version 02.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2127984,
+      "repo_bytes": 2127984,
+      "sha256": "3c76a827378c515bce8e2ab0d4c893a4a240a28343bfdbacba2567bab4b29300"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm-1920 - version 02.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4667336,
+      "repo_bytes": 4667336,
+      "sha256": "f44d81e5de57d62e05433c7de720c3ee3b627e99967fccc40a5cf061e9745bdf"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm-1920 - version 03.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4376297,
+      "repo_bytes": 4376297,
+      "sha256": "8e1e41ba4b0e317cab25c7e625d1854a3718a4b7097792641be76fc16b8aaf06"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm-1920.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4664208,
+      "repo_bytes": 4664208,
+      "sha256": "b14bebf324a23eee965cc2b16b8a69950a02359b96461f64b88fc7e8172babf5"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm-720 - version 02.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 926347,
+      "repo_bytes": 926347,
+      "sha256": "fe3b71800ddbd778455808fc1610dd85b46ac9edeca6afdd8ee261aa4ae410ba"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm-720 - version 03.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 849784,
+      "repo_bytes": 849784,
+      "sha256": "0c7a27fc3254c6c2af930d07180b1e341ce5a3c2f884da33d667d3c2228aee5b"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm-720.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 923219,
+      "repo_bytes": 923219,
+      "sha256": "350fbac0c818dcab615cf5534115821de32a61b37d6f85323f0adc9e766f65d1"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm-social-1920.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4622089,
+      "repo_bytes": 4622089,
+      "sha256": "3bb78218bdeaf1c4bb401cb458914ca97cf3b32d44654dffd124518a662c06bb"
+    },
+    {
+      "archive_path": "2026-09-27 r18 The Last Light on the Flats (GLM 5.3 Flash)/video/r18-glm.mp4",
+      "repo_path": "paintings/r18-glm/video/r18-glm.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2131112,
+      "repo_bytes": 2131112,
+      "sha256": "2671723d5d04c76f2a40c083cc70a987d09e2910dcc551b7a092ce0d3731b1ca"
+    }
+  ]
+}

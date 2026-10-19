@@ -1,0 +1,23 @@
+m_cl = poly(cpts5, true):roughen(6, 40, 11):soften(2)
+cl_hi = pile{{"lead white",4.5},{"raw umber",2.6},{"yellow ochre",0.7}}
+cl_lo = pile{{"raw umber",2.4},{"bone black",1.6},{"lead white",0.6},{"cobalt blue",0.4}}
+p_bgd = pile{{"raw umber",4},{"bone black",4},{"Prussian blue",0.7}}
+litA = mask(function(x, y) return smoothstep(1.30, 0.05, (x - 150) / 480 + (y - 480) / 300) end)
+litB = mask(function(x, y) return smoothstep(0.80, -0.20, (x - 150) / 480 + (y - 480) / 300) end)
+T = ribbon({{300,560},{240,640},{180,730},{150,800}}, 30):soften(20)
+   + ribbon({{400,540},{350,630},{300,720},{270,800}}, 26):soften(18)
+   + ribbon({{500,530},{470,620},{440,720},{420,800}}, 24):soften(18)
+   + ribbon({{680,530},{720,620},{760,720},{790,800}}, 28):soften(20)
+   + ribbon({{790,560},{830,650},{860,740},{880,800}}, 26):soften(20)
+K = ribbon({{340,556},{285,640},{230,730},{205,800}}, 26):soften(18)
+   + ribbon({{445,536},{400,628},{355,718},{330,800}}, 24):soften(16)
+   + ribbon({{560,528},{545,618},{520,718},{500,800}}, 24):soften(16)
+   + ribbon({{730,540},{775,628},{812,722},{838,800}}, 26):soften(18)
+grpsh = ellipse(700, 664, 205, 58):soften(40) + ellipse(420, 706, 108, 32):soften(26)
+       + ellipse(560, 748, 88, 28):soften(22)
+print(stipple(m_cl * litA, {pile=cl_hi, width=9, coverage=0.75, feather=0.5, cluster=0.3, clip=true, seed=1730}))
+print(stipple(m_cl * litB, {pile=cl_hi, width=8, coverage=0.55, feather=0.5, cluster=0.3, clip=true, seed=1731}))
+print(stipple(T * m_cl, {pile=cl_lo, width=7, coverage=0.85, feather=0.55, cluster=0.35, clip=true, seed=1732}))
+print(stipple(K * m_cl, {pile=cl_hi, width=7, coverage=0.6, feather=0.55, cluster=0.35, clip=true, seed=1733}))
+print(stipple(grpsh * m_cl, {pile=cl_lo, width=8, coverage=1.1, feather=0.5, cluster=0.3, clip=true, seed=1734}))
+print(stipple(rect(620, 0, 380, 170), {pile=p_bgd, width=10, coverage=3.0, clip=true, seed=1735}))

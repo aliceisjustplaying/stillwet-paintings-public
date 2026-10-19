@@ -1,0 +1,339 @@
+{
+  "archive": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)",
+  "identity": "f705c2",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/finals/final-00102.png",
+      "repo_path": "paintings/r18-mimo/finals/final-00102.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 253265,
+      "repo_bytes": 253265,
+      "sha256": "8854fa2a68f775f53ec5fd44b8016351b8bc38d177126627a8c4e849db751338"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/finals/look-0100.png",
+      "repo_path": "paintings/r18-mimo/finals/look-0100.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 335776,
+      "repo_bytes": 335776,
+      "sha256": "c4a614c301c0b83033b26fc09a43e42173c19a9429cabcee6da9adbca9f358e8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/finals/r18-mimo - version 02.png",
+      "repo_path": "paintings/r18-mimo/finals/r18-mimo - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7137664,
+      "repo_bytes": 7137664,
+      "sha256": "9d58c79f01cbedadc3b20b451c57070e82d3cc375a335012b165796bcb3049c8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/finals/r18-mimo - version 03.png",
+      "repo_path": "paintings/r18-mimo/finals/r18-mimo - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5907132,
+      "repo_bytes": 5907132,
+      "sha256": "5bc03ee91caaf67ac4261cff0187d6ba7f180295cfba3ccf8b7acdc351d2f759"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/finals/r18-mimo.png",
+      "repo_path": "paintings/r18-mimo/finals/r18-mimo.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3278463,
+      "repo_bytes": 3278463,
+      "sha256": "a1453eae26f9bc3b8a499fb3185becba97b11f3d0f7d07798b229ff6ba1ddbf2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/lua/MIMO_finished.lua",
+      "repo_path": "paintings/r18-mimo/lua/archive/MIMO_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 65795,
+      "repo_bytes": 65795,
+      "sha256": "3c8b47e88022dcb2cd56ac77dac1d072d02ab17295b6399ba496094aeec8fba8"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/lua/MIMO_finished_before_resume.lua",
+      "repo_path": "paintings/r18-mimo/lua/archive/MIMO_finished_before_resume.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 65721,
+      "repo_bytes": 65721,
+      "sha256": "9b3aab6de670545b17c6a95fda0d981641851dc70e1cf01fb0309b4650ef2334"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r18-mimo/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 65303,
+      "repo_bytes": 65303,
+      "sha256": "5e5d7f1b2315996fb1e7dd74ac2dc448894d1adcc58a2ecd55101b468bf420dd"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/lua/painting.lua",
+      "repo_path": "paintings/r18-mimo/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 65377,
+      "repo_bytes": 65377,
+      "sha256": "526f3dbdad9400d3ff07900dd70d0935c8c1cb5f298a420181372f6c7045b777"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/lua/r18-MIMO-3.lua",
+      "repo_path": "paintings/r18-mimo/lua/archive/r18-MIMO-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2284,
+      "repo_bytes": 2284,
+      "sha256": "d823bf9743d28a4594fdd94320943e3506f5085a23d76aab56d7e9e122644d7e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T11-57-44-684Z_01a0e2ba-716c-75d7-9908-e72f0da3f722 - version 02.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T11-57-44-684Z_01a0e2ba-716c-75d7-9908-e72f0da3f722 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 35287192,
+      "repo_bytes": 667356,
+      "sha256": "3d8c4940756749acfb11248f894736cf9c5a572bed1609ab546be641e9ef8a93"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T11-57-44-684Z_01a0e2ba-716c-75d7-9908-e72f0da3f722.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T11-57-44-684Z_01a0e2ba-716c-75d7-9908-e72f0da3f722.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 672556,
+      "repo_bytes": 657268,
+      "sha256": "a286dc9f2f60e779e9f945cfa87ca0c8a3b3ddbdf75321fd1382d0b60bea17d7"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T13-34-32-692Z_01a0e313-10f3-77f5-9ed5-66b43704d4ad - version 02.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T13-34-32-692Z_01a0e313-10f3-77f5-9ed5-66b43704d4ad - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 636779,
+      "repo_bytes": 624134,
+      "sha256": "ea84aad3b60028e8e15b082214feeb6d6c6e598f9cb679f95e446be230a20e2c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T13-34-32-692Z_01a0e313-10f3-77f5-9ed5-66b43704d4ad.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T13-34-32-692Z_01a0e313-10f3-77f5-9ed5-66b43704d4ad.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 26480671,
+      "repo_bytes": 628586,
+      "sha256": "a78083eeafd1b71045bcf6ff0932c12e67e3d64b5b0cfceeca45f9e65c89efe6"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T15-05-08-593Z_01a0e366-02f1-77a6-a885-5c2ee9d35361.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T15-05-08-593Z_01a0e366-02f1-77a6-a885-5c2ee9d35361.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3159,
+      "repo_bytes": 3125,
+      "sha256": "70340147d8aad486cb8c64f7357c5d8fe21b3713c88ea4cc977e39e5bf037405"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T16-51-19-155Z_01a0e3c7-37f2-77e7-87b0-62d237da8b26 - version 02.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T16-51-19-155Z_01a0e3c7-37f2-77e7-87b0-62d237da8b26 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 68825,
+      "repo_bytes": 70152,
+      "sha256": "94cdf0181940215538878f9c547ad01c1805064af6bf7e94f28a62c083ad5c11"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T16-51-19-155Z_01a0e3c7-37f2-77e7-87b0-62d237da8b26.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T16-51-19-155Z_01a0e3c7-37f2-77e7-87b0-62d237da8b26.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 68817,
+      "repo_bytes": 70152,
+      "sha256": "94cdf0181940215538878f9c547ad01c1805064af6bf7e94f28a62c083ad5c11"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T21-10-08-073Z_01a0e4b4-2bc8-77ff-9785-687a24d3037d - version 02.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T21-10-08-073Z_01a0e4b4-2bc8-77ff-9785-687a24d3037d - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 173983,
+      "repo_bytes": 94356,
+      "sha256": "1ddf71f1624768b890d7d4afafd922944974682720fd5d86ccdbb48f12845111"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/2026-09-27T21-10-08-073Z_01a0e4b4-2bc8-77ff-9785-687a24d3037d.jsonl",
+      "repo_path": "paintings/r18-mimo/sessions/pi/2026-09-27T21-10-08-073Z_01a0e4b4-2bc8-77ff-9785-687a24d3037d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 95353,
+      "repo_bytes": 94259,
+      "sha256": "dc43470a13b4fcb9e9cd7e9c570a6e723312b1cb74b2eb707a827b0bdb2537c2"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events - version 02.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 955200,
+      "repo_bytes": 935659,
+      "sha256": "d93f1f28a94103a2dc8295c2f75e7f7c94aaf65dff5046c8921befb35817de1a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events - version 03.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 968306,
+      "repo_bytes": 935664,
+      "sha256": "d0329ce4f6d1c6ba2a1adf417e993de45d39cdb43f791b2fbe8a32f386ce6b08"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events - version 04.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 965231,
+      "repo_bytes": 933076,
+      "sha256": "dbfcffdb29d61383c917265dad54f020e03422175345fdefdf4ad456fe5e039a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events - version 05.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 955200,
+      "repo_bytes": 935659,
+      "sha256": "e793b28df282f6f702235f3ebf4168cdde753d10975fe36dedd0b85eb7567a9d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events - version 06.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 952203,
+      "repo_bytes": 933137,
+      "sha256": "419227bda8ac1aac3ba81907639bc417ef439213d01eb0913fddea85d40b0da7"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events - version 07.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 968306,
+      "repo_bytes": 935664,
+      "sha256": "27fe6203786141fdf38c96860205103acd49a32da867026e1662ff65b81a897f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events - version 08.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 952125,
+      "repo_bytes": 933071,
+      "sha256": "ae50b7acff2240f8c3df75f9764dcc56f3b535b01025a7f059d30c8b6dee7fc0"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events - version 09.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events - version 09.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 965309,
+      "repo_bytes": 933142,
+      "sha256": "0ec198a83e8e3fb17b20cb2225eb65775dccaba3827799e8049ae60ab8ab4c18"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/sessions/events.json",
+      "repo_path": "paintings/r18-mimo/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 955200,
+      "repo_bytes": 935659,
+      "sha256": "dc36890ed593f09636282604ff5cc76a2bbe1571f42afe999c0f0a371130287c"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo - version 02.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 997434,
+      "repo_bytes": 997434,
+      "sha256": "68ee2f22e539e86cc56cb39d9c5fe42f7ac7ae05615d581b8ddacd4fb437feee"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo-1920 - version 02.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2876522,
+      "repo_bytes": 2876522,
+      "sha256": "e5504177987ad8022179205c8cf2a03874caa6513099ebaadf37f37b21dabfce"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo-1920 - version 03.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2873394,
+      "repo_bytes": 2873394,
+      "sha256": "2592d8e34ad06e1f962b8bfef6d84a7f2c1878893d98a1cbe3aaa00371ad0c74"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo-1920.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2617453,
+      "repo_bytes": 2617453,
+      "sha256": "9dc8bf5daedfc7933831a0cdd1ac138ede7bc4758ca3e03f438bc4a2b55a394f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo-720 - version 02.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 699666,
+      "repo_bytes": 699666,
+      "sha256": "191b7f48384c79f6754f01a78dbe87e9e922358574fd535a0b10e8b37d50ce3f"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo-720 - version 03.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 696538,
+      "repo_bytes": 696538,
+      "sha256": "da305ddae2c33bad35d984ce7fe746c265539d38224449cb9a53e3d25f1fbcaa"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo-720.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 652265,
+      "repo_bytes": 652265,
+      "sha256": "f2fb299a1c5f651015319c5d40e31c5e4dfbf7d6e481b024d0ecb9e8132b46b3"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo-social-1920.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2682793,
+      "repo_bytes": 2682793,
+      "sha256": "9c396e13ab651801536ba2b0aa1873c9f35cac235e41be306647e160982b6078"
+    },
+    {
+      "archive_path": "2026-09-27 r18 White Jug with Two Lemons (MiMo V2.6 Pro)/video/r18-mimo.mp4",
+      "repo_path": "paintings/r18-mimo/video/r18-mimo.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1000562,
+      "repo_bytes": 1000562,
+      "sha256": "242f7f1ebfa705a6812dcd5d6d9d3b50e2955c6c10500f69867da9f5f4629ffd"
+    }
+  ]
+}
