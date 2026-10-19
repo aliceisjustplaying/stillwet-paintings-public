@@ -1,0 +1,114 @@
+{
+  "archive": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)",
+  "identity": "r10-2",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/finals/r10-2 - version 02.png",
+      "repo_path": "paintings/r10-2/finals/r10-2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11772220,
+      "repo_bytes": 11772220,
+      "sha256": "4d80bea6c001bcc249a83e051c2c41934814d6c9fb9343d2a65856ad1d75ee2c"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/finals/r10-2 - version 03.png",
+      "repo_path": "paintings/r10-2/finals/r10-2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8791317,
+      "repo_bytes": 8791317,
+      "sha256": "6a0732a4afcbb8a783bbbdea8b6575e1b089ee47d37bd6674c9fbe05f3534002"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/finals/r10-2.png",
+      "repo_path": "paintings/r10-2/finals/r10-2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8012962,
+      "repo_bytes": 8012962,
+      "sha256": "bca24684661075b1c3da92dd73e5f3705488d56b27a914aa2cf15ebd48db4b12"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/sessions/2026-09-25T09-06-56-280Z_5e033060-4640a57e-a27b6374-6e22.jsonl",
+      "repo_path": "paintings/r10-2/sessions/pi/2026-09-25T09-06-56-280Z_5e033060-4640a57e-a27b6374-6e22.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6308375,
+      "repo_bytes": 555313,
+      "sha256": "f997945ffab615c24d7bdeb5fbdc87504ccb8504dec351298fc9a8d50f2673a1"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r10-2/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 221440,
+      "repo_bytes": 214906,
+      "sha256": "40fd9ac569b62d303aa87f6a10de1b3b5f99d1d6c1ef3f35c809495e368d6bdf"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r10-2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 217302,
+      "repo_bytes": 214906,
+      "sha256": "40fd9ac569b62d303aa87f6a10de1b3b5f99d1d6c1ef3f35c809495e368d6bdf"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/video/r10-2 - version 02.mp4",
+      "repo_path": "paintings/r10-2/video/r10-2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3104402,
+      "repo_bytes": 3104402,
+      "sha256": "6ed7a4534f38de51e96b7f4e94847b8854a962ededf0cbb914940cb34ff1b79f"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/video/r10-2 - version 03.mp4",
+      "repo_path": "paintings/r10-2/video/r10-2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2256459,
+      "repo_bytes": 2256459,
+      "sha256": "db94967cf22885f3b40be45438cfa0d389b2f128745863e0c19499db0ca9874c"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/video/r10-2-1920.mp4",
+      "repo_path": "paintings/r10-2/video/r10-2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1384218,
+      "repo_bytes": 1384218,
+      "sha256": "0b70a5e12ffd7e98f28ff224968a2d7ea17151ab0df3b7e07e3076be381ca746"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/video/r10-2-720.mp4",
+      "repo_path": "paintings/r10-2/video/r10-2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 280019,
+      "repo_bytes": 280019,
+      "sha256": "d1f6fa7a0cf73851cf06cf2485d9c9dd7294b467f994811644112ab309d52a65"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/video/r10-2.mp4",
+      "repo_path": "paintings/r10-2/video/r10-2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1579154,
+      "repo_bytes": 1579154,
+      "sha256": "11e32fb22fdbbac9e246fe72cda3ae3357daaa2c5e1c250ccc65a9c2e0a13228"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Winter evening by a frozen pond (Claude Opus 5.5)/video/r10-arm2.mp4",
+      "repo_path": "paintings/r10-2/video/r10-arm2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3241090,
+      "repo_bytes": 3241090,
+      "sha256": "8083f4a1f14a83ff9d82bd98ec98240af527e8f579466628833d22e7f94d7c9c"
+    }
+  ]
+}

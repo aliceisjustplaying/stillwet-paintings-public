@@ -1,0 +1,96 @@
+{
+  "archive": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)",
+  "identity": "r11-fable",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/finals/r11-fable - version 02.png",
+      "repo_path": "paintings/r11-fable/finals/r11-fable - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 12912406,
+      "repo_bytes": 12912406,
+      "sha256": "3f95fecd22f13a308e24259de75343fe54616744eaeb4c8ab8cc9b1e931d385f"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/finals/r11-fable - version 03.png",
+      "repo_path": "paintings/r11-fable/finals/r11-fable - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9390471,
+      "repo_bytes": 9390471,
+      "sha256": "aa233b0d64acc376bd9ad4502c67e9da7016a281fdf28ad4ee698c2b5849d525"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/finals/r11-fable.png",
+      "repo_path": "paintings/r11-fable/finals/r11-fable.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8697116,
+      "repo_bytes": 8697116,
+      "sha256": "4aff57dfe4d89d0107b036e2ba01bc7c59006de2e83103707558c2357bf1b209"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/sessions/2026-09-25T10-42-00-804Z_b589e383-d4ac0a94-054d1cc8-c85b.jsonl",
+      "repo_path": "paintings/r11-fable/sessions/pi/2026-09-25T10-42-00-804Z_b589e383-d4ac0a94-054d1cc8-c85b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3728014,
+      "repo_bytes": 694244,
+      "sha256": "5949090d5fac037f614d11d73b074d4936b8e71264ae27096d18030d40afc76d"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/sessions/events.json",
+      "repo_path": "paintings/r11-fable/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 212926,
+      "repo_bytes": 210646,
+      "sha256": "6495b55d73d52c68e25a6b81d41f38b9fac7d42b8098b6c3227bf3106e1f9d5e"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/video/r11-fable - version 02.mp4",
+      "repo_path": "paintings/r11-fable/video/r11-fable - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2129282,
+      "repo_bytes": 2129282,
+      "sha256": "5f51ad38f4871aed4cdc224d69953c252263e9d1782a8ca726007226136639c3"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/video/r11-fable - version 03.mp4",
+      "repo_path": "paintings/r11-fable/video/r11-fable - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2157154,
+      "repo_bytes": 2157154,
+      "sha256": "46e47fd3338408d8abc1d47835c9de19029596eaf281e9a389a497074cf9849f"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/video/r11-fable - version 04.mp4",
+      "repo_path": "paintings/r11-fable/video/r11-fable - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1744526,
+      "repo_bytes": 1744526,
+      "sha256": "b538d12734217726fc6672b353482375bb538847138cd1f50887d77c1b01f111"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/video/r11-fable - version 05.mp4",
+      "repo_path": "paintings/r11-fable/video/r11-fable - version 05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 861860,
+      "repo_bytes": 861860,
+      "sha256": "743037dd0f635c901326ef1d686d77afd9cce08029a47fe635ac8b9b8685fbff"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter dusk on the marsh (Claude Fable 5.1)/video/r11-fable.mp4",
+      "repo_path": "paintings/r11-fable/video/r11-fable.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1220516,
+      "repo_bytes": 1220516,
+      "sha256": "716ebc85ac064759c856397d0cf477f52407fc52348a27317e4cc8af50694e43"
+    }
+  ]
+}

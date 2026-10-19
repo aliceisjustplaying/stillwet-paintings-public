@@ -1,0 +1,96 @@
+{
+  "archive": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)",
+  "identity": "r11-flash",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/finals/r11-flash - version 02.png",
+      "repo_path": "paintings/r11-flash/finals/r11-flash - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11514942,
+      "repo_bytes": 11514942,
+      "sha256": "c8656a8283110731c2288ac65494ee5a54b79c854c454922be04c3192deb5a46"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/finals/r11-flash - version 03.png",
+      "repo_path": "paintings/r11-flash/finals/r11-flash - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8682237,
+      "repo_bytes": 8682237,
+      "sha256": "a387b138b8e0c5c730d7c45243f6618bde0d7f12d7b9b245d5d0df814722aebe"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/finals/r11-flash.png",
+      "repo_path": "paintings/r11-flash/finals/r11-flash.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9070175,
+      "repo_bytes": 9070175,
+      "sha256": "f4d3fdce483702c6cafefd7f7bcbce436478684297fb2974ac4f18ebf3bde38d"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/sessions/2026-09-25T10-40-38-476Z_3b5a8268-51f297d7-63ee2812-471d.jsonl",
+      "repo_path": "paintings/r11-flash/sessions/pi/2026-09-25T10-40-38-476Z_3b5a8268-51f297d7-63ee2812-471d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5295752,
+      "repo_bytes": 823696,
+      "sha256": "2b564ef0f90171dc9c1b5abf1bc30a1eac9e4f68bcc2d2723c05c407fc5bfd49"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r11-flash/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 475661,
+      "repo_bytes": 468780,
+      "sha256": "4e5b91758e2b359cf2085e15b2754d517da0d19d5ef2a0fdd7b711d144524721"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/sessions/events.json",
+      "repo_path": "paintings/r11-flash/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 471413,
+      "repo_bytes": 468780,
+      "sha256": "4e5b91758e2b359cf2085e15b2754d517da0d19d5ef2a0fdd7b711d144524721"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/video/r11-flash - version 02.mp4",
+      "repo_path": "paintings/r11-flash/video/r11-flash - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1950242,
+      "repo_bytes": 1950242,
+      "sha256": "592e64a11ea556fec51ec4cf37b1a95ea2346a967a66da1446971410234a5030"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/video/r11-flash - version 03.mp4",
+      "repo_path": "paintings/r11-flash/video/r11-flash - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2241315,
+      "repo_bytes": 2241315,
+      "sha256": "dfb0a423f1956c3dd40a651940749ab4ce826d90e0fcdfac480fa5140952ed5d"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/video/r11-flash - version 04.mp4",
+      "repo_path": "paintings/r11-flash/video/r11-flash - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2734969,
+      "repo_bytes": 2734969,
+      "sha256": "3859c3594944d44343df350773dbd5b3da06e57582e752b6bdcc68da3dc305a8"
+    },
+    {
+      "archive_path": "2026-09-25 r11 Winter Twilight with Megalith and Spruces (Gemini 3.8 Flash)/video/r11-flash.mp4",
+      "repo_path": "paintings/r11-flash/video/r11-flash.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1406998,
+      "repo_bytes": 1406998,
+      "sha256": "ac2d7246d22c886b3b8ead4cb60cc0077e2ba27013deb5d33b66651c68b6216d"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "archive": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)",
+  "identity": "r11-astra",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/finals/final-ford.jpg",
+      "repo_path": "paintings/r11-astra/finals/final-ford.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 130228,
+      "repo_bytes": 130228,
+      "sha256": "ff315a024baffaa6981ee5e4df03bd4b2b6579955931bfc13b7374ca8ca555e8"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/finals/final-full.jpg",
+      "repo_path": "paintings/r11-astra/finals/final-full.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 139403,
+      "repo_bytes": 139403,
+      "sha256": "72c7e566190354bf7aad93266615faa67b8f23fcd125527344fc3d21787283a1"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/finals/final-preview.jpg",
+      "repo_path": "paintings/r11-astra/finals/final-preview.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 141364,
+      "repo_bytes": 141364,
+      "sha256": "3e4ec2f823480fe24999c10a24bafee7fd6d1a4e2c5d7675aba5aaef192c06b9"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/finals/final-roots.jpg",
+      "repo_path": "paintings/r11-astra/finals/final-roots.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 111269,
+      "repo_bytes": 111269,
+      "sha256": "6a8373ad7a75b582f5ee6eaf296dfba12f5687c90826046b0608bbae240532e3"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/finals/r11-astra - version 02.png",
+      "repo_path": "paintings/r11-astra/finals/r11-astra - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8740041,
+      "repo_bytes": 8740041,
+      "sha256": "bc827ef952255f3331c8b43e21e4e61c8bdaa73890288ac144e565f31692ccd6"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/finals/r11-astra - version 03.png",
+      "repo_path": "paintings/r11-astra/finals/r11-astra - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 13339362,
+      "repo_bytes": 13339362,
+      "sha256": "e6847505b2518f73b99abf76f65d93d3e00ebfee179ef8bbda69b631b54cbe6e"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/finals/r11-astra.png",
+      "repo_path": "paintings/r11-astra/finals/r11-astra.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7130085,
+      "repo_bytes": 7130085,
+      "sha256": "856431ba6e11db834fdc0fd0682885cd73374cc80dc8c3e4597b8ddab641562c"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/sessions/2026-09-25T10-40-34-233Z_da1be2eb-b80d12c2-1a646af0-c49f.jsonl",
+      "repo_path": "paintings/r11-astra/sessions/pi/2026-09-25T10-40-34-233Z_da1be2eb-b80d12c2-1a646af0-c49f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3297904,
+      "repo_bytes": 541436,
+      "sha256": "fb3cb741e05af1158b407673a5e75de0ccae4662e5d159fcbaa924165685b499"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/sessions/events.json",
+      "repo_path": "paintings/r11-astra/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 138162,
+      "repo_bytes": 136209,
+      "sha256": "1ff78374035a6b99bc83b173dc7e823823ea28ba9fdb7b1dfa3f973d1277b6b8"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/video/r11-astra - version 02.mp4",
+      "repo_path": "paintings/r11-astra/video/r11-astra - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1826943,
+      "repo_bytes": 1826943,
+      "sha256": "21e64306eb30563ad25df89531667b08ea06fe9fe22d43fa0870e06c55d4b921"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/video/r11-astra - version 03.mp4",
+      "repo_path": "paintings/r11-astra/video/r11-astra - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1192195,
+      "repo_bytes": 1192195,
+      "sha256": "23aac4595ff81faf1933b8ad00c5c808a40f03a688aa79039e9f26095e7418e9"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/video/r11-astra - version 04.mp4",
+      "repo_path": "paintings/r11-astra/video/r11-astra - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1675828,
+      "repo_bytes": 1675828,
+      "sha256": "81cb3604588f6f5ef384ca1fec71e85e51804ec0ff9b28b6d7aeb3eb6b53a9a1"
+    },
+    {
+      "archive_path": "2026-09-25 r11 The Ford Before Daybreak (GPT-6 Astra)/video/r11-astra.mp4",
+      "repo_path": "paintings/r11-astra/video/r11-astra.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 819258,
+      "repo_bytes": 819258,
+      "sha256": "fe3deed16af9aca8dfc71ac6e7b52477fea1d075b21e8b7ae9631993c37a2a31"
+    }
+  ]
+}

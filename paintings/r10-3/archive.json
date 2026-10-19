@@ -1,0 +1,132 @@
+{
+  "archive": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)",
+  "identity": "r10-3",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/finals/final_1000.jpg",
+      "repo_path": "paintings/r10-3/finals/final_1000.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 269955,
+      "repo_bytes": 269955,
+      "sha256": "ecc60fdbbc18ea542b180b43f9c0ff721e67123c83faa0f87caa2deef27ab87b"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/finals/final_full.jpg",
+      "repo_path": "paintings/r10-3/finals/final_full.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 272121,
+      "repo_bytes": 272121,
+      "sha256": "5a06e63b868a081f4699d6c416b0d3d9bfa53fb1bd21daf3208488a4a303b364"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/finals/r10-3 - version 02.png",
+      "repo_path": "paintings/r10-3/finals/r10-3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9820538,
+      "repo_bytes": 9820538,
+      "sha256": "077e46a74c62b7d7bc67b0609e3e6fafd4de345ab93d462b00278b02cd4d807b"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/finals/r10-3 - version 03.png",
+      "repo_path": "paintings/r10-3/finals/r10-3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8845157,
+      "repo_bytes": 8845157,
+      "sha256": "e06bed651e003a35784b263b5d60d69de67f6b3ee4a29dabeafb20b5fa95138d"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/finals/r10-3.png",
+      "repo_path": "paintings/r10-3/finals/r10-3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11817186,
+      "repo_bytes": 11817186,
+      "sha256": "17f20919d5b857b5c81198a8eb24165d65965641b542f0d9e37beb8174c5bf67"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/sessions/2026-09-25T09-06-56-300Z_cf050e06-71a42ba1-3d5d3b07-cfee.jsonl",
+      "repo_path": "paintings/r10-3/sessions/pi/2026-09-25T09-06-56-300Z_cf050e06-71a42ba1-3d5d3b07-cfee.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 11519539,
+      "repo_bytes": 694574,
+      "sha256": "cc921fe32f65b83ebd9e0f820dcb46eca96a695e0eae5caa0fc5955417c43d77"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r10-3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 323231,
+      "repo_bytes": 319482,
+      "sha256": "fde42580973374fba5c994c44654fd1294fa9351a9ca5fea275b45621f712727"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/video/r10-3 - version 02.mp4",
+      "repo_path": "paintings/r10-3/video/r10-3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3934163,
+      "repo_bytes": 3934163,
+      "sha256": "adebfa92d7d37dac348fc74a21c53e1f3c3e7853222f1a551a1dc2073acf140a"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/video/r10-3 - version 03.mp4",
+      "repo_path": "paintings/r10-3/video/r10-3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6169330,
+      "repo_bytes": 6169330,
+      "sha256": "e9fc24d7defc481cb959123939a180c79040e2fc21637ab3d9a9c657f4aa303c"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/video/r10-3 - version 04.mp4",
+      "repo_path": "paintings/r10-3/video/r10-3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5860120,
+      "repo_bytes": 5860120,
+      "sha256": "43fc4e0d115e5f550223ad40a3576f30be869f77ffd0ed467c427ec979921033"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/video/r10-3-1920.mp4",
+      "repo_path": "paintings/r10-3/video/r10-3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1666777,
+      "repo_bytes": 1666777,
+      "sha256": "377d62e36e5bc6a52acbc944097de14b8f0c1f4456ee8640ad7d29dce4c84fc3"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/video/r10-3-720.mp4",
+      "repo_path": "paintings/r10-3/video/r10-3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 356995,
+      "repo_bytes": 356995,
+      "sha256": "02f327911676c461f5d33e5785a83036bf3f48d4eda882c755e59ac4bf12b4b6"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/video/r10-3.mp4",
+      "repo_path": "paintings/r10-3/video/r10-3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4812398,
+      "repo_bytes": 4812398,
+      "sha256": "9d9b9d3a5f8e88370c39c044529fab7b5eed9b28922b7e328d44b86cc97fddfd"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Summer Afternoon - the Lime Tree on the Rise (Claude Opus 5.5)/video/r10-arm3.mp4",
+      "repo_path": "paintings/r10-3/video/r10-arm3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 9667584,
+      "repo_bytes": 9667584,
+      "sha256": "8358ce128d09b0227ee0f1a76d6f5f5ce1cc37101369d8b1b9ce8400e6a74695"
+    }
+  ]
+}
