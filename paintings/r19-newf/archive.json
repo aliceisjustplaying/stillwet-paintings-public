@@ -1,0 +1,204 @@
+{
+  "archive": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)",
+  "identity": "e708c7",
+  "files": [
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/finals/r19-newf - version 02.png",
+      "repo_path": "paintings/r19-newf/finals/r19-newf - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4394443,
+      "repo_bytes": 4394443,
+      "sha256": "9686b0f54f7ca3db1eb1e66b62b9e3d4c2139b0fa71c950443331fc7da209cd1"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/finals/r19-newf - version 03.png",
+      "repo_path": "paintings/r19-newf/finals/r19-newf - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6274550,
+      "repo_bytes": 6274550,
+      "sha256": "af36fa9b6673f10edbb5022b1b04fbbf16d82560c584685e10860099e2748320"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/finals/r19-newf.png",
+      "repo_path": "paintings/r19-newf/finals/r19-newf.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8126056,
+      "repo_bytes": 8126056,
+      "sha256": "25f55f707f234bca5d361239682a6aafda579dd53f9c0bfc67a09c6d4a87e831"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/finals/replayed.png",
+      "repo_path": "paintings/r19-newf/finals/replayed.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2558982,
+      "repo_bytes": 2558982,
+      "sha256": "07786f90e2ac7a111e12f3419f36eb45cba3e7f15a36e7670af30f0cafb95c19"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/lua/NEWF1_finished.lua",
+      "repo_path": "paintings/r19-newf/lua/archive/NEWF1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 119835,
+      "repo_bytes": 119835,
+      "sha256": "64d8fc9a56ae729e629e0b48a1713dea81ea11c2cdf5633ee6ddf8d70af22525"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/lua/painting.lua",
+      "repo_path": "paintings/r19-newf/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 119417,
+      "repo_bytes": 119417,
+      "sha256": "cc5b18cd124bfb9d3e4da1e0efbf022d9b841b2481ea8f317e1136e998262c23"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/2026-09-29T18-46-22-223Z_01a0ee7d-450e-71d7-abbc-2e223fac0ed7 - version 02.jsonl",
+      "repo_path": "paintings/r19-newf/sessions/pi/2026-09-29T18-46-22-223Z_01a0ee7d-450e-71d7-abbc-2e223fac0ed7 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 595428,
+      "repo_bytes": 257499,
+      "sha256": "64a0623cefb9b6658207a33b36fb04b6f56357f1ea649ffb889368305494c265"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/2026-09-29T18-46-22-223Z_01a0ee7d-450e-71d7-abbc-2e223fac0ed7.jsonl",
+      "repo_path": "paintings/r19-newf/sessions/pi/2026-09-29T18-46-22-223Z_01a0ee7d-450e-71d7-abbc-2e223fac0ed7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 30611226,
+      "repo_bytes": 260054,
+      "sha256": "91ac3be79de8a94f91ccec7e937b5a70d98759d11bc10ae77e17efcbb8a32e7f"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/2026-09-29T19-28-10-471Z_01a0eea3-8ae7-77bf-ae4c-7ecde81275d4 - version 02.jsonl",
+      "repo_path": "paintings/r19-newf/sessions/pi/2026-09-29T19-28-10-471Z_01a0eea3-8ae7-77bf-ae4c-7ecde81275d4 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 23824447,
+      "repo_bytes": 248002,
+      "sha256": "c88a1aaa8cdcea1683405ec728ca1d732eefb02277a811ac62507d20eaa1f729"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/2026-09-29T19-28-10-471Z_01a0eea3-8ae7-77bf-ae4c-7ecde81275d4.jsonl",
+      "repo_path": "paintings/r19-newf/sessions/pi/2026-09-29T19-28-10-471Z_01a0eea3-8ae7-77bf-ae4c-7ecde81275d4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 424187,
+      "repo_bytes": 245594,
+      "sha256": "a82664a1eefd1a6c7f3a94a5a42377389367e0ab7ad61673600e7b09ee552c71"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/2026-09-29T19-50-10-066Z_01a0eeb7-ad92-73e5-bcaf-bcd7b9b7754e - version 02.jsonl",
+      "repo_path": "paintings/r19-newf/sessions/pi/2026-09-29T19-50-10-066Z_01a0eeb7-ad92-73e5-bcaf-bcd7b9b7754e - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 414489,
+      "repo_bytes": 299754,
+      "sha256": "786d47523773017866d67f787ae0b9d8f8db989d94d9f0789be3511d2a7dcfd2"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/2026-09-29T19-50-10-066Z_01a0eeb7-ad92-73e5-bcaf-bcd7b9b7754e.jsonl",
+      "repo_path": "paintings/r19-newf/sessions/pi/2026-09-29T19-50-10-066Z_01a0eeb7-ad92-73e5-bcaf-bcd7b9b7754e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 11313539,
+      "repo_bytes": 301287,
+      "sha256": "60743b72a142cbc5233fa05706a5622fcce7a0f2a308445ab0a5229950fcbf88"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/2026-09-29T20-05-36-971Z_01a0eec5-d24a-712a-9156-11dff50c9abe - version 02.jsonl",
+      "repo_path": "paintings/r19-newf/sessions/pi/2026-09-29T20-05-36-971Z_01a0eec5-d24a-712a-9156-11dff50c9abe - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 266382,
+      "repo_bytes": 220927,
+      "sha256": "a00c00df77f097aca3723b35d76c062675f08c367fc0ba326aea998138874b4b"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/2026-09-29T20-05-36-971Z_01a0eec5-d24a-712a-9156-11dff50c9abe.jsonl",
+      "repo_path": "paintings/r19-newf/sessions/pi/2026-09-29T20-05-36-971Z_01a0eec5-d24a-712a-9156-11dff50c9abe.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8027834,
+      "repo_bytes": 221949,
+      "sha256": "72c0bd91dc679df59beaa7a503f25c4197d4c612ab8eb2efd4554ac5de086422"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-newf/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 295590,
+      "repo_bytes": 289630,
+      "sha256": "e12e79fd3c668b1063d9590fa284e6ac2c1abbbc31601c938fab68342ab7cd65"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-newf/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 296821,
+      "repo_bytes": 286919,
+      "sha256": "d7985273a06137c2b6d1dd54acc7feab0d90eddbd479ca122cd4c8dbc371358b"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-newf/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 296808,
+      "repo_bytes": 286908,
+      "sha256": "df0a445c766a779104e26d8d65d5609ff1bf31169f06da68bd66d8c133c81f8f"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-newf/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 292584,
+      "repo_bytes": 286919,
+      "sha256": "d7985273a06137c2b6d1dd54acc7feab0d90eddbd479ca122cd4c8dbc371358b"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-newf/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 292571,
+      "repo_bytes": 286908,
+      "sha256": "df0a445c766a779104e26d8d65d5609ff1bf31169f06da68bd66d8c133c81f8f"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-newf/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 295590,
+      "repo_bytes": 289630,
+      "sha256": "39209cbe29a9d09b8aa717f6c77f4acb8cd7ca6572ac410294368ba3739ef24d"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/events.json",
+      "repo_path": "paintings/r19-newf/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 299827,
+      "repo_bytes": 289630,
+      "sha256": "39209cbe29a9d09b8aa717f6c77f4acb8cd7ca6572ac410294368ba3739ef24d"
+    },
+    {
+      "archive_path": "2026-09-29 r19 The Silent Shore (GPT-6.1 Sol)/sessions/packet.json",
+      "repo_path": "paintings/r19-newf/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 18291,
+      "repo_bytes": 16770,
+      "sha256": "1d81f056c951cd2a7d691862562c91611360f6750f5d1ccec472115e8410f71a"
+    }
+  ]
+}

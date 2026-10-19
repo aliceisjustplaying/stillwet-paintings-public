@@ -1,0 +1,267 @@
+{
+  "archive": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)",
+  "identity": "919cfd",
+  "files": [
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/finals/KIMIF1_finished.png",
+      "repo_path": "paintings/r19-kimif/finals/KIMIF1_finished.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5083749,
+      "repo_bytes": 5083749,
+      "sha256": "415e94b9f5d512b8a049d281a2247e17e2e85660c2bdb4996657819fa0f5fed3"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/finals/r19-kimif - version 02.png",
+      "repo_path": "paintings/r19-kimif/finals/r19-kimif - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6546889,
+      "repo_bytes": 6546889,
+      "sha256": "8cd2ee0d8c193c4cca5f7c242797b447d1ddfa9ad741fcf1c5fdad9242d775e5"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/finals/r19-kimif.png",
+      "repo_path": "paintings/r19-kimif/finals/r19-kimif.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8186106,
+      "repo_bytes": 8186106,
+      "sha256": "995ed5509f472008e2e8845cb6b6ed8ee20e4ae42063a1ebb31ea3a4d8e7fb23"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/lua/KIMIF1_finished.lua",
+      "repo_path": "paintings/r19-kimif/lua/archive/KIMIF1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 29870,
+      "repo_bytes": 29870,
+      "sha256": "576563e957d2a929dddd6eda3a55a014102e3bb70a697ab6d6fd5d51b9acc696"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r19-kimif/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 52516,
+      "repo_bytes": 52516,
+      "sha256": "c4231a24dbe640ae04ac656a6f4b35b896871c7987993ee9a08da5dd9aaa1d5e"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/lua/painting - version 03.lua",
+      "repo_path": "paintings/r19-kimif/lua/archive/painting - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 29452,
+      "repo_bytes": 29452,
+      "sha256": "0fc6a0c60a2004658bf71abb4b70db60f60f61021c2a2dafb7071c84348f2ae3"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/lua/painting.lua",
+      "repo_path": "paintings/r19-kimif/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 56379,
+      "repo_bytes": 56379,
+      "sha256": "c29cef6ddc53180811788e2d464a547ebba5ec53c5f32db1e5cb934f6d3fd575"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T00-36-35-318Z_01a0e571-2f75-7748-a265-ca4cadb17dbb - version 02.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T00-36-35-318Z_01a0e571-2f75-7748-a265-ca4cadb17dbb - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 406022,
+      "repo_bytes": 295689,
+      "sha256": "779b63f0eadc0a16da76b2a0c7c446ff7d352644e583058a5feb737558d3fb3f"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T00-36-35-318Z_01a0e571-2f75-7748-a265-ca4cadb17dbb.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T00-36-35-318Z_01a0e571-2f75-7748-a265-ca4cadb17dbb.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 18941870,
+      "repo_bytes": 297471,
+      "sha256": "0f00fe9c8ee8d673250f0be0492d4479a3e1be69ec4a42a189d9c83306a81e8b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T00-55-29-817Z_01a0e582-7f19-758e-9891-f570c4e91dab.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T00-55-29-817Z_01a0e582-7f19-758e-9891-f570c4e91dab.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3785,
+      "repo_bytes": 3751,
+      "sha256": "b114bd5118382fb22e43e841622f7fa9c5e02bc5281ded66ccb621f82404d590"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T00-58-30-711Z_01a0e585-41b6-72ea-a337-1658b8afe4f4.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T00-58-30-711Z_01a0e585-41b6-72ea-a337-1658b8afe4f4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3785,
+      "repo_bytes": 3751,
+      "sha256": "354880dd80f252820eefff7b0d6a00def74c0e93278c9f596dc64771fbbf4253"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T01-03-31-448Z_01a0e589-d878-762d-920e-e8007e0b45a9.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T01-03-31-448Z_01a0e589-d878-762d-920e-e8007e0b45a9.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3785,
+      "repo_bytes": 3751,
+      "sha256": "8f4f48f638586f013b3ae31d2c74131f403fa76e91bc8f01f7a151c694238b2c"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T01-13-32-309Z_01a0e593-0395-76a9-ae7a-3757adbbe05b.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T01-13-32-309Z_01a0e593-0395-76a9-ae7a-3757adbbe05b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3785,
+      "repo_bytes": 3751,
+      "sha256": "03d5f1b2b2923a8a8fb4a11ec6a9f2195bc3e66c10a68d5fac50889b1dc4334a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T01-28-33-027Z_01a0e5a0-c203-7690-bad2-cd6d4fb5e423.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T01-28-33-027Z_01a0e5a0-c203-7690-bad2-cd6d4fb5e423.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3785,
+      "repo_bytes": 3751,
+      "sha256": "9acc7e30a44c82cf72025cdec054a9a16bec3234af2f1192cc309d5c976966f7"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T11-07-42-179Z_01a0e7b2-fce2-74b7-aea0-e9ed2cd0a984 - version 02.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T11-07-42-179Z_01a0e7b2-fce2-74b7-aea0-e9ed2cd0a984 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 485412,
+      "repo_bytes": 341422,
+      "sha256": "03b453b5fd65eef947c23eebeb00b1336fb1ddad39c704fef6dfed094c7f468c"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T11-07-42-179Z_01a0e7b2-fce2-74b7-aea0-e9ed2cd0a984.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T11-07-42-179Z_01a0e7b2-fce2-74b7-aea0-e9ed2cd0a984.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 20113818,
+      "repo_bytes": 344257,
+      "sha256": "98bfbf68540f3f82bcf08ef8054ca5c25ab4998eba3b289ec32282e2a2ba7dcc"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T16-07-53-840Z_01a0e8c5-d2f0-7657-870a-97f49bb61c25 - version 02.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T16-07-53-840Z_01a0e8c5-d2f0-7657-870a-97f49bb61c25 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2907046,
+      "repo_bytes": 155427,
+      "sha256": "34373a695954b488fd9b2286c416e1bdbaca9d613d1a464f47ee61944dfcc085"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/2026-09-28T16-07-53-840Z_01a0e8c5-d2f0-7657-870a-97f49bb61c25.jsonl",
+      "repo_path": "paintings/r19-kimif/sessions/pi/2026-09-28T16-07-53-840Z_01a0e8c5-d2f0-7657-870a-97f49bb61c25.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 196512,
+      "repo_bytes": 154863,
+      "sha256": "af14d6bbe7ecda8da4923bec1f64bd8c5d82d5a98ddad2338b3759187124e0a8"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 436004,
+      "repo_bytes": 425174,
+      "sha256": "ad487ad80ad8d25ff400bcba38cc1e2e5fcc0b51c6fd75f662b32ddecb4b568a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 434374,
+      "repo_bytes": 423734,
+      "sha256": "aa17111afa74d8876a1ffb7f46a9079fcd1fa5751ec7059cfca06e2c008494de"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 431575,
+      "repo_bytes": 423602,
+      "sha256": "395707359a993213e7f8f5abfec3f2e3cba40b431d9d91d5248b11d7c2356d5a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 434218,
+      "repo_bytes": 423602,
+      "sha256": "395707359a993213e7f8f5abfec3f2e3cba40b431d9d91d5248b11d7c2356d5a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 354508,
+      "repo_bytes": 347904,
+      "sha256": "71096143cfd9326379c9cff6b2f2fd5f161cde0cc3e0ed5ff54265bef933e5ac"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 433361,
+      "repo_bytes": 425174,
+      "sha256": "bcaf946b02147c0ea89da9d70739747fbf0553fc2f43aaf6e5fa6783e882b957"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 08.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 436004,
+      "repo_bytes": 425174,
+      "sha256": "8cc82be9e7cdbb15e797cf4fd378e67728b93a3fb122ec101ab3dff77a14eaf9"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 09.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 09.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 431731,
+      "repo_bytes": 423734,
+      "sha256": "aa17111afa74d8876a1ffb7f46a9079fcd1fa5751ec7059cfca06e2c008494de"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 10.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 10.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 356670,
+      "repo_bytes": 347904,
+      "sha256": "71096143cfd9326379c9cff6b2f2fd5f161cde0cc3e0ed5ff54265bef933e5ac"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events - version 11.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events - version 11.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 433361,
+      "repo_bytes": 425174,
+      "sha256": "ad487ad80ad8d25ff400bcba38cc1e2e5fcc0b51c6fd75f662b32ddecb4b568a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Contemplating the Young Moon (Kimi K3)/sessions/events.json",
+      "repo_path": "paintings/r19-kimif/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 433361,
+      "repo_bytes": 425174,
+      "sha256": "8cc82be9e7cdbb15e797cf4fd378e67728b93a3fb122ec101ab3dff77a14eaf9"
+    }
+  ]
+}

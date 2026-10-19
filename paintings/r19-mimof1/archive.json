@@ -1,0 +1,276 @@
+{
+  "archive": "2026-09-28 r19 untitled (MiMo V2.6 Pro)",
+  "identity": "11997b",
+  "files": [
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/finals/final.png",
+      "repo_path": "paintings/r19-mimof1/finals/final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2832002,
+      "repo_bytes": 2832002,
+      "sha256": "e3a42fe2027146714d9e37926f28108fafe82beab2342adfbbf3aa984376366e"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/finals/r19-mimof1 - version 02.png",
+      "repo_path": "paintings/r19-mimof1/finals/r19-mimof1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6103365,
+      "repo_bytes": 6103365,
+      "sha256": "13958ef17b63710c638738e949f79ae83fe45a82872702ae108b293bf6314459"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/finals/r19-mimof1 - version 03.png",
+      "repo_path": "paintings/r19-mimof1/finals/r19-mimof1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3865502,
+      "repo_bytes": 3865502,
+      "sha256": "626e26b4f2bfa370bd3d150e4860d3dd7e7ba8460fb199866af86afdeec200fc"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/finals/r19-mimof1.png",
+      "repo_path": "paintings/r19-mimof1/finals/r19-mimof1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7966841,
+      "repo_bytes": 7966841,
+      "sha256": "f76efced14ef3cf27da847a806de91240570ffbefe534b9d4bcc45db3b046a0c"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/lua/MIMOF1_finished.lua",
+      "repo_path": "paintings/r19-mimof1/lua/archive/MIMOF1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 16308,
+      "repo_bytes": 16308,
+      "sha256": "a8d74db9ea68ba5e8f0291b2d48f9424dd6dad732c0790ae502569ccc21c4568"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r19-mimof1/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15890,
+      "repo_bytes": 15890,
+      "sha256": "ae1756b15c18dad7486418c38f9015c2077433792053fb4cbce311010892b8a8"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/lua/painting - version 03.lua",
+      "repo_path": "paintings/r19-mimof1/lua/archive/painting - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 48853,
+      "repo_bytes": 48853,
+      "sha256": "db215e8d79b4800039e6a160da3db4a68a968a647e1eac6f6891ade005c98db5"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/lua/painting.lua",
+      "repo_path": "paintings/r19-mimof1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 54283,
+      "repo_bytes": 54283,
+      "sha256": "77aed6eac223c4a8ee053a8d34f4ab7138e5fabaa86b26d0db2d80cd30333ffb"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/lua/r19-mimof1.lua",
+      "repo_path": "paintings/r19-mimof1/lua/archive/r19-mimof1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 54702,
+      "repo_bytes": 54702,
+      "sha256": "8d5005b20b1a098112e643075e61314d7ec5d7e5e597664b8a145f3379fdd361"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T00-36-40-012Z_01a0e571-41cb-774f-a334-1eb2b8160272 - version 02.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T00-36-40-012Z_01a0e571-41cb-774f-a334-1eb2b8160272 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 216258,
+      "repo_bytes": 214697,
+      "sha256": "355bdc3c2b771a63a52d55d26689aac5a593528c1b19bbc539321e6f20811497"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T00-36-40-012Z_01a0e571-41cb-774f-a334-1eb2b8160272.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T00-36-40-012Z_01a0e571-41cb-774f-a334-1eb2b8160272.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5752134,
+      "repo_bytes": 215233,
+      "sha256": "38fd5a3de1f5a9efd4d13df56667b4b72ed064dc096f1b7c2535fd0137dde352"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T00-55-37-240Z_01a0e582-9c17-764c-a5e7-662dfa6b1a32.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T00-55-37-240Z_01a0e582-9c17-764c-a5e7-662dfa6b1a32.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3798,
+      "repo_bytes": 3764,
+      "sha256": "8a2260316540a2612802fcda130c0f8b6c62bfc485d79ceb87281a2d83f94f92"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T00-58-37-980Z_01a0e585-5e1b-72f8-a8ed-d0768931184a.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T00-58-37-980Z_01a0e585-5e1b-72f8-a8ed-d0768931184a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3798,
+      "repo_bytes": 3764,
+      "sha256": "d4288a66ce13ef79bab08603572b38fd99a2ec8cb641c16f0bf15d72584e3eea"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T01-03-38-733Z_01a0e589-f4ed-7496-abc0-e7711a0774f9.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T01-03-38-733Z_01a0e589-f4ed-7496-abc0-e7711a0774f9.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3798,
+      "repo_bytes": 3764,
+      "sha256": "4826e5744685a8a66baf5e1a728cca8739118716cc52c5f91e0474dc9e1f131f"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T01-13-39-472Z_01a0e593-1f8f-724a-8ae0-7af94aaaa3b0.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T01-13-39-472Z_01a0e593-1f8f-724a-8ae0-7af94aaaa3b0.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3798,
+      "repo_bytes": 3764,
+      "sha256": "29494351d32dd13d38d47323285c84cd51392538382099d87beb0c76ea89a858"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T01-28-40-307Z_01a0e5a0-de72-708d-a82d-0fbdd4d39545.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T01-28-40-307Z_01a0e5a0-de72-708d-a82d-0fbdd4d39545.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3798,
+      "repo_bytes": 3764,
+      "sha256": "2154e99c8a0eb61b5b2f312bbc6a99ac55e0222ec10afec675e3c7ff8d27b108"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T11-06-39-541Z_01a0e7b2-0835-760b-8029-855d0a753898 - version 02.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T11-06-39-541Z_01a0e7b2-0835-760b-8029-855d0a753898 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 19291913,
+      "repo_bytes": 453158,
+      "sha256": "413d34845f414cf21200dd959317a44d660e4bc13aa8e990ccc863daea2e2de0"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/2026-09-28T11-06-39-541Z_01a0e7b2-0835-760b-8029-855d0a753898.jsonl",
+      "repo_path": "paintings/r19-mimof1/sessions/pi/2026-09-28T11-06-39-541Z_01a0e7b2-0835-760b-8029-855d0a753898.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 455347,
+      "repo_bytes": 450598,
+      "sha256": "38d72bc3ded54b3633eaf3a2404df7aa9d4a78f81178d5ce68f74811a7f79840"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 462621,
+      "repo_bytes": 456205,
+      "sha256": "3e47c4f816615142e07c44e2b0d4a569f55001eb5a11e806009f3a033a821afe"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 464373,
+      "repo_bytes": 456293,
+      "sha256": "64981d35086e6d8b8917cc0a62af649822b674498a06af9655f014e28d03a9a2"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 463882,
+      "repo_bytes": 457329,
+      "sha256": "cc27d06a8f9b21e35e2831ab9bde47791a1db901b64790ccc0e36e58aecdeb1c"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 464269,
+      "repo_bytes": 456205,
+      "sha256": "3e47c4f816615142e07c44e2b0d4a569f55001eb5a11e806009f3a033a821afe"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 463882,
+      "repo_bytes": 457329,
+      "sha256": "b66b81726e13f4b1369e68b46ede8435bc514b5305bddd90c5a0ff6e67dfeae5"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 389097,
+      "repo_bytes": 382781,
+      "sha256": "f3c83e934bdc2566a679bd2d34e9e92bfb26eb083de0c5ad7716fb7a85679803"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 08.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 465530,
+      "repo_bytes": 457329,
+      "sha256": "cc27d06a8f9b21e35e2831ab9bde47791a1db901b64790ccc0e36e58aecdeb1c"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 09.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 09.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 462725,
+      "repo_bytes": 456293,
+      "sha256": "64981d35086e6d8b8917cc0a62af649822b674498a06af9655f014e28d03a9a2"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 10.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 10.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 465530,
+      "repo_bytes": 457329,
+      "sha256": "b66b81726e13f4b1369e68b46ede8435bc514b5305bddd90c5a0ff6e67dfeae5"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events - version 11.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events - version 11.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 387878,
+      "repo_bytes": 382781,
+      "sha256": "f3c83e934bdc2566a679bd2d34e9e92bfb26eb083de0c5ad7716fb7a85679803"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/sessions/events.json",
+      "repo_path": "paintings/r19-mimof1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 463882,
+      "repo_bytes": 457329,
+      "sha256": "c25f583cecdb592c1515ccf9844ad2457743fc4889b9a12358e767849e3e5c43"
+    },
+    {
+      "archive_path": "2026-09-28 r19 untitled (MiMo V2.6 Pro)/video/r19-mimof1.mp4",
+      "repo_path": "paintings/r19-mimof1/video/r19-mimof1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2761151,
+      "repo_bytes": 2761151,
+      "sha256": "653006f061547674c8ce4a7c903b7c8ca9c8f6e5e6286dc35ea79fc4632c7b26"
+    }
+  ]
+}

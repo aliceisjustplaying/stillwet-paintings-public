@@ -1,0 +1,258 @@
+{
+  "archive": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)",
+  "identity": "2564f4",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/finals/r18-muse - version 02.png",
+      "repo_path": "paintings/r18-muse/finals/r18-muse - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9905924,
+      "repo_bytes": 9905924,
+      "sha256": "2a3dbeb2bd26441823c4e56603396a5853f54582f0641b942f9e0ea3a32a2676"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/finals/r18-muse - version 03.png",
+      "repo_path": "paintings/r18-muse/finals/r18-muse - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7017891,
+      "repo_bytes": 7017891,
+      "sha256": "68c169431ef4a4577980b351d83aca715475cef0c379aaeebdd7b4cc3457ee8b"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/finals/r18-muse.png",
+      "repo_path": "paintings/r18-muse/finals/r18-muse.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4803927,
+      "repo_bytes": 4803927,
+      "sha256": "a80711c3b75fc0edc420073b87aab03280794cb6ec1fe0793ca5d7ae031128f4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/lua/MUSE_finished.lua",
+      "repo_path": "paintings/r18-muse/lua/archive/MUSE_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 28725,
+      "repo_bytes": 28725,
+      "sha256": "9447f16e0c698c857182a7a5ccb7053d7d2975351dd3c01b3fffd87db0aa9520"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/lua/painting.lua",
+      "repo_path": "paintings/r18-muse/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 28307,
+      "repo_bytes": 28307,
+      "sha256": "74690344e2b83ea565182785fa4f8a7df219b03b5a5d8f6d446fc105e8920b5d"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/lua/r18-MUSE-3.lua",
+      "repo_path": "paintings/r18-muse/lua/archive/r18-MUSE-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1408,
+      "repo_bytes": 1408,
+      "sha256": "79d42585b8771a20b7a9e298708abd0f3b4046273c6b051579ec9545710f5570"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/2026-09-27T11-58-04-363Z_01a0e2ba-be4b-7540-8c48-c93c2bcc6437 - version 02.jsonl",
+      "repo_path": "paintings/r18-muse/sessions/pi/2026-09-27T11-58-04-363Z_01a0e2ba-be4b-7540-8c48-c93c2bcc6437 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 23344438,
+      "repo_bytes": 192550,
+      "sha256": "06621d7dce3378831c5940360287bb8967a81b90ee0dc59caad1c84eb0488fdd"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/2026-09-27T11-58-04-363Z_01a0e2ba-be4b-7540-8c48-c93c2bcc6437.jsonl",
+      "repo_path": "paintings/r18-muse/sessions/pi/2026-09-27T11-58-04-363Z_01a0e2ba-be4b-7540-8c48-c93c2bcc6437.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 326948,
+      "repo_bytes": 189626,
+      "sha256": "628193892c0f84485771aadb60fc08959ca3e6038d0b83fc0099bf32eea4f550"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/2026-09-27T12-20-24-216Z_01a0e2cf-3018-7519-a60a-7add125fb773 - version 02.jsonl",
+      "repo_path": "paintings/r18-muse/sessions/pi/2026-09-27T12-20-24-216Z_01a0e2cf-3018-7519-a60a-7add125fb773 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 279534,
+      "repo_bytes": 246878,
+      "sha256": "abdf533a6973d5579cd3a5fbbe54f43b37f3e5d33e85fbf0173f7c4f67e30810"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/2026-09-27T12-20-24-216Z_01a0e2cf-3018-7519-a60a-7add125fb773.jsonl",
+      "repo_path": "paintings/r18-muse/sessions/pi/2026-09-27T12-20-24-216Z_01a0e2cf-3018-7519-a60a-7add125fb773.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5305127,
+      "repo_bytes": 247316,
+      "sha256": "ea3d4163dbb94960cedbe9c7e9c3250e061af51b6f8ee29e5aa8c70639b81563"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/events - version 02.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 105574,
+      "repo_bytes": 96861,
+      "sha256": "c4745b987afbc35fe9eba55ac16040fa59ba8579abf0b1bc083ebec7f74e4b99"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/events - version 03.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 103164,
+      "repo_bytes": 97486,
+      "sha256": "35f437c3cc4c2deb5829ad015fb3fa46c4ee8887d24854bd761d3342dc2b222e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/events - version 04.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 101078,
+      "repo_bytes": 97486,
+      "sha256": "20798e42b899be82717a5162c01fb1313d6255c8d24e6f126ea7af9d411bea84"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/events - version 05.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 101078,
+      "repo_bytes": 97486,
+      "sha256": "35f437c3cc4c2deb5829ad015fb3fa46c4ee8887d24854bd761d3342dc2b222e"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/events - version 06.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 100339,
+      "repo_bytes": 96868,
+      "sha256": "255cf7c78fbedc50a18234f8d55ea26003a50aa868e2151c852729426e32271a"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/events - version 07.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 106326,
+      "repo_bytes": 97490,
+      "sha256": "245cff699209acbed0fb66467d35e0d99e39dc300689da2a5b97933bf5cfdfb1"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/events - version 08.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 100326,
+      "repo_bytes": 96857,
+      "sha256": "01d54214e513eeff6f152c07b3bf12c51c0cc2d2dc4d22880fcab7259ba5e060"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/events.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 105587,
+      "repo_bytes": 96872,
+      "sha256": "3f8504e6e8890270ec757a46686bc25d0e393e933e5b58e1c9be072d4616b3e6"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/sessions/packet.json",
+      "repo_path": "paintings/r18-muse/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13998,
+      "repo_bytes": 11736,
+      "sha256": "0f6b1ac82e58c1b0f750324f8712d4245c09c7cddee8870b31855a529826a4ac"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse - version 02.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 584191,
+      "repo_bytes": 584191,
+      "sha256": "cf1d5ecf19c1f3e1e505b476d3cb77ff35afd4656dcef71b2d02e17924d38efb"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse-1920 - version 02.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse-1920 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1654754,
+      "repo_bytes": 1654754,
+      "sha256": "304c7c0ab4a4a9924b7c0a12cf5e48bd4ef845a36146d0bf13406c7a162604a7"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse-1920 - version 03.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse-1920 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1465280,
+      "repo_bytes": 1465280,
+      "sha256": "6411ad913a5e923cd3940e13b7049e473ae35d06a14b1c90ffcbc5b077ed65ab"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse-1920.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1651626,
+      "repo_bytes": 1651626,
+      "sha256": "cd154dc370a39ce9f890d5ccec6eacbdd7c49295e57b0ab8fc44c3a52ae118d9"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse-720 - version 02.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse-720 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 422393,
+      "repo_bytes": 422393,
+      "sha256": "c1ef79327d0dd93093d050878261436926791700a5cc01769ba2662fb11b1b36"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse-720 - version 03.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse-720 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 425521,
+      "repo_bytes": 425521,
+      "sha256": "f298cb786c54333cb694301fc2d9cf37c8f9e18e05983276bf7fd7f03a4f02ac"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse-720.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 380094,
+      "repo_bytes": 380094,
+      "sha256": "1919cb78489e6e87bae544f7a5fabc3b6c223377097352fcd0fb1f7db9d4065b"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse-social-1920.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse-social-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1726548,
+      "repo_bytes": 1726548,
+      "sha256": "4a17587034b3aa0dcb4f696a30fd1def0bd051d70b56e40b914b7138c8d16fa4"
+    },
+    {
+      "archive_path": "2026-09-27 r18 Evening Marsh (Muse Spark 1.3)/video/r18-muse.mp4",
+      "repo_path": "paintings/r18-muse/video/r18-muse.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 581063,
+      "repo_bytes": 581063,
+      "sha256": "6ecac936c322afe3cca46254b5e89ab77b19ab1198dbf0c468ab5ba87091ce09"
+    }
+  ]
+}

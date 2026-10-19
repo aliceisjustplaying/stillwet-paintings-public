@@ -1,0 +1,231 @@
+{
+  "archive": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)",
+  "identity": "2a634e",
+  "files": [
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/finals/final-full.png",
+      "repo_path": "paintings/r19-musef/finals/final-full.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1647008,
+      "repo_bytes": 1647008,
+      "sha256": "76b6cc23163c45c10fd04a5d6dfa97d82463ce560023659bd737883223a37965"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/finals/r19-musef - version 02.png",
+      "repo_path": "paintings/r19-musef/finals/r19-musef - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3492041,
+      "repo_bytes": 3492041,
+      "sha256": "5b3ef8c585694496f20de30c075eb7299cddee97f153551f63fb0f6c77f1107b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/finals/r19-musef - version 03.png",
+      "repo_path": "paintings/r19-musef/finals/r19-musef - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5185525,
+      "repo_bytes": 5185525,
+      "sha256": "b913f74db3bea24b5da5f4e2a2d65b6d027a68a9ea480a1e257a0ada57261c30"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/finals/r19-musef.png",
+      "repo_path": "paintings/r19-musef/finals/r19-musef.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6523220,
+      "repo_bytes": 6523220,
+      "sha256": "dcb9e6f84aac969ad02e06178aa96ed699bdbca207697ba4c7f1e1ecc3b06d43"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/lua/MUSEF1_finished.lua",
+      "repo_path": "paintings/r19-musef/lua/archive/MUSEF1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 84797,
+      "repo_bytes": 84797,
+      "sha256": "6530d40447b1ba385f7261ab663cd9d460d6b805a559b91b78a24ee615b1cc54"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/lua/muse.lua",
+      "repo_path": "paintings/r19-musef/lua/archive/muse.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 84379,
+      "repo_bytes": 84379,
+      "sha256": "9de9139f94ca29ccac6812ebaa2816c8bd37d657e40d00ab2f5e0bcb039a5001"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/2026-09-28T00-36-44-793Z_01a0e571-5479-7650-902e-5fd3a08344bd - version 02.jsonl",
+      "repo_path": "paintings/r19-musef/sessions/pi/2026-09-28T00-36-44-793Z_01a0e571-5479-7650-902e-5fd3a08344bd - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 29726345,
+      "repo_bytes": 265512,
+      "sha256": "de0a65ca69d27a56566caacf6f71f5affd19a25c258c097ff1a265a4390dc255"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/2026-09-28T00-36-44-793Z_01a0e571-5479-7650-902e-5fd3a08344bd.jsonl",
+      "repo_path": "paintings/r19-musef/sessions/pi/2026-09-28T00-36-44-793Z_01a0e571-5479-7650-902e-5fd3a08344bd.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 569839,
+      "repo_bytes": 260859,
+      "sha256": "6530d72eb3395ff97ba93d84adf689fa379ce9b8fcf0b0a98d1825eac00d3f35"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/2026-09-28T01-02-30-373Z_01a0e588-e9e5-753e-b8c5-d9a7a3bd7051 - version 02.jsonl",
+      "repo_path": "paintings/r19-musef/sessions/pi/2026-09-28T01-02-30-373Z_01a0e588-e9e5-753e-b8c5-d9a7a3bd7051 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 567195,
+      "repo_bytes": 278550,
+      "sha256": "8bf312967d64d29ecbe3fa7355990ac1ce5a06c5f1b621c59d335cbc8bc6751a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/2026-09-28T01-02-30-373Z_01a0e588-e9e5-753e-b8c5-d9a7a3bd7051.jsonl",
+      "repo_path": "paintings/r19-musef/sessions/pi/2026-09-28T01-02-30-373Z_01a0e588-e9e5-753e-b8c5-d9a7a3bd7051.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 19273095,
+      "repo_bytes": 283022,
+      "sha256": "4b13f46d78c44c18fe5f848f6a474f4a4e54d5908d9d7db9dd0e2d797ecb81f6"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/2026-09-28T01-19-53-724Z_01a0e598-d57b-74ec-9487-8732c5d951c3 - version 02.jsonl",
+      "repo_path": "paintings/r19-musef/sessions/pi/2026-09-28T01-19-53-724Z_01a0e598-d57b-74ec-9487-8732c5d951c3 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 464919,
+      "repo_bytes": 249293,
+      "sha256": "d8e2035068cb5437c00c680800c7f6f23ba377158dfbf1b15dd7e9d77426931a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/2026-09-28T01-19-53-724Z_01a0e598-d57b-74ec-9487-8732c5d951c3.jsonl",
+      "repo_path": "paintings/r19-musef/sessions/pi/2026-09-28T01-19-53-724Z_01a0e598-d57b-74ec-9487-8732c5d951c3.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7573125,
+      "repo_bytes": 253507,
+      "sha256": "0f3c4e2577d52c2b03c37d1b1fdeaaf5767e0169e4b646329a9ccb9558329954"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/2026-09-28T01-30-28-731Z_01a0e5a2-85fa-77e4-b669-f89d34c76943 - version 02.jsonl",
+      "repo_path": "paintings/r19-musef/sessions/pi/2026-09-28T01-30-28-731Z_01a0e5a2-85fa-77e4-b669-f89d34c76943 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 397480,
+      "repo_bytes": 207688,
+      "sha256": "f8708d5f4766fded769563f125f57107b11fb8e62e5ace8b61f91921e3d97ce0"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/2026-09-28T01-30-28-731Z_01a0e5a2-85fa-77e4-b669-f89d34c76943.jsonl",
+      "repo_path": "paintings/r19-musef/sessions/pi/2026-09-28T01-30-28-731Z_01a0e5a2-85fa-77e4-b669-f89d34c76943.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7559888,
+      "repo_bytes": 212504,
+      "sha256": "098ee2cfdf00f463725a1c214dab0b02d3f99d619bedd33b7acdbd88b7b23615"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-musef/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 264484,
+      "repo_bytes": 255567,
+      "sha256": "3ac17b39e336cc00b0a996e64ce7802ad5955a08e382fe70b59ff14f4084385e"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-musef/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 270465,
+      "repo_bytes": 260927,
+      "sha256": "2bc80061b2f4238772e1a68b585bd9069a701c3808f2450aad7f94e37a9f5622"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-musef/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 272809,
+      "repo_bytes": 255567,
+      "sha256": "3ac17b39e336cc00b0a996e64ce7802ad5955a08e382fe70b59ff14f4084385e"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-musef/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 272861,
+      "repo_bytes": 255611,
+      "sha256": "9738fc862eb35cdb7d783809615e774c0bbf88c84225dc36f416e69ec8390ebf"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-musef/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 278790,
+      "repo_bytes": 260927,
+      "sha256": "4d2b6a576767e371a6e1150766ab056ed832183bbf8136b079fee08169b23fd6"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-musef/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 264536,
+      "repo_bytes": 255611,
+      "sha256": "9738fc862eb35cdb7d783809615e774c0bbf88c84225dc36f416e69ec8390ebf"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/events.json",
+      "repo_path": "paintings/r19-musef/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 270465,
+      "repo_bytes": 260927,
+      "sha256": "4d2b6a576767e371a6e1150766ab056ed832183bbf8136b079fee08169b23fd6"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/sessions/packet.json",
+      "repo_path": "paintings/r19-musef/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 15904,
+      "repo_bytes": 14066,
+      "sha256": "da92171d4ee95db4d2057e9609d07b845b206d597eda0b7d70229e947a590f12"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/video/r19-musef-1920.mp4",
+      "repo_path": "paintings/r19-musef/video/r19-musef-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1810665,
+      "repo_bytes": 1810665,
+      "sha256": "a46de644cbe25e0feec51a00a9e83cc7fbc77886a733cc0f9adf26b4a66c9e80"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/video/r19-musef-720.mp4",
+      "repo_path": "paintings/r19-musef/video/r19-musef-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 437580,
+      "repo_bytes": 437580,
+      "sha256": "582f1bba03efedaadb1c4d1cb17086197068e9d107740d9533d5183f3709e7d7"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Watcher at the Edge of Fog (Muse Spark 1.3)/video/r19-musef.mp4",
+      "repo_path": "paintings/r19-musef/video/r19-musef.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 697908,
+      "repo_bytes": 697908,
+      "sha256": "c0300d6fae7d2d7687f9d931e092220e9a6c9b75b38f762ab38a6c5d1b4d7f76"
+    }
+  ]
+}

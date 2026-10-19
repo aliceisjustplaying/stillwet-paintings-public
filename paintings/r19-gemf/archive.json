@@ -1,0 +1,249 @@
+{
+  "archive": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)",
+  "identity": "851a37",
+  "files": [
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/finals/r19-gemf - version 02.png",
+      "repo_path": "paintings/r19-gemf/finals/r19-gemf - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3475176,
+      "repo_bytes": 3475176,
+      "sha256": "d8d0aa3b2063a36dbaad393acc7cd36f7612c55275c7ea1eaba1c034ffa89032"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/finals/r19-gemf - version 03.png",
+      "repo_path": "paintings/r19-gemf/finals/r19-gemf - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6155861,
+      "repo_bytes": 6155861,
+      "sha256": "d657e1812815a7f45c05714bf28fa67715347b457f309a84a03a698595c3f19d"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/finals/r19-gemf.png",
+      "repo_path": "paintings/r19-gemf/finals/r19-gemf.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7853563,
+      "repo_bytes": 7853563,
+      "sha256": "e22afbb743d4c0f6acd871b9b84c39cb963044e4fcaacc4ec43fc592aee079f2"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/lua/GEMF1_finished.lua",
+      "repo_path": "paintings/r19-gemf/lua/archive/GEMF1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 630891,
+      "repo_bytes": 630891,
+      "sha256": "00b0d2a337fe984e02a5599071fa9ac6e221f3f80fddc8cf320a331fdd899952"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/lua/painting.lua",
+      "repo_path": "paintings/r19-gemf/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 630473,
+      "repo_bytes": 630473,
+      "sha256": "7a15626475b8703deab90dfa576bb460bde0cae91ea45957fd278ade6127f907"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-27T23-09-22-245Z_01a0e521-55c4-7710-a724-6d3b06810507 - version 02.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-27T23-09-22-245Z_01a0e521-55c4-7710-a724-6d3b06810507 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 854256,
+      "repo_bytes": 512430,
+      "sha256": "d8dbed9c0689e176e99a252bcdd4fcb759f40b25f529b19aa60e2fea450f6452"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-27T23-09-22-245Z_01a0e521-55c4-7710-a724-6d3b06810507.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-27T23-09-22-245Z_01a0e521-55c4-7710-a724-6d3b06810507.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 28501885,
+      "repo_bytes": 517074,
+      "sha256": "15b90145a114a951fba8ada432292889304b918eb0aca411fc707bdaf25125bb"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-27T23-39-48-424Z_01a0e53d-3348-70b1-8309-23d52b3b5179 - version 02.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-27T23-39-48-424Z_01a0e53d-3348-70b1-8309-23d52b3b5179 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 33466015,
+      "repo_bytes": 841226,
+      "sha256": "7f54bf9abb3cfbc382abe7a52af4515d502181388d525da703218645eebfd0b1"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-27T23-39-48-424Z_01a0e53d-3348-70b1-8309-23d52b3b5179.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-27T23-39-48-424Z_01a0e53d-3348-70b1-8309-23d52b3b5179.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1467748,
+      "repo_bytes": 833504,
+      "sha256": "41b87160a6e877b3af6973ad77a9d7a42b7936b8a7a1c587b2ccee39021e4c39"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-28T01-14-38-163Z_01a0e594-04d3-7106-a1e8-46433ea8a6a2 - version 02.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-28T01-14-38-163Z_01a0e594-04d3-7106-a1e8-46433ea8a6a2 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8138227,
+      "repo_bytes": 442741,
+      "sha256": "7dd261d5995656b5c8a5e82fbbc5c6943b8c6b5001b1da98c898af5c586fb3cc"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-28T01-14-38-163Z_01a0e594-04d3-7106-a1e8-46433ea8a6a2.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-28T01-14-38-163Z_01a0e594-04d3-7106-a1e8-46433ea8a6a2.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 733438,
+      "repo_bytes": 440068,
+      "sha256": "059a2984c07f37eca725cfaf88377587646da6db1f59d9e278416d14c3b4c8dc"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-28T01-29-58-439Z_01a0e5a2-0fa6-70e9-ba4a-58ce981a2f39.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-28T01-29-58-439Z_01a0e5a2-0fa6-70e9-ba4a-58ce981a2f39.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4131,
+      "repo_bytes": 4068,
+      "sha256": "886d8df83100539f3f3df31168d2ca3ee0a3f7ef6f0145209157c1bfc3bcfa39"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-28T01-32-58-999Z_01a0e5a4-d0f7-74b9-9232-00b5d8b6ca73.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-28T01-32-58-999Z_01a0e5a4-d0f7-74b9-9232-00b5d8b6ca73.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4131,
+      "repo_bytes": 4068,
+      "sha256": "e7e361c72b324e99eb309841652a07672211766a5bcaffc83155b8aab99088b0"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-28T01-37-59-582Z_01a0e5a9-671e-779b-9f33-4755690a1711.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-28T01-37-59-582Z_01a0e5a9-671e-779b-9f33-4755690a1711.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4131,
+      "repo_bytes": 4068,
+      "sha256": "7148bcc8611e8e858e5f90c70b41ffdd2e711ab6eb829e12bdae7a972e122dc5"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-28T01-48-00-100Z_01a0e5b2-90e3-7141-8a2f-267ec0c266db.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-28T01-48-00-100Z_01a0e5b2-90e3-7141-8a2f-267ec0c266db.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4131,
+      "repo_bytes": 4068,
+      "sha256": "14a283b868c02b5f457b7614c126743fabcf3f0bca74415f664e8e85591c18a2"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/2026-09-28T02-03-00-590Z_01a0e5c0-4e6d-70fc-a34d-75d28c99a90c.jsonl",
+      "repo_path": "paintings/r19-gemf/sessions/pi/2026-09-28T02-03-00-590Z_01a0e5c0-4e6d-70fc-a34d-75d28c99a90c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4131,
+      "repo_bytes": 4068,
+      "sha256": "45fd1a8231dbfb971151e50b37c7b61cfb0ecb72e4601e528fb04f0bf4646d0f"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1220211,
+      "repo_bytes": 1209966,
+      "sha256": "dd0526ed5a768ed119fdeb23759814e000ee7c2b29c786f1aa70ced5a11acb70"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1226966,
+      "repo_bytes": 1209966,
+      "sha256": "e8f4b69086746f9ad85b5b35d50f51fb7b5e070bf8f789b7524d497aa67f1eca"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1223391,
+      "repo_bytes": 1206869,
+      "sha256": "6e93ac18f7687e8bbafae306d1ea31d48e3939bbdc88c1f5525e64349e6d691b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1226966,
+      "repo_bytes": 1209966,
+      "sha256": "6442ed5109eecf533bb988429fa9157ac48a31f04a7d5b7835d18126739df14f"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1220211,
+      "repo_bytes": 1209966,
+      "sha256": "e8f4b69086746f9ad85b5b35d50f51fb7b5e070bf8f789b7524d497aa67f1eca"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1216493,
+      "repo_bytes": 1206748,
+      "sha256": "44105bdc303b5968cc7b2f7cd7069ee1eebb86616a5336dc7b21a7a040beb227"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 08.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 08.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1216636,
+      "repo_bytes": 1206869,
+      "sha256": "6e93ac18f7687e8bbafae306d1ea31d48e3939bbdc88c1f5525e64349e6d691b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 09.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 09.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1223248,
+      "repo_bytes": 1206748,
+      "sha256": "44105bdc303b5968cc7b2f7cd7069ee1eebb86616a5336dc7b21a7a040beb227"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events - version 10.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events - version 10.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1234645,
+      "repo_bytes": 1209966,
+      "sha256": "e8f4b69086746f9ad85b5b35d50f51fb7b5e070bf8f789b7524d497aa67f1eca"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/events.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1220211,
+      "repo_bytes": 1209966,
+      "sha256": "6442ed5109eecf533bb988429fa9157ac48a31f04a7d5b7835d18126739df14f"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Hünengrab im Abendlicht (Gemini 3.8 Flash)/sessions/packet.json",
+      "repo_path": "paintings/r19-gemf/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 24249,
+      "repo_bytes": 21993,
+      "sha256": "b8b7ad03ce5cd5903f399e9a50fb34a37d44d9d797ddafe42d8cc22c892ae589"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "archive": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)",
+  "identity": "db6324",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/finals/r19-lunab - version 02.png",
+      "repo_path": "paintings/r19-lunab/finals/r19-lunab - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6194112,
+      "repo_bytes": 6194112,
+      "sha256": "0bcd24b9d0863242d287f1fc7aafd22c062ae4c923d06e8a828a2a434be4ab1e"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/finals/r19-lunab - version 03.png",
+      "repo_path": "paintings/r19-lunab/finals/r19-lunab - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4986022,
+      "repo_bytes": 4986022,
+      "sha256": "678d22fbba66894f3c630d7fe525b7a46779466f15292a78d9eac441946e099b"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/finals/r19-lunab.png",
+      "repo_path": "paintings/r19-lunab/finals/r19-lunab.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3981200,
+      "repo_bytes": 3981200,
+      "sha256": "97bd8a020755b02edad41f752b17b4315eb69d7439655bfc692db5ed08159e3d"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/lua/LUNAB1_finished.lua",
+      "repo_path": "paintings/r19-lunab/lua/archive/LUNAB1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 11443,
+      "repo_bytes": 11443,
+      "sha256": "5e231e1bc335fac1ede515a799e0f89d0b658ed1b41fc8b6ac9c3d7440129ce6"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/lua/painting.lua",
+      "repo_path": "paintings/r19-lunab/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 11025,
+      "repo_bytes": 11025,
+      "sha256": "e82828a0a156b16cbfbffeedf064aabd5cce1176459fa816a7850156349d9adf"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/2026-09-27T22-59-08-576Z_01a0e517-f8a0-71ef-9834-7a1a1538d868 - version 02.jsonl",
+      "repo_path": "paintings/r19-lunab/sessions/pi/2026-09-27T22-59-08-576Z_01a0e517-f8a0-71ef-9834-7a1a1538d868 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 386134,
+      "repo_bytes": 126396,
+      "sha256": "83590eb6c1f2bf887bf8189264802fab3a9d062806f398fc7d95fa3bff1f4769"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/2026-09-27T22-59-08-576Z_01a0e517-f8a0-71ef-9834-7a1a1538d868.jsonl",
+      "repo_path": "paintings/r19-lunab/sessions/pi/2026-09-27T22-59-08-576Z_01a0e517-f8a0-71ef-9834-7a1a1538d868.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10105860,
+      "repo_bytes": 127859,
+      "sha256": "d994357e02eadfb24e1ac9d004e45ca7c5b0aea53bb4114aef142325c87589db"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/2026-09-27T23-14-57-542Z_01a0e526-7385-7751-b8e9-16cebb496f17 - version 02.jsonl",
+      "repo_path": "paintings/r19-lunab/sessions/pi/2026-09-27T23-14-57-542Z_01a0e526-7385-7751-b8e9-16cebb496f17 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 73221,
+      "repo_bytes": 62475,
+      "sha256": "92bc58a82d33690c7055cc538a4f3bba534b1932dab43e8070abb8a184eb3f8f"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/2026-09-27T23-14-57-542Z_01a0e526-7385-7751-b8e9-16cebb496f17.jsonl",
+      "repo_path": "paintings/r19-lunab/sessions/pi/2026-09-27T23-14-57-542Z_01a0e526-7385-7751-b8e9-16cebb496f17.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1486802,
+      "repo_bytes": 62783,
+      "sha256": "dc1df17e9441cead2c5cb2e30b2cfba4241aee356ab782ec5bed583a1d54096a"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-lunab/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 57544,
+      "repo_bytes": 54846,
+      "sha256": "f4ad8113d517ced113ecc94f4d2b73fd6972a8b3d13acb8f05ea28438732f609"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-lunab/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 56520,
+      "repo_bytes": 54846,
+      "sha256": "f4ad8113d517ced113ecc94f4d2b73fd6972a8b3d13acb8f05ea28438732f609"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-lunab/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 56520,
+      "repo_bytes": 54846,
+      "sha256": "d96b00ca32d2f6898681c4d4d3bdc14d8a99e496ae240f3b2eeff3f2663c4947"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-lunab/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 56929,
+      "repo_bytes": 54301,
+      "sha256": "55c41ae53e9107443c0968abbc24f2d7606065e17d3987f9fd96db234335d6d1"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-lunab/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 55905,
+      "repo_bytes": 54301,
+      "sha256": "55c41ae53e9107443c0968abbc24f2d7606065e17d3987f9fd96db234335d6d1"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-lunab/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 55866,
+      "repo_bytes": 54268,
+      "sha256": "029db27aebe79077be910a29be44e1ae9c2dc9a366fa0154ef9d56dc2754fe65"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Lamp at the Inlet (GPT-6 Luna)/sessions/events.json",
+      "repo_path": "paintings/r19-lunab/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 56890,
+      "repo_bytes": 54268,
+      "sha256": "029db27aebe79077be910a29be44e1ae9c2dc9a366fa0154ef9d56dc2754fe65"
+    }
+  ]
+}

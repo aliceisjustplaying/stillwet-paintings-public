@@ -1,0 +1,213 @@
+{
+  "archive": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)",
+  "identity": "69c343",
+  "files": [
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/finals/r19-gemb - version 02.png",
+      "repo_path": "paintings/r19-gemb/finals/r19-gemb - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7495864,
+      "repo_bytes": 7495864,
+      "sha256": "b7bc06f62f0e55614d82a23a6e13a417757dae9b04c5291424ea25fe6e505a65"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/finals/r19-gemb - version 03.png",
+      "repo_path": "paintings/r19-gemb/finals/r19-gemb - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6418635,
+      "repo_bytes": 6418635,
+      "sha256": "e3051fe1bb8b9127a018226bf10b7048901c254994a8e7ada42136e6f3e46084"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/finals/r19-gemb.png",
+      "repo_path": "paintings/r19-gemb/finals/r19-gemb.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2928094,
+      "repo_bytes": 2928094,
+      "sha256": "465f9e725baf7da5f277cff0ddd092ffd93fd54d5969872057059ff89b6983e7"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/lua/GEMB1_finished.lua",
+      "repo_path": "paintings/r19-gemb/lua/archive/GEMB1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 568876,
+      "repo_bytes": 568876,
+      "sha256": "e789ffa9048de2e6a47f1642321a7047c7614eab954315fd3bf53a16daf2e3a2"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/lua/painting.lua",
+      "repo_path": "paintings/r19-gemb/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 568458,
+      "repo_bytes": 568458,
+      "sha256": "2fb45048b1e9886c8be4ce0b28f2fabd6511c7b7b9c716d3150ccead925cc008"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/2026-09-27T23-09-27-070Z_01a0e521-689d-702a-893d-fcb46c5654f4 - version 02.jsonl",
+      "repo_path": "paintings/r19-gemb/sessions/pi/2026-09-27T23-09-27-070Z_01a0e521-689d-702a-893d-fcb46c5654f4 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 691419,
+      "repo_bytes": 367767,
+      "sha256": "da4d5abdfdfa78a99439f5f7172ce066bbda837296363510d15adc1106a16168"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/2026-09-27T23-09-27-070Z_01a0e521-689d-702a-893d-fcb46c5654f4.jsonl",
+      "repo_path": "paintings/r19-gemb/sessions/pi/2026-09-27T23-09-27-070Z_01a0e521-689d-702a-893d-fcb46c5654f4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 26464690,
+      "repo_bytes": 372890,
+      "sha256": "5c03d3f79648fad0060429a9f247f6dcaf5f6110e766607435a8b1d58a2e6b3b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/2026-09-27T23-30-14-136Z_01a0e534-6ff7-74af-a1b6-6ab89b450e17 - version 02.jsonl",
+      "repo_path": "paintings/r19-gemb/sessions/pi/2026-09-27T23-30-14-136Z_01a0e534-6ff7-74af-a1b6-6ab89b450e17 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 27724527,
+      "repo_bytes": 432104,
+      "sha256": "0db928886aab2f7e81a169340371cc5e94dc540e6784503262a39d1682eb1b48"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/2026-09-27T23-30-14-136Z_01a0e534-6ff7-74af-a1b6-6ab89b450e17.jsonl",
+      "repo_path": "paintings/r19-gemb/sessions/pi/2026-09-27T23-30-14-136Z_01a0e534-6ff7-74af-a1b6-6ab89b450e17.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 775908,
+      "repo_bytes": 422832,
+      "sha256": "ba57e62efcb9c18a83d21c0fa1d24bfa5f7eac506ba87022eb400bc30878e85e"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/2026-09-27T23-55-00-819Z_01a0e54b-1f52-72c4-be3f-d2ab7c625618 - version 02.jsonl",
+      "repo_path": "paintings/r19-gemb/sessions/pi/2026-09-27T23-55-00-819Z_01a0e54b-1f52-72c4-be3f-d2ab7c625618 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1156588,
+      "repo_bytes": 621408,
+      "sha256": "7079979f03ac1cea0f46a15ec96486950f4be8349cc5b050a6482ed05b306e39"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/2026-09-27T23-55-00-819Z_01a0e54b-1f52-72c4-be3f-d2ab7c625618.jsonl",
+      "repo_path": "paintings/r19-gemb/sessions/pi/2026-09-27T23-55-00-819Z_01a0e54b-1f52-72c4-be3f-d2ab7c625618.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 20165393,
+      "repo_bytes": 628602,
+      "sha256": "7a841bb7cbd40caeabcbc22437d37055bcfc57a8ae3f5696afbbbe3ae9811492"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/2026-09-28T01-04-55-321Z_01a0e58b-2018-757c-9878-04a6d594ce37 - version 02.jsonl",
+      "repo_path": "paintings/r19-gemb/sessions/pi/2026-09-28T01-04-55-321Z_01a0e58b-2018-757c-9878-04a6d594ce37 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 701503,
+      "repo_bytes": 391309,
+      "sha256": "bda19aa6fc63d0c79fc6f903a92f06a9ee8ff06c751177bb904859f10ab3d3f0"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/2026-09-28T01-04-55-321Z_01a0e58b-2018-757c-9878-04a6d594ce37.jsonl",
+      "repo_path": "paintings/r19-gemb/sessions/pi/2026-09-28T01-04-55-321Z_01a0e58b-2018-757c-9878-04a6d594ce37.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10801056,
+      "repo_bytes": 394906,
+      "sha256": "bf3593271c4f6e3d8feb364ae622a39109ade600021210324dbc03976121c50b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-gemb/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1233706,
+      "repo_bytes": 1222492,
+      "sha256": "c6ef73c1b2bce0178fb34fd76df915bc8d96eb210ba55304e5b2bdfc7a1f60c0"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-gemb/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1238961,
+      "repo_bytes": 1227080,
+      "sha256": "f9de0017c0e07195436a050a5fc3d317499f244db4b13cdc911e51380d2aeb1a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-gemb/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1233524,
+      "repo_bytes": 1222338,
+      "sha256": "16a0a37f6d416d1c670b640257ca9f9fb56493974e844670c5bcd71a2def57e2"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-gemb/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1248264,
+      "repo_bytes": 1227080,
+      "sha256": "b84f70fb17cc2456afbc3df6e5b91ab44f109d9bde9da1df5b7804ce9d6558c3"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-gemb/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1243009,
+      "repo_bytes": 1222492,
+      "sha256": "c6ef73c1b2bce0178fb34fd76df915bc8d96eb210ba55304e5b2bdfc7a1f60c0"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-gemb/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1238961,
+      "repo_bytes": 1227080,
+      "sha256": "b84f70fb17cc2456afbc3df6e5b91ab44f109d9bde9da1df5b7804ce9d6558c3"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/sessions/events.json",
+      "repo_path": "paintings/r19-gemb/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1242827,
+      "repo_bytes": 1222338,
+      "sha256": "16a0a37f6d416d1c670b640257ca9f9fb56493974e844670c5bcd71a2def57e2"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/video/r19-gemb-1920.mp4",
+      "repo_path": "paintings/r19-gemb/video/r19-gemb-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1888036,
+      "repo_bytes": 1888036,
+      "sha256": "53c760c07290f6efe4b1d230f1f29424820af64b735a69a4dab1d99c65ccc91d"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/video/r19-gemb-720.mp4",
+      "repo_path": "paintings/r19-gemb/video/r19-gemb-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 419614,
+      "repo_bytes": 419614,
+      "sha256": "f478d5e3362fe12408424512237cfdb97959de3e0741707f1e7c4355e97f072b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 Still Life with Clay Pitcher, Quince, and Knife (Gemini 3.8 Flash)/video/r19-gemb.mp4",
+      "repo_path": "paintings/r19-gemb/video/r19-gemb.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 692037,
+      "repo_bytes": 692037,
+      "sha256": "18b8437cdc5e143295ba66bbf96d21d5b9a5db93eae193fcaad63649d8a3b93c"
+    }
+  ]
+}

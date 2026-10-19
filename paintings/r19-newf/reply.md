@@ -1,0 +1,5 @@
+# The painter's last reply
+
+**The Silent Shore**
+
+A solitary traveller pauses where a broken path reaches the winter lake. A dark oak and worn stones frame distant mountains and a ruined chapel, nearly absorbed into pale dawn mist.

@@ -1,0 +1,186 @@
+{
+  "archive": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)",
+  "identity": "f0e4ab",
+  "files": [
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/finals/r19-lunaf - version 02.png",
+      "repo_path": "paintings/r19-lunaf/finals/r19-lunaf - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4659791,
+      "repo_bytes": 4659791,
+      "sha256": "489c2e6ce1259e87aefb77ac0cabf082ee07a226614773f8477888027c55294c"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/finals/r19-lunaf - version 03.png",
+      "repo_path": "paintings/r19-lunaf/finals/r19-lunaf - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7741327,
+      "repo_bytes": 7741327,
+      "sha256": "984eba84017ce04f7148a17cfd60ec57b73ef6985c68023d86eb48184fa7a396"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/finals/r19-lunaf.png",
+      "repo_path": "paintings/r19-lunaf/finals/r19-lunaf.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6096693,
+      "repo_bytes": 6096693,
+      "sha256": "4d346d6ce0bb417e954093024cdc3abb52134ebe817dff641d39371a5c4d4fc2"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/lua/LUNAF1_finished.lua",
+      "repo_path": "paintings/r19-lunaf/lua/archive/LUNAF1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 20712,
+      "repo_bytes": 20712,
+      "sha256": "693d3a4a2523b75fe4bbe83a38274c69fdba3d781d1871593b257a24c3365ffc"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/lua/painting.lua",
+      "repo_path": "paintings/r19-lunaf/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 20294,
+      "repo_bytes": 20294,
+      "sha256": "e059ab3d8f2c85eb4129c2383066ea4bcaf77755bf5a074cf68e948de31ef468"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/2026-09-27T22-59-02-317Z_01a0e517-e02d-712c-ba6a-6004d681852d - version 02.jsonl",
+      "repo_path": "paintings/r19-lunaf/sessions/pi/2026-09-27T22-59-02-317Z_01a0e517-e02d-712c-ba6a-6004d681852d - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 16540770,
+      "repo_bytes": 203518,
+      "sha256": "0a3b5e674d2f6892038b952b7d072dfad03a7c79c11c7972c7cc6161291820f0"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/2026-09-27T22-59-02-317Z_01a0e517-e02d-712c-ba6a-6004d681852d.jsonl",
+      "repo_path": "paintings/r19-lunaf/sessions/pi/2026-09-27T22-59-02-317Z_01a0e517-e02d-712c-ba6a-6004d681852d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 662829,
+      "repo_bytes": 200511,
+      "sha256": "1d26e5ee41032a4be8af45dd6b9b3f82b47b4dd764191dc5ebf25a7ec3d52158"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/2026-09-27T23-21-25-476Z_01a0e52c-5ee4-749a-b1d6-45a3597a119d - version 02.jsonl",
+      "repo_path": "paintings/r19-lunaf/sessions/pi/2026-09-27T23-21-25-476Z_01a0e52c-5ee4-749a-b1d6-45a3597a119d - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4511628,
+      "repo_bytes": 125492,
+      "sha256": "6f20bd0b349ef1d61151abf89768e925de6b9e5541980cc9440f5276db307f9e"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/2026-09-27T23-21-25-476Z_01a0e52c-5ee4-749a-b1d6-45a3597a119d.jsonl",
+      "repo_path": "paintings/r19-lunaf/sessions/pi/2026-09-27T23-21-25-476Z_01a0e52c-5ee4-749a-b1d6-45a3597a119d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 198347,
+      "repo_bytes": 124328,
+      "sha256": "d511f44bee5b5acf1767da5e4fa233e2c5bb274d944ec45d8a6a82a64aa879c8"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/2026-09-27T23-25-23-142Z_01a0e52f-ff46-76ed-a571-08f21fd394b9 - version 02.jsonl",
+      "repo_path": "paintings/r19-lunaf/sessions/pi/2026-09-27T23-25-23-142Z_01a0e52f-ff46-76ed-a571-08f21fd394b9 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 171394,
+      "repo_bytes": 123778,
+      "sha256": "9807cac3cd820ee47fb04b3b7731174722b7b029d0b51572f86bc1ac72fb7e82"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/2026-09-27T23-25-23-142Z_01a0e52f-ff46-76ed-a571-08f21fd394b9.jsonl",
+      "repo_path": "paintings/r19-lunaf/sessions/pi/2026-09-27T23-25-23-142Z_01a0e52f-ff46-76ed-a571-08f21fd394b9.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2546985,
+      "repo_bytes": 124282,
+      "sha256": "42298c450cc8a13056aaa5099f40c16da53e7263988a1975b0829dc7e5db6071"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/2026-09-27T23-27-11-169Z_01a0e531-a541-70c6-9f94-6c98578d5d63 - version 02.jsonl",
+      "repo_path": "paintings/r19-lunaf/sessions/pi/2026-09-27T23-27-11-169Z_01a0e531-a541-70c6-9f94-6c98578d5d63 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3653159,
+      "repo_bytes": 122868,
+      "sha256": "c767de5bcc38ef6d57253ae4d36eaa1d1c3107372210fafcc70a11c31211eb77"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/2026-09-27T23-27-11-169Z_01a0e531-a541-70c6-9f94-6c98578d5d63.jsonl",
+      "repo_path": "paintings/r19-lunaf/sessions/pi/2026-09-27T23-27-11-169Z_01a0e531-a541-70c6-9f94-6c98578d5d63.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 167220,
+      "repo_bytes": 122286,
+      "sha256": "4cdf5072394bcaf1aaabe3664ff056299bb513c9377c712a1288a2896790ee41"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/events - version 02.json",
+      "repo_path": "paintings/r19-lunaf/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 136361,
+      "repo_bytes": 129517,
+      "sha256": "cfc2474e2aee982ba7b571c396ec8b791b9f8ef358a1a9cc4368216ea70f7f95"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/events - version 03.json",
+      "repo_path": "paintings/r19-lunaf/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 135842,
+      "repo_bytes": 131223,
+      "sha256": "52ce65d9d9fa09fb4bfa61d6bf5e651cd11532a50f1298c9177af21013d04b4d"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/events - version 04.json",
+      "repo_path": "paintings/r19-lunaf/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 133962,
+      "repo_bytes": 129517,
+      "sha256": "cfc2474e2aee982ba7b571c396ec8b791b9f8ef358a1a9cc4368216ea70f7f95"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/events - version 05.json",
+      "repo_path": "paintings/r19-lunaf/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 138241,
+      "repo_bytes": 131223,
+      "sha256": "c1ad77be2a1d10fb9aeb0fb9e25c86e2bb4e90d6221c8d19d730183324ec9653"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/events - version 06.json",
+      "repo_path": "paintings/r19-lunaf/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 136413,
+      "repo_bytes": 129561,
+      "sha256": "8281ee70a9d2d0c600f2076e524d5fb80b0cfe9c475cca701c4066822c502045"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/events - version 07.json",
+      "repo_path": "paintings/r19-lunaf/sessions/viewer/events - version 07.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 135842,
+      "repo_bytes": 131223,
+      "sha256": "c1ad77be2a1d10fb9aeb0fb9e25c86e2bb4e90d6221c8d19d730183324ec9653"
+    },
+    {
+      "archive_path": "2026-09-27 r19 The Last Light Over the Lake (GPT-6 Luna)/sessions/events.json",
+      "repo_path": "paintings/r19-lunaf/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 134014,
+      "repo_bytes": 129561,
+      "sha256": "8281ee70a9d2d0c600f2076e524d5fb80b0cfe9c475cca701c4066822c502045"
+    }
+  ]
+}
