@@ -1,0 +1,28 @@
+# The painter's last reply
+
+(•‿•) The painting is finished, with both renders done at about 47 minutes (10:07 to 10:54), well inside the budget.
+
+**"Dolmen in the Snow at Dusk"** (c.1822, post-1820 palette). It's a winter evening just after sunset on flat land:
+- **The skyline:** a passage grave (a big domed capstone on three boulders) sits on a snowy rise, with evening light showing under the stone. A large gnarled oak stands beside it and a broken dead oak behind it, against a lemon afterglow.
+- **The sky:** a young crescent moon with its dark part faintly lit (earthshine) and the evening star. The sky is stippled from cool blue-gray down to the glow.
+- **The far distance:** a thin band of woods and a church spire on the horizon.
+- **The foreground:** a small man in a greatcoat and top hat stands with his back to us, with his footprints leading in. Crows sit in the oak, wind-carved drift lines cross the snow and dry grass sticks up through it.
+
+**Files**
+- 1000px render: `out/r10_winter_a.png`
+- 3200px render: `out/r10_winter_a_full.png`
+- Program: `paintings/src/bin/r10_winter_a.rs`
+- Notes: `notes/r10_winter_a.md` (composition, the method stage by stage, 14 friction items and my critique)
+
+The PNGs are gitignored (`.gitignore:7: out/**/*.png`), so they aren't committed; copies are in `[local path redacted] The program and notes are committed on r10-arm1 (8 commits, latest `fb3e092`), not pushed. I didn't touch the engine.
+
+**Top five friction points**
+1. **The growth model couldn't produce a usable oak.** Across seeds the limb count ranged from 56 to 398. Limbs stayed thick almost to the tip and ended in tufts. `decline: 0.15` still left 49 of 56 limbs dead, and `abort: 0.7` made a pole and a loop. I wrote my own recursive oak, `my_oak`, which returns the engine's `Skeleton` type so it paints the same way (`r10_winter_a.rs:202`).
+2. **Pointed tips are off by default.** tip.md says "every preset has `point: 0.0`, `round_sable` and `rigger` included". So my grass, twigs and wing flicks came out as thick wedges, like thorns, until I set `Tool { point: 1.0, ..Tool::rigger(0.8) }` (`:1027`).
+3. **A brush running dry makes "ladder" bands.** Long limb strokes ran out of paint partway, and the raking-light finish turned the dry bristle tracks into regular light bands across the limb. More medium didn't help; reloading about every 35 units did (`:146`). Nothing tells the painter mid-stroke that the brush is dry.
+4. **Editing a helper function invalidates every checkpoint.** Changing a function above `main` staled every stage, even the sky. The `// ckpt: from <stage>` … `// ckpt: end` tag does work on helpers, but the docs describe it for setup code between stages, so I ran with `--stale-ok` for a long time before I noticed.
+5. **Light dry-brush strokes and cracks.** A few dozen lean, slightly lighter strokes over dark stone came out as bright warm specks, so I replaced them with masked `color_over` passes. And the cracks only quieted with `width_um` (`:1118`). `depth_um`, `dirt`, `grime` and `cupping_um` made no visible difference.
+
+**Critique**
+- **Works:** the silhouettes against the glow, the oak's fine crooked twigs at 3200px, the crescent and the figure.
+- **Still weak:** the dolmen is too neat (smooth stones, snow like icing), the foreground snow is smooth but lacks paint character, the grass is evenly sprinkled and the far woods are flat.

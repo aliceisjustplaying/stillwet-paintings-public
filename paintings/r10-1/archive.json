@@ -1,0 +1,114 @@
+{
+  "archive": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)",
+  "identity": "r10-1",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/finals/r10-1 - version 02.png",
+      "repo_path": "paintings/r10-1/finals/r10-1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11860734,
+      "repo_bytes": 11860734,
+      "sha256": "b383eb6d030a3d2ff31bffaff8769278aee509597501fd9156f7266453303822"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/finals/r10-1 - version 03.png",
+      "repo_path": "paintings/r10-1/finals/r10-1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8963575,
+      "repo_bytes": 8963575,
+      "sha256": "6c61ae41da26cde887209121d96b66843ee3491010f5261e2f25c018a2de8173"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/finals/r10-1.png",
+      "repo_path": "paintings/r10-1/finals/r10-1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8371098,
+      "repo_bytes": 8371098,
+      "sha256": "dce990184a3278fb20dd510088c8454cd9c9c67d4bb8e931ff39b17e7b517e99"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/sessions/2026-09-25T09-06-56-259Z_db3e3023-d3ef6a44-c931cb83-a77e.jsonl",
+      "repo_path": "paintings/r10-1/sessions/pi/2026-09-25T09-06-56-259Z_db3e3023-d3ef6a44-c931cb83-a77e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9859796,
+      "repo_bytes": 743323,
+      "sha256": "d6563c369f6ccc302e77a6b9286f99443471446108e4ce461086394269d6e3c7"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r10-1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 340965,
+      "repo_bytes": 336937,
+      "sha256": "523822a5ef1ad9286568b5cb6e8e2af198ab0913e753e7f314f23f20851a13a4"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/video/r10-1 - version 02.mp4",
+      "repo_path": "paintings/r10-1/video/r10-1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4203535,
+      "repo_bytes": 4203535,
+      "sha256": "e2f0370fc8e69fa8b37237e67c9a4bdf8a3d5f1ca2ccb177c6cb97ffbd057a08"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/video/r10-1 - version 03.mp4",
+      "repo_path": "paintings/r10-1/video/r10-1 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4212870,
+      "repo_bytes": 4212870,
+      "sha256": "6e6f5681260be2acb904f5411dea113a8cb252753ae9b13b1c7a44c028d7f57f"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/video/r10-1 - version 04.mp4",
+      "repo_path": "paintings/r10-1/video/r10-1 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2769113,
+      "repo_bytes": 2769113,
+      "sha256": "fbab70ac155cbbf68be8154dacd70a42416e9479818af0bdfb3a1a8e30102f94"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/video/r10-1-1920.mp4",
+      "repo_path": "paintings/r10-1/video/r10-1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1408808,
+      "repo_bytes": 1408808,
+      "sha256": "7d3afb9ec0af4e31639b59b51c1230b0e7d921ce134cb9f211e654d3aeff4988"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/video/r10-1-720.mp4",
+      "repo_path": "paintings/r10-1/video/r10-1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 306405,
+      "repo_bytes": 306405,
+      "sha256": "0d37f469bcba6978dfa88834a2e2ac8cfcfc71cc4500b2d7fe5ae1f9986dc3b0"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/video/r10-1.mp4",
+      "repo_path": "paintings/r10-1/video/r10-1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1800608,
+      "repo_bytes": 1800608,
+      "sha256": "f6c90f72117794a6d436828e6295196205a866bf0fea41ca84fb808b74111b62"
+    },
+    {
+      "archive_path": "2026-09-25 r10 Dolmen in the Snow at Dusk (Claude Opus 5.5)/video/r10-arm1.mp4",
+      "repo_path": "paintings/r10-1/video/r10-arm1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4339943,
+      "repo_bytes": 4339943,
+      "sha256": "9e172e1242286bf71a1d4061b06d4aa1952e0b1cbbebbc451d1d3ff1e977692c"
+    }
+  ]
+}

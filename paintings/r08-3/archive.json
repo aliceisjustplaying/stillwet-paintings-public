@@ -1,0 +1,357 @@
+{
+  "archive": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)",
+  "identity": "r08-3",
+  "files": [
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/finals/final.jpg",
+      "repo_path": "paintings/r08-3/finals/final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 191339,
+      "repo_bytes": 191339,
+      "sha256": "3213867818c558c3edb1b3c72dff95588940f3fa37f3553f5728fcb6903de9c2"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/finals/r08-3 - version 02.png",
+      "repo_path": "paintings/r08-3/finals/r08-3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9250216,
+      "repo_bytes": 9250216,
+      "sha256": "89483093745eb64c21ab078590687a172ef9479377f55ce8b6f415bfc26127b4"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/finals/r08-3 - version 03.png",
+      "repo_path": "paintings/r08-3/finals/r08-3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 12877784,
+      "repo_bytes": 12877784,
+      "sha256": "aa8409f8768aeb385df9128ba035ec3ffd561dcf8fc48995e6511901a08aa566"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/finals/r08-3.p1000.png",
+      "repo_path": "paintings/r08-3/finals/r08-3.p1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 873918,
+      "repo_bytes": 873918,
+      "sha256": "3bc89f9f4e8ec1d1ddf9842e92ee8a6e190cbc563572573429a74b8629cba3fc"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/finals/r08-3.png",
+      "repo_path": "paintings/r08-3/finals/r08-3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8248580,
+      "repo_bytes": 8248580,
+      "sha256": "fb343087df5b37ab125e4de0d563db8e7dd781cc9f235ad3de35d227d83c6cb0"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c10.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 426,
+      "repo_bytes": 426,
+      "sha256": "6abbf13cf48c53a4e85e4b69ccbd741e247ef55149ad3e340502b0062c09ef5c"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c10b.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c10b.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2079,
+      "repo_bytes": 2079,
+      "sha256": "a8e923220eac9231a2f32ba26d430aa06fa88d146ea39787ba98eb8119687120"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c11.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1778,
+      "repo_bytes": 1778,
+      "sha256": "2912b4a5d0fed98981457a3ce010ce3d6be1f456978418930a295d12cf3b2213"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c12.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1404,
+      "repo_bytes": 1404,
+      "sha256": "ca21e07cceb1286735550f2f57f52029c403588da21d32d6e6302fbaa235ff27"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c13.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1326,
+      "repo_bytes": 1326,
+      "sha256": "a3463be64527624b22dc47e7ac184842d02f90f9b7237d209dcc3162864e0790"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c14.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1453,
+      "repo_bytes": 1453,
+      "sha256": "9668b77153a2e171dd86c0f339c8206c32f1c40a87ca0430d6ff9dc3e2ccac03"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c15.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 358,
+      "repo_bytes": 358,
+      "sha256": "6a0c2c3403d81c3f35ad91bf5645fd798afb9b47ea26c3f10ffd3b09869b145a"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c16.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1105,
+      "repo_bytes": 1105,
+      "sha256": "797c4838fad6898c24b63f4286df3d44ee889ba9fe61b9ed01a5e379cec79f25"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c17.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1414,
+      "repo_bytes": 1414,
+      "sha256": "df022caa32ebaf0bb4a4a5ca6ee99b900f0a633f97305d828e014fc1e0c20674"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c18.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2637,
+      "repo_bytes": 2637,
+      "sha256": "bc7e5b595de5f08b535f38ba0e68463aac0f13dce595bcf62ae3dc0a3b8c0695"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c19.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 412,
+      "repo_bytes": 412,
+      "sha256": "0fef6ddfb968e47fb7f766c28114eff6aa9536a7faccc701fb5520956a214f80"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c2.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1213,
+      "repo_bytes": 1213,
+      "sha256": "0b9f50686add89dac30526a0edd7f9efbdbb9edccd3a3ac20558b06b0e0e5543"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c20.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 843,
+      "repo_bytes": 843,
+      "sha256": "b6438fd68cd2dd70aa1242961356d02ad8e3b15ecad892ed961e9c873de3d6eb"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c21.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1329,
+      "repo_bytes": 1329,
+      "sha256": "90740252bd4d1462fe5cea3d85a7a30f2362c7ec06bcea799dd0a7aed256c5ba"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c22.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c22.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 326,
+      "repo_bytes": 326,
+      "sha256": "d25cbae96183da3c282b27d20614c837c203bdfcb1b2b31f25723fa2a1b7efaf"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c23.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 654,
+      "repo_bytes": 654,
+      "sha256": "5a0f42e52c132712ca203bead8a9d586c8ba3875381ca7c651b1d801d7afe1b8"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c24.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1740,
+      "repo_bytes": 1740,
+      "sha256": "5a37ccaec79a6d634dec5094ddc2a0302e0d8ad71842ff2db4839bd96f9c24a3"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c25.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c25.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 787,
+      "repo_bytes": 787,
+      "sha256": "1708c90674893d6c8f04158239cd747bd3d8eaba51de124614244a1e8e731f7c"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c3.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 672,
+      "repo_bytes": 672,
+      "sha256": "bc788fcd904bd341cd8d16d44edb2f96873ea10f731ed2771ac2782fe5d81dd6"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c4.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 386,
+      "repo_bytes": 386,
+      "sha256": "16ffdfba0618c29a2547a141645dbb5492d028d96e79714fd2f15265cdddeec5"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c5.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1152,
+      "repo_bytes": 1152,
+      "sha256": "8116f170229347cbdea328ca72046241b47cb1b6348084a5a3aa0a5694a9b61e"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c6.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1118,
+      "repo_bytes": 1118,
+      "sha256": "aabe73bb35306b9f3728abb4495db5a9daf25e5f56ad50e2970e62da23ce4aa4"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c7.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 555,
+      "repo_bytes": 555,
+      "sha256": "c269928ab5d81d2234d38af19669d2b1960432b13fb7d2c9bf02e258b3f0fa2e"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c8.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1268,
+      "repo_bytes": 1268,
+      "sha256": "654a549da8dc97159ceab6907552d18c06a9b32bead9b87526f03a79901477ea"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/c9.lua",
+      "repo_path": "paintings/r08-3/lua/archive/c9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1038,
+      "repo_bytes": 1038,
+      "sha256": "001e617b147e72321bb8218588ee9982448eb3861cad3c7e113ab341c0520aba"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/lua/r08-3.lua",
+      "repo_path": "paintings/r08-3/lua/archive/r08-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 28476,
+      "repo_bytes": 28476,
+      "sha256": "3a62a89a9b248826ad44e7eff4a0d13c3a889089cbe0e35446abf683d7cc7a2e"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/sessions/2026-09-24T23-28-51-500Z_627f9e4a-ff3da318-05f67731-e8f1.jsonl",
+      "repo_path": "paintings/r08-3/sessions/pi/2026-09-24T23-28-51-500Z_627f9e4a-ff3da318-05f67731-e8f1.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 12710760,
+      "repo_bytes": 585181,
+      "sha256": "7d17ef9e4fd4d7a0686c7fbce03cfea402ec01be0689adbe18bb6c9af9bae025"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r08-3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 195131,
+      "repo_bytes": 188788,
+      "sha256": "45f33ff674130f3dbf9de874ae85a83ac8f040baf73b68ffdc0d3b909aea72da"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/video/r08-3 - version 02.mp4",
+      "repo_path": "paintings/r08-3/video/r08-3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2464368,
+      "repo_bytes": 2464368,
+      "sha256": "624650ad1f0af5072b5e45aaef24c6bf783df93ce52e22b30104b020107e0686"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/video/r08-3 - version 03.mp4",
+      "repo_path": "paintings/r08-3/video/r08-3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 538781,
+      "repo_bytes": 538781,
+      "sha256": "c26dece043edb3e53726417b9e42491d4282ccbfec122f9a2af7ff1f63f39b74"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/video/r08-3 - version 04.mp4",
+      "repo_path": "paintings/r08-3/video/r08-3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 541909,
+      "repo_bytes": 541909,
+      "sha256": "240095cc409fdca31116521013a4287dae2e03c78aeac0baa6034834d0a1f53c"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/video/r08-3-social.mp4",
+      "repo_path": "paintings/r08-3/video/r08-3-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 554866,
+      "repo_bytes": 554866,
+      "sha256": "f15af90ce5fd80a0cbefeb1a0f1ed53994b6c92fed744f6781d8846d494bb6f9"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/video/r08-3.mp4",
+      "repo_path": "paintings/r08-3/video/r08-3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 444078,
+      "repo_bytes": 444078,
+      "sha256": "d02b99dfcb41fde9a077a600798cbebb9b0f43d4e4e119faac68add73c1c75fb"
+    },
+    {
+      "archive_path": "2026-09-24 r08 Winter Morning by a Frozen Pond (Claude Opus 5.5)/video/r08-arm3.mp4",
+      "repo_path": "paintings/r08-3/video/r08-arm3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2978002,
+      "repo_bytes": 2978002,
+      "sha256": "c3aa14860c6568113fddd2e8215fcf2cfe7c63ae660a5fc4af7c4d3893f6271b"
+    }
+  ]
+}

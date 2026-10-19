@@ -1,0 +1,114 @@
+{
+  "archive": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)",
+  "identity": "r09-2",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/finals/final.jpg",
+      "repo_path": "paintings/r09-2/finals/final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 180578,
+      "repo_bytes": 180578,
+      "sha256": "a4b6fdd85ed142bafd74b5bab9f70c679bded0bca3cadf18eb393db7b3fc5c7e"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/finals/final_mid.jpg",
+      "repo_path": "paintings/r09-2/finals/final_mid.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 156435,
+      "repo_bytes": 156435,
+      "sha256": "523a11ee9e929578b32731533c1cf5a414ee2f7596b6e9b05910a4fb8b145d36"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/finals/r09-2 - version 02.png",
+      "repo_path": "paintings/r09-2/finals/r09-2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8047301,
+      "repo_bytes": 8047301,
+      "sha256": "1307015aded5753215fbf71ff46bba3d36c95e0c78ae6af615ca8920e1af4955"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/finals/r09-2 - version 03.png",
+      "repo_path": "paintings/r09-2/finals/r09-2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11745804,
+      "repo_bytes": 11745804,
+      "sha256": "e86b0fbb8f29b5caac84cb77867ca763fc342d87cfbd13d1c8e93e1222027987"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/finals/r09-2.png",
+      "repo_path": "paintings/r09-2/finals/r09-2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8601644,
+      "repo_bytes": 8601644,
+      "sha256": "bfc3b353948f0e4307c2b66ebfc75ac2a6eb86780d26dc5023b69bdaa1cb7054"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/sessions/2026-09-25T00-18-17-287Z_308ac46f-8193391d-279bc52d-1fe2.jsonl",
+      "repo_path": "paintings/r09-2/sessions/pi/2026-09-25T00-18-17-287Z_308ac46f-8193391d-279bc52d-1fe2.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7311438,
+      "repo_bytes": 549136,
+      "sha256": "cc76b8abbca48f8ae058b60ed84342bebe2e4270ecbde1361c4965c7bc7e3474"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r09-2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 226051,
+      "repo_bytes": 223611,
+      "sha256": "873610b1e1126826c909e18104fdcd335a8e1d5451593fd336de9ff31ebbadc6"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/video/r09-2 - version 02.mp4",
+      "repo_path": "paintings/r09-2/video/r09-2 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4049145,
+      "repo_bytes": 4049145,
+      "sha256": "5b24ae553c20ce3f69a53a4d602052c7af1b4d3016f63b860ebb97e75971402e"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/video/r09-2 - version 03.mp4",
+      "repo_path": "paintings/r09-2/video/r09-2 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1927266,
+      "repo_bytes": 1927266,
+      "sha256": "022e9566c2bcbadc2b4894272b806cb04dfbdab236137be7f0b95a54d1e75bdf"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/video/r09-2 - version 04.mp4",
+      "repo_path": "paintings/r09-2/video/r09-2 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2450035,
+      "repo_bytes": 2450035,
+      "sha256": "1b475ca1bc4908c5912794444a0350ac56cf0cfa97de02f1ae631f2bff59e088"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/video/r09-2.mp4",
+      "repo_path": "paintings/r09-2/video/r09-2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3825832,
+      "repo_bytes": 3825832,
+      "sha256": "d5d9b7565da1763b671930b38a4fc77bef699235adc41573428dc88b9990fcfa"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Morning on the Ryck (Claude Opus 5.5)/video/r09-arm2.mp4",
+      "repo_path": "paintings/r09-2/video/r09-arm2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4859686,
+      "repo_bytes": 4859686,
+      "sha256": "77ec385c39317c6f67eed4f92285937772557438b4b54f4e6d3d13fa34e2625c"
+    }
+  ]
+}

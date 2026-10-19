@@ -1,0 +1,132 @@
+{
+  "archive": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)",
+  "identity": "r09-3",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/finals/final.jpg",
+      "repo_path": "paintings/r09-3/finals/final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 175118,
+      "repo_bytes": 175118,
+      "sha256": "032b2160f42f539f62e73fc4c10997aa415938e5d3676170f2b5f346c4bcf1c0"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/finals/r09-3 - version 02.png",
+      "repo_path": "paintings/r09-3/finals/r09-3 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7994122,
+      "repo_bytes": 7994122,
+      "sha256": "1f9b0e5063b3fe12bc172685325b8a158135267d7ed70772e691260db5261116"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/finals/r09-3 - version 03.png",
+      "repo_path": "paintings/r09-3/finals/r09-3 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11701065,
+      "repo_bytes": 11701065,
+      "sha256": "c9ca2f63ce6bde140d3220353bdcff0caf847fd1eb4d294063b8f09396a109bb"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/finals/r09-3.p1000.png",
+      "repo_path": "paintings/r09-3/finals/r09-3.p1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 840931,
+      "repo_bytes": 840931,
+      "sha256": "4f7d98f3ed71b5c183083347d5e9faf182fccf1413a95016698a61c2e169eba4"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/finals/r09-3.png",
+      "repo_path": "paintings/r09-3/finals/r09-3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8598102,
+      "repo_bytes": 8598102,
+      "sha256": "f14089d7940bcf9bc075e7297b169455bf26ab52b45752db8e099b02f3890968"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/lua/r09-3.lua",
+      "repo_path": "paintings/r09-3/lua/archive/r09-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 27956,
+      "repo_bytes": 27956,
+      "sha256": "0e01082aacc475ee402d35c115b0f46ec891ca5bad351fe04c710eea9b277b0f"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/sessions/2026-09-25T00-18-17-308Z_dd9c83cb-d19d4827-6f50e2c6-910d.jsonl",
+      "repo_path": "paintings/r09-3/sessions/pi/2026-09-25T00-18-17-308Z_dd9c83cb-d19d4827-6f50e2c6-910d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8560297,
+      "repo_bytes": 540119,
+      "sha256": "88924bd9845291ffca92393ed617f046c46bf52988a323f466b9d3c603f2a92b"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r09-3/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 184265,
+      "repo_bytes": 179492,
+      "sha256": "edd6aa1f328e291307448de00fd82fb4cbe93271ca039d08cb031b611b33e825"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/video/r09-3 - version 02.mp4",
+      "repo_path": "paintings/r09-3/video/r09-3 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1925499,
+      "repo_bytes": 1925499,
+      "sha256": "eeb4ecf9a49a7a7c250a7925392863555b3ba5a7b0fb30bdf65855b5776b07c0"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/video/r09-3 - version 03.mp4",
+      "repo_path": "paintings/r09-3/video/r09-3 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 407334,
+      "repo_bytes": 407334,
+      "sha256": "c43a6a2fbc124f7a21490e7e15950c1c418da7a6ddf0af36db13295891e69736"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/video/r09-3 - version 04.mp4",
+      "repo_path": "paintings/r09-3/video/r09-3 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 404206,
+      "repo_bytes": 404206,
+      "sha256": "755a5dfaba0e02fc422b25a190237f2c1546ad7856ededf98548f8b0c2682adb"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/video/r09-3-social.mp4",
+      "repo_path": "paintings/r09-3/video/r09-3-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 422802,
+      "repo_bytes": 422802,
+      "sha256": "9abc5da9d14d08c629639af197b25d3c0ba7b2aa23eb1f09d0529223293f607d"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/video/r09-3.mp4",
+      "repo_path": "paintings/r09-3/video/r09-3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 343440,
+      "repo_bytes": 343440,
+      "sha256": "e3a3ce13e31d959e9e9b1ed63ac6f28ee7721e33dd23412d5d1859f5da97c5c5"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with a Wayside Cross (Claude Opus 5.5)/video/r09-arm3.mp4",
+      "repo_path": "paintings/r09-3/video/r09-arm3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3193097,
+      "repo_bytes": 3193097,
+      "sha256": "60e2b8ea77152cb183852804c3bbb0dcf3d454855d77fef43b9713eb50a8153a"
+    }
+  ]
+}

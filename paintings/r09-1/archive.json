@@ -1,0 +1,132 @@
+{
+  "archive": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)",
+  "identity": "r09-1",
+  "files": [
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/finals/K.png",
+      "repo_path": "paintings/r09-1/finals/K.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 960829,
+      "repo_bytes": 960829,
+      "sha256": "326ece5ede2c468d25b2e7720f6ea90f67ae262a1b4c68357ee14c7c401c3e0a"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/finals/r09-1 - version 02.png",
+      "repo_path": "paintings/r09-1/finals/r09-1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 10244086,
+      "repo_bytes": 10244086,
+      "sha256": "8dceadeff5bd5d7a032bfdef27d23121d4ec19bffc76e51a60d25713831c3839"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/finals/r09-1 - version 03.png",
+      "repo_path": "paintings/r09-1/finals/r09-1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9053729,
+      "repo_bytes": 9053729,
+      "sha256": "f755715aa1c1d3bbd3a847732b3dec030d99648c07e3c2f7c79c92cfee54d611"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/finals/r09-1.png",
+      "repo_path": "paintings/r09-1/finals/r09-1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 13089303,
+      "repo_bytes": 13089303,
+      "sha256": "c219ebe65d9a3b36d0cabf706f321102f0a9c57f2e18d896b58d4db5d9731190"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/lua/r09-1.lua",
+      "repo_path": "paintings/r09-1/lua/archive/r09-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 30735,
+      "repo_bytes": 30735,
+      "sha256": "a380740c7c780e00a33e4fe918974344d2e0398ece7112feaa12b04dca114cac"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/sessions/2026-09-25T00-18-17-266Z_494f5502-c6622cbb-38a84d6f-3ff7.jsonl",
+      "repo_path": "paintings/r09-1/sessions/pi/2026-09-25T00-18-17-266Z_494f5502-c6622cbb-38a84d6f-3ff7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 16788650,
+      "repo_bytes": 687377,
+      "sha256": "7aea494e0d2ce3ca3f83526cb62cdea1b9c9fe58594748bd98bf455f6e0389bd"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r09-1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 274928,
+      "repo_bytes": 266962,
+      "sha256": "57d40c52c8d1f22d7d6f29ecfd5b269bc1526682d860c881918968d66ea7f682"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r09-1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 280426,
+      "repo_bytes": 266962,
+      "sha256": "57d40c52c8d1f22d7d6f29ecfd5b269bc1526682d860c881918968d66ea7f682"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/video/r09-1 - version 02.mp4",
+      "repo_path": "paintings/r09-1/video/r09-1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4051887,
+      "repo_bytes": 4051887,
+      "sha256": "ebed6112f79c70b426e5c1500827c0a68c156c7ce47879ddc78ce45678b15a83"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/video/r09-1 - version 03.mp4",
+      "repo_path": "paintings/r09-1/video/r09-1 - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 742842,
+      "repo_bytes": 742842,
+      "sha256": "2581ea3e5d2d72474963d94a96e161b1c11bfbf04007362eb0d15824f61f5573"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/video/r09-1 - version 04.mp4",
+      "repo_path": "paintings/r09-1/video/r09-1 - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 653236,
+      "repo_bytes": 653236,
+      "sha256": "02b4ccf7bb8e569dc1bb779e7854228da172ab369419e5f3cd4f3bbddc9b2abb"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/video/r09-1-social.mp4",
+      "repo_path": "paintings/r09-1/video/r09-1-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 761292,
+      "repo_bytes": 761292,
+      "sha256": "129ad82694980690899b004e088f13b7990104e8b932334c5e26c6686f1f2eec"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/video/r09-1.mp4",
+      "repo_path": "paintings/r09-1/video/r09-1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 739714,
+      "repo_bytes": 739714,
+      "sha256": "201ce9bcdb72f965fd0c7eb031203edb056b1d2d936fa062084881c7c8d5d1a2"
+    },
+    {
+      "archive_path": "2026-09-25 r09 Winter Evening with Pollard Willows (Claude Opus 5.5)/video/r09-arm1.mp4",
+      "repo_path": "paintings/r09-1/video/r09-arm1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6491746,
+      "repo_bytes": 6491746,
+      "sha256": "71be12929b56a37aa8f78ee89471e6b370e852914fd4fc5aa9689c38ac08a522"
+    }
+  ]
+}
