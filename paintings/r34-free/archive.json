@@ -1,0 +1,456 @@
+{
+  "archive": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)",
+  "identity": "584c74",
+  "files": [
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/finals/r34-free - version 02.png",
+      "repo_path": "paintings/r34-free/finals/r34-free - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5613545,
+      "repo_bytes": 5613545,
+      "sha256": "bb241ecec7f2db0135d6004e24a393742e4ff09acdd77e942884a42c9443ca50"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/finals/r34-free - version 03.png",
+      "repo_path": "paintings/r34-free/finals/r34-free - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2817086,
+      "repo_bytes": 2817086,
+      "sha256": "b5b010d23a7730f449c0eea7f6746ab20a1b3c483501c0d089bb6efb6741dcac"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/finals/r34-free.png",
+      "repo_path": "paintings/r34-free/finals/r34-free.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4150414,
+      "repo_bytes": 4150414,
+      "sha256": "592936f73d6c68cd7a919b9b43bddbd36f6cdf5f16ed9011683f21ad80d9bb65"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/finals/selected-final.png",
+      "repo_path": "paintings/r34-free/finals/selected-final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1750286,
+      "repo_bytes": 1750286,
+      "sha256": "5ba86ef44fe30b8c9080e733360a0e5485fd02795dee10cbcde3e9f4be63eff1"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/FREE1_finished.lua",
+      "repo_path": "paintings/r34-free/lua/archive/FREE1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 78389,
+      "repo_bytes": 78389,
+      "sha256": "e56afbe2acf1c87c88d538c3259d891e2c38db97f4e7df424f2345e99e83e3f1"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r34-free/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 77971,
+      "repo_bytes": 77971,
+      "sha256": "5216b23c86a0e085e00f0551406b43f10375abdb52b19dba0e56e0210ffef047"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-1.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1130,
+      "repo_bytes": 1130,
+      "sha256": "90b8990888b71895471437c454462f9a8668b5127d6a39871dd4bf0356b7bbcc"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-10.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3084,
+      "repo_bytes": 3084,
+      "sha256": "5f75736c3042f60edc133d3f3527d951668bbd9b8e2020b4b545480be7141bb6"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-11.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5883,
+      "repo_bytes": 5883,
+      "sha256": "fc0912123d48144dbea67bbfcc0f9df5eae53cfb0d35b73bd0c0be368ac4e081"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-12.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2329,
+      "repo_bytes": 2329,
+      "sha256": "fa7560351ed90ec74f83dbbdf6f5294fb56715baa341dcf57d22bd7c01ff3311"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-13.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2635,
+      "repo_bytes": 2635,
+      "sha256": "9a9261bdb92da33817d6cf5310e783b2e7c6f5a43165fc47b9bc1d2b8c853eeb"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-14.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3592,
+      "repo_bytes": 3592,
+      "sha256": "19782002024b5c59aea4df6149eb5ba633b949f29ad0d8969ce1fd99779755f6"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-15.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5363,
+      "repo_bytes": 5363,
+      "sha256": "6da6e3753919a2c5e6571db5d08525fd10c9ff56e2c8a2860f450d283d2f9de0"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-16.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3272,
+      "repo_bytes": 3272,
+      "sha256": "f29c9dcbf4f3b61eb2d7027e13bb9dac68e6f4ea6eaf73b83f1a1075e8263137"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-17.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5377,
+      "repo_bytes": 5377,
+      "sha256": "d54d198d2335027dda44891238f3a1d9c64dadda8aae7eae64696afa552fa381"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-18.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1559,
+      "repo_bytes": 1559,
+      "sha256": "db26eccbaf78d95af0ea40122e977c8d885e4d00fd02b7a2b73b099c5cf27c64"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-19.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6127,
+      "repo_bytes": 6127,
+      "sha256": "9cc783c995ffa2da5181fa5193bd4433e136ee060b459918a3dd0804c06135e5"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-2.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3213,
+      "repo_bytes": 3213,
+      "sha256": "007f7a1879f02c6e218f6a5dd50fcd77d7e3d0075a49344ed3b2c57bd6a31674"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-20.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1276,
+      "repo_bytes": 1276,
+      "sha256": "0a18e21b0a6e58ddfdbf40efd286271761cafcfc4b0d48fe596ad11b34aa3dae"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-21.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3772,
+      "repo_bytes": 3772,
+      "sha256": "faf015c273b02785e4bfcf022b90b0ac74e79db70cca57ab2838f08b37f612ba"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-22.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-22.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4163,
+      "repo_bytes": 4163,
+      "sha256": "f377da9e71d067626639520d28ac2b71fcd6968ab296b5ac4ea587cc69d42a89"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-23.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2810,
+      "repo_bytes": 2810,
+      "sha256": "a593fbd0a112465920d865d641dd6a3658d5ea73dc90db3a1da6b67866297666"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-24.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1303,
+      "repo_bytes": 1303,
+      "sha256": "7d543c7e139a023cb7795026dbbacd92253dbd32fb9bf92abd949e778633b8c6"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-25.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-25.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2733,
+      "repo_bytes": 2733,
+      "sha256": "e2f1ec6ee4db8aa22f112006ce66c335019ae3d77186b17804e10a9a463814e0"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-26.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-26.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2649,
+      "repo_bytes": 2649,
+      "sha256": "5b7b9ce66a41a7625959b4bac28f07a1c1b41f0bb532963abf905bc61b9aa756"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-27.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-27.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4589,
+      "repo_bytes": 4589,
+      "sha256": "b090a041c4cb6ef46a110c86b4b3f7c013786e2e0b5dc972d590ee2c12ec1c03"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-28.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-28.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6943,
+      "repo_bytes": 6943,
+      "sha256": "9c483e6dbc3fbe965951dc253b1b8a96526bebede3cabb512c0b165a518bbf61"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-29.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-29.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6635,
+      "repo_bytes": 6635,
+      "sha256": "f303eb4ba6c628fc4fb1a503e975d5c5513462f84d9cd21c7ec9c06a1c7b6f8d"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-3.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2089,
+      "repo_bytes": 2089,
+      "sha256": "797284b6eb411131de4c823cc10cf47514babeb7cf6850be044d230b111b9f55"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-30.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-30.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1277,
+      "repo_bytes": 1277,
+      "sha256": "5cf7117b99bfe0dee999ca10387f76f4c38847d27e1dad15338b0a7b01adff66"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-31.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-31.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2288,
+      "repo_bytes": 2288,
+      "sha256": "81729c9a18d8a2ffab7b9c595104c1f1d819d01780c6023eae182339464e26cd"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-32.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-32.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1414,
+      "repo_bytes": 1414,
+      "sha256": "d3fc4981f56885e388ec926e859c6374eca9849ccd98e88ad8abf3b236ebb4a0"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-33.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-33.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1750,
+      "repo_bytes": 1750,
+      "sha256": "2721cd30138d0b38c81362b2e74c888f0046246071f1114e3b35c9610bc444e9"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-4.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3257,
+      "repo_bytes": 3257,
+      "sha256": "5437c61daee3e091973cb1fa7661967c63fec92afaa5a4749a7f7f460a07295a"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-5.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3334,
+      "repo_bytes": 3334,
+      "sha256": "5b43d36fef7eaa7812955d8f0d99ddfa77f35d1dc7e4160e7b8be8d325fcf14b"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-6.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1444,
+      "repo_bytes": 1444,
+      "sha256": "ce54bc546bdbd10f48cebe7c79f6c42c52920aa6b889e5fb4a551b8c81b8106c"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-7.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1703,
+      "repo_bytes": 1703,
+      "sha256": "1338b9c7313d6e5f4b01d0c64e35e24dc8fe70ada7b17bf9ca46e83639cf6c7c"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-8.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2410,
+      "repo_bytes": 2410,
+      "sha256": "4972379e483912f5944fbb5565be3e2693d3edb7732330ef38a777bbafa2a429"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch-9.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1704,
+      "repo_bytes": 1704,
+      "sha256": "225857818f1bd16caf344faf305e3a12f61d04f7e9a29de6f05694fe503ead38"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/lua/scratch.lua",
+      "repo_path": "paintings/r34-free/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1838,
+      "repo_bytes": 1838,
+      "sha256": "5aef5965b49104ab199eececf5ed00ca41bb45f4367d1ac9c509d1bcb5296bb6"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/journal-revisions.jsonl",
+      "repo_path": "paintings/r34-free/sessions/native/journal-revisions.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 167799,
+      "repo_bytes": 167799,
+      "sha256": "9f059f90b9081610ec215e5b5921fba206b7f1d410c585947096c00b59acbb16"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/2026-10-07T18-39-45-180Z_01a117aa-161b-7085-a47c-adde2471f147.jsonl",
+      "repo_path": "paintings/r34-free/sessions/pi/2026-10-07T18-39-45-180Z_01a117aa-161b-7085-a47c-adde2471f147.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 105403517,
+      "repo_bytes": 13531374,
+      "sha256": "75428f8a3487b0a5f9e1004ccd434862db6f532c31c90d1939fb86fff072d581"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/2026-10-07T20-06-22-248Z_01a117f9-6327-736b-95d6-320301c2e53b.jsonl",
+      "repo_path": "paintings/r34-free/sessions/pi/2026-10-07T20-06-22-248Z_01a117f9-6327-736b-95d6-320301c2e53b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 18439159,
+      "repo_bytes": 714603,
+      "sha256": "8542e14c675002b09dd8f80f03b607c788063916ce631d790922ffeb9032ceda"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/2026-10-07T20-24-26-026Z_01a11809-ecaa-71f4-80fa-9c11016b3cb0.jsonl",
+      "repo_path": "paintings/r34-free/sessions/pi/2026-10-07T20-24-26-026Z_01a11809-ecaa-71f4-80fa-9c11016b3cb0.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 24783981,
+      "repo_bytes": 1091477,
+      "sha256": "49dbbcbcce61b0fecaddce11de34a07adbf4f6ba770583ad5ca7ed077a4d041c"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/2026-10-07T20-51-16-305Z_01a11822-7ed0-7113-ab3d-96d4039e0c3a.jsonl",
+      "repo_path": "paintings/r34-free/sessions/pi/2026-10-07T20-51-16-305Z_01a11822-7ed0-7113-ab3d-96d4039e0c3a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 19791181,
+      "repo_bytes": 597713,
+      "sha256": "d3db7c77d2d86659e40ee8b6aae10fdc38ab07c70cae2c45b64e25617c382456"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/2026-10-07T21-12-14-077Z_01a11835-affc-7511-a8a4-bdd6d836dbeb.jsonl",
+      "repo_path": "paintings/r34-free/sessions/pi/2026-10-07T21-12-14-077Z_01a11835-affc-7511-a8a4-bdd6d836dbeb.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 20311215,
+      "repo_bytes": 628848,
+      "sha256": "4b52db81d3c41900f5283b949d63d2173181205b8b96ec7b9d51b2f689caad99"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r34-free/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1626167,
+      "repo_bytes": 1595319,
+      "sha256": "955d8e03ef84e5f00237abe315dc13c6cac8f14c73de3995d76911c4a9016018"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r34-free/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1665459,
+      "repo_bytes": 1596033,
+      "sha256": "12166c93288dc9cbbc662cb3a9225f6701b4bc805aa2096a1c59518b1eda248f"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/sessions/events.json",
+      "repo_path": "paintings/r34-free/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1626949,
+      "repo_bytes": 1596033,
+      "sha256": "12166c93288dc9cbbc662cb3a9225f6701b4bc805aa2096a1c59518b1eda248f"
+    },
+    {
+      "archive_path": "2026-10-07 r34 Evening Light on Still Water (Claude Haiku 5.5)/video/r34-free.mp4",
+      "repo_path": "paintings/r34-free/video/r34-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1459107,
+      "repo_bytes": 1459107,
+      "sha256": "cfdb36f5cd6e4e93a313d18343dd3c2e90f1d77c3a2cc24cac2e29fdfa4fe150"
+    }
+  ]
+}

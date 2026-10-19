@@ -1,0 +1,195 @@
+{
+  "archive": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)",
+  "identity": "49b647",
+  "files": [
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/finals/r30-hopr - version 02.png",
+      "repo_path": "paintings/r30-hopr/finals/r30-hopr - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1507472,
+      "repo_bytes": 1507472,
+      "sha256": "4ebd1d89d2ca1ce9408eef6dcf6a1343ea178a7dbc0bc4907903cf0b0ab52a46"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/finals/r30-hopr - version 03.png",
+      "repo_path": "paintings/r30-hopr/finals/r30-hopr - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5655365,
+      "repo_bytes": 5655365,
+      "sha256": "0c9f9b19181537b1a715beb737832600577953e709d38abb5684f30ece3caa60"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/finals/r30-hopr-color.jpg",
+      "repo_path": "paintings/r30-hopr/finals/r30-hopr-color.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 119919,
+      "repo_bytes": 119919,
+      "sha256": "480585975587d2a56d7ca79e998b5118f83cd42fbbaedc8057817cedf85c62e8"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/finals/r30-hopr-gallery.jpg",
+      "repo_path": "paintings/r30-hopr/finals/r30-hopr-gallery.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 178395,
+      "repo_bytes": 178395,
+      "sha256": "59552a6da281df406d9064fe857e6f581b4756ccedbaee852485142c3f16f736"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/finals/r30-hopr-relief.jpg",
+      "repo_path": "paintings/r30-hopr/finals/r30-hopr-relief.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 295005,
+      "repo_bytes": 295005,
+      "sha256": "2dd9f114320dbbb70f8691484509532f0b87e61e094fd5f2e8f581360676c63b"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/finals/r30-hopr.png",
+      "repo_path": "paintings/r30-hopr/finals/r30-hopr.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3975079,
+      "repo_bytes": 3975079,
+      "sha256": "fe497dc7ef6cab682fa35a3edb9c796907d78e79221e4a087f08c091e9309a3e"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/lua/HOPR1_finished.lua",
+      "repo_path": "paintings/r30-hopr/lua/archive/HOPR1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 63576,
+      "repo_bytes": 63576,
+      "sha256": "1d0bda9a34acd1a9af890873eb5bac0471680dd85cff0cfa397b9e7db8dce19b"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r30-hopr/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 63158,
+      "repo_bytes": 63158,
+      "sha256": "5252d62b368dae8744b2a8d656d16a9ad01f9749f1952065607bf79ef3bb3966"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/lua/r30-hopr-plain.lua",
+      "repo_path": "paintings/r30-hopr/lua/archive/r30-hopr-plain.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 63662,
+      "repo_bytes": 63662,
+      "sha256": "ea524179c2cbc69e38e1cc5c9aafa285bc7758d024962ce60112691a0839b777"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/sessions/2026-10-05T21-25-14-317Z_01a10df4-dfcb-7641-a89f-b1bfddac2ea6.jsonl",
+      "repo_path": "paintings/r30-hopr/sessions/pi/2026-10-05T21-25-14-317Z_01a10df4-dfcb-7641-a89f-b1bfddac2ea6.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 29136087,
+      "repo_bytes": 1122276,
+      "sha256": "7c32756dd86022770fe4345bb92ba8878195ea85fc6720c23c80ccf49b9faf01"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/sessions/2026-10-05T22-05-20-701Z_01a10e19-97b5-7475-bd25-02a1b3089b48.jsonl",
+      "repo_path": "paintings/r30-hopr/sessions/pi/2026-10-05T22-05-20-701Z_01a10e19-97b5-7475-bd25-02a1b3089b48.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 12790841,
+      "repo_bytes": 538433,
+      "sha256": "e400f9b9d0c7595d3d55ff735adc41e5a43871d1c5acc5cf8016eaae66dc5175"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/sessions/2026-10-05T22-16-17-635Z_01a10e23-9de2-761a-9e7c-1356f602c8b8.jsonl",
+      "repo_path": "paintings/r30-hopr/sessions/pi/2026-10-05T22-16-17-635Z_01a10e23-9de2-761a-9e7c-1356f602c8b8.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3145832,
+      "repo_bytes": 163068,
+      "sha256": "c166a5a144fb795c044c6a2fb2615a0726d2dacad7bb741ea725ebd04502cf67"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/sessions/2026-10-05T22-19-28-775Z_01a10e26-8885-75d5-8cce-a3f319edbaa2.jsonl",
+      "repo_path": "paintings/r30-hopr/sessions/pi/2026-10-05T22-19-28-775Z_01a10e26-8885-75d5-8cce-a3f319edbaa2.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1552488,
+      "repo_bytes": 51630,
+      "sha256": "5a0bde06cb359b5235de8bd09cf851165551b73cc495a432ef7d402bc6d12ed5"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r30-hopr/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 302860,
+      "repo_bytes": 294198,
+      "sha256": "3f9643062fd92fd3a3aecbfd686c4b49bcf4dc0458bf3fb588625b85ca3db315"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r30-hopr/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 313565,
+      "repo_bytes": 294198,
+      "sha256": "3c98e9270675a7024fbb6f49d65598b3eec9c2e706b43aeb97401196ab0ad8a2"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r30-hopr/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 302860,
+      "repo_bytes": 294198,
+      "sha256": "3c98e9270675a7024fbb6f49d65598b3eec9c2e706b43aeb97401196ab0ad8a2"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/video/r30-hopr - version 02.mp4",
+      "repo_path": "paintings/r30-hopr/video/r30-hopr - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1220891,
+      "repo_bytes": 1220891,
+      "sha256": "8039ba05224d592f3d4e2c46df08f73fe599fb1619f5b64cc094f11ac5ee2c08"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/video/r30-hopr-endfirst.mp4",
+      "repo_path": "paintings/r30-hopr/video/r30-hopr-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2271783,
+      "repo_bytes": 2271783,
+      "sha256": "d8149320e5b3f42af3a360d076aa28c95c90d01ce409175f9ab836ab3afabcd4"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/video/r30-hopr-plain-endfirst.mp4",
+      "repo_path": "paintings/r30-hopr/video/r30-hopr-plain-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1696833,
+      "repo_bytes": 1696833,
+      "sha256": "4a4119700214c6cdb4feb1a8b804eacea8e5a28ac0f029c3cbb73a35410fec78"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/video/r30-hopr-plain.mp4",
+      "repo_path": "paintings/r30-hopr/video/r30-hopr-plain.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1096345,
+      "repo_bytes": 1096345,
+      "sha256": "42ba08f025f746dc4c91629e3a9c3a62112f3bcc116e54b5ec1f9967e6be3441"
+    },
+    {
+      "archive_path": "2026-10-05 r30 Luncheonette, Four O'Clock (Claude Opus 5.5)/video/r30-hopr.mp4",
+      "repo_path": "paintings/r30-hopr/video/r30-hopr.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1383002,
+      "repo_bytes": 1383002,
+      "sha256": "c8c42cbf15347161d9ee8f1449524ea238a5dd29c1e2d5596ef3b2ae0a7bac20"
+    }
+  ]
+}

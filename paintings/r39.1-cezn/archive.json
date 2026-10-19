@@ -1,0 +1,294 @@
+{
+  "archive": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)",
+  "identity": "4d09c6",
+  "files": [
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/finals/r39.1-cezn - version 02.png",
+      "repo_path": "paintings/r39.1-cezn/finals/r39.1-cezn - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 11319405,
+      "repo_bytes": 11319405,
+      "sha256": "cde81df471c72de7f136ec4541b6c1384856c570fc473af3a5e16ecf91531c9b"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/finals/r39.1-cezn - version 03.png",
+      "repo_path": "paintings/r39.1-cezn/finals/r39.1-cezn - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7736873,
+      "repo_bytes": 7736873,
+      "sha256": "89c1fe06e2f523968aad37840eeb29517bdda3aad540e2bb6c83b0ebea861057"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/finals/r39.1-cezn.png",
+      "repo_path": "paintings/r39.1-cezn/finals/r39.1-cezn.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3478444,
+      "repo_bytes": 3478444,
+      "sha256": "a107c6a516ed2f38a5d03f71889131d3e924a58d344733be4e1311859109eb49"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/lua/CEZN1_finished-e7-w12.lua",
+      "repo_path": "paintings/r39.1-cezn/lua/archive/CEZN1_finished-e7-w12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 122480,
+      "repo_bytes": 122480,
+      "sha256": "bbac9d88ba8c4169a8ad4cb0b8a631af125d731e1ce3610c4e92ffd09cb6610a"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/lua/CEZN1_finished.lua",
+      "repo_path": "paintings/r39.1-cezn/lua/archive/CEZN1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 122898,
+      "repo_bytes": 122898,
+      "sha256": "f47dc6790c1a3ed2935e74fa0bd2e56ed14f9f1785c287ea3ff95a46f6d3bcd9"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/lua/painting - version 02.lua",
+      "repo_path": "paintings/r39.1-cezn/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 121224,
+      "repo_bytes": 121224,
+      "sha256": "d23778510ed03306350a8f1a2c01df1b68b783e356b0ed05684c5e37786b0f33"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/lua/painting - version 03.lua",
+      "repo_path": "paintings/r39.1-cezn/lua/archive/painting - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 92440,
+      "repo_bytes": 92440,
+      "sha256": "23737ad29bee8a2630d44e0c2ef4046d4810606669ac28faf952ef34a236f458"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r39.1-cezn/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 122480,
+      "repo_bytes": 122480,
+      "sha256": "ddffbf1d9fe18526635e5758b7650f04d7ea03aee5aae29997438277df709ae1"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "paintings/r39.1-cezn/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5053,
+      "repo_bytes": 5053,
+      "sha256": "afb401d96e5429b3a2ca8da810b16f8d6825257bf5d8c1b8c3b740ff6e869f62"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "paintings/r39.1-cezn/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1719,
+      "repo_bytes": 1719,
+      "sha256": "4b3ce8807f4b20218850509ec804b257d8cab411f928e3e2609bf89c7a01a3bd"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "paintings/r39.1-cezn/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 9902,
+      "repo_bytes": 9902,
+      "sha256": "f8eb6ae4b223ca98fc7fa2cc6107ad3a7efc4d8326e0322552c7a6ea822d29f4"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T19-47-04-766Z_01a1275a-cdbd-77cf-bdc3-3cd2828b649e - version 02.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T19-47-04-766Z_01a1275a-cdbd-77cf-bdc3-3cd2828b649e - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 98728873,
+      "repo_bytes": 2640894,
+      "sha256": "5a73042c2d87efde15128f37bf58eb56f6083e91273d038aea8dbacc0701b46e"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T19-47-04-766Z_01a1275a-cdbd-77cf-bdc3-3cd2828b649e - version 03.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T19-47-04-766Z_01a1275a-cdbd-77cf-bdc3-3cd2828b649e - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3100583,
+      "repo_bytes": 2639927,
+      "sha256": "46b1a7bdf07a5810b6b21756e1d4b03adcf47cb8ea502bcbc94e1831c1b9ecc3"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T19-47-04-766Z_01a1275a-cdbd-77cf-bdc3-3cd2828b649e.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T19-47-04-766Z_01a1275a-cdbd-77cf-bdc3-3cd2828b649e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 98726641,
+      "repo_bytes": 2639438,
+      "sha256": "d3eecaeaf75699305ac33a02f1f4970df4d709bc6970d364764ca40b2f32f211"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-29-45-543Z_01a12781-e0c6-7097-8f99-b42690bab010 - version 02.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-29-45-543Z_01a12781-e0c6-7097-8f99-b42690bab010 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 406764,
+      "repo_bytes": 313471,
+      "sha256": "ea49ddf12b5ddda8a743e6cbbb52f35bc52343ea6696a9826215d1ba5ecd4925"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-29-45-543Z_01a12781-e0c6-7097-8f99-b42690bab010 - version 03.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-29-45-543Z_01a12781-e0c6-7097-8f99-b42690bab010 - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 15019685,
+      "repo_bytes": 316353,
+      "sha256": "2ef31e51499e3c92e7dbebd18a47fb2ec7bb5064ccb0201cb3643befb71fcc91"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-29-45-543Z_01a12781-e0c6-7097-8f99-b42690bab010.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-29-45-543Z_01a12781-e0c6-7097-8f99-b42690bab010.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 15020297,
+      "repo_bytes": 315963,
+      "sha256": "d70203c1c7bb3ef882800dba2a464c26fb6dee02bb6a07ca40bda09649468eba"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-36-16-447Z_01a12787-d7be-7612-b132-66100b861318 - version 02.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-36-16-447Z_01a12787-d7be-7612-b132-66100b861318 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9590424,
+      "repo_bytes": 218519,
+      "sha256": "71f6324c1220702bb2cc61bf2d6f10f3f7eb8da72547ecc39fa291bb18672350"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-36-16-447Z_01a12787-d7be-7612-b132-66100b861318 - version 03.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-36-16-447Z_01a12787-d7be-7612-b132-66100b861318 - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 255257,
+      "repo_bytes": 217202,
+      "sha256": "53d0cfce9b2911eea53e178b1cef240e60b2f3eb9d38bf2515e52a0b68ea0a6c"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-36-16-447Z_01a12787-d7be-7612-b132-66100b861318.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-36-16-447Z_01a12787-d7be-7612-b132-66100b861318.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9590064,
+      "repo_bytes": 218337,
+      "sha256": "143dfc7ac496010c74828af9abc9dce2ee8aaf1ef1c4b65aa8619b7a2a188068"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-38-58-136Z_01a1278a-4f53-713f-b4d3-85fbc82fad0b - version 02.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-38-58-136Z_01a1278a-4f53-713f-b4d3-85fbc82fad0b - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 690537,
+      "repo_bytes": 543342,
+      "sha256": "c3746fd28a5451a573bd07db1274e89d7098a0a397a9731bc07e6b17e217d555"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-38-58-136Z_01a1278a-4f53-713f-b4d3-85fbc82fad0b - version 03.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-38-58-136Z_01a1278a-4f53-713f-b4d3-85fbc82fad0b - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 28780880,
+      "repo_bytes": 545560,
+      "sha256": "9a026f56d90b22ca9d7240a857c5edca1e8d9ed2849af73162051f5ebbf9a171"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-38-58-136Z_01a1278a-4f53-713f-b4d3-85fbc82fad0b.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-38-58-136Z_01a1278a-4f53-713f-b4d3-85fbc82fad0b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 28781708,
+      "repo_bytes": 545066,
+      "sha256": "9d2d73ee418198db4865b0778ddf1f2c512302097ec7651595bf1d3d46aef802"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-51-11-154Z_01a12795-7eb1-75b9-ac32-a320b0524d8d - version 02.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-51-11-154Z_01a12795-7eb1-75b9-ac32-a320b0524d8d - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7028034,
+      "repo_bytes": 70726,
+      "sha256": "4dee3a7be99016e2682827e2e57bd91d858af42fffea2d2f70528556e8b128bd"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-51-11-154Z_01a12795-7eb1-75b9-ac32-a320b0524d8d - version 03.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-51-11-154Z_01a12795-7eb1-75b9-ac32-a320b0524d8d - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 246761,
+      "repo_bytes": 212561,
+      "sha256": "d27bb3496a2c9284e1b165b6fc5ef3708de0968a41baffa7f061b31962a3f84c"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-51-11-154Z_01a12795-7eb1-75b9-ac32-a320b0524d8d.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-51-11-154Z_01a12795-7eb1-75b9-ac32-a320b0524d8d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10292705,
+      "repo_bytes": 213793,
+      "sha256": "9d4e4e2f67ee9b2b62b302ae439c69e62445bc716518cb8bbe9b7c9afa4f74c3"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-53-25-007Z_01a12797-898c-73c7-bd95-70961eb84304 - version 02.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-53-25-007Z_01a12797-898c-73c7-bd95-70961eb84304 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 98620,
+      "repo_bytes": 85861,
+      "sha256": "e317d7517e7b66acd65c03fadac6767f016fc9e714639155b6c3d610151ba221"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/2026-10-10T20-53-25-007Z_01a12797-898c-73c7-bd95-70961eb84304.jsonl",
+      "repo_path": "paintings/r39.1-cezn/sessions/pi/2026-10-10T20-53-25-007Z_01a12797-898c-73c7-bd95-70961eb84304.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5685813,
+      "repo_bytes": 86995,
+      "sha256": "0ec3bb766b112bcdfc017ab3e38653476457c43cb128247825686d3cde1b016b"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r39.1-cezn/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 474938,
+      "repo_bytes": 463942,
+      "sha256": "73b3cb93e07e04e9d16f2faeba9df4234686a8498a2713c6a86448e2a7e823cb"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r39.1-cezn/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 490123,
+      "repo_bytes": 463942,
+      "sha256": "73b3cb93e07e04e9d16f2faeba9df4234686a8498a2713c6a86448e2a7e823cb"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/video/r39.1-cezn-gallery-timelapse-1920x1536.mp4",
+      "repo_path": "paintings/r39.1-cezn/video/r39.1-cezn-gallery-timelapse-1920x1536.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 9270171,
+      "repo_bytes": 9270171,
+      "sha256": "bb01ac7bdfdbbe1d28f84aa66022ecb0fc76ab31c871889f4ee78c8c04bfc01b"
+    },
+    {
+      "archive_path": "2026-10-10 r39.1 The Village below the Mountain, with Two Pines (Claude Opus 5.5)/video/r39.1-cezn.mp4",
+      "repo_path": "paintings/r39.1-cezn/video/r39.1-cezn.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 8503813,
+      "repo_bytes": 8503813,
+      "sha256": "68d7873709e33cbf70f08f82d7c04df35022af533c407dc94ed9e58437815595"
+    }
+  ]
+}

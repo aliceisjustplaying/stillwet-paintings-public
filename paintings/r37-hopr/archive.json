@@ -1,0 +1,177 @@
+{
+  "archive": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)",
+  "identity": "46544a",
+  "files": [
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/finals/r37-hopr - version 02.png",
+      "repo_path": "paintings/r37-hopr/finals/r37-hopr - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1644033,
+      "repo_bytes": 1644033,
+      "sha256": "019b191ad657a72482dfd68d2adbcedbda018ee73e2ced34f89fe3050223e91e"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/finals/r37-hopr - version 03.png",
+      "repo_path": "paintings/r37-hopr/finals/r37-hopr - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7062702,
+      "repo_bytes": 7062702,
+      "sha256": "0b4101831eb3bfdbc21a1dff3e16c217c7bdc59b7b29aa07bb44b17d10af3068"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/finals/r37-hopr.png",
+      "repo_path": "paintings/r37-hopr/finals/r37-hopr.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5212768,
+      "repo_bytes": 5212768,
+      "sha256": "b9d1d3e2bf6c12419a1e0a1de45299b1b1966de9981ceba221d76c7cf517a57d"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/finals/selected-final.png",
+      "repo_path": "paintings/r37-hopr/finals/selected-final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1163520,
+      "repo_bytes": 1163520,
+      "sha256": "e2e934d13cd3ea197695a8c1a7f7f3b5570dcd36848aa333c6f8931e32e393ed"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/lua/HOPR1_finished.lua",
+      "repo_path": "paintings/r37-hopr/lua/archive/HOPR1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 14491,
+      "repo_bytes": 14491,
+      "sha256": "77f22d14b780127a222d4b0da4bf7e7e2f9dfca02412daca9babc816cc635281"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/lua/painting.lua",
+      "repo_path": "paintings/r37-hopr/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 14073,
+      "repo_bytes": 14073,
+      "sha256": "961d9f2a7d2a0b40580d7ae648fbdc2dc3f4d1d987c7252bd944bd6b872d40e9"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/lua/scratch.lua",
+      "repo_path": "paintings/r37-hopr/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1223,
+      "repo_bytes": 1223,
+      "sha256": "957181b4c46f32a32651fb1a656b39fc12cd8fdf13107ad80cdfb19a5d3bdd3f"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/2026-10-07T22-17-47-906Z_01a11871-b681-7207-81bc-fa99acd41045 - version 02.jsonl",
+      "repo_path": "paintings/r37-hopr/sessions/pi/2026-10-07T22-17-47-906Z_01a11871-b681-7207-81bc-fa99acd41045 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 220566,
+      "repo_bytes": 164304,
+      "sha256": "64e766ac5ad088fba8330b15063282a8ceeac2b26b0d9fddfcde33cbb7b07703"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/2026-10-07T22-17-47-906Z_01a11871-b681-7207-81bc-fa99acd41045.jsonl",
+      "repo_path": "paintings/r37-hopr/sessions/pi/2026-10-07T22-17-47-906Z_01a11871-b681-7207-81bc-fa99acd41045.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9664273,
+      "repo_bytes": 165944,
+      "sha256": "ad0bde78c6d42875f5c73ec421eb63c2f09cd6d16e5effa67a7d96c12337456f"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/2026-10-07T22-28-56-918Z_01a1187b-ebd5-7563-922b-563e433dc260 - version 02.jsonl",
+      "repo_path": "paintings/r37-hopr/sessions/pi/2026-10-07T22-28-56-918Z_01a1187b-ebd5-7563-922b-563e433dc260 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6467701,
+      "repo_bytes": 151115,
+      "sha256": "48af24f2587c822b25a61659426bdec5b57ded231ced4782221259a1c237c101"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/2026-10-07T22-28-56-918Z_01a1187b-ebd5-7563-922b-563e433dc260.jsonl",
+      "repo_path": "paintings/r37-hopr/sessions/pi/2026-10-07T22-28-56-918Z_01a1187b-ebd5-7563-922b-563e433dc260.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 160242,
+      "repo_bytes": 148399,
+      "sha256": "9cf686289423fc7069eddcc0f0a8460812b26dcd54cafb38bab4fe6d22ba29ab"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/2026-10-07T22-30-41-994Z_01a1187d-8649-7785-931a-3fff11b2df2c - version 02.jsonl",
+      "repo_path": "paintings/r37-hopr/sessions/pi/2026-10-07T22-30-41-994Z_01a1187d-8649-7785-931a-3fff11b2df2c - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 133659,
+      "repo_bytes": 127621,
+      "sha256": "e17659f7ab4c2188272fc59b5ad53c6dcb473ddcc8918a25948b84a83f6d42e7"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/2026-10-07T22-30-41-994Z_01a1187d-8649-7785-931a-3fff11b2df2c.jsonl",
+      "repo_path": "paintings/r37-hopr/sessions/pi/2026-10-07T22-30-41-994Z_01a1187d-8649-7785-931a-3fff11b2df2c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3512694,
+      "repo_bytes": 128356,
+      "sha256": "4861ea56c341c0fb0a9f9893a33069ee5a1953a258b3fb591e1b0d123bd46839"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/2026-10-07T22-31-49-612Z_01a1187e-8e6b-732f-93b3-72032bc5c1b2 - version 02.jsonl",
+      "repo_path": "paintings/r37-hopr/sessions/pi/2026-10-07T22-31-49-612Z_01a1187e-8e6b-732f-93b3-72032bc5c1b2 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 136827,
+      "repo_bytes": 130853,
+      "sha256": "ef0479497627774b8a2223fc9e489a7e0bc30b838b611bf2ccc2adca9642956c"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/2026-10-07T22-31-49-612Z_01a1187e-8e6b-732f-93b3-72032bc5c1b2.jsonl",
+      "repo_path": "paintings/r37-hopr/sessions/pi/2026-10-07T22-31-49-612Z_01a1187e-8e6b-732f-93b3-72032bc5c1b2.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4297846,
+      "repo_bytes": 131915,
+      "sha256": "1be5ce992b55b5fc691541d10ff4072606f09ab1058ab8e79c53a0f1835a702d"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/events - version 02.json",
+      "repo_path": "paintings/r37-hopr/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 108328,
+      "repo_bytes": 101683,
+      "sha256": "2d8f3e58fba852a5334a2d1374d005ea9bcb4204b6a419ec9e88d5533652715e"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/events - version 03.json",
+      "repo_path": "paintings/r37-hopr/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 104199,
+      "repo_bytes": 101662,
+      "sha256": "2d598b195af47b036a556526137c8fb1565a7b4770baf3468c07f4021063bc96"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/sessions/events.json",
+      "repo_path": "paintings/r37-hopr/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 104222,
+      "repo_bytes": 101683,
+      "sha256": "2d8f3e58fba852a5334a2d1374d005ea9bcb4204b6a419ec9e88d5533652715e"
+    },
+    {
+      "archive_path": "2026-10-07 r37 Westbound, Sunday (GPT-6 Astra)/video/r37-hopr.mp4",
+      "repo_path": "paintings/r37-hopr/video/r37-hopr.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 988435,
+      "repo_bytes": 988435,
+      "sha256": "7294589ba49ebc275b0c41310b93c45def53cf36266a0927b6576cd141c939cf"
+    }
+  ]
+}

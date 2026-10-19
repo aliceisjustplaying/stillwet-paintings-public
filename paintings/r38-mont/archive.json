@@ -1,0 +1,366 @@
+{
+  "archive": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)",
+  "identity": "ef01e9",
+  "files": [
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/finals/r38-mont - version 02.png",
+      "repo_path": "paintings/r38-mont/finals/r38-mont - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6369113,
+      "repo_bytes": 6369113,
+      "sha256": "05bae3787816df7005c7bb68b11d2452fbcb7536516eb51476df094b9dd1a56f"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/finals/r38-mont - version 03.png",
+      "repo_path": "paintings/r38-mont/finals/r38-mont - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5877345,
+      "repo_bytes": 5877345,
+      "sha256": "8347fc779c358c8231f917d286dcb11c74d77f41b94d6206c98a364d35cbb0aa"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/finals/r38-mont.png",
+      "repo_path": "paintings/r38-mont/finals/r38-mont.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2732969,
+      "repo_bytes": 2732969,
+      "sha256": "193dfa5119d17d1a52af8ecb3168b55f88901556de6357bab4b5ea73425a5246"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/finals/selected-final.png",
+      "repo_path": "paintings/r38-mont/finals/selected-final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1857908,
+      "repo_bytes": 1857908,
+      "sha256": "6f6bc329ef8509a1b2f91c6c489035315d5e7318f8c46de41a5bae8efd8182ec"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/lua/MONT1_finished.lua",
+      "repo_path": "paintings/r38-mont/lua/archive/MONT1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 25765,
+      "repo_bytes": 25765,
+      "sha256": "57995b3c515c278ebf2da517f7a706167da1f80d80490ddbf6d8fc7186c45fbf"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/lua/painting.lua",
+      "repo_path": "paintings/r38-mont/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 25347,
+      "repo_bytes": 25347,
+      "sha256": "5b73aeca6c72dbc766a27b48c4be8ea397fad0921074885a52f879f69b855d40"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/lua/scratch-1.lua",
+      "repo_path": "paintings/r38-mont/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2445,
+      "repo_bytes": 2445,
+      "sha256": "bce2b2eecb8b9cb9816326ce4f9f2fd65338929087e05506a4ad7f1cf9daf96c"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/lua/scratch.lua",
+      "repo_path": "paintings/r38-mont/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3543,
+      "repo_bytes": 3543,
+      "sha256": "d2b8c7c6e2d368a435a26a6a4bea6b8458f50f73b7ec8124e240c189c918e3ac"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/journal-revisions.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/native/journal-revisions.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 15380,
+      "repo_bytes": 15380,
+      "sha256": "7ed6762a7be06c7de02582930b7be22de9860ad64ab78a417c2fb85ef2b7b41f"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T22-34-57-487Z_01a11881-6c4d-700b-abf8-a94a617d7dc6 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T22-34-57-487Z_01a11881-6c4d-700b-abf8-a94a617d7dc6 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 474521,
+      "repo_bytes": 286268,
+      "sha256": "c170076a9bef8471f30ee0eedc5e4ce1c86fe2fda05bd0e6809d802bcd34bf48"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T22-34-57-487Z_01a11881-6c4d-700b-abf8-a94a617d7dc6.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T22-34-57-487Z_01a11881-6c4d-700b-abf8-a94a617d7dc6.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 29750411,
+      "repo_bytes": 289913,
+      "sha256": "b6b0cd7e17098a69c1b2d1d1eb7d4cdc4bf6234d52b3cb5e78f09d06f134b925"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T22-58-47-109Z_01a11897-3cc4-7765-a6cf-88516b94bd09 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T22-58-47-109Z_01a11897-3cc4-7765-a6cf-88516b94bd09 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 134500,
+      "repo_bytes": 119433,
+      "sha256": "3f6431600de288569ff248b772c35e162c4f4c3093d75113030289ede4a35ea8"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T22-58-47-109Z_01a11897-3cc4-7765-a6cf-88516b94bd09.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T22-58-47-109Z_01a11897-3cc4-7765-a6cf-88516b94bd09.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8003832,
+      "repo_bytes": 121135,
+      "sha256": "ab406f35462661fc94d65155e56f1664937d9340bda3c9729295502339f99e65"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-00-51-094Z_01a11899-2115-7269-b438-3dc3d78bd617 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-00-51-094Z_01a11899-2115-7269-b438-3dc3d78bd617 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 143150,
+      "repo_bytes": 135552,
+      "sha256": "58e470bcbaae00f4304b944fd1f8e9ba1c4408e2dcb330a79ef478f548bd5c3f"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-00-51-094Z_01a11899-2115-7269-b438-3dc3d78bd617.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-00-51-094Z_01a11899-2115-7269-b438-3dc3d78bd617.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6983555,
+      "repo_bytes": 136805,
+      "sha256": "9480941622635a544304b460316944d22aa6c415f110de1e3af043acd1ca321a"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-01-49-848Z_01a1189a-0697-74cd-b530-cccc3799ed03 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-01-49-848Z_01a1189a-0697-74cd-b530-cccc3799ed03 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8056061,
+      "repo_bytes": 146320,
+      "sha256": "6c91262a83a2a013343f4b9ac468f192339e37a3b7dd9142306ded232978c023"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-01-49-848Z_01a1189a-0697-74cd-b530-cccc3799ed03.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-01-49-848Z_01a1189a-0697-74cd-b530-cccc3799ed03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 152694,
+      "repo_bytes": 144832,
+      "sha256": "1d4bdae294dbb8725f2882dc58fad11e3661b1b9e3cb39b3acb58004d2dac2d8"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-03-09-529Z_01a1189b-3dd8-754b-9a88-37fd6cbef1a4 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-03-09-529Z_01a1189b-3dd8-754b-9a88-37fd6cbef1a4 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 152520,
+      "repo_bytes": 146602,
+      "sha256": "8a7c5b20e970fbff50b88971b36940ffc9e01b0f5a9409af43b630436c814b6d"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-03-09-529Z_01a1189b-3dd8-754b-9a88-37fd6cbef1a4.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-03-09-529Z_01a1189b-3dd8-754b-9a88-37fd6cbef1a4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7708016,
+      "repo_bytes": 147909,
+      "sha256": "a67d996cb0bbefb01f4e4d7d51c37a8abe752ea3356fbe6238b00736ce439f58"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-05-16-528Z_01a1189d-2def-71cd-8a8c-e34b2f611c32 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-05-16-528Z_01a1189d-2def-71cd-8a8c-e34b2f611c32 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 158650,
+      "repo_bytes": 152604,
+      "sha256": "94579b51aeb3c3970cfc7795405ae2bc7feb2bea44a50fae16086edfa9a6c3e8"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-05-16-528Z_01a1189d-2def-71cd-8a8c-e34b2f611c32.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-05-16-528Z_01a1189d-2def-71cd-8a8c-e34b2f611c32.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7671863,
+      "repo_bytes": 153911,
+      "sha256": "840240f1a4f31f8c21103fe89164c5e5c3b75f165aa686d9c70ebd87ec193516"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-06-17-532Z_01a1189e-1c3b-758b-beb6-5802d0e2c90f - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-06-17-532Z_01a1189e-1c3b-758b-beb6-5802d0e2c90f - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 171001,
+      "repo_bytes": 164394,
+      "sha256": "4c627d4636e6fcbaacf7b12bba2b014af92e2efdf6542d93294ecd576719ddb3"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-06-17-532Z_01a1189e-1c3b-758b-beb6-5802d0e2c90f.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-06-17-532Z_01a1189e-1c3b-758b-beb6-5802d0e2c90f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8118412,
+      "repo_bytes": 165323,
+      "sha256": "26d299d4013aaee8785b4ba752303b6de47ab3f27629d5954fc90c0a9e649015"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-07-18-869Z_01a1189f-0bd4-71de-9eac-923edf599abf - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-07-18-869Z_01a1189f-0bd4-71de-9eac-923edf599abf - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 171701,
+      "repo_bytes": 165640,
+      "sha256": "bb1a07248f3db89321bc12e4fd5bc00aba5188f19b475e3f7c741a5c56ab04e8"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-07-18-869Z_01a1189f-0bd4-71de-9eac-923edf599abf.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-07-18-869Z_01a1189f-0bd4-71de-9eac-923edf599abf.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7614938,
+      "repo_bytes": 167093,
+      "sha256": "2e46fcb56bc5c35aadb438f37b18d18e4f090fe7c3ebd083035472336a1baa00"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-08-04-716Z_01a1189f-beeb-761d-9a3b-ea52db9fc869 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-08-04-716Z_01a1189f-beeb-761d-9a3b-ea52db9fc869 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8030517,
+      "repo_bytes": 171634,
+      "sha256": "8f3d657b1aa4232e0d6573b2bd76e6737ebc2d7764dc562dafa473249362352e"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-08-04-716Z_01a1189f-beeb-761d-9a3b-ea52db9fc869.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-08-04-716Z_01a1189f-beeb-761d-9a3b-ea52db9fc869.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 176114,
+      "repo_bytes": 169984,
+      "sha256": "c90148550262b92953577432985726cf5af64e9452829166c8d26a7bae6159e3"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-09-05-258Z_01a118a0-ab69-7351-9b72-6336c1e4cad5 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-09-05-258Z_01a118a0-ab69-7351-9b72-6336c1e4cad5 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 182675,
+      "repo_bytes": 176412,
+      "sha256": "6942804dd3b13be5e5b90378b83684192dcc00d0e3cc12501a5069809a0890c7"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-09-05-258Z_01a118a0-ab69-7351-9b72-6336c1e4cad5.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-09-05-258Z_01a118a0-ab69-7351-9b72-6336c1e4cad5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7779014,
+      "repo_bytes": 177865,
+      "sha256": "5f1dc0cd76a43d9f77c7534fa728016385a4ca79f8a075d7a5045e3feebf31db"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-10-00-475Z_01a118a1-831b-75b6-8c3c-f335b43bd2ec - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-10-00-475Z_01a118a1-831b-75b6-8c3c-f335b43bd2ec - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 187520,
+      "repo_bytes": 181293,
+      "sha256": "c0fc72bb211026db8acd103c4ca81e8e690d7c2f1f5271e92cc6cc2804b88921"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-10-00-475Z_01a118a1-831b-75b6-8c3c-f335b43bd2ec.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-10-00-475Z_01a118a1-831b-75b6-8c3c-f335b43bd2ec.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7660961,
+      "repo_bytes": 182800,
+      "sha256": "0f57c68d8c9bbf5d9329e05fcb9e977c51ca9d823eb3aebee9de87792cdbc5ec"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-10-48-504Z_01a118a2-3eb8-7002-b650-5a60ed05ccbe - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-10-48-504Z_01a118a2-3eb8-7002-b650-5a60ed05ccbe - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8168167,
+      "repo_bytes": 188522,
+      "sha256": "68e44ff5ae93c4bd8f6c93c0334e9f21a6f94aae447d0a306c0540dca123d602"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-10-48-504Z_01a118a2-3eb8-7002-b650-5a60ed05ccbe.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-10-48-504Z_01a118a2-3eb8-7002-b650-5a60ed05ccbe.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 193014,
+      "repo_bytes": 186872,
+      "sha256": "23cb8c393311ee6b074639d89dec6c972194d06dd4b9b760d152275de7720db3"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-11-44-633Z_01a118a3-19f9-73b0-9bfe-8f0055b27d02 - version 02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-11-44-633Z_01a118a3-19f9-73b0-9bfe-8f0055b27d02 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 203879,
+      "repo_bytes": 198524,
+      "sha256": "33abdb1adbec7a30a0acf5006c8fd5f8d9b47a707268a62757787b3377ee1b7d"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/2026-10-07T23-11-44-633Z_01a118a3-19f9-73b0-9bfe-8f0055b27d02.jsonl",
+      "repo_path": "paintings/r38-mont/sessions/pi/2026-10-07T23-11-44-633Z_01a118a3-19f9-73b0-9bfe-8f0055b27d02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7821188,
+      "repo_bytes": 199626,
+      "sha256": "7737808fdeac33563f5d5d47290389501bc9ac18c87907ca355770598f57612e"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/events - version 02.json",
+      "repo_path": "paintings/r38-mont/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 330602,
+      "repo_bytes": 322487,
+      "sha256": "01e8bdc82b6a6eb37efd412fc18966cc4c662cdbe4a9e8f49a3bdbe1634d797d"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/events - version 03.json",
+      "repo_path": "paintings/r38-mont/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 330556,
+      "repo_bytes": 322445,
+      "sha256": "e1d83994571ee64749c36b003c8cd196b592d64f6cb1d47f999784bdbc1eb31f"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/events.json",
+      "repo_path": "paintings/r38-mont/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 343383,
+      "repo_bytes": 322487,
+      "sha256": "01e8bdc82b6a6eb37efd412fc18966cc4c662cdbe4a9e8f49a3bdbe1634d797d"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/sessions/packet.json",
+      "repo_path": "paintings/r38-mont/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 11617,
+      "repo_bytes": 9812,
+      "sha256": "96faa577efcfde8196be4bc16c048d18874fab9de7a0820bf8e7b73da5c02e45"
+    },
+    {
+      "archive_path": "2026-10-07 r38 The Hour Held in the Pool (GPT-6 Astra)/video/r38-mont.mp4",
+      "repo_path": "paintings/r38-mont/video/r38-mont.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1746966,
+      "repo_bytes": 1746966,
+      "sha256": "456555d7f96541a19d446f8964b3b6e7fd20739b882478067773a42f927b17bc"
+    }
+  ]
+}

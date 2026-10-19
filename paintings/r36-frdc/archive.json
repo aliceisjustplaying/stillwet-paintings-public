@@ -1,0 +1,168 @@
+{
+  "archive": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)",
+  "identity": "f41b58",
+  "files": [
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/finals/r36-frdc - version 02.png",
+      "repo_path": "paintings/r36-frdc/finals/r36-frdc - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5959284,
+      "repo_bytes": 5959284,
+      "sha256": "1079c91cad2635663fa97bf6842ead1790d7ece7dbbcc6f351f7b79652b10e80"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/finals/r36-frdc - version 03.png",
+      "repo_path": "paintings/r36-frdc/finals/r36-frdc - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6358784,
+      "repo_bytes": 6358784,
+      "sha256": "edf39b078a4e78944688e0c1dcca7d0cf248538580c2bf9cb87abe584adea9f1"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/finals/r36-frdc.png",
+      "repo_path": "paintings/r36-frdc/finals/r36-frdc.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5746796,
+      "repo_bytes": 5746796,
+      "sha256": "122c22226188248c730cb5ed4ca26922b8817520eb697a90f954b756f7a9a99a"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/finals/selected-final.png",
+      "repo_path": "paintings/r36-frdc/finals/selected-final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3158444,
+      "repo_bytes": 3158444,
+      "sha256": "2de0fa9589deb0e6459e3f289ce8c42deb97289ecc1182dc1de4ef59b7e6b6b1"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/lua/FRDC1_finished.lua",
+      "repo_path": "paintings/r36-frdc/lua/archive/FRDC1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 16089,
+      "repo_bytes": 16089,
+      "sha256": "aa2f767d217d58d459eb0007e9960156212f13e0aa41da55f7876ad7220b4f6c"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/lua/painting.lua",
+      "repo_path": "paintings/r36-frdc/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15671,
+      "repo_bytes": 15671,
+      "sha256": "35ef289d340c443e6bf465777c8a9f9ce6a6a551ccfda5fd1ae247b12093c7b6"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/lua/scratch-1.lua",
+      "repo_path": "paintings/r36-frdc/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4076,
+      "repo_bytes": 4076,
+      "sha256": "50190f218e6077e95f03a6927adc0c2e5f73b3daebec7adc6b58ddcc054fdb35"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/lua/scratch.lua",
+      "repo_path": "paintings/r36-frdc/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1625,
+      "repo_bytes": 1625,
+      "sha256": "41385e41a3156e6e0c4e3172e5c2eb51a925b66ce2d2c8bae913845f8f743ac9"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/2026-10-07T21-31-48-412Z_01a11847-9b3b-7097-8b70-278d8ffcde36 - version 02.jsonl",
+      "repo_path": "paintings/r36-frdc/sessions/pi/2026-10-07T21-31-48-412Z_01a11847-9b3b-7097-8b70-278d8ffcde36 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 39301242,
+      "repo_bytes": 270665,
+      "sha256": "3d97b2a8b1eb97a2a4ea970e2fd2a36e46b26cf680f69d54513787e188a40633"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/2026-10-07T21-31-48-412Z_01a11847-9b3b-7097-8b70-278d8ffcde36.jsonl",
+      "repo_path": "paintings/r36-frdc/sessions/pi/2026-10-07T21-31-48-412Z_01a11847-9b3b-7097-8b70-278d8ffcde36.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 374148,
+      "repo_bytes": 267079,
+      "sha256": "0555cbea72dff86c360f7c7ea44669ec76fb071b2261c9b8ffb0d4561d7aff98"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/2026-10-07T22-05-58-035Z_01a11866-e193-7696-9ca2-55fecc83ba6d - version 02.jsonl",
+      "repo_path": "paintings/r36-frdc/sessions/pi/2026-10-07T22-05-58-035Z_01a11866-e193-7696-9ca2-55fecc83ba6d - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10351587,
+      "repo_bytes": 177054,
+      "sha256": "c0fdf8e4b2bd54cd5f937b5614500120f4bc71c4925fcc98dc0192e7716b1155"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/2026-10-07T22-05-58-035Z_01a11866-e193-7696-9ca2-55fecc83ba6d.jsonl",
+      "repo_path": "paintings/r36-frdc/sessions/pi/2026-10-07T22-05-58-035Z_01a11866-e193-7696-9ca2-55fecc83ba6d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 192344,
+      "repo_bytes": 175223,
+      "sha256": "1de475882365b084427a3be5b35f087fc8d24770cece0e6335ba7f32f8e861b1"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/2026-10-07T22-09-24-357Z_01a1186a-0784-7249-acff-72310b733056 - version 02.jsonl",
+      "repo_path": "paintings/r36-frdc/sessions/pi/2026-10-07T22-09-24-357Z_01a1186a-0784-7249-acff-72310b733056 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9803431,
+      "repo_bytes": 119133,
+      "sha256": "40a9be8367067976f0b1ec5dd0b20897cdc5234cbb4b58d5ca05790b57c7ef95"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/2026-10-07T22-09-24-357Z_01a1186a-0784-7249-acff-72310b733056.jsonl",
+      "repo_path": "paintings/r36-frdc/sessions/pi/2026-10-07T22-09-24-357Z_01a1186a-0784-7249-acff-72310b733056.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 125182,
+      "repo_bytes": 117542,
+      "sha256": "8d2f5cc3657a45a39be60b7be7b583db50da435b014e3c19e4e7b6058b3edc74"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/events - version 02.json",
+      "repo_path": "paintings/r36-frdc/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 131132,
+      "repo_bytes": 122937,
+      "sha256": "3761839952384fae4eca396d86d5b6fb3f7d1dac03b562f647d78e8ad04ea1db"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/events - version 03.json",
+      "repo_path": "paintings/r36-frdc/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 125953,
+      "repo_bytes": 122895,
+      "sha256": "9d590d835bfdd9dd7b85ab6ae064a3398b105878e0a6f2b6a8aa185071591e36"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/sessions/events.json",
+      "repo_path": "paintings/r36-frdc/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 125999,
+      "repo_bytes": 122937,
+      "sha256": "3761839952384fae4eca396d86d5b6fb3f7d1dac03b562f647d78e8ad04ea1db"
+    },
+    {
+      "archive_path": "2026-10-07 r36 The Gate of the Silent Lake (GPT-6 Astra)/video/r36-frdc.mp4",
+      "repo_path": "paintings/r36-frdc/video/r36-frdc.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2320213,
+      "repo_bytes": 2320213,
+      "sha256": "7598c103f60f8d770e75299f73b39c1617fb0aafddc25f34e94f613150e78e42"
+    }
+  ]
+}

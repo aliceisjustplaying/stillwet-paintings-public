@@ -1,0 +1,132 @@
+{
+  "archive": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)",
+  "identity": "e8fe44",
+  "files": [
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/finals/r35-free - version 02.png",
+      "repo_path": "paintings/r35-free/finals/r35-free - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7035156,
+      "repo_bytes": 7035156,
+      "sha256": "461fb10081d46d08d8cf04092329bc13d972a63d771701a796ae56c8263a51d0"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/finals/r35-free - version 03.png",
+      "repo_path": "paintings/r35-free/finals/r35-free - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 933857,
+      "repo_bytes": 933857,
+      "sha256": "4ea4ac2add3d1a3fb4d099ced8a90ff6f4b83cc2ae47b982846ce949b01276d7"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/finals/r35-free.png",
+      "repo_path": "paintings/r35-free/finals/r35-free.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5322187,
+      "repo_bytes": 5322187,
+      "sha256": "705da0fb87b1e27284f9c46e7a4c1fb3585c2fa3857176ca2562d09a09fc1855"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/finals/selected-final.png",
+      "repo_path": "paintings/r35-free/finals/selected-final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 653595,
+      "repo_bytes": 653595,
+      "sha256": "ea67f0b70c39c2eb2b7b7ae2390b86e4e0f7d7f6857148150f48aee47738fe96"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/lua/FREE1_finished.lua",
+      "repo_path": "paintings/r35-free/lua/archive/FREE1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13773,
+      "repo_bytes": 13773,
+      "sha256": "1f5336c4f17c8bd5090a9954bbc1d7f57b1da3ad7ad011a3e8659abd6327720e"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/lua/painting.lua",
+      "repo_path": "paintings/r35-free/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13355,
+      "repo_bytes": 13355,
+      "sha256": "377c7932270d1346780ec3bb8e5e67cd857ae032f85aa0da53539e39e4d22dfa"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/lua/scratch-1.lua",
+      "repo_path": "paintings/r35-free/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1517,
+      "repo_bytes": 1517,
+      "sha256": "b880c631bf943afcf7b86406ab3cd5e613c8b190d43ff30a8b66df6c4310225b"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/lua/scratch.lua",
+      "repo_path": "paintings/r35-free/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1152,
+      "repo_bytes": 1152,
+      "sha256": "0adeeca879b5c286511e2110608ebf28ce67ef5baaebdfdcf74f00eb8b12bbb9"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/sessions/2026-10-07T21-21-01-491Z_01a1183d-bc32-7738-9391-059ce3af5471.jsonl",
+      "repo_path": "paintings/r35-free/sessions/pi/2026-10-07T21-21-01-491Z_01a1183d-bc32-7738-9391-059ce3af5471.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8599175,
+      "repo_bytes": 179558,
+      "sha256": "b85486c0c99ee88ad45851f7afdba9d13faf10b58c4046c990bc1ca0090505f2"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/sessions/2026-10-07T21-29-52-417Z_01a11845-d621-7267-8257-cf3e58e18ffe.jsonl",
+      "repo_path": "paintings/r35-free/sessions/pi/2026-10-07T21-29-52-417Z_01a11845-d621-7267-8257-cf3e58e18ffe.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 3599673,
+      "repo_bytes": 126505,
+      "sha256": "8a276a37d9170be0f70b07c3f11e62b9798ce06748901c1f2e004bbfdc092287"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/sessions/events - version 02.json",
+      "repo_path": "paintings/r35-free/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 68699,
+      "repo_bytes": 64807,
+      "sha256": "bf646e6d83dcade9f83e8c6d5433c653449d07bc922b2a0dac17c30165aa241c"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/sessions/events - version 03.json",
+      "repo_path": "paintings/r35-free/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 66213,
+      "repo_bytes": 64765,
+      "sha256": "e9c1f4883841f30537c18fa7e938fccffe26060f7eb02143bc0adfff6a9eb41c"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/sessions/events.json",
+      "repo_path": "paintings/r35-free/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 66259,
+      "repo_bytes": 64807,
+      "sha256": "bf646e6d83dcade9f83e8c6d5433c653449d07bc922b2a0dac17c30165aa241c"
+    },
+    {
+      "archive_path": "2026-10-07 r35 Two Embers and a Blue Jug (GPT-6 Astra)/video/r35-free.mp4",
+      "repo_path": "paintings/r35-free/video/r35-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 458200,
+      "repo_bytes": 458200,
+      "sha256": "b595fb161076ee18ee5a860533ab91660cd6eaac9b8605c071a3622911579859"
+    }
+  ]
+}

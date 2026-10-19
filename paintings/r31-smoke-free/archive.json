@@ -1,0 +1,285 @@
+{
+  "archive": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)",
+  "identity": "c8bb05",
+  "files": [
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/finals/r31-smoke-free - version 02.png",
+      "repo_path": "paintings/r31-smoke-free/finals/r31-smoke-free - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4871212,
+      "repo_bytes": 4871212,
+      "sha256": "4c0f10188273594ffe6c7321977927b0d04dbf87969bf7903659614e6806da24"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/finals/r31-smoke-free - version 03.png",
+      "repo_path": "paintings/r31-smoke-free/finals/r31-smoke-free - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3723901,
+      "repo_bytes": 3723901,
+      "sha256": "1d680b8ad130dad95f9dea3b605bd552884db2ac6160d18713f88697bad56d27"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/finals/r31-smoke-free.1000.png",
+      "repo_path": "paintings/r31-smoke-free/finals/r31-smoke-free.1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 807905,
+      "repo_bytes": 807905,
+      "sha256": "414a48ec75d55f75b383b485db8fdb4cafc5afc6116239a45edd580e168f7d8e"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/finals/r31-smoke-free.png",
+      "repo_path": "paintings/r31-smoke-free/finals/r31-smoke-free.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6218794,
+      "repo_bytes": 6218794,
+      "sha256": "25f9eb44241bcdc86dc1a0ebdb69742426b634defd32426631246285a0016e07"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r31-smoke-free/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 88438,
+      "repo_bytes": 88438,
+      "sha256": "76def3060652199511482198677db6621595504e71441988204cd36175040ebe"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/lua/r31-smoke-plain.lua",
+      "repo_path": "paintings/r31-smoke-free/lua/archive/r31-smoke-plain.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 88942,
+      "repo_bytes": 88942,
+      "sha256": "faf57daedc9dd28c057096cec63870850ae55371581155f8514da1da18b5cb40"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "paintings/r31-smoke-free/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 343,
+      "repo_bytes": 343,
+      "sha256": "84c9d2974eadfc195eceac0b5ce9061d9943d429c6f00c27bc335306b638b363"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "paintings/r31-smoke-free/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2460,
+      "repo_bytes": 2460,
+      "sha256": "d4c13e1a3836e5a9a64405a291bf57180ff5daf8b26770371274cc43a4bf4060"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "paintings/r31-smoke-free/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2455,
+      "repo_bytes": 2455,
+      "sha256": "c5049844036f042c50268609f921896d6a3d152cfbca3974ae049853eac78764"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "paintings/r31-smoke-free/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5193,
+      "repo_bytes": 5193,
+      "sha256": "9f358f1611e988adb1bbb4461a0105f46fbb6636ee95ff8b1b220d90b892ff70"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "paintings/r31-smoke-free/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2283,
+      "repo_bytes": 2283,
+      "sha256": "227638677b42ce0d65fc99f2c327b09688f93fed48d1b0b67047fa2494df3a06"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "paintings/r31-smoke-free/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3199,
+      "repo_bytes": 3199,
+      "sha256": "15744dfb2b7f10c5634a42a50272e940b489434c49e506b810aa0e52fa1959c0"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-05T22-55-00-677Z_01a10e47-1044-70fc-a6cf-9d3e5cac13d4.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-05T22-55-00-677Z_01a10e47-1044-70fc-a6cf-9d3e5cac13d4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 83774418,
+      "repo_bytes": 1503418,
+      "sha256": "060f72d53766a7893db671bb85afc251465f0fb77f06ea179541a61250e734e6"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-05T23-39-21-867Z_01a10e6f-ab8b-7635-b39f-43cbf38c319e.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-05T23-39-21-867Z_01a10e6f-ab8b-7635-b39f-43cbf38c319e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 22681977,
+      "repo_bytes": 275504,
+      "sha256": "619f67fbae2fc7a88e8fedd9c2ffc72773fccaae3b9b2970172a59272d6a3cd2"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-05T23-44-15-274Z_01a10e74-25aa-74f0-ae7b-53ded8442700.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-05T23-44-15-274Z_01a10e74-25aa-74f0-ae7b-53ded8442700.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 18616591,
+      "repo_bytes": 286014,
+      "sha256": "7fb8b60ba1f11d6089cf6681ec0baf13e0ba7bae770143167f41e971a317d98c"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-05T23-50-58-116Z_01a10e7a-4b43-71d4-a5eb-191392c50b76.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-05T23-50-58-116Z_01a10e7a-4b43-71d4-a5eb-191392c50b76.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 11722407,
+      "repo_bytes": 336680,
+      "sha256": "5f6180239e8272a9977cea3d1fbffdfdb6c70401f7e1ea5cfed5e0512723d342"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-05T23-57-06-246Z_01a10e7f-e946-71c6-bec0-69375b65a6dd.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-05T23-57-06-246Z_01a10e7f-e946-71c6-bec0-69375b65a6dd.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8711764,
+      "repo_bytes": 181056,
+      "sha256": "6cb64e980dd5a416c704e2182a67a432e30a85242b50f9ebf9b22b4dba2509d5"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-06T00-00-52-917Z_01a10e83-5eb5-716c-a5c7-d21fe68b7d74.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-06T00-00-52-917Z_01a10e83-5eb5-716c-a5c7-d21fe68b7d74.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9882020,
+      "repo_bytes": 238345,
+      "sha256": "96574e2343e8d61d5d7a2428cb7efbae798f60db65e9d7755a062b73f2d7ca36"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-06T00-05-05-310Z_01a10e87-389e-770f-b519-630f831cce20.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-06T00-05-05-310Z_01a10e87-389e-770f-b519-630f831cce20.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 11777069,
+      "repo_bytes": 289616,
+      "sha256": "acb4273f5cdf72c700b575631b762cf6efdbbb1459fef6951a9e725952f663d4"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-06T00-10-04-815Z_01a10e8b-ca8f-75e9-af18-0b9a310e4756.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-06T00-10-04-815Z_01a10e8b-ca8f-75e9-af18-0b9a310e4756.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6407088,
+      "repo_bytes": 148179,
+      "sha256": "e85d87a271c39c9f86b137f8af9db0d8978b6c7d181f371b6f5b47f22ccdd596"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/2026-10-06T00-11-57-772Z_01a10e8d-83cc-7073-b885-4cec11ba9b4e.jsonl",
+      "repo_path": "paintings/r31-smoke-free/sessions/pi/2026-10-06T00-11-57-772Z_01a10e8d-83cc-7073-b885-4cec11ba9b4e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2732765,
+      "repo_bytes": 63976,
+      "sha256": "93cbef44c231c45828e9a1bf72ec1f7defb16497b8237e1bf1f9f69db59ca62d"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r31-smoke-free/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 513236,
+      "repo_bytes": 500458,
+      "sha256": "eb2d7adbb84f595a92a12258f9abc0ef37a87968a6d2f700e4c55ecc45827ac9"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r31-smoke-free/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 532920,
+      "repo_bytes": 500458,
+      "sha256": "eb2d7adbb84f595a92a12258f9abc0ef37a87968a6d2f700e4c55ecc45827ac9"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r31-smoke-free/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 513167,
+      "repo_bytes": 500395,
+      "sha256": "770b9d8149b0ee2e3b9f40b7ef7995e26a3b288571e9887aadae4c6b2ce8ef84"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/packet - version 02.json",
+      "repo_path": "paintings/r31-smoke-free/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13077,
+      "repo_bytes": 10827,
+      "sha256": "6af21c202534dc0ce2bd3e680de28028ce3c3f830e5fe118e0ff9fcdd44f9768"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/packet - version 03.json",
+      "repo_path": "paintings/r31-smoke-free/sessions/viewer/packet - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 10243,
+      "repo_bytes": 8082,
+      "sha256": "b7a5ba0f63ac27ee4789dad0175dd1c419cb06a2a01f1d291dbb14f7edb8dcd8"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r31-smoke-free/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12173,
+      "repo_bytes": 9833,
+      "sha256": "557d1242adb631dfbfe943c9d3ee72cc64dbfac4d478c2f6d5106e194f54baa7"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/video/c8bb05-granstack-evening-1920.mp4",
+      "repo_path": "paintings/r31-smoke-free/video/c8bb05-granstack-evening-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2618265,
+      "repo_bytes": 2618265,
+      "sha256": "84622a6a82d2ef6840e065359a7d5988448c47548c6d36a97d88a396cfab837a"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/video/r31-smoke-free.mp4",
+      "repo_path": "paintings/r31-smoke-free/video/r31-smoke-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4664174,
+      "repo_bytes": 4664174,
+      "sha256": "80aaa1aca4bfa99f7252dd677940f720ea14c9b6f6e1fa5a796be3c691111bb7"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/video/r31-smoke-plain-endfirst.mp4",
+      "repo_path": "paintings/r31-smoke-free/video/r31-smoke-plain-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3853543,
+      "repo_bytes": 3853543,
+      "sha256": "8805bc5ebae4357d16cd149bbeb24db076c355e2e2208480a63c4c983eb8a949"
+    },
+    {
+      "archive_path": "2026-10-06 r31 Grainstack, Evening (Claude Opus 5.5)/video/r31-smoke-plain.mp4",
+      "repo_path": "paintings/r31-smoke-free/video/r31-smoke-plain.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2375053,
+      "repo_bytes": 2375053,
+      "sha256": "7c9819ab55ad19affe4f725a686a2b675954b4f6285fc8fc7d012dd2ccf54122"
+    }
+  ]
+}

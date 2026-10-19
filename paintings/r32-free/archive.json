@@ -1,0 +1,222 @@
+{
+  "archive": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)",
+  "identity": "158ce1",
+  "files": [
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/finals/final.png",
+      "repo_path": "paintings/r32-free/finals/final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2978562,
+      "repo_bytes": 2978562,
+      "sha256": "b44270852519ba40ef21b0c9cf94f9e1a31666920d8b6ea74791cb25e3a2bb1d"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/finals/r32-free - version 02.png",
+      "repo_path": "paintings/r32-free/finals/r32-free - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7792617,
+      "repo_bytes": 7792617,
+      "sha256": "aa63ea0029217d1c8d66b86d7f23711d1ded877635fb370b5d705274538ef064"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/finals/r32-free - version 03.png",
+      "repo_path": "paintings/r32-free/finals/r32-free - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6576867,
+      "repo_bytes": 6576867,
+      "sha256": "54614846b7a52f564384873e0d285c57036c39430a9e26ae2e2aee2411f6d767"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/finals/r32-free.png",
+      "repo_path": "paintings/r32-free/finals/r32-free.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4075630,
+      "repo_bytes": 4075630,
+      "sha256": "a4eef097ebca900e13a5a28b4cc56aa5474165e2a5458c431c1f7f6abbbe40da"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/FREE1_finished.lua",
+      "repo_path": "paintings/r32-free/lua/archive/FREE1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 97371,
+      "repo_bytes": 97371,
+      "sha256": "7eb22a5c0793a135186ccf97702d35f271f91fe6a7352a5eb71b871e53486f66"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r32-free/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 96953,
+      "repo_bytes": 96953,
+      "sha256": "02abab9cbc1c7829e66dc0581f4a1a1833ac558d1de7a91a11a8a0ab20d758c4"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "paintings/r32-free/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7107,
+      "repo_bytes": 7107,
+      "sha256": "734d022959a56864d35879fe2356930858ad52dec1ea95b2c19ae8c9d48f5a24"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "paintings/r32-free/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8372,
+      "repo_bytes": 8372,
+      "sha256": "f7f83a8cbf4f325dec02a53e07b8935fb7190dc29e371cec5bc02f0165bb0a40"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "paintings/r32-free/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 17951,
+      "repo_bytes": 17951,
+      "sha256": "a3718ed7f09c9ce7630f03bdcad1d568aa0bffcd2751151bb78d6650959da841"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "paintings/r32-free/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8253,
+      "repo_bytes": 8253,
+      "sha256": "9a40255ae585426bc871e69c9a8057b20e03d8bb0063fdebcf7f7c9369d05531"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "paintings/r32-free/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3487,
+      "repo_bytes": 3487,
+      "sha256": "6411eb2ce2e699fbefe761022e1eddad4c82250f16a5a743536b12f7e89d2111"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "paintings/r32-free/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 354,
+      "repo_bytes": 354,
+      "sha256": "c1baaaf2ad2a3387fd6971eafc7a44b0f14c1478bd13be1b26ce453b405063e3"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "paintings/r32-free/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3669,
+      "repo_bytes": 3669,
+      "sha256": "2c5ab86586182cbe1fa05ad5d1c2561d38068b0304001021915a94d422e6807c"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/2026-10-06T19-17-13-937Z_01a112a6-0a50-7680-bb98-cadb5242af14.jsonl",
+      "repo_path": "paintings/r32-free/sessions/pi/2026-10-06T19-17-13-937Z_01a112a6-0a50-7680-bb98-cadb5242af14.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 25766083,
+      "repo_bytes": 582864,
+      "sha256": "fb3d624fbefc952c5ac054b2c1536e529ab2cc6f870d73a01c62030381d66f48"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/2026-10-06T21-23-53-084Z_01a11319-fe7b-7136-95d3-46d1f31bffd5.jsonl",
+      "repo_path": "paintings/r32-free/sessions/pi/2026-10-06T21-23-53-084Z_01a11319-fe7b-7136-95d3-46d1f31bffd5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 71967947,
+      "repo_bytes": 2012197,
+      "sha256": "4ed9710bf1cd83cca4fc1d823f1b47813867951aa1a71208c0fdd5afb2c116f9"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/2026-10-08T22-01-10-482Z_01a11d88-da52-7646-9949-288a4ea12222.jsonl",
+      "repo_path": "paintings/r32-free/sessions/pi/2026-10-08T22-01-10-482Z_01a11d88-da52-7646-9949-288a4ea12222.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 22331141,
+      "repo_bytes": 377441,
+      "sha256": "c5ccbc7be5d78fe007e57aead4d09ddf1e5e8cf324e4547887fc8e2c9a0d45f2"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/2026-10-08T22-09-39-702Z_01a11d90-9f75-76df-9421-20e8916ad420.jsonl",
+      "repo_path": "paintings/r32-free/sessions/pi/2026-10-08T22-09-39-702Z_01a11d90-9f75-76df-9421-20e8916ad420.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 14419634,
+      "repo_bytes": 292691,
+      "sha256": "cc353050293f6d11dd5bbd1fee92b4673e19463c75da4366a55e01c4605aeeb6"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/2026-10-08T22-16-29-952Z_01a11d96-e1ff-7734-aa54-1fcfbd188bde.jsonl",
+      "repo_path": "paintings/r32-free/sessions/pi/2026-10-08T22-16-29-952Z_01a11d96-e1ff-7734-aa54-1fcfbd188bde.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 18662337,
+      "repo_bytes": 396761,
+      "sha256": "ba6c36405de084c681c19b12465cd5ae773deefbfed90086a91565cf291221a8"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/2026-10-08T22-28-15-093Z_01a11da1-a474-7094-94bd-0462d81b0070.jsonl",
+      "repo_path": "paintings/r32-free/sessions/pi/2026-10-08T22-28-15-093Z_01a11da1-a474-7094-94bd-0462d81b0070.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13547592,
+      "repo_bytes": 287743,
+      "sha256": "511795b9a771f461e76b7d1258b5e6aaca8d7c2279d6783b7dd48bae913b60fb"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/2026-10-08T22-33-50-045Z_01a11da6-c0dd-7497-ae16-69ba65acb5a7.jsonl",
+      "repo_path": "paintings/r32-free/sessions/pi/2026-10-08T22-33-50-045Z_01a11da6-c0dd-7497-ae16-69ba65acb5a7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6390384,
+      "repo_bytes": 82101,
+      "sha256": "cb9b5cc5371112f709948b91d1538803892f6f39e4bb5ce8a3625a4d29137c10"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r32-free/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 625591,
+      "repo_bytes": 611648,
+      "sha256": "9330c8dc3795f5c1922d5fcadcdf137c3a61e2a17b512543d4eae6d0056d43e1"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/r32-free/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 643847,
+      "repo_bytes": 611648,
+      "sha256": "9330c8dc3795f5c1922d5fcadcdf137c3a61e2a17b512543d4eae6d0056d43e1"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r32-free/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 625545,
+      "repo_bytes": 611606,
+      "sha256": "431d9271efda704191b19bbfa4db3768ca9dc2964fcd27946682180a89016e77"
+    },
+    {
+      "archive_path": "2026-10-06 r32 Fruit Stall After Dark (Claude Opus 5.5)/video/r32-free.mp4",
+      "repo_path": "paintings/r32-free/video/r32-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3126920,
+      "repo_bytes": 3126920,
+      "sha256": "9f1517aa5ba0b73a18bb006c211df0cc95ba242256e6f2c0eb3a95c65a5a6a0d"
+    }
+  ]
+}
