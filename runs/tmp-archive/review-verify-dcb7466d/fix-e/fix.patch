@@ -1,0 +1,60 @@
+diff --git a/packages/core/src/core.ts b/packages/core/src/core.ts
+index ab24532..90f11e2 100644
+--- a/packages/core/src/core.ts
++++ b/packages/core/src/core.ts
+@@ -694,19 +694,26 @@ function targetChain(net: Network, t: TrainPrediction, target: TrainTarget): Sta
+   return ids;
+ }
+ 
+-// Distance along the rail for a { P, N, f } position, or null if it isn't on it.
+-function railDistance(rail: Rail, P: StationId | null, N: StationId, f: number): number | null {
++// Distance along the rail for a { P, N, f } position, or null if it isn't on
++// it. A loop's rail passes the same place more than once: the visit nearest
++// near (the first without it).
++function railDistance(rail: Rail, P: StationId | null, N: StationId, f: number, near?: number): number | null {
+   const { ids, cum } = rail;
++  let best: number | null = null;
+   for (let i = 0; i < ids.length; i++) {
+     if (ids[i] !== N) continue;
+     const here = cum[i] ?? 0;
+-    if (P === null || P === '') return here;
+-    if (i > 0 && ids[i - 1] === P) {
++    let s: number | null = null;
++    if (P === null || P === '') s = here;
++    else if (i > 0 && ids[i - 1] === P) {
+       const before = cum[i - 1] ?? 0;
+-      return before + (here - before) * f;
++      s = before + (here - before) * f;
+     }
++    if (s === null) continue;
++    if (near === undefined) return s;
++    if (best === null || Math.abs(s - near) < Math.abs(best - near)) best = s;
+   }
+-  return null;
++  return best;
+ }
+ 
+ function railPosition(net: Network, lineId: LineId, rail: Rail, s: number): RailPoint {
+@@ -891,8 +898,10 @@ function trainDisplay(
+ 
+   const { ids, cum } = rail;
+   // Off the rail only when the estimate fell behind the history kept above.
+-  // The math below always treated that null as 0.
+-  const sT = railDistance(rail, target.P, target.N, target.f) ?? 0;
++  // The math below always treated that null as 0. On a loop, the visit
++  // nearest the drawn train: the rail is only rebuilt when a poll brings new
++  // stops, so between polls the estimate goes round onto later laps of it.
++  const sT = railDistance(rail, target.P, target.N, target.f, sd) ?? 0;
+   const reach = pred.reach ?? 1;
+   // The estimate's place between stations is only a guess from a run time
+   // (TfL's for Wembley Park-Finchley Road swung from 550 s to 340 s as its
+@@ -900,7 +909,8 @@ function trainDisplay(
+   // station and ETA are what it knows. So a drawn train short of that
+   // station, able to get there in time, just paces itself to it; it jumps
+   // only past it (back) or unable to make it (forward).
+-  const sN = railDistance(rail, null, target.N, 1);
++  const jN = railAhead(rail, target.N, sT);
++  const sN = jN < 0 ? null : (cum[jN] ?? null);
+   const toN = sN === null ? null : sN - sd;
+   const makes =
+     toN !== null && toN >= 0 && toN / Math.max(1, (target.eta - now) / 1000) <= MAX_SPEED * Math.sqrt(reach);

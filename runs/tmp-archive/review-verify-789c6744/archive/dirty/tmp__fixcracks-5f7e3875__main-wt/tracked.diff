@@ -1,0 +1,15 @@
+diff --git a/crates/paint/src/crack.rs b/crates/paint/src/crack.rs
+index 2d4f60c..21f93d0 100644
+--- a/crates/paint/src/crack.rs
++++ b/crates/paint/src/crack.rs
+@@ -1524,6 +1524,10 @@ fn voronoi_edge(x: f32, y: f32, seed: u64) -> f32 {
+     d2.max(0.0)
+ }
+ 
++#[cfg(test)]
++#[path = "crack_lab.rs"]
++mod lab;
++
+ #[cfg(test)]
+ mod tests {
+     use super::*;

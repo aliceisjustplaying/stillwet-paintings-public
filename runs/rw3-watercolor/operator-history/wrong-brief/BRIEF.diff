@@ -1,0 +1,20 @@
+--- WC2/BRIEF.md
++++ RW3/BRIEF.md
+@@ -1,12 +1,12 @@
+ # Paint a picture
+ 
+-Compose and paint one original picture at the easel, a simulator of watercolor
+-on paper. The subject, setting and composition are yours to invent.
+-Work from knowledge and the notes in your studio; don't use reference
+-images or image models.
++Paint a watercolor of the photograph in reference/ with a light touch.
++The easel simulates watercolor on paper. The photograph is a Google Maps
++screenshot, so leave out the map's panels, buttons, small inset map and logo
++and paint what the photo shows. Don't use image models.
+ 
+ ## Your studio
+-- The folder [local path redacted] this brief, your notes and the easel.
++- The folder [local path redacted] this brief, your notes and the easel.
+ - The easel's tools are `paint`, `look`, `note`, `status` and `log`;
+   notes/watercolor_easel_guide.md explains them.
+ - There is no undo. To change a passage, paint over it, or lift workable

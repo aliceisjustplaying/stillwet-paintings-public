@@ -1,0 +1,22 @@
+diff --git a/apps/bay/src/server/alerts.ts b/apps/bay/src/server/alerts.ts
+index 08a2695..95afc11 100644
+--- a/apps/bay/src/server/alerts.ts
++++ b/apps/bay/src/server/alerts.ts
+@@ -193,7 +193,16 @@ export function createBayAlerts(options: {
+     load: async (signal) => {
+       const res = await doFetch(url, { signal });
+       if (!res.ok) throw new Error(`HTTP ${res.status}`);
+-      return decode511Alerts(await res.json());
++      const data: unknown = await res.json();
++      // A feed has its Header, and its Entity list if any: anything else
++      // ({"error": ...}) is a failed request, not good service.
++      if (
++        !isObject(data) ||
++        !isObject(data['Header']) ||
++        !(data['Entity'] === undefined || Array.isArray(data['Entity']))
++      )
++        throw new TypeError('not an alert feed');
++      return decode511Alerts(data);
+     },
+     current: linesOf511,
+   });

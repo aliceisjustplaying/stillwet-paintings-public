@@ -1,0 +1,6 @@
+local town = townM4:grow(1.2)
+local cut = rect(0,0,1000,414)
+local CM = ((cloud2M:grow(8) * cut) - town):shrink(2)
+blend(CM, {tool={kind="badger", width=18}, angle=cloud2F:field("across"), coverage=2.2, clip=true, pressure={0.3,0.5}, seed=1541})
+blend(CM, {tool={kind="badger", width=14}, angle=0.35, coverage=1.5, clip=true, pressure={0.25,0.45}, seed=1542})
+blend(CM, {tool={kind="badger", width=12}, angle=-0.3, coverage=1.0, clip=true, pressure={0.2,0.4}, seed=1543})

@@ -1,0 +1,5 @@
+-- coordinate probe: X at (300,300) and (150,1050)
+hp = pencil("2B")
+hp:line({{280, 280}, {320, 320}}, {pressure=0.7, smooth=false})
+hp:line({{130, 1030}, {170, 1070}}, {pressure=0.7, smooth=false})
+print("probe lines drawn")

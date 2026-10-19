@@ -1,0 +1,71 @@
+diff --git a/apps/hk/src/server/mtr.ts b/apps/hk/src/server/mtr.ts
+index 2e2dcec..dcb1915 100644
+--- a/apps/hk/src/server/mtr.ts
++++ b/apps/hk/src/server/mtr.ts
+@@ -142,11 +142,25 @@ export function createMtrSource(options: MtrSourceOptions): MtrSource {
+   const doFetch = gapMs === 0 && coldGapMs === 0 ? options.fetch : spaced(options.fetch, () => gap);
+   const queries = mtrQueries(network);
+   const boardTrips = createBoardTrips({ lines: network.lines, runTime: options.runTime, prefix: 'mtr:' });
+-  let alerts: Record<string, LineAlert> = {};
+-  // Each station's latest warning, by line then station. A station keeps
+-  // its warning until that station reports normal service. Failed stations
+-  // keep theirs.
+-  const stationAlert = new Map<string, Map<string, string>>();
++  // Each station's latest warning and when it was given, by line then
++  // station. A station keeps its warning until that station reports normal
++  // service, or for keepMs after it last gave it: a failed station keeps
++  // its warning as long as a line's good service lasts, and no longer.
++  const stationAlert = new Map<string, Map<string, { readonly text: string; readonly at: number }>>();
++  // Each line's stations under special arrangements at t.
++  const warnings = (t: number): Record<string, LineAlert> => {
++    const out: Record<string, LineAlert> = {};
++    for (const [line, byStation] of stationAlert) {
++      for (const [station, w] of byStation) if (t - w.at >= keepMs) byStation.delete(station);
++      if (byStation.size === 0) {
++        stationAlert.delete(line);
++        continue;
++      }
++      const distinct = [...new Set([...byStation.values()].map((w) => w.text))];
++      out[line] = { type: 'Special arrangements', text: distinct.join('\n'), planned: false, count: distinct.length };
++    }
++    return out;
++  };
+   // Each line's latest trips, when they were built and the API's clock then.
+   const byLine = new Map<string, { readonly at: number; readonly time: number; readonly trips: readonly GtfsTrip[] }>();
+   const current = (): { time: number; trips: GtfsTrip[] } => {
+@@ -240,23 +254,11 @@ export function createMtrSource(options: MtrSourceOptions): MtrSource {
+           if (!Number.isFinite(reply.time) || at - reply.time * 1000 > keepMs) complete.delete(q.line);
+         } else {
+           let byStation = stationAlert.get(q.line);
+-          if (!byStation) stationAlert.set(q.line, (byStation = new Map<string, string>()));
+-          byStation.set(q.station, reply.alert);
++          if (!byStation) stationAlert.set(q.line, (byStation = new Map()));
++          byStation.set(q.station, { text: reply.alert, at });
+         }
+       }
+-      // Publish valid warnings even when the train refresh fails. Each
+-      // station's warning stands until that station reports normal.
+-      const next: Record<string, LineAlert> = {};
+-      for (const [line, byStation] of stationAlert) {
+-        const distinct = [...new Set(byStation.values())];
+-        next[line] = {
+-          type: 'Special arrangements',
+-          text: distinct.join('\n'),
+-          planned: false,
+-          count: distinct.length,
+-        };
+-      }
+-      alerts = next;
++      // Valid warnings stand even when the train refresh fails.
+       for (const line of complete) answeredAt.set(line, at);
+       if (failed > queries.length * MAX_FAILED)
+         throw new Error(`${failed} of ${queries.length} stations failed: ${String(firstError)}`);
+@@ -264,7 +266,7 @@ export function createMtrSource(options: MtrSourceOptions): MtrSource {
+     },
+     alerts: () => {
+       const covered = HK_LINES.filter((l) => now() - (answeredAt.get(l.id) ?? -Infinity) < keepMs).map((l) => l.id);
+-      return { lines: alerts, ...(covered.length > 0 ? { covered } : {}) };
++      return { lines: warnings(now()), ...(covered.length > 0 ? { covered } : {}) };
+     },
+   };
+ }

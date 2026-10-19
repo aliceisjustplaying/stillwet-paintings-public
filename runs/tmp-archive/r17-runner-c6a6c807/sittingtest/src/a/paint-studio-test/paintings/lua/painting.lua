@@ -1,0 +1,10 @@
+--@ chunk 1
+x = 1
+--@ chunk 2
+x = 1
+--@ chunk 3
+x = 1
+--@ chunk 4
+x = 1
+--@ chunk 5
+x = 1

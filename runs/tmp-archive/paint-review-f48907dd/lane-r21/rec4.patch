@@ -1,0 +1,362 @@
+diff --git a/notes/round21/runner/fixtures/section7_render.md b/notes/round21/runner/fixtures/section7_render.md
+new file mode 100644
+index 0000000..7f8a6bc
+--- /dev/null
++++ b/notes/round21/runner/fixtures/section7_render.md
+@@ -0,0 +1,34 @@
++
++## More notes from the studio
++
++Observed on linen 15 by 13 threads per cm, over a ground laid by knife, then roller.
++
++### Blending
++- The badger dragged wet paint across the edges of its mask and broke shapes beside it into
++  separate lumps. When: blend, badger 30–40 wide, unclipped, into open paint, coverage 1.2–2,
++  pressure 0.2–0.5. (reported, not verified)
++
++### Drying and time
++- The wait counted in minutes, so 1800 of them moved the canvas clock on by 30 hours. When:
++  wait, 1800 minutes. (printed by the easel)
++
++### Easel errors
++- work refused a function as its coverage and the chunk changed nothing. When: work, hatch hand,
++  coverage given as a function. (printed by the easel)
++
++Observed on linen 16 by 14 threads per cm, over a ground laid by knife, then brush.
++
++### Mixing piles
++- A dark pile holding a little lead white came out on the canvas as a pale mauve gray, far
++  lighter than its masstone. When: work, raw umber, bone black, red earth and lead white,
++  filbert 20, body hand, medium 0.2, filled. (seen once)
++
++### Strokes
++- The passage came out as a patchwork of separate rectangular dabs in two tones, not a smooth
++  plane. When: work, filbert 20, body hand, coverage 2, filled, over a passage 100 units wide.
++  (seen once)
++
++### Drying and time
++- Queried at the same moment, the earth-and-black layer read setting while a later
++  lead-white-rich layer read open. When: drying, medium 0.2–0.25, the later layer at medium
++  0.15. (printed by the easel)
+diff --git a/notes/round21/runner/record_render.py b/notes/round21/runner/record_render.py
+new file mode 100644
+index 0000000..3c84f77
+--- /dev/null
++++ b/notes/round21/runner/record_render.py
+@@ -0,0 +1,192 @@
++"""The next studio's notes from structured chain records (p<n>_record.json, chain-record/1): the
++runner writes every word the painter reads, through fixed templates, and checks each record
++against the studio it goes to first (design: structured chain records, section 4).
++
++render(records, recipient, compat) returns the notes text to append to studio_notes.md (empty if
++nothing is inherited) and a report of what went in and what was left out and why, which the
++runner keeps as run/<lane>/p<n>_inherited.json. Nothing is left out silently.
++
++| record vs. recipient            | action                                                         |
++| medium or support kind differs  | the whole record is left out                                   |
++| code commit differs             | the whole record is left out, unless record_compat.json pairs them |
++| box differs                     | mixing_piles, and any observation naming a tube not in the box, is left out |
++
++What is not rendered: evidence, slot, round, reader and the condition label (the painter can't
++open the logs, and nothing tells it there was another painter). The support line implies an
++earlier canvas.
++"""
++import hashlib
++import json
++import textwrap
++
++from record_schema import CATEGORIES, PARAMS
++
++RECORD_SCHEMA = "chain-record/1"
++CONDITION = "chain-inherited, non-neutral"
++HEADER = "\n## More notes from the studio\n"
++TITLES = {"ground": "The canvas and ground", "pencil": "Pencil", "mixing_piles": "Mixing piles",
++          "strokes": "Strokes", "brushes": "Brushes", "blending": "Blending", "wet_into_wet": "Wet into wet",
++          "glazing": "Glazing", "stippling": "Stippling", "drying_and_time": "Drying and time",
++          "masks_and_edges": "Masks and edges", "easel_errors": "Easel errors"}
++SURFACE = {"bare_ground": "on bare ground", "open": "into open paint", "setting": "into setting paint",
++           "tacky": "on tacky paint", "touch_dry": "on touch-dry paint", "dry": "on dry paint",
++           "mixed": "over paint in mixed states", "unknown": None}
++TAGS = {"printed": "(printed by the easel)", "painter_reported": "(reported, not verified)"}
++WIDTH = 96
++
++
++def num(v):
++    """A number or a [lo, hi] range as the notes write it: 2.0 is 2, a range is lo–hi."""
++    if isinstance(v, list):
++        return "–".join(num(x) for x in v)
++    if isinstance(v, bool):
++        return "on" if v else "off"
++    return str(int(v)) if float(v).is_integer() else f"{v:g}"
++
++
++def words(items):
++    """a, b and c (no serial comma)."""
++    return items[0] if len(items) == 1 else ", ".join(items[:-1]) + " and " + items[-1]
++
++
++def when(o):
++    """The "When:" clause, built from the operation and its conditions."""
++    c = o.get("conditions") or {}
++    out = [o["operation"].replace("_", " ")]
++    if c.get("tubes"):
++        out.append(words(c["tubes"]))
++    b = c.get("brush") or {}
++    if b:
++        brush = b.get("kind") or "brush"
++        if b.get("width") is not None:
++            brush += f" {num(b['width'])}" + (" wide" if isinstance(b["width"], list) else "")
++        out.append(" ".join([brush] + [f"{k} {num(b[k])}" for k in ("point", "load", "stiffness")
++                                       if b.get(k) is not None]))
++    if c.get("clip") is not None:
++        out.append("clipped" if c["clip"] else "unclipped")
++    if SURFACE.get(c.get("surface")):
++        out.append(SURFACE[c["surface"]])
++    p = c.get("params") or {}
++    for k in ("hand",) + tuple(k for k in PARAMS if k != "hand"):
++        v = p.get(k)
++        if v is None:
++            continue
++        if k == "hand":
++            out.append(f"{v} hand")
++        elif k == "fill":
++            out.append("filled" if v else "no fill")
++        elif k == "edge" and isinstance(v, str):
++            out.append(f"{v} edge")
++        elif k == "wait_minutes":
++            out.append(f"{num(v)} minutes")
++        elif k == "touches_per_dip":
++            out.append(f"{num(v)} touches per dip")
++        else:
++            out.append(f"{k} {num(v)}")
++    if c.get("extent_units") is not None:
++        out.append(f"over a passage {num(c['extent_units'])} units wide")
++    if c.get("note"):
++        out.append(c["note"])
++    return ", ".join(out)
++
++
++def tag(o):
++    if o["basis"] == "seen":
++        n = len({(e["log"], e["call"]) for e in o.get("resolved") or [] if e["role"] == "operation"})
++        return "(seen once)" if n <= 1 else f"(seen in {n} passes)"
++    return TAGS[o["basis"]]
++
++
++def bullet(o):
++    effect = o["effect"].rstrip()
++    effect += "" if effect[-1:] in ".!?" else "."
++    cause = f" {o['cause'].rstrip('.')}." if o.get("cause") else ""
++    text = f"- {effect}{cause} When: {when(o)}. {tag(o)}"
++    return "\n".join(textwrap.wrap(text, WIDTH, subsequent_indent="  ", break_on_hyphens=False)) + "\n"
++
++
++def support_line(s):
++    s = s or {}
++    line = "Observed on " + (s.get("kind") or "linen")
++    if s.get("linen"):
++        line += f" {num(s['linen'][0])} by {num(s['linen'][1])} threads per cm"
++    if s.get("ground_layers"):
++        line += ", over a ground laid by " + ", then ".join(s["ground_layers"])
++    return line + "."
++
++
++def block(record, observations):
++    """One record's notes: its support line, then its observations by category (in CATEGORIES order)."""
++    out = [support_line(record.get("support")) + "\n"]
++    for cat in CATEGORIES:
++        these = [o for o in observations if o["category"] == cat]
++        if these:
++            out.append(f"\n### {TITLES[cat]}\n" + "".join(bullet(o) for o in these))
++    return "".join(out)
++
++
++def same_code(a, b, compat):
++    return a == b or [a, b] in compat or [b, a] in compat
++
++
++def load_compat(path):
++    """record_compat.json (operator-written, committed): [[commit, commit], ...] that count as one engine."""
++    return json.loads(path.read_text()) if path.exists() else []
++
++
++def render(records, recipient, compat=()):
++    """records: [(slot, chain-record/1)], in slot order. recipient: {"medium", "support_kind",
++    "commit", "box": {"name", "tubes_sha256"}, "tubes": [names]}. Returns (notes text, report)."""
++    compat = [list(p) for p in compat]
++    blocks, report = [], []
++    for slot, r in records:
++        obs = r["observations"]
++        entry = {"slot": slot, "observations": len(obs), "inherited": 0, "excluded": None, "dropped": []}
++        report.append(entry)
++        if r.get("schema") != RECORD_SCHEMA:
++            entry["excluded"] = f"schema {r.get('schema')!r}, not {RECORD_SCHEMA!r}"
++        elif r.get("medium") != recipient["medium"]:
++            entry["excluded"] = f"medium {r.get('medium')!r}, the studio's is {recipient['medium']!r}"
++        elif (r.get("support") or {}).get("kind") != recipient["support_kind"]:
++            entry["excluded"] = (f"support {(r.get('support') or {}).get('kind')!r}, "
++                                 f"the studio's is {recipient['support_kind']!r}")
++        elif not same_code(r["code"]["commit"], recipient["commit"], compat):
++            entry["excluded"] = (f"code {r['code']['commit']}, the studio's is {recipient['commit']} "
++                                 f"(not paired in record_compat.json)")
++        if entry["excluded"]:
++            continue
++        kept = obs
++        if r["box"] != recipient["box"]:
++            tubes = set(recipient["tubes"])
++            kept = []
++            for o in obs:
++                missing = [t for t in (o.get("conditions") or {}).get("tubes") or [] if t not in tubes]
++                if o["category"] == "mixing_piles" or missing:
++                    entry["dropped"].append({"index": o["index"], "why": "box " + (
++                        f"{r['box']['name']} is not the studio's {recipient['box']['name']}: mixing piles"
++                        if o["category"] == "mixing_piles" else f"has no {', '.join(missing)}")})
++                else:
++                    kept.append(o)
++        entry["inherited"] = len(kept)
++        if kept:
++            blocks.append(block(r, kept))
++    text = (HEADER + "\n" + "\n".join(blocks)) if blocks else ""
++    return text, report
++
++
++def summary(tag, report):
++    """F2: inherited 14 of 17 observations (p1: 9/9, p2: 5/8, 3 box)."""
++    got = sum(e["inherited"] for e in report)
++    of = sum(e["observations"] for e in report)
++    parts = [f"p{e['slot']}: " + (f"excluded, {e['excluded']}" if e["excluded"] else f"{e['inherited']}/{e['observations']}")
++             for e in report]
++    box = sum(1 for e in report for d in e["dropped"] if d["why"].startswith("box"))
++    return f"{tag}: inherited {got} of {of} observations ({', '.join(parts + ([f'{box} box'] if box else []))})"
++
++
++def inherited(report, recipient, notes_bytes):
++    """What p<n>_inherited.json keeps: every record's inclusion, exclusion and drops, and the hash
++    of the notes the painter got."""
++    return {"recipient": recipient, "records": report,
++            "inherited": sum(e["inherited"] for e in report), "of": sum(e["observations"] for e in report),
++            "notes_sha256": hashlib.sha256(notes_bytes).hexdigest()}
+diff --git a/notes/round21/runner/records_fixtures.py b/notes/round21/runner/records_fixtures.py
+index 07390d9..4355450 100644
+--- a/notes/round21/runner/records_fixtures.py
++++ b/notes/round21/runner/records_fixtures.py
+@@ -125,3 +125,20 @@ def write_logs(d, logs):
+         p.write_text("".join(json.dumps(e) + "\n" for e in [{"type": "session", "version": 3}] + entries))
+         paths.append(p)
+     return paths
++
++
++BOX = {"name": "default", "tubes_sha256": "0" * 64}
++COMMIT = "c0ffee" * 6 + "c0ff"
++
++
++def record(validated, slot=1, support=None, commit=COMMIT, box=BOX, medium="oil"):
++    """A chain-record/1 as the runner keeps it, around validate()'s result."""
++    return {"schema": "chain-record/1", "condition": "chain-inherited, non-neutral", "round": 19, "lane": "T",
++            "slot": slot, "profile": "friedrich", "code": {"tag": "round-19", "commit": commit},
++            "medium": medium, "box": dict(box),
++            "support": support or {"kind": "linen", "linen": [15, 13], "ground_layers": ["knife", "roller"]},
++            "reader": {}, "logs": [], **validated}
++
++
++def recipient(commit=COMMIT, box=BOX, tubes=TUBES, medium="oil", support_kind="linen"):
++    return {"medium": medium, "support_kind": support_kind, "commit": commit, "box": dict(box), "tubes": list(tubes)}
+diff --git a/notes/round21/runner/test_record_render.py b/notes/round21/runner/test_record_render.py
+new file mode 100644
+index 0000000..20c2c8a
+--- /dev/null
++++ b/notes/round21/runner/test_record_render.py
+@@ -0,0 +1,93 @@
++import json
++from pathlib import Path
++
++import pytest
++
++from record_render import inherited, load_compat, render, summary
++from record_schema import LogIndex, validate
++from records_fixtures import (BOX, COMMIT, R16D, R16D_LOGS, R17F, R17F_LOGS, TUBES, doc, record, recipient,
++                              write_logs)
++
++GOLDEN = Path(__file__).resolve().parent / "fixtures/section7_render.md"
++
++
++def section7(tmp_path):
++    """The worked example as two records: r17 F p1 (slot 1) and r16 D p1 (slot 2, linen 16 by 14)."""
++    out = []
++    for slot, (obs, logs) in enumerate(((R17F, R17F_LOGS), (R16D, R16D_LOGS)), 1):
++        d = tmp_path / f"s{slot}"
++        d.mkdir()
++        v = validate(doc(obs), TUBES, [LogIndex(p) for p in write_logs(d, logs)])
++        support = None if slot == 1 else {"kind": "linen", "linen": [16, 14], "ground_layers": ["knife", "brush"]}
++        out.append((slot, record(v, slot=slot, support=support)))
++    return out
++
++
++def test_the_worked_example_renders_as_the_golden_notes(tmp_path):
++    text, report = render(section7(tmp_path), recipient())
++    assert text == GOLDEN.read_text()
++    assert [(e["slot"], e["inherited"], e["observations"], e["excluded"], e["dropped"]) for e in report] == [
++        (1, 3, 3, None, []), (2, 3, 3, None, [])]
++    assert summary("T3", report) == "T3: inherited 6 of 6 observations (p1: 3/3, p2: 3/3)"
++
++
++def test_nothing_rendered_says_where_it_came_from(tmp_path):
++    text, _ = render(section7(tmp_path), recipient())
++    import re
++    for word in ("toolu_", "call_", "painter", "slot", "round", "non-neutral", "evidence", "log", "reader"):
++        assert not re.search(rf"\b{word}", text, re.I), word
++
++
++def test_another_box_drops_mixing_piles_and_tubes_it_lacks_and_says_so(tmp_path):
++    other = {"name": "sargent", "tubes_sha256": "1" * 64}
++    text, report = render(section7(tmp_path), recipient(box=other, tubes=[t for t in TUBES if t != "bone black"]))
++    assert "### Mixing piles" not in text and "### Strokes" in text
++    assert report[1]["dropped"] == [{"index": 0, "why": "box default is not the studio's sargent: mixing piles"}]
++    assert report[1]["inherited"] == 2
++    assert summary("T3", report) == "T3: inherited 5 of 6 observations (p1: 3/3, p2: 2/3, 1 box)"
++    # an observation naming a tube the box lacks goes too, whatever its category
++    (tmp_path / "again").mkdir()
++    recs = section7(tmp_path / "again")
++    recs[0][1]["observations"][0]["conditions"]["tubes"] = ["bone black"]
++    _, report = render(recs, recipient(box=other, tubes=[t for t in TUBES if t != "bone black"]))
++    assert report[0]["dropped"] == [{"index": 0, "why": "box has no bone black"}]
++
++
++def test_another_engine_is_left_out_unless_paired_in_record_compat(tmp_path):
++    recs = section7(tmp_path)
++    text, report = render(recs, recipient(commit="beef" * 10))
++    assert text == ""
++    assert all(e["excluded"].startswith(f"code {COMMIT}") and e["inherited"] == 0 for e in report)
++    assert summary("T3", report).startswith("T3: inherited 0 of 6 observations (p1: excluded, code ")
++    compat = tmp_path / "record_compat.json"
++    compat.write_text(json.dumps([["beef" * 10, COMMIT]]))
++    text, report = render(recs, recipient(commit="beef" * 10), load_compat(compat))
++    assert text == GOLDEN.read_text() and all(e["excluded"] is None for e in report)
++    assert load_compat(tmp_path / "none.json") == []
++
++
+[email redacted]("change, why", [
++    (dict(medium="watercolor"), "medium 'watercolor'"),
++    (dict(support={"kind": "panel"}), "support 'panel'"),
++])
++def test_another_medium_or_support_is_left_out(tmp_path, change, why):
++    recs = section7(tmp_path)
++    recs[0][1].update(change)
++    text, report = render(recs, recipient())
++    assert report[0]["excluded"].startswith(why) and report[1]["excluded"] is None
++    assert "15 by 13" not in text and "16 by 14" in text
++
++
++def test_the_inherited_report_lists_every_exclusion_and_the_notes_hash(tmp_path):
++    recs = section7(tmp_path)
++    recs[0][1]["medium"] = "tempera"
++    rcp = recipient(box={"name": "sargent", "tubes_sha256": "1" * 64})
++    text, report = render(recs, rcp)
++    notes = ("# Studio notes\n" + text).encode()
++    inh = inherited(report, rcp, notes)
++    assert inh["inherited"] == 2 and inh["of"] == 6
++    assert inh["records"][0]["excluded"].startswith("medium 'tempera'")
++    assert inh["records"][1]["dropped"][0]["why"].endswith("mixing piles")
++    import hashlib
++    assert inh["notes_sha256"] == hashlib.sha256(notes).hexdigest()
++    json.dumps(inh)                                  # it is kept as JSON

@@ -1,0 +1,5 @@
+local blob = poly({{160,462},{175,456},{200,456},{222,462},{215,478},{170,478}}, true)
+work(blob, {hand="detail", pile=moundShade, coverage=4, pressure={0.6,0.9}, load=1, fill=true, angle=0})
+local band = land * below({{-10,478},{560,480},{600,476},{1010,476}}) * above({{-10,502},{560,502},{620,492},{1010,492}}) - figM:grow(1)
+stipple(band, {pile=moundShade, width=2.5, coverage=function(x,y) return clamp((500-y)/20, 0, 1)*1.6 end, feather=0.7, pressure={0.35,0.6}, cluster=0.3})
+blend(band, {angle=0.02})

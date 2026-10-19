@@ -1,0 +1,6 @@
+Objective: give the owner an actionable pre-overnight-run review, ranked with evidence and fixes, plus five-item chat handoff.
+Audience/context: owner knows easel, Lua, studios and round rules; limited attention before unattended run.
+Knowledge: needs real bypasses vs enforced restrictions and enforcement location; wants steering/clarity/brief defects; does not need exhaustive code tour or review process. Already knows previews, piles, masks and shell tooling. Do not assume they know local integrity is just two writable copies; explain that. Avoid unexplained security jargon.
+Source meaning: distinguish runtime demonstrations from source inspection, Lua restrictions from host access, explicit owner rules from builder's more permissive choices. Do not claim whole-export name cleanliness. Preserve fixed resolution/live save successes and unrestricted legitimate waits. Read-only originals; runtime work in review/scratch/session-audit. Scratch receipts [local path redacted]
+Form: REVIEW.md ranked findings with scope legend, concrete evidence and fix per item, brief positive checks. Chat top five with links to report.
+Style: concise US English, no Oxford comma, kaomoji start for messages, receipts for factual claims. Full comms-review with independent audience reviewer after draft.

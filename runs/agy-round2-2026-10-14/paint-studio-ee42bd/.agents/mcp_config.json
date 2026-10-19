@@ -1,0 +1,1 @@
+{"mcpServers":{"easel":{"command":"/etc/profiles/per-user/[local account redacted]/bin/uv","args":["run","--no-project","--script","[local path redacted]","--studio","[local path redacted]","--sittings","--break-seconds","0","--sessions-root","[local path redacted]"],"cwd":"[local path redacted]","env":{}}}}

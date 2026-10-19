@@ -1,0 +1,96 @@
+diff --git a/apps/dub/src/server/translink.ts b/apps/dub/src/server/translink.ts
+index 7b8896c..47400d3 100644
+--- a/apps/dub/src/server/translink.ts
++++ b/apps/dub/src/server/translink.ts
+@@ -74,6 +74,8 @@ export interface EfaRun {
+   readonly service: string;
+   readonly calls: readonly EfaCall[];
+   readonly realtime: boolean;
++  // Canceled ("TRIP_CANCELLED"): off the map, not coasting on to its end.
++  readonly cancelled?: true;
+ }
+ 
+ function callOf(loc: Readonly<Record<string, unknown>>): EfaCall | null {
+@@ -91,7 +93,7 @@ function callOf(loc: Readonly<Record<string, unknown>>): EfaCall | null {
+ }
+ 
+ // A board's trains: each with its calls before the board, at it, and after.
+-// Canceled trains are left out. A board with none has no stopEvents, only
++// A canceled train is marked so. A board with none has no stopEvents, only
+ // its stop and a message ("no serving lines found", -4050: Derry's at
+ // 18:12 on September 28, 2026): an empty board, not a failure.
+ export function parseBoard(body: unknown): EfaRun[] {
+@@ -101,7 +103,6 @@ export function parseBoard(body: unknown): EfaRun[] {
+   for (const e of list(body['stopEvents'])) {
+     if (!isRecord(e)) continue;
+     const status = list(e['realtimeStatus']).map((s) => text(s));
+-    if (status.includes('TRIP_CANCELLED')) continue;
+     const t = record(e['transportation']);
+     const props = record(t['properties']);
+     const here = callOf({ ...e, ...record(e['location']), parent: record(record(e['location'])['parent']) });
+@@ -123,6 +124,7 @@ export function parseBoard(body: unknown): EfaRun[] {
+       service: text(t['number']),
+       calls,
+       realtime: e['isRealtimeControlled'] === true,
++      ...(status.includes('TRIP_CANCELLED') ? { cancelled: true as const } : {}),
+     });
+   }
+   return out;
+@@ -144,6 +146,8 @@ export interface NirTripsOptions {
+   readonly prefix?: string;
+ }
+ 
++const tripId = (run: EfaRun, options: NirTripsOptions): string => `${options.prefix ?? 'nir'}:${run.key}`;
++
+ const railLine = (run: EfaRun): string =>
+   run.service === ENTERPRISE
+     ? ''
+@@ -185,7 +189,7 @@ export function nirTrip(run: EfaRun, options: NirTripsOptions, nowS: number): Gt
+   const c = calls[next];
+   const late = c && run.realtime ? (c[1] || c[2]) - (planned[next] ?? 0) : undefined;
+   return {
+-    id: `${options.prefix ?? 'nir'}:${run.key}`,
++    id: tripId(run, options),
+     line,
+     vid: run.train,
+     dir,
+@@ -193,6 +197,8 @@ export function nirTrip(run: EfaRun, options: NirTripsOptions, nowS: number): Gt
+     calls,
+     complete: true,
+     ...(late === undefined ? {} : { late }),
++    // Not tracked: its times are the timetable's.
++    ...(run.realtime ? {} : { scheduled: true as const }),
+   };
+ }
+ 
+@@ -436,10 +442,18 @@ export function createNirSource(options: NirSourceOptions): NirSource {
+         );
+         error = '';
+         // One run a train, whichever boards it's on: the nearest board's,
+-        // whose estimates are the freshest (they're all one reply's).
++        // whose estimates are the freshest (they're all one reply's), or
++        // any board's that has it canceled.
+         const byKey = new Map<string, EfaRun>();
+-        for (const run of replies.flatMap((r) => parseBoard(r))) if (!byKey.has(run.key)) byKey.set(run.key, run);
+-        runs = [...byKey.values()];
++        for (const run of replies.flatMap((r) => parseBoard(r))) {
++          const held = byKey.get(run.key);
++          if (!held || (run.cancelled && !held.cancelled)) byKey.set(run.key, run);
++        }
++        runs = [...byKey.values()].filter((run) => !run.cancelled);
++        // A canceled train is retired, not coasted on to its end.
++        const cancelled = new Set(
++          [...byKey.values()].filter((run) => run.cancelled).map((run) => tripId(run, options)),
++        );
+         const nowS = t / 1000;
+         const trips: GtfsTrip[] = [];
+         const seen = new Map<string, number>();
+@@ -454,7 +468,7 @@ export function createNirSource(options: NirSourceOptions): NirSource {
+         // Trains no board lists any more, on to their end.
+         for (const old of latest?.trips ?? []) {
+           const end = old.calls.at(-1);
+-          if (seen.has(old.id) || !end || (end[1] || end[2]) + COAST_S < nowS || !lastSeen.has(old.id)) continue;
++          if (seen.has(old.id) || cancelled.has(old.id) || !end || (end[1] || end[2]) + COAST_S < nowS || !lastSeen.has(old.id)) continue;
+           trips.push(old);
+           seen.set(old.id, end[1] || end[2]);
+         }

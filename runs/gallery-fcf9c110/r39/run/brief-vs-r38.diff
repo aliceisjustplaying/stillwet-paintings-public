@@ -1,0 +1,25 @@
+--- r38/BRIEF.md
++++ r39/BRIEF.md
+@@ -1,9 +1,9 @@
+ # Paint a picture
+ 
+-Compose and paint one original painting in the manner of later Claude Monet, at the easel, a simulator of oil paint on linen. The place, subject and composition are yours to invent. Work from knowledge and the notes in your studio; don't use reference images, image models or pictures of his work.
++Compose and paint one original picture in the manner of Paul Cézanne, at the easel, a simulator of oil paint on linen. The subject, setting and composition are yours to invent. Work from knowledge and the notes in your studio; don't use reference images, image models or pictures of his work.
+ 
+ ## Your studio
+-- The folder [local path redacted] this brief, your notes and the easel.
++- The folder [local path redacted] this brief, your notes and the easel.
+ - The easel's tools are `paint`, `look`, `note`, `status` and `log`;
+   notes/easel_guide.md explains them.
+ - There is no undo. To change a passage, paint over it, or lift wet
+@@ -23,7 +23,9 @@
+   `m:at(W - x, y)`. Moving a shape and reusing your own helpers are fine.
+ 
+ ## What to read
+-notes/easel_guide.md; notes/studio_notes.md; notes/research/giverny_materials.md (materials and handling); notes/research/oil_paint_physics.md as needed.
++notes/easel_guide.md; notes/studio_notes.md;
++notes/research/cezanne_materials.md (his materials and method) and
++notes/research/oil_paint_physics.md as needed.
+ 
+ ## Working
+ Work one campaign at a time. After laying a campaign, inspect the whole picture in normal color and relevant detail before writing the code for the next campaign. Let what you see inform the next action; record what changes or why continuing unchanged serves the picture.

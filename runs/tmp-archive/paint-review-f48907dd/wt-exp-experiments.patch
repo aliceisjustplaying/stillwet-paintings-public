@@ -1,0 +1,263 @@
+diff --git a/Cargo.toml b/Cargo.toml
+index ce974d3..36393f0 100644
+--- a/Cargo.toml
++++ b/Cargo.toml
+@@ -21,3 +21,9 @@ opt-level = 2
+ incremental = false
+ debug-assertions = true
+ overflow-checks = true
++
++# EXPERIMENT (throwaway worktree): symbolized release for line-level profiling
++[profile.profiling]
++inherits = "release"
++debug = 1
++strip = "none"
+diff --git a/crates/easel/src/main.rs b/crates/easel/src/main.rs
+index 638cfdf..ad9b122 100644
+--- a/crates/easel/src/main.rs
++++ b/crates/easel/src/main.rs
+@@ -871,7 +871,7 @@ fn run(args: &[String]) -> Result<(), String> {
+     let mut i = 1;
+     while i < args.len() {
+         match args[i].as_str() {
+-            "--out" | "--dump-surface" | "--frames-every" | "--frames-dir" | "--frame-width" if i + 1 < args.len() => i += 2,
++            "--out" | "--dump-surface" | "--frames-every" | "--frames-dir" | "--frame-width" | "--state-digest" if i + 1 < args.len() => i += 2,
+             "--look" => i += 1,
+             o => return Err(format!("run: unknown argument {o:?} ({RUN_USAGE})")),
+         }
+@@ -899,11 +899,21 @@ fn run(args: &[String]) -> Result<(), String> {
+         _ => return Err(format!("run: --frames-every and --frames-dir go together ({RUN_USAGE})")),
+     };
+     let mut s = Session::replay_with(width, tubes).map_err(|e| e.to_string())?;
++    // EXPERIMENT (throwaway): --state-digest <file>: after every chunk, FNV-1a-64 digests of the
++    // canvas checkpoint bytes (paint::checkpoint::write_state: everything later painting depends on,
++    // minus derived caches), of the live held brushes (Debug text) and of the studio's clock/seed/
++    // palette state. A canvas-state digest, not a full Lua-session digest.
++    let digest_path = flag(args, "--state-digest").map(PathBuf::from);
++    let mut digest_out: Option<std::fs::File> = digest_path.as_ref().map(|p| std::fs::File::create(p).map_err(|e| format!("{}: {e}", p.display()))).transpose()?;
+     let t0 = Instant::now();
+     for (i, c) in chunks.iter().enumerate() {
+         let r = s.run(c).map_err(|e| format!("chunk {} failed:\n{e}", i + 1))?;
+         print!("{}", r.out);
+         eprintln!("  chunk {:>3}  {:>7.2}s", i + 1, r.secs);
++        if let Some(f) = digest_out.as_mut() {
++            let line = state_digest_line(&s, i + 1, r.secs);
++            f.write_all(line.as_bytes()).map_err(|e| e.to_string())?;
++        }
+         if frames && let Some(c) = s.canvas() {
+             frames::chunk_end(&c, i + 1);
+         }
+@@ -944,6 +954,36 @@ fn run(args: &[String]) -> Result<(), String> {
+     Ok(())
+ }
+ 
++
++// EXPERIMENT (throwaway): state digest helpers
++#[cfg(feature = "replay")]
++fn fnv1a(bytes: &[u8]) -> u64 {
++    let mut h: u64 = 0xcbf29ce484222325;
++    for &b in bytes {
++        h ^= b as u64;
++        h = h.wrapping_mul(0x100000001b3);
++    }
++    h
++}
++
++#[cfg(feature = "replay")]
++fn state_digest_line(s: &Session, n: usize, secs: f64) -> String {
++    let mut st = s.st.borrow_mut();
++    let canvas = match st.canvas.as_ref() {
++        Some(c) => {
++            let mut buf = Vec::new();
++            c.write_state(&mut buf, "").expect("checkpoint to memory");
++            fnv1a(&buf)
++        }
++        None => 0,
++    };
++    let brushes: Vec<String> = st.live_brushes().iter().map(|b| format!("{:?}", b.borrow())).collect();
++    let brushes_h = fnv1a(brushes.join("\n").as_bytes());
++    let studio = format!("seed={} clock={:?} clock0={:?} chunk={} calls={} setup={:?} piles={:?} rng={:?}", st.seed, st.clock, st.clock0, st.chunk, st.calls, st.setup, st.hand.piles, st.rng);
++    let studio_h = fnv1a(studio.as_bytes());
++    format!("chunk {n} secs={secs:.3} canvas={canvas:016x} brushes={brushes_h:016x} nbrushes={} studio={studio_h:016x}\n", brushes.len())
++}
++
+ #[cfg(test)]
+ mod tests {
+     use super::*;
+diff --git a/crates/paint/src/bristle.rs b/crates/paint/src/bristle.rs
+index 72af42e..a1b58d3 100644
+--- a/crates/paint/src/bristle.rs
++++ b/crates/paint/src/bristle.rs
+@@ -343,7 +343,7 @@ pub(crate) struct Bristle {
+ }
+ 
+ /// A brush in the hand, with paint in its bristles.
+-#[derive(Clone)]
++#[derive(Clone, Debug)] // EXPERIMENT: Debug for the state digest
+ pub struct Held {
+     pub tool: Tool,
+     pub(crate) bristles: Vec<Bristle>,
+@@ -705,7 +705,7 @@ pub(crate) enum Clip<'a> {
+ 
+ impl Clip<'_> {
+     /// (contact factor, lift) at whole-canvas pixel `i`.
+-    #[inline]
++    #[inline(always)]
+     pub(crate) fn at(&self, i: usize) -> (f32, f32) {
+         match self {
+             Clip::Mask(m) => (m.data[i], 0.0),
+@@ -1382,6 +1382,9 @@ unsafe fn exchange(
+                             to[0] = (tx, ty, 1.0);
+                             1
+                         };
++                        // EXPERIMENT: loop-invariant loads hoisted: lat/hide of `i` don't change in this loop (take() only lowers vol[i] and may zero its cure; add() touches j != i). cure is NOT invariant (take zeroes it below 1e-5): read per target as before.
++                        let l_i = *sf.lat.add(i);
++                        let hd_i = *sf.hide.add(i);
+                         for &(tx, ty, share) in &to[..n_to] {
+                             if share <= 0.0 {
+                                 continue;
+@@ -1396,8 +1399,7 @@ unsafe fn exchange(
+                                 // only the accepted share moves, the rest stays
+                                 let m = m * share * clip.map_or(1.0, |c| c.at(ty * w + tx).0);
+                                 if j != i && m > 0.0 {
+-                                    let l = *sf.lat.add(i);
+-                                    let hd = *sf.hide.add(i);
++                                    let (l, hd) = (l_i, hd_i);
+                                     let cure = if sf.dry.is_null() { 0.0 } else { (*sf.dry.add(i)).cure };
+                                     // the paint moved covers its share of
+                                     // the pixel it came from
+diff --git a/crates/paint/src/handling.rs b/crates/paint/src/handling.rs
+index 24e7e8b..6aaf6e5 100644
+--- a/crates/paint/src/handling.rs
++++ b/crates/paint/src/handling.rs
+@@ -425,6 +425,7 @@ impl Canvas {
+         let mean_len = hd.mean_length();
+         // one stroke per gap² of area gives coverage = width · length / gap²
+         let gap = (hd.tool.width * mean_len.max(hd.tool.width) / hd.coverage.max(0.05)).sqrt().max(0.5);
++        let tp0 = std::time::Instant::now();
+         let centers = place(hd, f, gap, mean_len, seed, &mut rng);
+         let drift = crate::noise::Fbm::new((seed as u32) ^ 0xD21F, 3, hd.drift.1);
+         // clipped strokes may start outside the region and brush into it
+@@ -534,15 +535,24 @@ impl Canvas {
+             _ => clip.map(Clip::Mask),
+         };
+         let before = self.wet.current;
++        let plan_secs = tp0.elapsed().as_secs_f64();
+         let slice = self.hand_slice_secs();
+         // with hand time on, the pass's first slices can set before the look
+         // (baked into the dry film, no longer wet): the film before the pass
+         // tells that paint from a gap
+         let film0 = (hd.fills() && slice.is_some()).then(|| self.film.clone());
++        let tr0 = std::time::Instant::now();
+         self.run_plans(plans, (ex, ey), gap, &hd.tool, hd, hd.ramps, clip, seed, &mut rng, piles, slice);
++        let run_secs = tr0.elapsed().as_secs_f64();
++        let tf0 = std::time::Instant::now();
+         if hd.fills() {
+             self.fill_gaps(mask, hd, before, film0.as_deref(), clip, seed);
+         }
++        if let Some(p) = std::env::var_os("PAINT_DUMP") {
++            use std::io::Write;
++            let mut fh = std::fs::OpenOptions::new().append(true).create(true).open(p).unwrap();
++            writeln!(fh, "work_phases plan={plan_secs:.3} run={run_secs:.3} fill={:.3} film0={}", tf0.elapsed().as_secs_f64(), film0.is_some()).unwrap();
++        }
+         if let Some(edge) = &hd.cut_in {
+             self.cut_in_edges(mask, edge, hd, seed ^ 0xED6E, &mut rng, piles);
+         }
+@@ -728,6 +738,8 @@ impl Canvas {
+             eprintln!("work: {} strokes, reach {ex:.0}x{ey:.0}, tiles {tw}x{th}", plans.len());
+         }
+         let mut tiles: Vec<Vec<Plan>> = (0..tw * th).map(|_| Vec::new()).collect();
++        // EXPERIMENT (throwaway worktree): per-stroke footprints, kept beside the plans
++        let mut srects: Vec<Vec<Rect>> = (0..tw * th).map(|_| Vec::new()).collect();
+         // pixel footprint of each tile: the union of its strokes'
+         let mut rects: Vec<Option<Rect>> = vec![None; tw * th];
+         for (cx, cy, rect, p) in plans {
+@@ -736,9 +748,18 @@ impl Canvas {
+             let t = ty * tw + tx;
+             if let Some(r) = rect {
+                 rects[t] = crate::sched::union(rects[t], Some(r));
++                srects[t].push(r);
+                 tiles[t].push(p);
+             }
+         }
++        let dump = std::env::var_os("PAINT_DUMP").map(std::path::PathBuf::from);
++        let timings: std::sync::Mutex<Vec<(usize, usize, Rect, f64, f32, usize, bool, bool, String)>> = std::sync::Mutex::new(Vec::new());
++        if let Some(p) = &dump {
++            use std::io::Write;
++            let mut f = std::fs::OpenOptions::new().append(true).create(true).open(p).unwrap();
++            let n: usize = tiles.iter().map(|t| t.len()).sum();
++            writeln!(f, "pass tool_width={} scrub={} blender={} strokes={} reach={:.1}x{:.1} tile={:.1}x{:.1} grid={}x{} slice={:?} threads={}", tool.width, hd.scrub, hd.blender, n, ex, ey, tile_x, tile_y, tw, th, slice, rayon::current_num_threads()).unwrap();
++        }
+         // trips to the palette: every `dip_every` strokes within a tile, and
+         // whenever the next stroke is in a new passage
+         // (and the hand's ledger: every planned stroke and trip, counted on
+@@ -813,11 +834,27 @@ impl Canvas {
+                     Some(Clip::Fence { fence, limit, .. }) => Some(Clip::Fence { fence, u: crate::fence::Fence::stroke_draw(p.pts[0], seed), limit }),
+                     c => c,
+                 };
++                let t0 = std::time::Instant::now();
+                 let r = unsafe { crate::bristle::drag_on(surf, &mut held, &g, clip, id, &mut scratch) };
++                if dump.is_some() {
++                    let ki = (k as usize).saturating_sub(1);
++                    let kk = tiles[ti].iter().position(|q| std::ptr::eq(q, p)).unwrap_or(ki);
++                    let len: f32 = p.pts.windows(2).map(|w| ((w[1].0 - w[0].0).powi(2) + (w[1].1 - w[0].1).powi(2)).sqrt()).sum::<f32>() * f.scale;
++                    timings.lock().unwrap().push((ti, kk, srects[ti][kk], t0.elapsed().as_secs_f64(), len, p.pts.len(), p.fresh, p.dip.is_some(), p.pts.iter().map(|q| format!("{:.1}:{:.1}", q.0 * f.scale, q.1 * f.scale)).collect::<Vec<_>>().join(";")));
++                }
+                 b = crate::sched::union(b, r);
+             }
+             b
+         });
++        if let Some(p) = &dump {
++            use std::io::Write;
++            let mut f = std::fs::OpenOptions::new().append(true).create(true).open(p).unwrap();
++            let mut v = timings.into_inner().unwrap();
++            v.sort_by_key(|t| (t.0, t.1));
++            for (ti, k, r, secs, len, npts, fresh, dip, pts) in v {
++                writeln!(f, "stroke tile={ti} k={k} rect={},{},{},{} secs={secs:.6} len_px={len:.1} npts={npts} fresh={fresh} dip={dip} pts={pts}", r.0, r.1, r.2, r.3).unwrap();
++            }
++        }
+     }
+ }
+ 
+diff --git a/crates/paint/src/sched.rs b/crates/paint/src/sched.rs
+index 8a70efa..d66728f 100644
+--- a/crates/paint/src/sched.rs
++++ b/crates/paint/src/sched.rs
+@@ -173,16 +173,37 @@ impl Canvas {
+             if std::env::var_os("PAINT_DEBUG").is_some() {
+                 eprintln!("  {} tiles", order.len());
+             }
++            if let Some(p) = std::env::var_os("PAINT_DUMP") {
++                use std::io::Write;
++                let mut f = std::fs::OpenOptions::new().append(true).create(true).open(p).unwrap();
++                let t0 = std::time::Instant::now();
++                writeln!(f, "batch {bi} of {n_batches} secs={bsecs:.1} tiles={}", order.iter().map(|t| t.to_string()).collect::<Vec<_>>().join(",")).unwrap();
++                let _ = t0;
++            }
+             let surf = self.surf();
+             // tiles run in parallel wherever that can't change the result: a
+             // tile starts once every earlier tile (in `order`) it overlaps is
+             // done
++            let tb = std::time::Instant::now();
+             let dirty = run_ordered(&order, &rects, |t| paint(surf, t, first.wrapping_add(offsets[t]))).into_iter().fold(None, union);
++            if let Some(p) = std::env::var_os("PAINT_DUMP") {
++                use std::io::Write;
++                let mut f = std::fs::OpenOptions::new().append(true).create(true).open(p).unwrap();
++                writeln!(f, "batch_done {bi} wall={:.3}", tb.elapsed().as_secs_f64()).unwrap();
++            }
++            let th = std::time::Instant::now();
++            let _ = th;
+             if let Some((x0, y0, x1, y1)) = dirty {
+                 self.wet.touch(x0, y0, x1, y1);
+             }
+             if bi + 1 < n_batches {
++                let th = std::time::Instant::now();
+                 self.hand_pass(bsecs);
++                if let Some(p) = std::env::var_os("PAINT_DUMP") {
++                    use std::io::Write;
++                    let mut f = std::fs::OpenOptions::new().append(true).create(true).open(p).unwrap();
++                    writeln!(f, "hand_pass {bi} wall={:.3}", th.elapsed().as_secs_f64()).unwrap();
++                }
+             }
+         }
+     }

@@ -1,0 +1,52 @@
+diff --git a/packages/gtfs/src/bus-timetable.ts b/packages/gtfs/src/bus-timetable.ts
+index f772bd8..c293632 100644
+--- a/packages/gtfs/src/bus-timetable.ts
++++ b/packages/gtfs/src/bus-timetable.ts
+@@ -14,7 +14,8 @@ import { eachRow } from './csv.ts';
+ import type { Row } from './csv.ts';
+ import type { GtfsFiles } from './network.ts';
+ import { serviceDayStart } from './schedule.ts';
+-import { eachLine, fieldsOf, serviceDay, servicesOn, shapesOf, textOf, zipEntries } from './slim.ts';
++import { fieldsOf, serviceDay, servicesOn, shapesOf } from './slim.ts';
++import { eachLine, textOf, zipEntries } from './zip.ts';
+ import type { GtfsCall } from './types.ts';
+ 
+ // [west, south, east, north].
+@@ -84,8 +85,6 @@ interface CallRow {
+   readonly dropOff: string;
+ }
+ 
+-const DAY_MS = 86_400_000;
+-
+ export interface BusFilesOptions {
+   // The timetable's time zone (agency_timezone).
+   readonly timeZone: string;
+@@ -111,7 +110,7 @@ export async function busFiles(zip: Uint8Array, options: BusFilesOptions): Promi
+     new Set(Array.from({ length: 8 }, (_, i) => serviceDay(at, i - 1, timeZone))),
+   );
+   // Yesterday (its trips run past midnight) to the day after tomorrow.
+-  const near = [-1, 0, 1, 2].map((i) => serviceDay(at + i * DAY_MS, 0, timeZone));
++  const near = [-1, 0, 1, 2].map((i) => serviceDay(at, i, timeZone));
+   const nearServices: readonly (readonly [string, ReadonlySet<string>])[] = near.map(
+     (d) => [d, servicesOn(calendar, calendarDates, new Set([d]))] as const,
+   );
+@@ -204,6 +203,10 @@ export async function busFiles(zip: Uint8Array, options: BusFilesOptions): Promi
+   let cols: Readonly<Record<string, number>> | null = null;
+   let current = '';
+   let rows: CallRow[] = [];
++  // The trips read so far: a trip's rows are read as one run, so its rows
++  // after another trip's would replace those before (the feeds group them,
++  // as the spec suggests but doesn't require). Such a file isn't built.
++  const done = new Set<string>();
+   await eachLine(stopTimes, (raw) => {
+     const line = raw.replace(/\r$/u, '');
+     if (line === '') return;
+@@ -217,6 +220,8 @@ export async function busFiles(zip: Uint8Array, options: BusFilesOptions): Promi
+     const id = col('trip_id');
+     if (id !== current) {
+       flush(current, rows);
++      if (info.has(current)) done.add(current);
++      if (done.has(id)) throw new Error(`stop_times.txt not grouped by trip_id: ${id} recurs`);
+       current = id;
+       rows = [];
+     }

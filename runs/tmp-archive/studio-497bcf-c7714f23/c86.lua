@@ -1,0 +1,7 @@
+local reg = fieldA * rect(150, 470, 460, 52) - river2:grow(1.2) - fieldB:grow(0.5)
+local up = reg * mask(function(x,y) return 1 - smoothstep(484, 494, y) end)
+local dn = reg * mask(function(x,y) return smoothstep(484, 494, y) end)
+work(up, {hand="body", pile=gGf, angle=-0.02, coverage=2.0, length={15,40}, pressure={0.45,0.7}, fill=true, clip=reg, threshold=0.3})
+work(dn, {hand="body", pile=gG, angle=-0.02, coverage=2.0, length={15,40}, pressure={0.45,0.7}, fill=true, clip=reg, threshold=0.3})
+blend(reg, {angle=0, coverage=1.5, clip=true, tool={kind="badger", width=16}, pressure={0.3,0.45}})
+print(wait(0))

@@ -1,0 +1,8 @@
+# Owner-decision update communication brief
+Objective: keep the painter guide operationally accurate and the developer BUILD record auditable after the owner's nine decisions. Final reply supplies commits, actual test counts and changed judgments.
+Audience/context: painter uses exported guide with no project history; owner reads BUILD and final for implementation evidence.
+Knowledge model: painter knows Lua but needs fixed pixel width, view bounds, local glaze drying, explicit fill, journal time and protected log instructions; does not need obsolete APIs or developer debate. Owner knows requested changes and wants results, not repeated questions. Do not assume either knows what a hash chain protects: explain ordinary edit/truncation detection and local trust limits in BUILD only.
+Source meaning: owner's response supersedes agent-written principles; no enforced sittings, wait returns painting day/time, glaze local touch-dry, no readable inverse matching code, fill opt-in, log edit refusal, 2400 live/delivered PNG, bounded whole/crop views, journal virtual time, small physics unchanged. Verify details against completed code before finalizing.
+Form: targeted guide edits retaining reference layout; update BUILD current descriptions and replace resolved-question list with decisions plus remaining limitations; concise final commit and test summary with paths.
+Style: plain US English, no Oxford comma, neutral swatch examples, no recipes/artists/history in guide. Receipts in BUILD and final.
+Review: invoke comms-review on final guide/BUILD drafts; preserve uncertainty rather than promise malicious-user-proof local storage.

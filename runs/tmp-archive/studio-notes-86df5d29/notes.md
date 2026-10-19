@@ -1,0 +1,80 @@
+S1 (to line 1273):
+- ground knife 120um + brush 25um; chunk1 64s compute
+- broad hand cov 2.5 clipped bands: gaps, pale, ground blotches showing
+- body filbert14 cov3 fill=true in 3 clipped band masks + blend(angle 0): hard seams at band boundaries; fixed w/ unclipped near-vertical blends (angle ~1.5, len 30-70) across seams
+- body pass over wet pale field -> came out paler/pinker (lifted pale)
+- roughened ellipses bars clip=true: crisp, cut-out look; horizontal blend over region fused them
+- detail round 3 into wet pale field: pale (wet field came up into it), uniform
+- far strip laid wet over a wet neighbor came up dirty, streaked
+- drying: after ~4h (13:10) white-rich sky open, one band setting; lay-in all tacky at 36h, all dry at 66h
+- thin roughened ellipses clipped detail fill of light: regular, too bright stripes; horizontal blend fused to soft
+- blend angle 1.3 on body passage combed it into vertical comb pattern; horiz blend over it removed
+- second layer: tacky at 26h, dry at 50h
+- blend(upper:grow(15), clip=true) left lower edge hard and drippy; rim blends softened partly
+- scumble filbert6 load .4 pale pile: whitish blobs
+- pile w/ white 2.6 parts to 2.6 of colors read too pale as "dark"
+(to 1723)
+- dark pile (white 1.2) body flat 10 cov3, then blend over wider area: blend lifted dark, still pale
+- drying after dark water: 30h tacky, 60h mixed (some dry, dark mud tacky), 96h: all dry except thick dark mud spit tacky
+- small separate lobes painted clipped-detail beside an edge read as separate islands/stones; inlets looked cut out
+- small patch repaint mismatched tone vs dry neighbor; repainting whole area in one wet pass + blend unified it
+- flat 3.5 single strokes pale, low load (.3-.6), pressure .25-.45: ruled uniform stripes; light badger 20 blend (p .2-.35) sank them to faint sheen
+- crop 700 units wide x 187: refused (>1200 px per side); 500 ok
+- 60h wait all dry
+- dark hull detail flat 4 cov4 pile w/ 0.25 white over dry mud -> mid-dark grey, too pale; second coat no white load 1 -> darker, still lifted wet underlayer
+- flat brush stroke single pressure .9 orient across -> post with rounded ends (sausage)
+- flat stroke pressure .7->.1 ramps .05,.6 wiggly path -> tapering wavering reflection, reads
+- round 3 point .5 load .85 pressure .85->.55 vertical long stroke over wet paint -> pale from picking up mud
+- rigger 1.4 point1 pressure .3 -> hairline
+- 20h after dark (bone black+umber) hull: bottom setting, top area open(strake)? and mast tacky
+- detail work over wet dark hull, pale layer came out streaky
+- shadow pile medium .3 detail over dry mud + badger 8 blend: too light, greenish-grey (read like puddle)
+- 26h: tacky; round 2.2 point .6 strokes over tacky: clean dark lines
+- reflection pile over dry dark strokes: covered them, left hatched streaks & pale band
+- 28h: thin reflection dry, sand bank thicker tacky
+- runtime error chunk changed nothing
+- clipped detail fills of two sides of a new boundary left lighter patchy triangles; badger blend shrunk mask smoothed; left ring-shaped blob
+- scumble filbert10 load .5 of white pile over dry: glow; unclipped blend
+- flat 2.2 short strokes pressure .25-.45->.1: lozenge glints
+- scumble light pile over dry: patch too light, chalky scrubbed marks
+- body filbert 8 unclipped on small ellipses: dragged wide, streaks; wide badger 24 blend unclipped over wet+dry region: dragged into swirls/streaks, washing out lit bumps
+- hard seam at old blend rect edge; covered with long thin light strokes cov1.8 load .45 pressure .15-.45 + badger blend: fixed
+- 40h: some tacky; 70h: dry except glow scumble tacky (thick white?)
+(to 2272)
+- rigger 1.5 point 1, two short curved strokes pressure .1->.6 and .6->.1 : small V marks read
+- flat 5 long single strokes low load .3-.5 pressure .15-.4 clipped: ruled mechanical streaks; badger 16 blend clipped
+- error chunk: "want a mask, got integer" from mask*0 expression
+- patch of dark pile to hide streak ends came out lighter wedge; badger blend unclipped across boundary smeared both sides into each other
+- 48h: one tacky, others dry; 84h all dry
+- repaint of area over dry paint (clipped, blend): seam where new paint meets older, hard horizontal edges at band limits, stepped line at top
+- unclipped blend across seam dragged / diagonal blend (angle .9) combed; wide badger horizontal blend region reached adjacent shape and smeared it (blend clip mask excluded? it used -shoreR * rect which included hull) 
+- 60h all dry
+- patch repaint over dry shows as lighter rectangle; blending clipped around it didn't remove edges
+- 50h tacky, 90h tacky, 162h dry (thick dark bone black/umber mud)
+- repaint over dry dark: hard edge where dry paint above won't move; transitional band + blends; blend mask edge left faint line, reblend band removed
+- load_at gradient function for feathering
+- rigger 1.3 pale-ish dark pile w/ white .6 load .6 over dry dark: too pale; round 2 point .8 pure black+umber load .8 pressure .55: dark
+- round 2.5 point .5 pale medium .2 load .35 pressure .1-.35 over dark: crisp too white line; flat 4 stroke of dark pile pressure .7 covered it
+- check 95 chunks 338 s
+S2:
+- open replays 95 chunks, resumes
+- 3 days more: all dry
+- crop 720 wide refused; look --size 1400 whole with grid ok
+- glaze (soft filbert 26 default) medium .7 umber/black, cov 1.6 pressure .2-.35 clipped over dry dark: slightly darker, streaky marks
+- small smoothed poly lens shapes body filbert 4 pale-ish pile clipped: too bright pill-shaped cut-out ovals
+- 30h tacky, 54h tacky, 126h dry (small shapes body, white-rich)
+- glaze filbert 6 medium .8 over dry pale shapes, clipped, two passes: streaky uneven, darkened
+- lose() filbert 3 reach{4,5} load .3 where .6 -> 109 strokes; covered much of shapes, left lighter halo around them against glazed surround
+- dark lip: detail round 1.2 point .6 along thin rim band (grow .8 - shrink .6) 
+- round 1.6 point .7 load .45 pressure .5->.15 clipped to shrunk shape, shake .6: short broken gleam
+- check 104 chunks 391.5 s
+S3:
+- globals (hull2) persist after reopen (replay)
+- lip: detail flat 2.5 mud pile w/ .5 white over dry glazed dark: too light and thick band (sausage), crisp bottom edge
+- repaint w/ .55 white while first wet: still lighter than surround
+- 24h tacky, 48h tacky (umber-heavy thin detail)
+- over tacky: pile w/ .3 white + .6 black, detail, edge="soft", load .9: lower edge dissolved into dark mass, but cool blue-grey
+- glaze soft filbert 10 stiffness .3 medium .75 edge lost over still-wet (tacky?) lip: dragged wet lip into horizontal streaks; warmed
+  (actually lip3 laid just before, so wet)
+- 7 days: dry
+- check 113 chunks 350 s

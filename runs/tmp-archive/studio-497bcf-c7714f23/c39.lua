@@ -1,0 +1,6 @@
+local far_riv = river:grow(2.5) * mask(function(x,y) return (y < 513 and x > 170) and 1 or 0 end)
+local a = far_riv * mask(function(x,y) return y >= 472 and 1 or 0 end)
+local b = far_riv * mask(function(x,y) return y < 472 and 1 or 0 end)
+work(a, {hand="detail", pile=mL2, angle=0, coverage=2.5, length={4,12}, fill=true, clip=true, edge="soft"})
+work(b, {hand="detail", pile=mAB, angle=0, coverage=2.5, length={4,12}, fill=true, clip=true, edge="soft"})
+print(wait(0))

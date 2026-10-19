@@ -1,0 +1,11 @@
+--- wc1/BRIEF.md
++++ wc2/BRIEF.md
+@@ -6,7 +6,7 @@
+ images or image models.
+ 
+ ## Your studio
+-- The folder [local path redacted] this brief, your notes and the easel.
++- The folder [local path redacted] this brief, your notes and the easel.
+ - The easel's tools are `paint`, `look`, `note`, `status` and `log`;
+   notes/watercolor_easel_guide.md explains them.
+ - There is no undo. To change a passage, paint over it, or lift workable

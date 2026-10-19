@@ -1,0 +1,3 @@
+-- easel session "journal": a painting replayed chunk by chunk.
+--   easel run paintings/lua/journal.lua --width 1000
+-- Each "--@ chunk" line starts one chunk as it was run at the easel.

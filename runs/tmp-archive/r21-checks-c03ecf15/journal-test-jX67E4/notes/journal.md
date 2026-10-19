@@ -1,0 +1,3 @@
+- day 1, 09:00: the sky is finished
+- day 2, 10:00: glaze the shadows
+- day 3, 08:00: glaze the shadows

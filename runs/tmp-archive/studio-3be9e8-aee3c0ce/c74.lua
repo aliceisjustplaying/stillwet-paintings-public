@@ -1,0 +1,5 @@
+local J = (jugBody + spout):grow(1)
+local W = rect(0,0,1000,521) - J - handle:grow(1)
+blend(W, {angle=1.5708, tool={kind="badger", width=40}})
+blend(W, {angle=0, tool={kind="badger", width=40}})
+blend(W, {angle=0.8, tool={kind="badger", width=40}})

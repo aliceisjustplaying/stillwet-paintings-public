@@ -1,0 +1,15 @@
+blend(lemA+lemB, {seed=771, coverage=1.4, pressure={0.31,0.31}})
+work(lemC, {hand="body", pile=plemon, clip=true, coverage=3.2, fill=true, angle=0.25, seed=781})
+sC = body.ellipsoid({126,644,0},{54,36,42})
+fC = form{{sC,dist=0.3}, light={from={-1,-0.75}, front=0.55, ambient=0.22}}
+work(lemC*fC:shadow{parts={1}}, {hand="body", pile=plD, clip=true, coverage=2.6, seed=782})
+work(lemC*fC:lit{parts={1}, soft=0.15}, {hand="body", pile=plL, clip=true, coverage=2.2, seed=783})
+rlC = grad(126,644,58,40, 0.55, 0.9, 0.55, 1.0)
+work(lemC*rlC, {hand="body", pile=pile{{"yellow ochre",1.6},{"lead white",1.2},{"vermilion",0.15}}, clip=true, coverage=1.5, seed=784})
+b4 = brush{kind="round", width=8, point=0.75}
+b4:load(pile{{"lead white",4}}, 0.9)
+b4:touch(578,472,{pressure=0.5, drag={0.6,0.5}})
+b4:wipe(0.4); b4:load(pile{{"lead white",4}}, 0.85)
+b4:touch(680,480,{pressure=0.45, drag={0.5,0.4}})
+b4:wipe(0.4); b4:load(pile{{"lead white",3.5}}, 0.85)
+b4:touch(106,622,{pressure=0.45, drag={0.5,0.5}})

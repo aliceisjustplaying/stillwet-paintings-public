@@ -1,0 +1,4 @@
+{"message":{"role":"assistant","stopReason":"toolUse"}}
+{"message":{"role":"assistant","stopReason":"error","errorMessage":"429: {\"type\":\"GoUsageLimitError\",\"message\":\"Go usage limit exceeded\"}"}}
+{"message":{"role":"assistant","stopReason":"toolUse"}}
+{"message":{"role":"assistant","stopReason":"stop"}}

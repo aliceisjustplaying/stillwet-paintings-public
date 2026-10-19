@@ -1,0 +1,12 @@
+work(lemA + lemB, {hand="body", pile=plemon, clip=true, coverage=3.2, fill=true, angle=0.3, seed=761})
+work(lemA*fL:shadow{parts={1}}, {hand="body", pile=plD, clip=true, coverage=2.6, seed=762})
+work(lemA*fL:lit{parts={1}, soft=0.15}, {hand="body", pile=plL, clip=true, coverage=2.2, seed=763})
+work(lemB*fL:shadow{parts={2}}, {hand="body", pile=plD, clip=true, coverage=2.6, seed=764})
+work(lemB*fL:lit{parts={2}, soft=0.15}, {hand="body", pile=plL, clip=true, coverage=2.2, seed=765})
+floor2 = ((ellipse(600,556,74,16) + ellipse(700,562,62,15)):soften(9)) * open_in * (-(lemA + lemB))
+work(floor2, {hand="body", pile=pin_dark, clip=true, coverage=2.4, seed=766})
+b4 = brush{kind="round", width=8, point=0.75}
+b4:load(pile{{"lead white",4}}, 0.9)
+b4:touch(578,472,{pressure=0.5, drag={0.6,0.5}})
+b4:wipe(0.4); b4:load(pile{{"lead white",4}}, 0.85)
+b4:touch(680,480,{pressure=0.45, drag={0.5,0.4}})

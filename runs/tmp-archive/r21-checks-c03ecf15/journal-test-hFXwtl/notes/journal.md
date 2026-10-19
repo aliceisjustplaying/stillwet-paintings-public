@@ -1,0 +1,2 @@
+- day 1, 09:00: the sky needs a second pass
+- day 2, 10:00: glaze the shadows

@@ -1,0 +1,29 @@
+108c108
+< let Q = null, epoch = null, events = [], pos = 0, live = true, playing = null, cwd = '', sitStarts = [0], nSittings = 1;
+---
+> let Q = null, epoch = null, events = [], nUpd = 0, pos = 0, live = true, playing = null, cwd = '', sitStarts = [0], nSittings = 1;
+152c152,153
+< function reset() { gen++; busy = false; stop(); events = []; epoch = null; cwd = ''; liveText = null; typed = -1; sitStarts = [0]; nSittings = 1; $('strip').innerHTML = ''; $('ticks').innerHTML = ''; }
+---
+> function reset() { gen++; busy = false; stop(); events = []; nUpd = 0; epoch = null; cwd = ''; liveText = null; typed = -1; sitStarts = [0]; nSittings = 1; $('strip').innerHTML = ''; $('ticks').innerHTML = ''; noPicture(); }
+> function noPicture() { $('img').removeAttribute('src'); $('cap').textContent = ''; $('zimg').removeAttribute('src'); $('zoom').style.display = 'none'; }
+158c159
+<                                       : `/api/events?${Q}&since=${events.length}${epoch === null ? '' : '&epoch=' + epoch}`)).json(); }
+---
+>                                       : `/api/events?${Q}&since=${events.length}${epoch === null ? '' : '&epoch=' + epoch + '&u=' + nUpd}`)).json(); }
+162,163c163,170
+<   if (STATIC) { lastStatic = Date.now(); r.events = r.events.slice(events.length); }  // the file holds every event: keep the new ones
+<   epoch = r.epoch; nSittings = r.sittings; if (r.imgext) IMGEXT = r.imgext;
+---
+>   // events we already have whose result came in since: the server lists them; the static file just has them as they are now
+>   let ups = r.updates || [];
+>   if (STATIC) { lastStatic = Date.now(); ups = [];
+>     for (let i = 0; i < events.length && i < r.events.length; i++) if (r.events[i].out !== events[i].out || r.events[i].err !== events[i].err) ups.push([i, r.events[i]]);
+>     r.events = r.events.slice(events.length); }  // the file holds every event: keep the new ones
+>   epoch = r.epoch; nSittings = r.sittings; if (r.imgext) IMGEXT = r.imgext; if (r.nupdates !== undefined) nUpd = r.nupdates;
+>   for (const [i, e] of ups) if (i < events.length) events[i] = e;
+>   if (ups.length && !(live && r.events.length)) show(pos);  // (at the live edge, the new events show below)
+276a284
+>     if ((e.kind === 'write' || e.kind === 'edit') && (e.err || e.out === undefined)) continue;  // failed, or no result yet
+350a359
+>   else noPicture();

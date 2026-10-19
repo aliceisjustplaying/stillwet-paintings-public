@@ -1,0 +1,43 @@
+diff --git a/apps/chi/src/server/bustracker.ts b/apps/chi/src/server/bustracker.ts
+index 1fa8e24..e8238b5 100644
+--- a/apps/chi/src/server/bustracker.ts
++++ b/apps/chi/src/server/bustracker.ts
+@@ -222,9 +222,13 @@ export function createBusTrackerSource(options: BusTrackerOptions): GtfsTripSour
+       if (!tt) return { time: now(), trips: [] };
+       if (index?.of !== tt) index = indexOf(tt);
+       const on = index;
++      // The load's time is when it asked, for every batch: a batch's buses'
++      // own fixes may be older than an earlier batch's time (an empty one's,
++      // now), and the feed would drop it as a lagging copy. Each bus keeps
++      // its fix's time (gt).
++      const asked = now();
+       const trips: GtfsTrip[] = [];
+       let buses = 0;
+-      let latest = 0;
+       let failed = 0;
+       let firstError: unknown = null;
+       // Each group's buses as soon as it's in (the requests queue in the
+@@ -241,9 +245,8 @@ export function createBusTrackerSource(options: BusTrackerOptions): GtfsTripSour
+               const found = line === '' ? null : tripOf(on, v);
+               if (!found) continue;
+               trips.push(asTrip(on, v, found.trip, found.day, line, options.station));
+-              latest = Math.max(latest, v.at * 1000);
+             }
+-            partial?.({ time: latest || now(), trips: [...trips] });
++            partial?.({ time: asked, trips: [...trips] });
+           } catch (error) {
+             failed++;
+             firstError ??= error;
+@@ -253,10 +256,10 @@ export function createBusTrackerSource(options: BusTrackerOptions): GtfsTripSour
+       options.onJoined?.(buses, trips.length);
+       if (failed > 0) {
+         // What came in stands; the failure shows on /healthz and in the log.
+-        partial?.({ time: latest || now(), trips });
++        partial?.({ time: asked, trips });
+         throw new Error(`${failed} of ${chunks.length} requests failed: ${String(firstError)}`);
+       }
+-      return { time: latest || now(), trips };
++      return { time: asked, trips };
+     },
+   };
+ }

@@ -1,0 +1,458 @@
+You're back at the easel. The painting is as you left it. Your brief is in BRIEF.md and your journal in notes/journal.md. Take your time with a fresh look at the whole canvas and detail crops in normal color. Read your journal handoff and apply its practical lessons before acting. Continue one campaign at a time, inspecting the whole picture and relevant detail before writing the next campaign's code. Let the result inform your next action and check local repairs against the whole picture; reconsider the composition or method if a repair repeats the problem. Judge unfamiliar mixtures and marks through small laid trials on the intended substrate after the intended treatment. Carry forward the observed material conditions and treat broader rules as hypotheses. Inspect each passage you previously acknowledged as unresolved in an appropriate detail crop, then explicitly judge it in your journal: improve it or accept it as it is, with your reason. You may finish with imperfections you deliberately accept. Before retrying a failed recipe, identify what has changed and why that could address the observed failure. Record what you observed and what remains uncertain. Is your heart happy with this? Is there something you would enjoy taking further? You can keep working for hours if you like, and the painting's simulated time is yours to use, whether that means days or years. Enjoy it. When you are happy with the painting, record your reflections and an updated handoff in your journal and last reply, carrying forward the practical lessons that still apply, then finish.
+
+Your previous sitting's reply:
+**Evening Light on Still Water**
+
+A calm sunset over a violet sea. A pale sun sits on the horizon with a warm bloom, and a broken glitter path runs down the water toward the viewer. The headland on the left is lit on its sun-facing slope and dark on its shadow side, and a small sailboat with its reflection sits on the glow at right. The sky moves from blue at the top through lilac and rose cloud bands to gold at the horizon. The sea reads as water across its width, with horizontal glints in the middle distance and larger ones near the viewer.
+
+This sitting I changed nothing on the painting. I tested one repair for the small olive streak in the upper-left sky. It reproduced the streak's grain on a scratch, then dried a sky-matched cover as a clean oval, so I rejected it and accepted the streak as a weave artifact. I went through the other open passages at 1:1 and accepted each with a reason. The top-right cloud block's straight left wall is the weakness I'd most like to resolve. I'm leaving it, because every cover on that block has added a shape.
+
+**Handoff (also in the journal)**
+
+- **Accepted, with reasons:** the upper-left streak (a blend artifact; a body cover dries as an object); the top-right cloud block (a cloud accent, already covered more than twice); the lower-left near glints (they read as glints at whole view); the sheen oval; the headland crest; the path foot; the rose-band dashes; and the sailboat.
+- **Practical lessons:**
+  - A body cover over a grained surface dries as a smooth object, even when its value and hue match.
+  - A scratch with a few layers can't stand in for a dried, many-layered passage on the painting.
+  - A graded body re-lay of a dry mass reads as form (observed once, on the headland).
+  - Glints on a dry sea (flat 3, load 0.3, pressure 0.07–0.10, horizontal) work in three zones.
+  - Blending over lean paint leaves grainy streaks, so don't blend to fix a sky.
+- **Uncertain:** whether a graded re-lay would soften the top-right cloud's wall (it needs a faithful replica first), whether the lower-left pills would read better dimmer on the painting, and whether the streak's grain would fade with time.
+
+I'm content with the picture. The headland was the change I most wanted, and it's done.
+
+## BRIEF.md
+
+# Paint a picture
+
+Paint one picture of your choosing in oil, at the easel, a simulator of oil
+paint on linen. Subject, composition and manner are yours. Your box holds
+every tube the studio has, 54 colors: use as many or as few as you like, and
+be as bold with color as you want. Work from knowledge and the notes in your
+studio; don't use reference images or image models.
+
+## Your studio
+- The folder [local path redacted] this brief, your notes and the easel.
+- The easel's tools are `paint`, `look`, `note`, `status` and `log`;
+  notes/easel_guide.md explains them.
+- There is no undo. To change a passage, paint over it, or lift wet
+  paint with a rag or a brush.
+- You mix your own paint on the palette, from the tubes, in the
+  proportions you choose.
+- Time passes on the painting's own clock: every mark takes the time a
+  hand takes, and `wait(minutes)` lets it rest, as long as you like; paint
+  dries as that time passes. Real time between chunks doesn't count.
+
+## The rules of the studio
+- Paint shapes and marks, not computed pictures: don't encode an image in
+  masks, amounts or proportions.
+- Shapes are drawn, not copied: don't make a mask or stroke by mirroring
+  or rotating another mask's or stroke's coordinates. A shape that mirrors
+  another is drawn as its own shape, not as `m:at(x, 2*H - y)` or
+  `m:at(W - x, y)`. Moving a shape and reusing your own helpers are fine.
+
+## What to read
+notes/easel_guide.md; notes/techniques.md; notes/studio_notes.md;
+notes/research/every_materials.md (the paints in your box) and
+notes/research/oil_paint_physics.md as needed.
+
+## Working
+Work one campaign at a time. After laying a campaign, inspect the whole picture in normal color and relevant detail before writing the code for the next campaign. Let what you see inform the next action; record what changes or why continuing unchanged serves the picture.
+
+After the first large masses, consider whether the whole picture produces your intended effect: how its large shapes, values and spatial relationships support it, and whether anything weakens it. Before adding repeated small details, improve a weakening relationship or deliberately accept it with your reason. After a local repair, check its effect on the whole picture. If the repair recreates the problem, reconsider the composition or method before expanding it.
+
+Before repeating an unfamiliar mixture or stroke, inspect a small trial, on the scratch canvas beside the painting (`scratch: true`) or on the painting, laid on the intended substrate after the intended treatment, alongside the existing marks in a detail crop. A held pile shows thick paint on steel; use the laid trial to judge its effect on the picture. For material trials and repairs, keep useful observations in your journal: substrate and wetness, recipe ratios, medium or thinner, brush load, coverage and the viewed result. Carry forward the conditions that mattered and label broader rules as hypotheses until a further trial isolates them.
+
+- You make every artistic decision.
+- Keep exploring what interests you. You’re free to reconsider a passage,
+  change approach and discover where the painting can go.
+- Keep a working journal with `note` as you go: your own working notes.
+  You can revise them.
+- You may sign the painting.
+- Take your time and enjoy painting. You can keep working for hours,
+  exploring and revisiting passages until you are happy with the picture.
+- An oil painting can develop over simulated years. Whether yours takes
+  one simulated day or a thousand, that time is yours to use.
+- When you feel ready to finish, use `look` to enjoy the whole painting
+  and explore detail crops in normal color after your latest changes.
+  Ask yourself: is your heart happy with this? Is there something you
+  would enjoy taking further? Follow that interest for as long as you
+  like. When you are happy with the painting, record your reflections
+  in your journal and finish.
+
+## Your reply
+When you stop working, reply with the painting's title if you give it one
+and a few sentences about the picture.
+
+## Your journal (notes/journal.md)
+
+Your own notes, quoted as you wrote them:
+
+> - day 1, 09:01: Day 1 plan (coastal dusk, wet sand). Canvas 600mm wide, aspect 4/3, linen 24x22/cm, buff toned ground (lead white 3, yellow ochre 1, raw umber 0.4, knife, 40um).
+>   Scratch trials (scratch-1..3):
+>   - Sky graded broad strokes, filbert 22, turps 0.5 piles: ultramarine+cerulean+white (top) -> cerulean+white+alizarin tint -> rose madder+ultramarine+white -> pale cadmium+rose -> cadmium yellow+white (horizon). fill=true closes gaps; WITHOUT rose band a blue->yellow pass goes green. Works.
+>   - Cloud banks: ultramarine .6 + permanent alizarin .5 + white .8 (top, violet) and rose madder .8 + white 1.2 + pale cad .3 (lit body). Reads as sunset cloud, a bit blobby.
+>   - Sun: halo pale cad + white .8 + deep cad .3 (broad, edge lost, blend), core pale cad + white 1.8 (body). Reads as a pale disc; a little dim.
+>   - Blue sea band (ultramarine .7, Prussian .25, alizarin .3, white .5, turps .2) laid directly over wet yellow sky -> green seam at the join. Keep a rose/lilac transition between blue sea and yellow sky.
+>   - Sand: ochre+rose+ultramarine+white over mauve -> flat dark slab at the foreground. Too dark and too uniform; wet sand should reflect the sky, lighter near the horizon.
+>   - piles= needs two or more piles (single pile: use pile=).
+>   - Drying (scratch, turps-thinned lay-in, lead-white heavy): open for ~5 h, setting ~15 h, tacky ~15-17 h (laid at 09:40, tacky by 06:25 next day).
+> - day 2, 11:05: Day 2, 11:06 state review. Painting (600mm, 4/3, buff ground). Laid: sky graded (blue top -> lilac -> rose -> peach -> gold at horizon), cloud banks (violet top, rose lit), sun halo + core (too pale, weak), headland left (ultramarine .39, burnt sienna .27, bone black .16, alizarin .12, white .06; two coats, clip to poly; solid, but plain hump outline), distant ridge (ultramarine/cerulean/alizarin/white), schooner silhouette right (Prussian .33, burnt sienna .33, ultramarine .22) on the glow.
+>   Problems found:
+>   - Pale patch beside the headland (broad skyLow/skyUp) reads as cloud/haze; a rag wipe on the sky made a grey-violet smear with jagged edges -> do not rag open paint near a stripe; re-laying helped little.
+>   - Lower half (sea + sand) is one mid grey-mauve in value squint: no dark to set off the sun path. Needs a darker foreground (value 3-4) with bright glints kept on top.
+>   - Sun is weak: a pale disc with yellow bloom over the open violet sea line turned olive green where they mixed. Yellow over open violet = olive. Keep the horizon's yellow and violet apart until set.
+>   - A blend across the sun-path glints lifted the mask into a flat grey band with hard edges (blend of a rectangular/ellipse-style mask). Do not blend a rectangle over open paint.
+>   Plan: let the sky and sea set overnight; then glaze the foreground darker (thin, medium-rich, dark violet-brown), keeping the glints; re-lay the sun core and glints over set paint; work the headland outline with a warmer rim.
+> - day 5, 10:33: Material trials, scratch-8..10 (conditions: buff ground; dark base = rose madder .4 + ultramarine .5 + burnt sienna .3 + white .5 (A), then ultramarine .6 + burnt sienna .7 + bone black .1 + white .15 (B), then burnt sienna .8 + ultramarine .6 + bone black .3 + alizarin .2 (C), turps .1-.2; broad laid, dry after 2 days):
+>   - Scumble of lilac (rose madder .5 + ultramarine .3 + white 1.3, turps .2, flat 8, load .35, clip) over the dry dark: opaque cobble-like blobs, not sheen. Heavy white over dark scumble = blobs. (Condition: dry dark base, load .35.)
+>   - Dry flat 8 at load .22 pressure .12-.25 (lilac): broken grainy dashes that catch the weave, faint; load .45 gold: solid short bars. Load decides the mark: light load = broken, heavy = bars.
+>   - Second dark coat (ultramarine .7 + burnt sienna .7 + bone black .2 + alizarin .3, body, load .9) over pale cream puffs: covers them completely, but a flat dead slab. Need sheen after it.
+>   - Dry-brush sheen after the coat had set ~3 days (dry-ish, tacky at 300,600): load .2, flat 8, pressure .1-.24 -> sparse small pale flecks in clumps, reads as glints, not horizontal sheen. Use sparingly, and as small flecks, not the long bars.
+>   - Thin medium-rich glaze (ultramarine .5 + burnt sienna .5 + alizarin .3, medium .8, glaze hand) on dry sand: pooled into dark rounded capsules at the ends of old strokes. Not usable on the sand.
+>   - Body-hand patches of 3 wet-sand tones on dry dark (coverage .55): float as separate pebbles, not sheen.
+> - day 6, 22:40: Foreground treatment trials (scratch-11), conditions: dark base (rose madder .4 + ultramarine .5 + burnt sienna .3 + white .5; then ultramarine .6 + burnt sienna .7 + alizarin .4 + bone black .1 + white .15; then burnt sienna .8 + ultramarine .6 + bone black .3 + alizarin .2) laid broad, dry at day 5.
+>   - Rigger (round point 1, width 2) glints, lead white 1 + rose .4 + ultramarine .2 (turps .1): clean hairlines, read as thin lines not light. Pressure .35-.6 gives ~1 unit lines. Use few, short, fine; add a soft veil so they are light not wire.
+>   - Foreground dry-brush cool/warm/dusk (flat 10, load .2, pressure .12-.24) on the dark: broken streaks read as wet sand glints at small scale. Good at this density.
+>   - Painting dry-brush bars with a loaded flat 8 (load .18-.26, pressure .12-.24) laid at dry-ish base: long opaque tan bars, not broken. Lower the load, or use the bars only near the horizon.
+>   - Dry dark over painting reflection strokes (flat 8, load .2, pressure .15-.3, 70 strokes) broke them into sheen. Works on tacky-to-dry strokes.
+> - day 6, 22:40: Scratch-11 veil trial: a light flat-10 drag of rose/alizarin/white (load .3, turps .5, pressure .10-.12) laid over the dry dark base and near the rigger glints gave stippled grey hatch lines along the drag, not a veil. Over dry paint, a light drag catches only the weave tops (consistent with note 12-13). Don't use it as a veil; use a fuller loaded body dab if a veil is needed.
+> - day 7, 00:12: Trial on the painting, top sky (day 7, 00:12): flat 10 load .4 deepT (ultramarine .8, alizarin .3, cerulean .3, white .4, turps .5), 6 horizontal drags over a DRY lilac-blue sky, pressure .2-.3. Result: a solid dark bar on the first pass and then stitched weave hatching: sharp, mechanical, not sky. Dragging a loaded flat over dry paint leaves its track (weave-catch) and doesn't melt into the sky. Reject this. For upper-sky depth use a wet-into-wet pass (while open) or a broad coat at one pass, not dragged bars over dry paint.
+> - day 7, 00:31: Day 7, 00:35 whole-picture review. Reads as a dusk: sky gradient (blue top, lilac, pink clouds, gold horizon) works; sun glowing on horizon with halo works; dark headland left and schooner right make a left/right balance; sun path leads the eye down the middle.
+>   Weak: (1) foreground reads as a plum plain or bog, not water: no horizontal reflections or ripple structure. (2) the sun path is a smooth-edged wedge (a road). (3) the sea line at the horizon was lost in the band blend (lilac mauve field). (4) headland is a plain dome.
+>   Plan: when foreground sets, lay the sea as water: cooler base graded from cerulean/lilac near the horizon to ultramarine/alizarin/Prussian lower; then horizontal broken ripples (dry-brush, light load) in lilac, peach, cerulean that thin toward the viewer; break the sun path's edges with dashes and glints so it is water not a road; keep the bloom at the horizon. Trials on scratch first.
+> - day 7, 00:31: Water trials (scratch-13, day 5-8, scratch clock): base = dark plum coat laid, dry 3 days; then water base graded: cerulean .8 + alizarin .3 + white 1.4 (turps .4) near horizon -> ultramarine .8 + alizarin .5 + white .9 (turps .4) mid -> Prussian .5 + ultramarine .7 + alizarin .3 + white .5 (turps .3) low; broad, fill, coverage 1.4, laid on dry plum. Result: reads as a sea gradient (lilac to deep blue) well, far better than plum. Set ~3 days (dry).
+>   Ripples on that dry base: flat 9, load .25, pressure .1-.22, horizontal strokes 20-110 long (longer nearer): lilac white+alizarin+cerulean .4 (26 strokes), peach pale cad+rose+white (14), cerulean+white (14). Read as water glints, sparse in mid zone; near ones bigger. Good.
+>   Sun path on that base: flat 6, load .25-.45, pale cad .8 + white 1.7 / white + cad yellow .4 + rose .2 alternating; column centred on sun x, half-width 6 + t*110 (t=(y-452)/298), dashes 6-50 long, pressure .14-.3, y step 3+8t, ~147 dashes, 75% kept. Reads as sun reflection on water with broken edges: the road look is gone.
+> - day 14, 12:57: Headland trials (scratch-14, days 4-10 on the scratch clock). Base: ultramarine 1 + burnt sienna .7 + bone black .4 + alizarin .3 + white .15 (hdA), two body coats (coverage 1.6 then 1.0 at load 1.0): dries slowly, dry at ~day 9 on the scratch.
+>   - Warm rim stroke (flat 6, load .6 of burnt sienna/rose/cadmium/white .8, pressure .35) on the dark: a solid light-brown stripe, reads as a crack, as the guide warned. REJECT.
+>   - Glaze of burnt sienna .4 + alizarin .3 + pale cad .3 with medium .8 (glaze hand, coverage 1) over the dry dark: pooled into striated rust-brown shapes with hard, streaked edges. REJECT on dry dark.
+>   - Cool rock plane (ultramarine .6 + alizarin .3 + cerulean .3 + burnt sienna .2 + white .35, body): a lilac smear on the dark, reads as a shape stuck on, not a face. REJECT as a plane. Lit faces on a dark mass need the mass itself to change value, not a stroke on top.
+> - day 16, 13:00: Sun-path trials (scratch-15, scratch clock day 13): water base (cerulean/alizarin/white, ultramarine/alizarin/white, Prussian/ultramarine/alizarin/white) laid broad on dry plum, dry after 4 days. Bricks: flat 6, load .25-.45, pale cad .8+white 1.7 / white 1+cad yellow .4+rose .2, pressure .14-.3, 79 dashes, open near horizon: too solid and blocky ("tiles"). Veil: flat 5, load .22, rose .4+ultramarine .4+white 1.3 (or deep cad .3+rose .3+white 1.5), pressure .08-.18, 60 dashes while open: broke only the edges; cores still solid.
+>   Conclusion (hypothesis): the bricks' solidness comes from the first stroke's load (a fresh flat dips heavy, 0.25-0.45 gives a slab at the start), not from the colour. For glitter, use lighter load (about 0.12-0.18) and fewer strokes, or dry-brush on the dry sea.
+> - day 16, 19:01: Day 16, 19:05 review (the picture now reads as a sunset over a calm sea with sailboat, headland, sun path). Strengths: sky gradient blue->lilac->rose->gold works; the coral bank and sun glow read; the headland anchors the left; the sun path reads as glitter.
+>   Weak: (1) value squint: sun is pale on a pale glow: low contrast; (2) sea is one flat mid violet, the foreground lacks a darker bottom to make the path glow; (3) sun path bricks solid near horizon (should be small and dense there), with hard pill ends; (4) no warm reflection under the sun linking the sun to the sea; (5) headland a plain dome; schooner hull a plate and sail a wedge.
+>   Plan (next sitting, after set): darken the bottom sea (Prussian/ultramarine, broad horizontal, larger marks near viewer); warm rose reflection band under the sun, broken; small dense glints near the horizon and a second finer layer of shimmer over the bricks; deepen the glow around the sun for contrast; headland with two shoulders and crest notches; schooner with a pointed bow and clearer sails.
+> - day 17, 19:13: Repair failure, day 17 (schooner area x 740-880, y 330-440). Sequence: (1) new schooner (outline hull, poly sails) painted over OPEN dark silhouette -> blob; (2) blend of a box (750,350,110,80) over the open boat: lifted the silhouette and dragged the sky to murky green-blue; (3) rectangle sky patch (broad, clip=true, violet over gold) -> hard rectangular panel; (4) soft-edged (edge="lost") patch -> still a rectangle; (5) wide broad pass 190x88 plus blend -> washed the boat out, a visible left edge at x~742 and a grey-yellow cast. LESSON: blending a box over open dark paint lifts it and drags neighbouring sky into a murk; a rectangle cover reads as a panel even when edge=lost. Repair by covering in one clean, fully-shaped mask along the form, after the paint has set, not by boxes over open paint.
+> - day 23, 12:16: Day 23 state, after the boat repair. The right side (x 720-1000, y 330-420) is now a yellow field with a hard left edge at x~725 (the patch's clip edge), a stripe of purple above it, and a violet block at the far right (x~955-1000, y~335-350) left from the first blend. The schooner is gone. The sea horizon is a ruled line. Whole view: sunset works; the sea is flat violet; the sun is fine; the headland is a dome; the glitter path reads as glitter.
+>   Lesson: the repair spent more paint than the boat was worth. Do not rebuild the schooner in the same spot by blending over it; if a boat is wanted, paint it fresh on the final sky, after the sky has set, on its own clean area.
+> - day 23, 12:31: Sea surface trials, painting, day 23 (set sea base, dry; ambient cloudy; flat 3 at load 0.3-0.35, pressure 0.07-0.13, horizontal strokes 36-100 long):
+>   - Flat 7 (load .16-.14), teal (Prussian .5 + cerulean .8 + white .8) and violet (ultramarine .7 + alizarin .4 + white .8): rounded pebbles, the blunt end of a flat laid as a lozenge. REJECT: too wide.
+>   - Flat 3, cerulean .6 + raw umber .15 + white 1.0 (turps .2), load .35, pressure .08-.13: thin broken ripple lines, read as surface. ACCEPT: the mark.
+>   - Flat 3, three tones load .3: lilac (rose .3 + ultramarine .3 + white 1.1), grey-teal (cerulean .5 + ultramarine .2 + white 1.1), peach (pale cad .3 + rose .3 + white 1.2) at pressure .07-.11. Varied and broken; peach nearest the sun's reflection reads best. Slightly busy: fewer strokes next time.
+>   Hypothesis: a thin brush over dry paint lays its strokes as lines along the weave, while a wide flat lays rounded lozenges; keep the width under ~3 units for water marks.
+> - day 23, 12:31: Glaze trial, day 8 (scratch, bare buff ground, the sky-repair scratch; NOT the sun-path scratch): violet glaze (ultramarine .4 + alizarin .4 + rose .2 + white .5, medium .6, hand glaze, coverage .8, clip) laid as saturated magenta capsules with hard ends, not a veil. Glaze hand lays strokes of pigment, not a thin film, when the medium is only 0.6 and the mask is open. Reject as a veil over glitter. Careful: keep track of which scratch holds which trial (scratch-15 holds the sun-path bricks, the current scratch holds the sky repair).
+>   Observation (guide): glitter reads as small sharp flecks far off, scattered larger flecks near; big uniform dashes read as tiles/pills. The sun path bricks are the latter. Plan: rebuild the path with stipple flecks (small near horizon, larger and sparser toward the viewer), and cover the bricks with a sea body coat first.
+> - day 23, 12:31: Sun-path trials on scratch-16 (clock day 14): dark base dry + sea gradient dry (5 days + 4 days). Bricks laid (flat 6, load .25-.45) and dry after a day in the lower part, open higher: solid pill-shaped bricks again. Body coat (ultramarine .8 + alizarin .5 + white .5, turps .1, load .8, clip) over lower-right bricks: covered them but made a dome-shaped flat hill (the mask is a trapezoid with curved reading), reads as a hill. Stipple (pale cad .7 + white 2.0, width 2, coverage .25, pressure .2-.4, dips {24,.4,0}) over the sea: a fine even speckle like sand, with a rectangular boundary; stipple over the sea laid a uniform spray, not glitter. Reject stipple for glitter here. The bricks read as tiles because each is a flat, uniform, round-ended stroke; glitter needs variable length, and fewer, lighter strokes at the horizon.
+> - day 23, 12:56: Glaze trial on dry sky (scratch-17, clock day 4): sky laid (zen/blu2/lil/pch/gold, broad, fill), dry after 3 days; then glaze hand, pile ultramarine .7 + alizarin .4 + burnt sienna .1, medium .8, coverage 1.0, rect 0-130. Result: saturated violet sausage capsules with hard ends, banded: NOT a veil. Confirms (hypothesis): the glaze hand lays pigment strokes that pool where a stroke starts and ends, even at medium .8, on smooth dry paint. Do not use glaze hand to deepen a broad area of sky. Use body cloud streaks or a thin turps wash instead, and test first.
+> - day 23, 12:56: State day 23, 12:56 (painting). Done: buff ground; sky gradient (blue top, lilac, rose, peach, gold at horizon) with cloud banks (violet top, coral lit body); sun (disc re-laid 12:32, bloom and warm halo); headland left (two dark coats; hdA: ultramarine 1, burnt sienna .7, bone black .4, alizarin .3, white .15); distant ridge; right-hand sky repair (warm glow, rose line) mostly reading; sea coat (lilac top, violet middle, Prussian/ultramarine bottom, teal .25 band, path clear: PATHENV poly {628,440}{664,440}{722,650}{520,650}); sun path (old bricks, solid pill-shaped, stays for now); warm reflection dashes under the sun (19 flat-3 strokes, pale cad/rose/white).
+>   Open issues: (a) top-right sky has yellow flecks, and a green streak near (830-950, 60-90): cover with body; (b) sun path bricks are tiles: rebuild with stipple-free, lighter, fewer strokes, or add a veil (not glaze); (c) the sea bottom is light: deepen with ultramarine/alizarin body in the lower corners; (d) schooner gone: decide whether to repaint on set sky; (e) far-right edge near y 330-350 has a violet block; (f) stray brown specks removed? check.
+>   Glaze hand fails on broad dry areas (sausage capsules). Dry brush fails on dry paint (weave catch only).
+> - day 26, 20:01: Boat silhouette trial (scratch-18, dry sea and horizon, day 9 scratch clock): Prussian blue .6 + burnt sienna .6 + ultramarine .4 + bone black .1 + white .1 (silB). Hull: outline closed {784,418c},{800,424},{826,424},{838,416c},{818,418},{796,416}, char firm, amount .12, hand detail clipped, coverage 2. Main sail poly {806,382},{806,414},{788,414}; jib poly {810,390},{810,414},{826,414}; mast round width 1.6 point 0, pressure .45 from (806,379) to (806,418). Reads as a sailboat (hull, mainsail, jib, mast). Use on the painting only when the sky under it is dry, not tacky: the boat sits on the horizon's glow at x 784-838, y 379-424.
+> - day 28, 06:11: Scratch bookkeeping slip (day 9 scratch clock): I ran a 'deep top' body trial on the scratch that holds the sea/path/boat trial (scratch-18), not the dry sky (scratch-17). It landed on bare buff ground and gave a flat violet band with a torn, ragged bottom edge (broad, no turps, soft edge, mask fading by y 150). Result is only about bare ground: a body-thick broad coat without thinner lays a dense band with a ragged edge. Rule: before a sky trial, check which scratch holds the sky (log, or look at it).
+> - day 29, 18:13: Headland outcrops (day 29, 18:13): a ledge (poly 270..352, 396..422) and a left rock (poly 0..46, 362..390), body hdA coverage 1.6 clip, on the dry dark. Result: two separate dark ellipses that read as stuck-on blobs, not part of the mass (the left one a little brown and lighter). Lesson: an added outcrop should overlap the mass and share its outline (one poly with the headland), not sit as a separate shape. Repair the silhouette by painting the whole outline, not by stacking shapes on the dome.
+> - day 34, 06:13: Day 34, 06:13 whole-picture review (dry-ish). Reads as a calm sunset over water: sky pink-violet with a blue top and gold at the horizon; sun a clear disc on the horizon with a warm bloom; headland left a dark dome; sailboat right on the glow; glitter path down the sea, tapered glints; sea lilac at horizon to violet and blue at the bottom edge.
+>   Still weak: (1) the headland is a smooth dome with a flat face and the pale peach-cream patch beside its right slope reads as a soft cloud/haze: fine, but its edge is blobby; (2) the sea's lower corners and mid-sea streaks are a bit busy with stripes; (3) the top sky has many horizontal stripes (broad strokes) and a blue-violet band; (4) the stray pink blob at top right (800,64) is still open; (5) the path foot is rounded and a bit pale against the violet sea (acceptable).
+>   Keep: sun, path, boat, horizon, palette harmony. Next: quiet the top sky stripes with a dry-ish wash only if it sets cleanly, cover the pink blob with body, and check the headland edge once more before finishing.
+> - day 40, 15:20: Cloud episode, top sky, day 36-40 (lesson, not a recipe to repeat): (1) a body cloud (ultramarine .4 + alizarin .5 + white .7 underside, pale cadmium .5 + rose .2 + white 1.4 top) over a blue sky, one sitting: the magenta underside is saturated and reads as a purple stain; the cream top reads as a separate lemon puff. (2) A dry flat-7 lilac scumble (cerulean .6 + alizarin .2 + white 1.0, load .14, pressure .08-.13) across it broke the magenta into grey-lilac flecks, reading as weave, not as haze. (3) A rose-pink cover over the cloud (cerulean .7 + alizarin .35 + rose .2 + white 1.4, body, load 1.0): covered too big, rose-pink, too pink for the sky. (4) A sky-blue cover (cerulean .9 + alizarin .2 + white 1.3, broad, edge lost) laid over the open pink mixed it into a streaked smear with the mask edge showing.
+>   Conditions: all laid on sky dry-to-tacky at 14:00 day 36-40 with the top sky dry. Hypothesis: a small cloud over a blue sky needs a value and temperature close to its surround; keep the cloud pale and cool, and keep magenta out of cool skies; stop covering a passage more than twice.
+> - day 50, 23:20: Scratch-19 (clock day 8): rose cloud body (rose .8 + alizarin .3 + white 1.0, load 1, ellipse 60x16) set to tacky after ~5 days; sky-blue cover (cerulean .9 + alizarin .2 + white 1.3, broad, edge lost, load 1) laid on it: lifts the tacky rose into fragments that stay as pink specks inside a lilac sheet. Hypothesis: a broad cover of a tacky layer pulls up its stripes; a cover on a tacky passage won't hide it, it spreads it. On the painting, the rose smear is tacky too (day 50): do not broad-cover it; wait until dry, then cover with one body pass.
+> - day 61, 00:28: Top-right cloud (days 36-61): a grey-lilac cover ellipse (too big at first, then re-laid) now sits as a flat ellipse with a sharp outline; a warm cream strip laid on its top (pale cadmium .4 + rose .3 + white 1.6, ellipse 120x12, body) reads as a yellow ribbon with a hard lower edge. Lesson: a cloud is formed by a gradient of value and temperature across its whole mass, not by a lit stripe on a flat ellipse. Two layers laid on one dry mass only stack hard edges. Decision: stop layering this cloud. Either accept it as a pale distant veil with a softened outline, or remove it by a broad cover after the whole passage is set.
+> - day 72, 00:38: Cloud-edge trials (scratch-20, clock day 14): a dry sky with a comparable cloud (violet top, rose lower body, ellipse 140x40, body with soft clip) set in 4 days (tacky at 3, dry at 6). Test A: flat 4, load .7, sky-cerulean body stroke pressed 4 units inside the top edge (wobble-free polyline): reads as a bright pale wire inside the cloud. REJECT. Test B: flat 6, load .2, dry-ish cerulean/alizarin/white, pressure .16, laid just outside the top edge: pale broken dabs along the top: read as sunlit cloud tops, not an outline. Not a clean fix; not carried over. Decision for the painting's top-right cloud: accept its form; it reads as a heavier cloud accent that balances the headland. The lesson: cloud edges want a value gradient (the scratch cloud read as a cloud because its lower half merged into the pink sky), not a line.
+> - day 72, 00:39: Day 72, 00:40 state. Painting reads as a calm sunset: pale-yellow sun on the horizon with a warm bloom; the buff-to-violet sky (blue top, rose cloud band, gold horizon); top-right cloud (heavy mauve ellipse, accepted as an accent); dark headland left (dome plus ledge, ledge reads as a separate blob); sailboat right with a reflection; sea lilac at horizon to violet and blue below; glitter path (tapered glints, broken edges), far glints (rigger, width 2, pressure .14-.22) both sides of the path near the horizon.
+>   Accepted weaknesses: the top-right cloud is a regular ellipse; the headland's ledge reads as a stuck-on shape; the path foot is pale. Decided not to chase these further, since each repair added damage so far.
+>   Remaining open: lower-left corner sea (a very dark block was tried and rejected; the corner is a plain violet); a light stroke of foam along the headland's foot is missing.
+> - day 101, 00:51: Day 101 cloud-cover failure (top right, painting). The sky-matched cover (rect 600..1000 x 0..126, three broad graded piles, load 1.0, clip, soft) dried as a rose slab with hard left (x 600) and bottom edges, not as sky. The scratch trial looked like sky only because the scratch's pink band lay differently under it. Lesson: a rectangular broad cover with a clip mask reproduces the mask's rectangle; the cover needs an organic mask that feathers into the sky, and must be tested on a scratch with the same underlayer (the painting's rose cloud body under it). Hypothesis: a body cover over a wet-or-tacky under layer mixes the under layer up, so the scratch is not a fair trial unless the under layer is the same age.
+>   Decision: do not repaint the top right again. The top-right passage is now a rose-blue block. I will leave it, or take the block out with a wide, organic-edged rag-free cover in a later sitting only if a clear recipe is tested.
+> - day 101, 00:53: RECIPE that worked (scratch-21, day 25): cover of a dried saturated rose block on dry sky. Mask: organic polygon (points 520,0 / 1000,0 / 1000,128 / 962,138 / 904,126 / 846,146 / 784,132 / 722,152 / 662,138 / 612,152 / 566,136 / 526,124 / 506,70 / 512,20) then :roughen(6, 40, 7). Piles (opaque, body, not thinned): cvTop = ultramarine .6 + cerulean .9 + white 1.5 (y<55); cvMid = cerulean .8 + rose .3 + alizarin .15 + white 1.6 (y~80); cvLow = rose .5 + ultramarine .3 + white 1.8 (y>100). work(hand=body, coverage 1.8, fill, clip, edge soft, load 1.0, piles graded as above). Dry at ~ day 25 (tacky after 1 day, dry by ~ 2 days on this scratch). Result: hides the block, blue top, lilac-pink underbody, reads as sky + cloud base; faint blue seam at the left.
+>   Why it worked where the earlier covers failed (hypothesis): (a) the cover is opaque white-rich and body-thick, so it hides the saturated rose; (b) the mask is irregular with a roughen, so there is no rectangle; (c) the piles grade top-to-bottom, so the cover is a sky gradient, not one colour; (d) it was laid on a fully dry block, not a tacky one.
+> - day 107, 01:17: Seam-band trial on scratch-21 (day 32, scratch clock): to soften the vertical left edge of the top-right cover (x~480-505), a body band (ultramarine .3 + alizarin .3 + cerulean .4 + rose .3 + white 1.7, roughen 8/30, coverage 1.4, clip, edge soft, load 1.0) laid over the dry cover at x 462-530. Result: a vertical rose-lilac PILLAR with its own straight sides, darker than either side; it makes the seam worse. REJECT: a narrow band laid over a seam becomes a new object. Accept the seam as a cloud-bank edge, or leave the top-right as it is.
+> - day 122, 01:44: Oval on the sea (day 122): the grey-lilac oval (566,480) was covered with a violet body (ultramarine .8 + alizarin .5 + rose .2 + white .7, load 1.0), which dried as a dark plum blob with a pale rim, darker than the sea. Reason: this cover is more saturated and darker than the lilac sea around it, so it reads as a stone. Lesson: a cover must match the value of its surround, not the value of what it hides, and each cover of a dry oval adds a rim. Note: the sea here is pale lilac-violet, not deep violet; I used the wrong sea colour. Next: test a pale lilac body (the sea's own mix) on the scratch before using it on the painting.
+> - day 122, 01:44: Oval sea-cover trial (scratch-23, day 11): pale lilac sea body (rose .3 + cerulean .5 + white 1.4, turps .35, load .8, clip, edge soft) over a dry violet sea gives a pale lilac oval, lighter than the water, with a clean edge. Covering a patch with a body colour gives a new shape each time: no body mix matches the water's value and texture in a single oval. Decision: stop covering the oval. Accept it as a pale reflection of the sky (a sheen patch on the water), or leave it as it is; any further cover adds an object.
+> - day 140, 01:50: Lower-left sea repair failure (day 134-140). Step 1: thin cerulean/white flat-3 ripples (load .42, pressure .1-.14, 18 strokes, horizontal) on the dry sea: laid as pale white beads with hard round ends (too bright, too thick). They were already dry within minutes (thin turps paint dries fast; the drying check at 01:47 said dry) so could not be lifted. Step 2: feathered mute to tone the beads: rect(0,640,320,110):blur(14) x sea mask, violet (ultramarine .7 + alizarin .4 + Prussian .15 + white .9, turps .3), broad, clip, edge soft, load .9. Result: a LILAC RECTANGLE with hard top and right edges. A 14-unit blur is too narrow for a 320-unit straight mask: clipped body strokes keep the mask's outline. Lesson: feather a long straight mask by at least a third of its width (or use an organic mask), and test on a scratch first.
+> - day 140, 01:50: Lower-left feather tests on scratch-25 (day 21): (a) the mute strip reproduced the lilac rectangle; (b) a darker Prussian/ultramarine violet over a blur-40 mask times a rectangle made a dark slab with a hard left edge. Conclusion: with clip=true, a blurred mask still keeps its hard outline wherever the blur is multiplied by a hard rectangle (the rect*blur product is still a rectangle's corner). Clip-based feathering doesn't work here. Decision: leave the lower-left as a plain violet, with the beads as they are (they read as small pebbles at the corner and are acceptable at this scale). Do not repeat this on the painting.
+> - day 146, 02:13: END OF SITTING / HANDOFF (painting clock day 146, 02:13). Title: "Evening Light on Still Water". Calm sunset: pale sun on the horizon with warm bloom; a glitter path down the violet sea; dark headland left; sailboat right with a reflection; sky blue at top, lilac and rose bands, gold at the horizon.
+>   CORRECTION to the day-140 entry: after the feather tests failed, I re-laid the original sea coat (same outer mask rect(0,452,1000,298) minus PATHENV, same three graded piles, broad, fill, clip, angle .02, edge soft) over the lilac rectangle. On scratch-26 it removed the rectangle (day 21 scratch), and on the painting (day 140, 02:13) it did the same. The lower-left is now plain violet water with a faint rose reflection: ACCEPTED.
+>   Accepted, not fully resolved: (1) top-right cloud, a pale mauve mass (x 480-1000, y 0-150) with a feathered curved left edge; reads as a heavy cloud bank, not as fine as the rest. (2) Headland ledge (270-352, 396-422) and left rock (0-46, 362-390) read as stuck-on shapes; kept. (3) Pale sheen oval on the sea at (566,480): dry, edged with ripple lines; kept. (4) Path foot near y 620-660 is pale and rounded; kept. (5) Bare-ground specks in the upper-left and top-right sky read as weave; kept.
+>   RECIPES THAT WORKED (conditions in brackets):
+>   - Sky lay-in (buff ground; graded broad, filbert 22, fill, coverage 1.5, turps .5): ultramarine 1 + cerulean 1 + white 1 (top); cerulean 1 + white 1.3 + alizarin .3; rose madder 1 + ultramarine .4 + white 1.6; pale cadmium 1 + rose .4 + white 1.5; cadmium yellow 1 + white 1.5 (horizon). A rose band between blue and gold is what stops a green seam.
+>   - Glitter path on a dry sea base, tapered: round 3 point 1, gesture {x0,y,0},{x0+len/2,y+.2,pk},{x0+len,y+.4,0} with pk clamp(.3-.8 * (.6+.6t)); pale cadmium .5 + white 1.8, and white 1.6 + pale cadmium .3 (turps .2), reloaded every 7 strokes, 150 gestures on TACKY paint (~ 1 day after the base). Reads as light on water, not tiles.
+>   - Sea coat (dry violet base; see above): cTop rose .3 + ultramarine .2 + white 1.2 + pale cad .15 (turps .4); cMid ultramarine .8 + alizarin .5 + white .9 (turps .4); cLow Prussian .4 + ultramarine .8 + alizarin .3 + white .4 (turps .3). Sun-path column kept clear with PATHENV.
+>   - Sea ripples: flat 3 (never wider than 3 units), load .3-.35, pressure .07-.13, horizontal, 36-100 long; cerulean .6 + raw umber .15 + white 1 (accept), or lilac/grey-teal/peach at load .3. Warm dashes under the sun: flat 3, pale cad .5 + rose .35 + white 1.2.
+>   - Cloud cover that hid a saturated rose block (dry block, 2 days): organic polygon :roughen(6,40,7):blur(16), opaque body piles (ultramarine .6 + cerulean .9 + white 1.5 top; cerulean .8 + rose .3 + alizarin .15 + white 1.6 mid; rose .5 + ultramarine .3 + white 1.8 low), load 1.0, coverage 1.8, clip, soft. Hid the block; the curved edge reads as cloud contour.
+>   - Boat silhouette on a dry glow: Prussian .6 + burnt sienna .6 + ultramarine .4 + bone black .1 + white .1; outline hull, poly sails, mast round 1.6 point 0 at pressure .45. Reads as a sailboat.
+>   - Headland: dark mix hdA (ultramarine 1 + burnt sienna .7 + bone black .4 + alizarin .3 + white .15), two body coats, clipped to the poly; dries in ~3-5 days.
+>   RECIPES THAT FAILED (and why, so they are not retried unchanged):
+>   - Glaze hand (medium .6-.8) on dry sky, sand or headland: saturated pooled capsules with hard ends, not a veil. Hypothesis: the glaze hand lays pigment strokes that pool at stroke ends. Don't use it for broad areas.
+>   - Dry-brush flat drag over DRY paint: catches only weave tops (stitched hatching). It works only over tacky or dry-ish strokes, where it breaks their edges (tested on reflections, day 6).
+>   - Blend of a box or rectangle over open paint: lifts the paint and drags neighbouring sky into a murk (schooner area, day 17). A rectangle cover reads as a panel even at edge=lost.
+>   - Feathering a straight rectangle mask with blur(14) or blur(40) times a rect: the clip keeps the rectangle's corner, so a hard edge survives (lower-left, day 134-140). Feather only organic shapes.
+>   - Narrow band over a seam (roughen 8/30, body): makes a new pillar with straight sides (top right, day 32 scratch).
+>   - Thin rim or outcrop stroke on the dark headland: reads as a crack or a stuck-on shape. Lit faces need the mass itself to change value.
+>   - Stipple for glitter: a uniform sand speckle, with a rectangular boundary.
+>   - A body violet over a dry pale oval: a plum stone with a pale rim (value of the cover was darker than its surround). Match the surround's value, not the hidden value.
+>   PRACTICAL LESSONS (hypotheses unless noted):
+>   - Load decides the mark (observed): a light load (about .15-.25) on a flat gives broken dashes; .45 and up gives solid bars or bricks.
+>   - Drying (observed, buff ground): thin turps lay-ins are open ~5 h and tacky ~15 h; dark body mixes (ultramarine + burnt sienna + bone black) take 3-5 days to be dry; thin paint over dry paint dries in minutes.
+>   - Check the scratch before a trial: name which scratch holds what (log), because I laid one sky trial on the sea scratch.
+>   - A cover must match its surround in value and temperature, and must be laid on a fully dry layer.
+>   UNCERTAIN: whether a body cloud on an open sky would have held better (not tested); whether the top-right block would read better after another season of drying (not tested); how far the feather trick generalises beyond blur(16) of an organic mask (one case).
+> - day 146, 02:18: - day 146, 02:25: Sitting 2 review (painting, dry). Whole view: a calm sunset over water. Sky bands, pale sun with glitter path, dark headland left, sailboat right, all hold.
+>     Open passages, judged:
+>     (a) Sheen oval (566,480): now a dark violet horizontal streak in the lilac sea, reads as one of the sea's dark streaks, not a stone. Fresh-scratch repeat: a seaVio body bar on dry sea dried as a closed dark stone; flat-3 lilac/teal/peach ripples over it only broke it into confetti; its closed outline stayed. DECISION: accept the streak as it is; no more covers on it.
+>     (b) Headland ledge and left rock: read as the dome's shoulder and flank at full view. ACCEPT.
+>     (c) Top-right block: still the largest pale mass, its left wall at x~500 is hard, but as a cloud accent it balances the headland. Past covers there all failed. ACCEPT for now; I will re-judge after a season of drying (an untested question).
+>     (d) Path foot (y 600-660): a pale reflection that dissolves into the gold dashes above it. ACCEPT.
+>     Work done: lower sea ripples (first trial on the old scratch, 44 + 16 strokes; the decisive trials on the fresh scratch, same dry base and sea coat): flat 3, load .3, pressure .07-.11, horizontal 18-74 long (longer near the viewer), lilac/grey-teal/teal/peach, 70 strokes outside PATHENV in rect(0,540,1000,150); plus a near band y 618-692 (flat 3, load .32, pressure .12-.17, 40-110 long, 25 strokes). At full view the lower sea reads as water; the lower-left white pills are small and read as glints.
+>     Scratch bookkeeping (corrected): the first lower-sea ripple trials (44 + 16 strokes, and the first near band) ran on the OLD scratch, which the tool files as paintings/lua/scratch-27.lua. The fresh scratch begun this sitting (dark base, sea coat, bar, ripples, decisive lower-sea trials) is the current one; my chunk labels "scratch-27" for it were wrong. Name a new scratch by its log file once it exists.
+> - day 236, 02:18: - day 236, 02:25: Re-judged after a season (30 + 60 days wait; everything dry). The top-right block: its left wall at x~500 is a curved, organic value step with a blue cap and a pink body; at full detail it reads as a cloud bank, not a rectangle. ACCEPT it as the heavy cloud accent. Small pale green-tinted stipple flecks in the slate sky at (455-520, 60-130) read as weave catching light; covering them would add a new shape, so ACCEPT.
+>     Sun and glitter: the pale disc on the gold horizon with its warm bloom reads at 1:1; the path top is warm and its base soft. ACCEPT.
+>     Drying: a season changed nothing visible in the top sky; the dry-state of the cover is unchanged.
+> - day 236, 02:18: - day 236, 02:40: FINAL REVIEW AND HANDOFF (painting, dry, after a season). Title: "Evening Light on Still Water".
+>     Whole view: a calm sunset over water. Blue top, lilac and rose cloud bands, gold at the horizon; a pale sun on the horizon with warm bloom; a glitter path down the violet sea; a dark headland left; a sailboat on the glow right; the lower sea now reads as water with horizontal glints growing toward the viewer. My heart is content with it: the picture says what it is for, and the remaining weak passages are small.
+>     Judgements on the open passages (detail crops, normal colour):
+>     (a) Lower-left near glints (x 0-240, y 610-720): at 1:1 these are bright, rounded white pills in rows, the same bead failure the handoff recorded for an earlier glitter pass. At whole-view scale they read as glints near the viewer, which the picture needs. ACCEPT, with the reason. Any cover over them makes a new shape. If I return: lay the near band at pressure .07-.10 with cooler, lower-white mixes (cerulean/grey-teal, not white-rich), so the pills are smaller and dimmer.
+>     (b) Sheen oval (566,480): a dark violet streak in the sea, read as a shadow streak, not a stone. ACCEPT. Confirmed: ripples over a dry body bar only break it into confetti and keep its closed outline.
+>     (c) Top-right cloud block: at 1:1 its left wall is an organic curve with a blue cap and a pink body; it reads as a cloud bank. ACCEPT as the heavy cloud accent. Its look did not change over 90 days (the paint was already dry).
+>     (d) Headland ledge and rock: part of the dome's flank at whole view. ACCEPT. The headland's waterline is a crisp dark mass on pale water, tied to the sea by small dark reflection dashes; no foam needed (the handoff's missing foam is accepted).
+>     (e) Path foot (y 600-660): a pale reflection dissolving into the gold dashes above it. ACCEPT.
+>     (f) Pale green-tinted stipple flecks in the slate sky (455-520, 60-130): weave catching light. ACCEPT.
+>     (g) Sun and glitter: the pale disc, its bloom and the warm reflection read at 1:1. ACCEPT.
+>     Practical lessons (observed, this sitting, scratch conditions):
+>     - A dense body dark (ultramarine .8 + alizarin .5 + rose .2 + white .7, load 1.0, ellipse 50x16) on a dry sea: setting at 5 days, tacky at 8, dry at 10. The earlier "3-5 days for dark body mixes" is too short for a full-load body; allow ~10 days.
+>     - Glints on the dry sea (flat 3, load .3, pressure .07-.11, horizontal, 18-74 long, longer near the viewer; lilac, grey-teal, teal, peach mixes) read as broken water. Near band at pressure .12-.17 with white-rich mixes reads as bright round pills: keep near pressure at .10 or below.
+>     - Trial bookkeeping: when a fresh scratch is made, name it by its log file once it exists; my labels for it were wrong, and I corrected the journal.
+>     Uncertain (carried forward): whether a body cloud on an open sky would have held better (untested); whether the near-band pills would read better dimmer (untested); the feather trick's reach beyond one organic blur(16) case.
+>     I am finishing here. Nothing I would take further is worth the damage each cover has done.
+> - day 236, 02:31: - day 236, 02:33: Sitting 3 (new session). Read the handoff and the whole log first. Whole view: calm sunset over water, pale sun, glitter path, dark headland left, sailboat right; the open issues are as the handoff recorded.
+>     Work: (1) right-middle sea glints (x 690-1000, y 452-536, outside PATHENV): flat 3, load .3, pressure .07-.10, horizontal, 28 strokes, lilac/grey-teal/teal/peach; trial first on the fresh scratch (scratch.lua), same dry sea base. Read as broken water at 1:1; the pills stayed small at this pressure. Accepted as a small sea addition.
+>     (2) Headland as a graded mass (the mass itself changes value, not a stroke on top): one body pass, clipped to HEADL + ledge + left rock, coverage 1.6, load 1.0, colour litA (burnt sienna .8 + yellow ochre .3 + ultramarine .35 + rose .15 + white .9) on the sun-facing right slope (fades over 40 units from the outline, starts x 120), shP (ultramarine 1, burnt sienna .5, bone black .4, alizarin .3, white .15) on the shadow side. Trial on scratch: a gentle warm slope, dark left, clean edge after 12 days; a flat dome became a lit mass. Applied to the painting (day 236, 02:31). Wet check: a darker band shows along the ridge where the old dark edge lies under the thinner clip edge. Judge after it sets.
+>     Trial bookkeeping: the fresh scratch is paintings/lua/scratch.lua; scratch-28 holds the earlier headland trial log.
+> - day 248, 02:32: - day 248, 02:40: Upper-left sky streak (x 345-396, y 31-48), judged at 1:1: a yellow-green stain with a stippled left end in the blue sky. Cause (hypothesis, tested): a blend over lean paint lifts the ground and leaves the weave grainy and pale; a thin blue lay-in alone did not turn green (scratch trial: thin patch stayed blue). Trial on the fresh scratch (scratch.lua, day 6): sky lay, then 6 dark bars and a two-pass blend of box rect(0,0,420,70): the blend left a stippled grid with pale yellow-green islands. Reproduces the streak type. So the painting's repair must not be another blend. Decision pending: a body cover on the dry streak, tested on the scratch first.
+> - day 248, 02:32: - day 248, 02:58: Streak repair trial (scratch.lua, day 15): a sky-matched body cover (cerulean 1 + ultramarine .4 + alizarin .25 + white .9, then cerulean .8 + white 1.2 + alizarin .2; ellipse 34x12, roughen, blur 8, load 1, coverage 1.6) over the blended grain. Dried as a pale lilac-pink oval with a clean edge, lighter and warmer than the blue sky: a new object, the same failure as before. REJECT. Decision: a body cover adds a shape here; do not repeat it on the painting. The streak stays as a weave artifact in the upper-left sky, and I judge it at the whole-view scale below.
+> - day 248, 02:32: - day 248, 03:05: Sitting 3 review (painting, dry). Whole view: a calm sunset over water. Blue top, lilac and rose cloud bands, gold at the horizon; the pale sun on the horizon; the glitter path; the lit headland on the left; the sailboat on the glow right.
+>     Work done this sitting:
+>     (1) Headland as a graded mass: the mass itself changes value, not a stroke on top. One body pass over HEADL + ledge + rock (coverage 1.6, load 1.0, clip): litA (burnt sienna .8, yellow ochre .3, ultramarine .35, rose .15, white .9) on the sun-facing right slope (fades over 40 units from the outline, from x 120), shP (ultramarine 1, burnt sienna .5, bone black .4, alizarin .3, white .15) on the shadow side. Trial on scratch first; applied after the old mass was dry (day 236, 02:31). Dry at 12 days (the ledge and rock now share the light). Judged at whole view: it turns a flat dome into a sun-struck mass; the ledge reads as the shoulder, not a stuck-on blob. ACCEPT.
+>     (2) Right-middle sea glints (x 690-1000, y 452-536, outside PATHENV): flat 3, load .3, pressure .07-.10, 28 strokes, lilac/grey-teal/teal/peach. Trial first on the scratch. ACCEPT (small, read as water).
+>     (3) Left-middle sea glints (x 20-440, y 462-542): flat 3, load .3, pressure .07-.10, 26 strokes, peach and grey-teal, on the dry sea. The mauve field had no horizontal structure before; these give it. At 1:1 sparse and short; ACCEPT.
+>     (4) Lower-left near glints: tested a dimmer, cooler, low-white near band on the scratch (flat 3, pressure .07-.10). Reads as fine dotted glints, not pills, but cannot replace the painting's bright pills without adding marks on them. ACCEPT the painting's pills (the handoff's reason holds: at whole view they read as glints near the viewer).
+>     Failed trials (not applied): (a) sky-matched body cover on the upper-left streak: dried as a pale lilac-pink oval, a new object (REJECT); (b) the streak itself is a blend artifact (blending over lean paint, reproduced on scratch), so no more blends there.
+>     Judged, accepted: upper-left streak (x 345-396, y 31-48): a weave artifact in the sky at whole view; ACCEPT, not worth another cover. Rose-band blue dashes (x 460-960, y 200-235): soft cloud streaks at 1:1, ACCEPT. Top-right block: its left wall is an organic curve at 1:1; ACCEPT as the cloud accent. Sheen oval (566,480): a dark violet streak; ACCEPT. Path foot (y 600-660): pale glitter dissolving into the dashes; ACCEPT. Slate stipple flecks (455-520, 60-130): weave catching light; ACCEPT.
+>     Heart: content. The lit headland is the change I most wanted; the rest holds. Nothing else I would take further is worth another cover, since each cover so far has added a shape.
+> - day 248, 02:32: - day 248, 03:12: FINAL REVIEW AND HANDOFF (sitting 3; painting dry). Title: "Evening Light on Still Water".
+>     Whole view: a calm sunset over water. Blue top, lilac and rose cloud bands, gold at the horizon; a pale sun on the horizon with its warm bloom; a glitter path down the violet sea; the headland on the left now lit on its sun-facing right slope and dark on the shadow side; a sailboat on the glow at right. The sea reads as water across its width: horizontal glints in the middle sea on both sides of the path, and near glints at the bottom.
+>     What changed this sitting, and why it worked: the headland's flat dome was re-laid as one graded mass (a body pass over the whole mass, clipped to its outline, colour changing across it along the slope). The change is in the mass itself, not a stroke on top, so it reads as form and adds no new shape. Judged at 1:1 and at whole view: ACCEPT.
+>     Judgements on the open passages (detail crops, normal colour):
+>     (a) Lower-left near glints (x 0-260, y 600-720): bright round pills in rows; at whole view they read as near glints. ACCEPT (a dimmer, cooler near band tested on the scratch reads as fine dots; laying it over the pills would add marks, not fix them).
+>     (b) Sheen oval (566,480): a dark violet streak in the sea. ACCEPT.
+>     (c) Top-right block: its left wall is an organic curve at 1:1; it reads as a cloud bank. ACCEPT, with no further covers (it has already had more than two).
+>     (d) Upper-left sky streak (x 345-396, y 31-48): a yellow-green weave artifact left by a blend over lean paint. Repair trial on the scratch: a sky-matched body cover dried as a pale oval, a new shape. ACCEPT; no more blends there.
+>     (e) Path foot (y 600-660): pale glitter dissolving into the gold dashes above. ACCEPT.
+>     (f) Slate stipple flecks (455-520, 60-130): weave catching light. ACCEPT.
+>     (g) Rose band blue dashes (x 460-960, y 200-235): soft cloud streaks at 1:1. ACCEPT.
+>     (h) Far-right sky and boat (x 680-1000, y 300-430): the violet block is gone, the rose band reads as cloud, and the sailboat is clean. ACCEPT.
+>     Practical lessons (carried forward):
+>     - A graded body re-lay of a dry mass (one pass, organic clip, coverage 1.6, load 1.0, colour graded along the form, fade about 40 units from the edge) reads as a lit form, unlike flat covers (observed once, headland; hypothesis: it works because the mass changes value across itself).
+>     - A full-load dark body over a dry base takes about 12 days to dry (headland trial on the scratch: tacky at 6, dry at 12).
+>     - Water glints on a dry sea, flat 3, load .3, pressure .07-.10, horizontal, 18-74 long, lilac / grey-teal / teal / peach: confirmed in three zones (right-middle, left-middle, lower sea).
+>     - Blending over lean paint lifts the ground and leaves a grainy weave with pale yellow-green islands (reproduced on the scratch). Do not blend over thin paint to fix a sky.
+>     - A body cover of a dry blue sky with a pale oval dries as a new object (repeat of the match-the-surround rule).
+>     - Scratch bookkeeping: the current scratch is paintings/lua/scratch.lua (the streak and headland trials); scratch-28, -29 and -30 are older. Name a scratch by its log file once it exists.
+>     Uncertain (carried forward): whether a graded re-lay would also improve the top-right cloud (untested; I have chosen not to, since the block has had more than two covers); whether the lower-left pills would read better dimmer on the painting itself (tested only on the scratch).
+>     I am content with the picture. The headland was the change I wanted most, and it is done; nothing else I would take further is worth another cover.
+> - day 248, 02:32: - day 248, 04:10: Sitting 4 review (painting dry, after 0 days). Read the handoff, the log and the journal first. Whole view (900px, normal colour): calm sunset over water; blue top, lilac and rose bands, gold at the horizon; pale sun with warm bloom; glitter path; lit headland on the left; sailboat on the glow at right. The big masses hold in the value squint (bright top, pale sun, dark headland, darker sea base).
+>     Open passages, inspected at 1:1 this sitting (judged below):
+>     (a) Lower-left near glints (x 0-260, y 600-720): cream beads in rows at 1:1, small glints at whole view. ACCEPT (covering them adds marks, not fixes).
+>     (b) Sheen oval (566,480): a dark violet streak in the sea at 1:1. ACCEPT.
+>     (c) Top-right block (x 500-1000, y 0-150): blue cap, pink-lilac body, curved left wall at 1:1; reads as a cloud bank at whole view. ACCEPT, with no further covers (it has had more than two).
+>     (d) Upper-left sky streak (x 340-400, y 30-50): grid-read at 1:1 it is a pale yellow-green stipple in a cornflower sky. In a value squint it is almost invisible (value matches), so the fault is hue and texture, not tone. It is the most visible blemish in the big blue area. TEST A REPAIR on a fresh scratch (cool sky-matched body, no alizarin, organic feathered mask). Prior cover failed because it was lighter and warmer (white .9-1.2 with alizarin .25) and its ellipse had a clean edge.
+>     (e) Headland crest and ridge: a dark scalloped band along the sun-facing slope at 1:1, reads as the silhouette edge against bright sky. Judged at whole view: part of the form. ACCEPT.
+>     (f) Path foot (y 600-660), sun-path straight sides: glitter reads as light on water at 1:1. ACCEPT.
+>     (g) Rose-band blue dashes (x 460-960, y 200-235): soft cloud streaks. ACCEPT.
+>     Decision: one bounded campaign, the streak only, tested on a fresh scratch first. If the trial is not a clean match, accept the streak and stop.
+> - day 248, 02:32: - day 248, 04:40: Upper-left streak trials (scratch bookkeeping, corrected: the current scratch is paintings/lua/scratch.lua and holds the zone blend and the cool-cover trial; scratch-32 holds the first box-blend grain test; scratch-31 holds the sitting-3 streak and headland trials; scratch clock). (1) Reproduced the streak type on bare-ground sky: thin sky lay (turps .8) then 6 dark bars and three blends over a 120x60 box -> after 2 days a stippled, grained patch with pale and warm islands, and violet bars. Matches the painting's streak. Dry paint can't be blended: the grain forms only while the sky is open. (2) A cool sky-matched body cover (cerulean 1 + ultramarine .3 + white .7, turps .3, ellipse 34x12 roughen 4/16 blur 8, coverage 1.4, load .8, clip, soft) over the dry grain: after 3 days (setting/tacky) it reads as a clean pale-blue OVAL with a hard edge. Value squint: the oval is nearly the sky's value. The fault is texture and hue, not tone: the cover is a smooth, even film over a grained, mottled surface, so it reads as an object.
+>     Conclusion (observed, this trial): a body cover can't match a grained surface; it adds a smooth shape. The streak is a texture fault. Decision for the painting: no cover on the upper-left streak. Accept it as a weave artifact at whole-view scale, as decided in sitting 3.
+> - day 248, 02:32: - day 248, 02:32: - FINAL REVIEW AND HANDOFF (sitting 4; painting dry, clock unchanged at day 248, 02:32; today's trials ran only on the scratch). Title: "Evening Light on Still Water".
+>       Whole view (900px, normal colour): a calm sunset over water. Blue top, rose and lilac cloud bands, gold at the horizon; the pale sun on the horizon with its warm bloom; the glitter path down the violet sea; the lit headland on the left; the sailboat on the glow at right. The value squint holds: a bright sky, a pale sun, a dark headland, a darker lower sea.
+>       Judgements, passage by passage (1:1 detail and whole view):
+>       (a) Upper-left sky streak (x 340-400, y 30-50): the most visible small flaw at whole view (a faint olive mark). Repair trial on the scratch: the grain reproduced (box blend over open sky, 3 blends, dry after 2 days, scratch.lua). A cool sky-matched body cover (cerulean 1 + ultramarine .3 + white .7, ellipse roughened and blurred, load .8, coverage 1.4) dried as a clean pale oval with a hard edge after 3 days. The value squint shows the oval is nearly the sky's tone, so the fault is texture, not hue or value: the cover is a smooth film over a grained surface and reads as an object. REJECT the cover. ACCEPT the streak as a weave artifact at whole view.
+>       (b) Top-right cloud block (x 500-1000, y 0-150): its left wall is a near-vertical value step with a blue cap and a pink-lilac body. At whole view it reads as a cloud bank with a straight edge, the weakest large shape. ACCEPT, not retested: it has had more than two covers, every cover so far added a shape, and a two-layer scratch cannot reproduce a 250-day, many-layer block (the scratch-21 lesson), so a trial would not be a fair test. The graded re-lay that worked on the headland is the one untested option; it stays open for a later sitting only with a faithful replica.
+>       (c) Lower-left near glints (x 0-260, y 600-720): cream beads in rows at 1:1, glints at whole view. ACCEPT (covering them adds marks; a dimmer, cooler near band tested on the scratch read as fine dots, not pills).
+>       (d) Sheen oval (566,480): a dark violet streak in the sea. ACCEPT.
+>       (e) Headland crest and ridge: a dark scalloped edge along the sun-facing slope, reads as the silhouette edge against the bright sky. ACCEPT.
+>       (f) Path foot and path sides (y 600-660): straight trapezoid sides, broken by glints; reads as light on water at 1:1. ACCEPT.
+>       (g) Rose-band blue dashes (x 460-960, y 200-235): soft cloud streaks at 1:1. ACCEPT.
+>       (h) Sailboat and far-right sky: clean at 1:1. ACCEPT.
+>       Work done this sitting: none on the painting. One bounded trial (the streak cover) was rejected on the scratch, and the other open passages were judged and accepted above.
+>       Heart: content. The lit headland (sitting 3) remains the change I most wanted. The top-right wall is the one I would still like to resolve, but I have no method that does not add a shape, so I am leaving it as a deliberate, accepted weakness.
+>       Practical lessons (carried forward, with status):
+>       - A body cover over a grained surface (a blend artifact, weave texture) dries as a smooth object even when its value and hue match: the fault is texture (observed on the scratch today; hypothesis for a general rule).
+>       - A scratch with a few layers cannot stand in for a dried, many-layered passage on the painting: do not use a scratch cover to justify another cover there.
+>       - A graded body re-lay of a dry mass reads as form (observed once, headland; hypothesis).
+>       - Glints on a dry sea (flat 3, load .3, pressure .07-.10, horizontal, 18-74 long; lilac, grey-teal, teal, peach) work in three zones (sitting 3; not retested today).
+>       - Blending over lean paint leaves a grainy streak with pale islands: do not blend to fix a sky (reproduced again today).
+>       - A full-load dark body over a dry base takes about 10-12 days to dry (earlier observation).
+>       - Scratch bookkeeping: the current scratch is paintings/lua/scratch.lua; scratch-32 is the first box-blend grain test, scratch-31 the sitting-3 trials. Name a scratch by its log file once it exists.
+>       Uncertain (carried forward): whether a graded re-lay would soften the top-right cloud's wall (untested; needs a faithful replica); whether the lower-left pills would read better dimmer on the painting (tested only on the scratch); whether the streak's grain would fade with a season (not measured).
+>       I am finishing here. Nothing else I would take further is worth another cover.
+
+## Your globals
+
+(the 150 most recently assigned of 260)
+- `wkM`: pile(ultramarine blue 0.8, permanent alizarin 0.5, lead white 0.9; medium 0, turps 0.4)
+- `spP2`: pile(pale cadmium 0.8, lead white 1.7; medium 0, turps 0.2)
+- `spW2`: pile(lead white 1, cadmium yellow 0.4, rose madder 0.2; medium 0, turps 0.2)
+- `spDim`: pile(rose madder 0.3, deep cadmium 0.2, lead white 1.1; medium 0, turps 0.3)
+- `spL`: pile(pale cadmium 0.6, lead white 1.4; medium 0, turps 0.3)
+- `hullS`: outline(1 line(s), closed, length 166, 5 strokes, 2 corners, scale 87)
+- `jibS`: mask(340 sq units)
+- `mainS`: mask(669 sq units)
+- `mastS`: brush(round 2, 71% full)
+- `silS`: pile(Prussian blue 0.6, burnt sienna 0.6, ultramarine blue 0.4, bone black 0.1, lead white 0.1; medium 0)
+- `boatBox`: mask(8800 sq units)
+- `skyFix`: mask(6497 sq units)
+- `skyGld`: pile(cadmium yellow 0.8, pale cadmium 0.4, rose madder 0.2, lead white 1.1; medium 0, turps 0.4)
+- `skyVio`: pile(permanent alizarin 0.4, ultramarine blue 0.4, rose madder 0.3, lead white 1; medium 0, turps 0.4)
+- `fixM`: mask(6497 sq units)
+- `skyFix2`: mask(5409 sq units)
+- `wideSky`: mask(16709 sq units)
+- `patchR`: mask(19672 sq units)
+- `rA`: pile(rose madder 0.7, ultramarine blue 0.3, permanent alizarin 0.2, lead white 1.3; medium 0)
+- `rB`: pile(pale cadmium 0.6, rose madder 0.4, lead white 1.5; medium 0)
+- `rC`: pile(cadmium yellow 0.8, pale cadmium 0.4, lead white 1.3; medium 0)
+- `deepG2`: pile(deep cadmium 0.9, cadmium yellow 0.3, lead white 0.6; medium 0)
+- `fixP`: mask(29623 sq units)
+- `paleG2`: pile(pale cadmium 0.6, rose madder 0.35, lead white 0.9; medium 0)
+- `roseC2`: pile(rose madder 0.8, permanent alizarin 0.2, lead white 0.8; medium 0)
+- `teal`: pile(Prussian blue 0.5, cerulean blue 0.8, lead white 0.8; medium 0, turps 0.2)
+- `vlt`: pile(ultramarine blue 0.7, permanent alizarin 0.4, lead white 0.8; medium 0, turps 0.2)
+- `discP`: pile(pale cadmium 1, lead white 1.2; medium 0)
+- `hotP2`: pile(lead white 1.6, pale cadmium 0.5; medium 0)
+- `sunDisc`: mask(611 sq units)
+- `sunHot`: mask(175 sq units)
+- `b`: brush(flat 3, 64% full)
+- `warmRef`: pile(pale cadmium 0.5, rose madder 0.35, lead white 1.2; medium 0, turps 0.2)
+- `warmRef2`: pile(deep cadmium 0.5, rose madder 0.3, lead white 1; medium 0, turps 0.2)
+- `cTeal`: pile(cerulean blue 0.8, Prussian blue 0.2, lead white 1; medium 0, turps 0.3)
+- `PATHBASE`: mask(33659 sq units)
+- `fadeV`: mask(645000 sq units)
+- `pLow`: pile(ultramarine blue 0.5, permanent alizarin 0.3, lead white 0.9; medium 0, turps 0.3)
+- `pMid`: pile(rose madder 0.5, ultramarine blue 0.2, lead white 1.2; medium 0, turps 0.3)
+- `pTop`: pile(pale cadmium 0.5, rose madder 0.25, lead white 1.3; medium 0, turps 0.3)
+- `wedge`: mask(55042 sq units)
+- `wedgeS`: mask(55042 sq units)
+- `gCream`: pile(pale cadmium 0.5, lead white 1.8; medium 0, turps 0.2)
+- `gWhite`: pile(lead white 1, cadmium yellow 0.3; medium 0, turps 0.2)
+- `gCream2`: pile(lead white 1.6, pale cadmium 0.3, rose madder 0.05; medium 0, turps 0.2)
+- `gWhite2`: pile(lead white 1, cadmium yellow 0.15; medium 0, turps 0.2)
+- `rbP`: brush(round 3, 53% full)
+- `fleck1`: mask(301 sq units)
+- `skyBL`: pile(cerulean blue 0.9, permanent alizarin 0.3, lead white 1.3; medium 0, turps 0.3)
+- `hmB`: mask(316 sq units)
+- `hullB`: outline(1 line(s), closed, length 112, 4 strokes, 2 corners, scale 65)
+- `jibB`: mask(302 sq units)
+- `mastB`: brush(round 1.6, 72% full)
+- `sailB`: mask(453 sq units)
+- `silB`: pile(Prussian blue 0.6, burnt sienna 0.6, ultramarine blue 0.4, bone black 0.1, lead white 0.1; medium 0)
+- `blobM`: mask(1253 sq units)
+- `skyBL2`: pile(cerulean blue 0.6, ultramarine blue 0.2, permanent alizarin 0.25, lead white 1.2; medium 0)
+- `b3`: brush(flat 3, 28% full)
+- `refP`: pile(Prussian blue 0.4, burnt sienna 0.4, ultramarine blue 0.3, lead white 0.15; medium 0, turps 0.3)
+- `b4`: brush(flat 2, 40% full)
+- `silP2`: pile(Prussian blue 0.6, burnt sienna 0.6, ultramarine blue 0.4, bone black 0.1, lead white 0.1; medium 0)
+- `cloudTop`: mask(426 sq units)
+- `cloudUnder`: mask(1156 sq units)
+- `ctP`: pile(pale cadmium 0.5, rose madder 0.2, lead white 1.4; medium 0)
+- `cuP`: pile(ultramarine blue 0.4, permanent alizarin 0.5, lead white 0.7; medium 0)
+- `b5`: brush(flat 7, 7% full)
+- `greyV`: pile(cerulean blue 0.6, permanent alizarin 0.2, lead white 1; medium 0)
+- `skyCov`: mask(6149 sq units)
+- `skyCovP`: pile(cerulean blue 0.7, permanent alizarin 0.35, rose madder 0.2, lead white 1.4; medium 0)
+- `skyBlueC`: pile(cerulean blue 0.9, permanent alizarin 0.2, lead white 1.3; medium 0)
+- `coverFinal`: mask(16827 sq units)
+- `coverP`: pile(cerulean blue 0.9, ultramarine blue 0.15, permanent alizarin 0.2, lead white 1.5; medium 0)
+- `cTopM`: mask(4520 sq units)
+- `cTopP`: pile(pale cadmium 0.4, rose madder 0.3, lead white 1.6; medium 0, turps 0.2)
+- `cUndP`: pile(rose madder 0.6, permanent alizarin 0.3, ultramarine blue 0.2, lead white 0.9; medium 0, turps 0.2)
+- `blendZone`: mask(6205 sq units)
+- `cloudBlend`: mask(14464 sq units)
+- `coverSky1`: pile(cerulean blue 1, ultramarine blue 0.4, permanent alizarin 0.25, lead white 0.9; medium 0)
+- `coverSky2`: pile(cerulean blue 0.8, permanent alizarin 0.5, rose madder 0.3, lead white 1; medium 0)
+- `cover2M`: mask(23282 sq units)
+- `glintFar`: pile(lead white 1.4, pale cadmium 0.3; medium 0, turps 0.2)
+- `rf`: brush(rigger 2, 41% full)
+- `edgeHL`: mask(5724 sq units)
+- `edgeHL2`: mask(5665 sq units)
+- `refRose`: pile(rose madder 0.5, pale cadmium 0.2, lead white 1.3; medium 0, turps 0.2)
+- `rr`: brush(rigger 2, 30% full)
+- `fixSeaP`: pile(ultramarine blue 0.6, permanent alizarin 0.4, lead white 1; medium 0, turps 0.3)
+- `stainM`: mask(1316 sq units)
+- `rimStain`: mask(1317 sq units)
+- `seaCov`: pile(ultramarine blue 0.5, permanent alizarin 0.35, lead white 1.1, rose madder 0.15; medium 0)
+- `seaCovM`: mask(2510 sq units)
+- `seaCov2`: pile(cerulean blue 0.5, ultramarine blue 0.3, permanent alizarin 0.2, lead white 1.4; medium 0)
+- `seaCovM2`: mask(2937 sq units)
+- `b6`: brush(flat 3, 11% full)
+- `seaLine`: pile(ultramarine blue 0.5, permanent alizarin 0.3, lead white 0.8; medium 0, turps 0.3)
+- `bSky`: pile(rose madder 0.5, permanent alizarin 0.25, lead white 1.4, ultramarine blue 0.2; medium 0)
+- `coverT`: mask(50417 sq units)
+- `mSky`: pile(cerulean blue 0.6, permanent alizarin 0.35, lead white 1.2; medium 0)
+- `tSky`: pile(ultramarine blue 0.7, cerulean blue 0.6, lead white 1; medium 0)
+- `rippleG`: pile(cerulean blue 0.4, lead white 1.2, ultramarine blue 0.2; medium 0, turps 0.25)
+- `rippleL`: pile(rose madder 0.3, lead white 1.2, ultramarine blue 0.2; medium 0, turps 0.25)
+- `rippleV`: pile(ultramarine blue 0.5, permanent alizarin 0.3, lead white 0.6; medium 0, turps 0.25)
+- `cvM`: mask(68502 sq units)
+- `cvLow`: pile(rose madder 0.5, ultramarine blue 0.3, lead white 1.8; medium 0)
+- `cvMid`: pile(cerulean blue 0.8, rose madder 0.3, permanent alizarin 0.15, lead white 1.6; medium 0)
+- `cvP2`: mask(68302 sq units)
+- `cvSoft2`: mask(68424 sq units)
+- `cvTop`: pile(ultramarine blue 0.6, cerulean blue 0.9, lead white 1.5; medium 0)
+- `ovalM`: mask(2510 sq units)
+- `seaVio`: pile(ultramarine blue 0.8, permanent alizarin 0.5, rose madder 0.2, lead white 0.7; medium 0)
+- `coverOvP`: mask(7529 sq units)
+- `bR`: brush(flat 3, 26% full)
+- `refHL`: pile(ultramarine blue 0.8, burnt sienna 0.5, bone black 0.2, permanent alizarin 0.3, lead white 0.2; medium 0, turps 0.3)
+- `bq`: brush(flat 3, 19% full)
+- `rippleC`: pile(cerulean blue 0.6, lead white 1.2, permanent alizarin 0.1; medium 0, turps 0.25)
+- `rippleW`: pile(lead white 1, pale cadmium 0.2, rose madder 0.1; medium 0, turps 0.25)
+- `muteM`: mask(35200 sq units)
+- `muteP`: pile(ultramarine blue 0.7, permanent alizarin 0.4, Prussian blue 0.15, lead white 0.9; medium 0, turps 0.3)
+- `PATHENV`: mask(34150 sq units)
+- `cLow`: pile(Prussian blue 0.4, ultramarine blue 0.8, permanent alizarin 0.3, lead white 0.4; medium 0, turps 0.3)
+- `cMid`: pile(ultramarine blue 0.8, permanent alizarin 0.5, lead white 0.9; medium 0, turps 0.4)
+- `cTop`: pile(rose madder 0.3, ultramarine blue 0.2, lead white 1.2, pale cadmium 0.15; medium 0, turps 0.4)
+- `seaCoatM`: mask(264930 sq units)
+- `LOWREG`: mask(125549 sq units)
+- `b7`: brush(flat 3, 34% full)
+- `b8`: brush(flat 3, 31% full)
+- `grTeal`: pile(cerulean blue 0.5, ultramarine blue 0.2, lead white 1.1; medium 0, turps 0.25)
+- `lilG`: pile(rose madder 0.3, ultramarine blue 0.3, lead white 1.1; medium 0, turps 0.25)
+- `peachR`: pile(pale cadmium 0.3, rose madder 0.3, lead white 1.2; medium 0, turps 0.25)
+- `teal2`: pile(cerulean blue 0.6, raw umber 0.15, lead white 1; medium 0, turps 0.2)
+- `bm`: brush(flat 3, 33% full)
+- `grR`: pile(cerulean blue 0.5, ultramarine blue 0.2, lead white 1.1; medium 0, turps 0.25)
+- `lilR`: pile(rose madder 0.3, ultramarine blue 0.3, lead white 1.1; medium 0, turps 0.25)
+- `mR`: mask(25783 sq units)
+- `pcR`: pile(pale cadmium 0.3, rose madder 0.3, lead white 1.2; medium 0, turps 0.25)
+- `tlR`: pile(cerulean blue 0.6, raw umber 0.15, lead white 1; medium 0, turps 0.2)
+- `MASS`: mask(24084 sq units)
+- `dSlope`: function
+- `ledgeM`: mask(1959 sq units)
+- `leftRock`: mask(918 sq units)
+- `litA`: pile(burnt sienna 0.8, yellow ochre 0.3, ultramarine blue 0.35, rose madder 0.15, lead white 0.9; medium 0)
+- `litW`: function
+- `shP`: pile(ultramarine blue 1, burnt sienna 0.5, bone black 0.4, permanent alizarin 0.3, lead white 0.15; medium 0)
+- `slopeP`: table with 9 entries
+- `bL`: brush(flat 3, 33% full)
+- `cur`: pile(pale cadmium 0.3, rose madder 0.3, lead white 1.2; medium 0, turps 0.25)
+- `gtL2`: pile(cerulean blue 0.5, ultramarine blue 0.2, lead white 1.1; medium 0, turps 0.25)
+- `mL`: mask(33600 sq units)
+- `n`: number 26
+- `pcL`: pile(pale cadmium 0.3, rose madder 0.3, lead white 1.2; medium 0, turps 0.25)
+
+## The canvas clock
+
+- Latest journal entry stamped: day 248, 02:32
+
+## The canvas
+
+The whole canvas as it was when this was written: paint-studio-584c74/out/easel/painting/95ef7f00-e645-4b90-9efd-832fe22bb9e9.png

@@ -1,0 +1,5 @@
+print("sky:", drying(500, 200))
+print("treeline:", drying(500, 450))
+print("far water:", drying(800, 640))
+print("mid water:", drying(800, 750))
+print("bank:", drying(600, 1150))

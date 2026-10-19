@@ -1,0 +1,71 @@
+diff --git a/apps/london/src/server/nr/trust.ts b/apps/london/src/server/nr/trust.ts
+index cc4ca52..5991eb5 100644
+--- a/apps/london/src/server/nr/trust.ts
++++ b/apps/london/src/server/nr/trust.ts
+@@ -8,7 +8,8 @@
+ //   0003 movement       arrival/departure/pass at a STANOX, with the delay
+ //   0005 reinstatement  undoes a cancellation
+ //   0006 change of origin
+-//   0007 change of identity (train_id changes)
++//   0007 change of identity (the train_id shown changes; messages go on
++//        naming the original)
+ // train_id is 10 characters, AABBBBCDEE: AA the origin STANOX area, BBBB the
+ // headcode shown in TD berths, EE the day of the month it started.
+ //
+@@ -217,7 +218,14 @@ export interface Report {
+ }
+ 
+ export interface TrustRun {
++  // The train_id it was activated (or first seen) as. Every TRUST message
++  // about the train names this one, after a change of identity too
++  // (https://wiki.openraildata.com/index.php/Change_of_Identity), so the
++  // run keeps it.
+   readonly trainId: string;
++  // The train_id it runs as now, to show: trainId until a change of
++  // identity revises it. headcode is this one's.
++  readonly currentId: string;
+   readonly headcode: string;
+   // Null for a run first seen by a movement: it was activated before we
+   // connected (the subscription isn't durable, so there's no replay).
+@@ -253,7 +261,8 @@ export interface TrustState {
+ }
+ 
+ interface MutableRun {
+-  trainId: string;
++  readonly trainId: string;
++  currentId: string;
+   headcode: string;
+   activation: TrustActivation | null;
+   tocId: string;
+@@ -294,6 +303,7 @@ export function createTrustState(): TrustState {
+         if (old) unindex(old);
+         const run: MutableRun = {
+           trainId: msg.trainId,
++          currentId: msg.trainId,
+           headcode: msg.headcode,
+           activation: msg,
+           tocId: msg.tocId,
+@@ -314,6 +324,7 @@ export function createTrustState(): TrustState {
+         inferred++;
+         run = {
+           trainId: msg.trainId,
++          currentId: msg.trainId,
+           headcode: msg.trainId.slice(2, 6),
+           activation: null,
+           tocId: msg.tocId,
+@@ -353,12 +364,12 @@ export function createTrustState(): TrustState {
+         case 'reinstatement':
+           run.cancelled = false;
+           break;
++        // Still found by its original train_id; its new headcode is the
++        // one its berths show.
+         case 'identity': {
+           unindex(run);
+-          runs.delete(run.trainId);
+-          run.trainId = msg.newTrainId;
++          run.currentId = msg.newTrainId;
+           run.headcode = msg.newTrainId.slice(2, 6);
+-          runs.set(run.trainId, run);
+           index(run);
+           break;
+         }

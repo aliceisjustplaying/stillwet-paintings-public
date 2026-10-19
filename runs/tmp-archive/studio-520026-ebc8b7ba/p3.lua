@@ -1,0 +1,6 @@
+hb = pencil("HB")
+hb:line({{40,40},{300,40}}, {pressure=0.9, smooth=false})
+hb:line({{40,80},{300,80}}, {pressure=0.5, smooth=false})
+ch = chalk()
+ch:line({{40,120},{300,120}}, {pressure=0.7, smooth=false})
+print(drawing_guide():area())

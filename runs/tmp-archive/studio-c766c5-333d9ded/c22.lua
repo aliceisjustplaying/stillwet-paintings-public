@@ -1,0 +1,6 @@
+clear = ellipse(640,548,158,64)
+work(clear, {hand="body", pile=ptab, clip=true, coverage=3.2, fill=true, seed=171})
+blend(clear:soften(5), {seed=172, coverage=1.5, pressure={0.3,0.3}})
+bowlmask = ellipse(640,548,130,46)
+work(bowlmask, {hand="body", pile=pbowl, clip=true, coverage=3.2, fill=true, angle=0.25, seed=173})
+blend(bowlmask, {seed=174, coverage=1.5, pressure={0.3,0.3}})

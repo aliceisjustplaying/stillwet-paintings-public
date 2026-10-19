@@ -1,0 +1,19 @@
+diff --git a/apps/nyc/src/server/alerts.ts b/apps/nyc/src/server/alerts.ts
+index aca6b6d..77cdb40 100644
+--- a/apps/nyc/src/server/alerts.ts
++++ b/apps/nyc/src/server/alerts.ts
+@@ -137,6 +137,14 @@ export function createNycAlerts(
+       const res = await doFetch(FEED_BASE + path, { signal: AbortSignal.timeout(15_000) });
+       if (!res.ok) throw new Error(`HTTP ${res.status}`);
+       const data: unknown = await res.json();
++      // An alert feed has its header, and its entities if any: anything
++      // else ({"error": ...}) is a failed request, not good service.
++      if (
++        !isObject(data) ||
++        !isObject(data['header']) ||
++        !(data['entity'] === undefined || Array.isArray(data['entity']))
++      )
++        throw new TypeError('not an alert feed');
+       const time = Date.now();
+       bySystem.set(system, { time, data });
+     } catch (error) {
