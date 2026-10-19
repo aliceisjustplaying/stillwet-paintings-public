@@ -1,0 +1,2391 @@
+{
+  "archive": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)",
+  "identity": "c12602",
+  "files": [
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/finals/rag_study_final.jpg",
+      "repo_path": "paintings/wc1/finals/rag_study_final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 142142,
+      "repo_bytes": 142142,
+      "sha256": "4d4854e8320f122d4de7fe61ed81b7d0188cc962fd674a22e617fb6edc794f2f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/finals/wc1 - version 02.png",
+      "repo_path": "paintings/wc1/finals/wc1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1095478,
+      "repo_bytes": 1095478,
+      "sha256": "9fa249e0e8516a9fd4ddf95669de867d0a046cb56eb2f79529b2432cba8e8f2d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/finals/wc1 - version 03.png",
+      "repo_path": "paintings/wc1/finals/wc1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1117584,
+      "repo_bytes": 1117584,
+      "sha256": "b0ed86e4fa47c565b92c215995619eae0d58dbba7e84a7d2488d6a4b5e20cdb4"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/finals/wc1-final-viewer.png",
+      "repo_path": "paintings/wc1/finals/wc1-final-viewer.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1010772,
+      "repo_bytes": 1010772,
+      "sha256": "bdc5d084d7b5033cb74706cb0ad068aacddb8560475de0b59b6e75d291cd818c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/finals/wc1.png",
+      "repo_path": "paintings/wc1/finals/wc1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1101854,
+      "repo_bytes": 1101854,
+      "sha256": "40c3727f5a12cfc175c6dae4bc92c039e4643503d6efca8ceab7b13738aa1c98"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/bare_C.lua",
+      "repo_path": "paintings/wc1/lua/archive/bare_C.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15481,
+      "repo_bytes": 15481,
+      "sha256": "d38e53ce58b71a0a4081fc00b3cc82f9461efa522adf37b4b4358b7008d0cf95"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/bare_C2.lua",
+      "repo_path": "paintings/wc1/lua/archive/bare_C2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13123,
+      "repo_bytes": 13123,
+      "sha256": "03202a71590d1a9d55c39482c720664256c67640c252cceb00f77a2cf675e2f4"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/bare_setup.lua",
+      "repo_path": "paintings/wc1/lua/archive/bare_setup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1807,
+      "repo_bytes": 1807,
+      "sha256": "49e97daa7bb82bda47c673134d7df4f0814da5d162e3641717781ca49a5bdaaf"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/barerow_L.lua",
+      "repo_path": "paintings/wc1/lua/archive/barerow_L.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15546,
+      "repo_bytes": 15546,
+      "sha256": "7a8526cef350351ab792fc9c26e548775df9883e267c8bd9ddaffa20f4758b1f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/barerow_T.lua",
+      "repo_path": "paintings/wc1/lua/archive/barerow_T.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 17891,
+      "repo_bytes": 17891,
+      "sha256": "efa5ccd3f3a24bb54f1aecc6ff5a6804ad59950025a18892ebfd8dd81334d7b2"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/barerow_setup.lua",
+      "repo_path": "paintings/wc1/lua/archive/barerow_setup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5412,
+      "repo_bytes": 5412,
+      "sha256": "6ba5133c4149be8ed8dc1e366167ebcdc1f317416824a6a96d0745382ca25a3f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/baretree_A.lua",
+      "repo_path": "paintings/wc1/lua/archive/baretree_A.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6207,
+      "repo_bytes": 6207,
+      "sha256": "78c69156c29276cdfad2c2104099f6f901502c9ac53ee1197ccef2569c9d1fcc"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/baretree_B.lua",
+      "repo_path": "paintings/wc1/lua/archive/baretree_B.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 10415,
+      "repo_bytes": 10415,
+      "sha256": "4f89c77e89176bafcf828e218ff59a2ce90d2e69a4270361043ace69ef7afdd7"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/body.lua",
+      "repo_path": "paintings/wc1/lua/archive/body.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 420,
+      "repo_bytes": 420,
+      "sha256": "f7265d2aa21e562992162b3c27867958d9355f87839df19dbc947eafdaa9113b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/carry.lua",
+      "repo_path": "paintings/wc1/lua/archive/carry.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 334,
+      "repo_bytes": 334,
+      "sha256": "7ff2700f642bc0147099eb25cdaaf0e07cb31d59428bf0f9bfca5f19c68acbb8"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/chunk-14.lua",
+      "repo_path": "paintings/wc1/lua/archive/chunk-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 390,
+      "repo_bytes": 390,
+      "sha256": "033953220f350486b6253af5901954336dbcce37367270bc9531e90321d0d4fa"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/chunk-18.lua",
+      "repo_path": "paintings/wc1/lua/archive/chunk-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 745,
+      "repo_bytes": 745,
+      "sha256": "3800ca2f270ac8a81caf34aa322e03c1818f41ec193364de2064dff1f8f9bc26"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/committed.lua",
+      "repo_path": "paintings/wc1/lua/archive/committed.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 277,
+      "repo_bytes": 277,
+      "sha256": "43e661adaaa1df1f53f1c50abe48f7665f13a24c4bc18db1314b936767b4f6ba"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/common.lua",
+      "repo_path": "paintings/wc1/lua/archive/common.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 136,
+      "repo_bytes": 136,
+      "sha256": "7cdc9789bdde307e0f06770e44c8d5fb7b36d8a7e243ab6fea333db8ba411973"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/distance.lua",
+      "repo_path": "paintings/wc1/lua/archive/distance.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 334,
+      "repo_bytes": 334,
+      "sha256": "7de7d753292354ee57381cb3bfbda2c5d4bf13f0139be40f758e99c9002abd32"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/easel3_free.lua",
+      "repo_path": "paintings/wc1/lua/archive/easel3_free.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 32246,
+      "repo_bytes": 32246,
+      "sha256": "d0ff82fbe7268a6a8315e033e7a7225f1e8b14123a177d5fe90e289b8e694657"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/easel3_green.lua",
+      "repo_path": "paintings/wc1/lua/archive/easel3_green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 32286,
+      "repo_bytes": 32286,
+      "sha256": "82bd6b9c7a1ee7c73e2c21365fbe2c48e0472af543ea662f5345a2bc7c643f87"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/easel3_near.lua",
+      "repo_path": "paintings/wc1/lua/archive/easel3_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 36741,
+      "repo_bytes": 36741,
+      "sha256": "c3c39d0907a6e422b2c2051cb641d9215cfa14b10ead88ea82bdb1310187ad04"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/easel4_free.lua",
+      "repo_path": "paintings/wc1/lua/archive/easel4_free.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 28839,
+      "repo_bytes": 28839,
+      "sha256": "b42be2c376db7dd5657e295880d44e24675d6fba5e4a04ee511bd3c4ea153a89"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/easel4_green.lua",
+      "repo_path": "paintings/wc1/lua/archive/easel4_green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 29055,
+      "repo_bytes": 29055,
+      "sha256": "10d789a0ef1ef8ea06c67e0a5374849f413ccd16f184f37ac2cba9ed86fadb1e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/easel4_near.lua",
+      "repo_path": "paintings/wc1/lua/archive/easel4_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 23860,
+      "repo_bytes": 23860,
+      "sha256": "df4b341b861c7c54bbb896204001c3c5b7dc42a814dbeac74c313da16079112d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/edge_afternoon.lua",
+      "repo_path": "paintings/wc1/lua/archive/edge_afternoon.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1782,
+      "repo_bytes": 1782,
+      "sha256": "a5f0603e12897c4341f367209806d7f82697bcf5652ff68b0573156297ddab0d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/edge_dry.lua",
+      "repo_path": "paintings/wc1/lua/archive/edge_dry.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1786,
+      "repo_bytes": 1786,
+      "sha256": "ba023ac4eb2281e1dd62943f3bacd1453ae2d612126acfdfa3e9db9b8333b52c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/edge_instant.lua",
+      "repo_path": "paintings/wc1/lua/archive/edge_instant.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1773,
+      "repo_bytes": 1773,
+      "sha256": "058af8acb48ec34882aa4e8644ea834ebf0743769d5caab14e70f9263eb87ff6"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/edge_nextday.lua",
+      "repo_path": "paintings/wc1/lua/archive/edge_nextday.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1771,
+      "repo_bytes": 1771,
+      "sha256": "a65f6d88f493bb6076ce9a626df6c8e62a73f95acc13da6d8322a825b671e801"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/edge_sitting.lua",
+      "repo_path": "paintings/wc1/lua/archive/edge_sitting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1797,
+      "repo_bytes": 1797,
+      "sha256": "c586ece689b27a7a8ae07fe6d16b9a2c7fb54c77eb9e25b716d6232d09cea322"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/engine-probe.lua",
+      "repo_path": "paintings/wc1/lua/archive/engine-probe.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 410,
+      "repo_bytes": 410,
+      "sha256": "e2acac9f47cb7987c3b72004843f36c7a7d9d1c87528d3a96173b5a98b458aae"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/engine3_log_default_box.lua",
+      "repo_path": "paintings/wc1/lua/archive/engine3_log_default_box.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 162,
+      "repo_bytes": 162,
+      "sha256": "2f66e23bdfe2437afe4c8b7181ef76070ec4778aa15c50ae52796d69f73cf178"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/engine3_log_inness.lua",
+      "repo_path": "paintings/wc1/lua/archive/engine3_log_inness.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 180,
+      "repo_bytes": 180,
+      "sha256": "5adc0e81882a39f369217c8918336507c000c6f4c092ff21bfcaceda4f2763cd"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/example_meet.lua",
+      "repo_path": "paintings/wc1/lua/archive/example_meet.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6955,
+      "repo_bytes": 6955,
+      "sha256": "fde5134d872a000c6457c57c1dbf41f109731cff4a6e02f1f77952e112e018fd"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/example_sittings.lua",
+      "repo_path": "paintings/wc1/lua/archive/example_sittings.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6629,
+      "repo_bytes": 6629,
+      "sha256": "6cfbc55cabba6acc54425c6a5998a1056675a3bbc6cd0ede2158c6b1120b68b9"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/foliage_A.lua",
+      "repo_path": "paintings/wc1/lua/archive/foliage_A.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4812,
+      "repo_bytes": 4812,
+      "sha256": "9a48361571ed9f0e0698d8cad79491c1ea67506e8dc0824386144e2ba28db505"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/foliage_B.lua",
+      "repo_path": "paintings/wc1/lua/archive/foliage_B.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 11039,
+      "repo_bytes": 11039,
+      "sha256": "f0eec69ee4af7ed345378b75a48eeb2a2f7778f94c26d935fbf5b65b8330bf00"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/foliage_C.lua",
+      "repo_path": "paintings/wc1/lua/archive/foliage_C.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 20850,
+      "repo_bytes": 20850,
+      "sha256": "8214288e13f85a4beabe55a6ccdf3be20008efc87125765db392d63416b91161"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/foliage_setup.lua",
+      "repo_path": "paintings/wc1/lua/archive/foliage_setup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1858,
+      "repo_bytes": 1858,
+      "sha256": "aade91f3e448562752b7cd1afd4145b856e822f363806ac28269e3bbe751736f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/heap.lua",
+      "repo_path": "paintings/wc1/lua/archive/heap.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6652,
+      "repo_bytes": 6652,
+      "sha256": "f39719172aeec110959b6d425a697c32859d036c2b8342738f4dab33b4d1557e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/l1_green.lua",
+      "repo_path": "paintings/wc1/lua/archive/l1_green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 34792,
+      "repo_bytes": 34792,
+      "sha256": "2aa66ca0819a5bbc4a24cabd51868f6ab038e12c6793a0945a714df255afb2bb"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/l1_near.lua",
+      "repo_path": "paintings/wc1/lua/archive/l1_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 26351,
+      "repo_bytes": 26351,
+      "sha256": "e4194a2fc7f70e1ba563622d3800d23f0a47711cb987e8c28a3c6bfb5f84f6cc"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/l2_green.lua",
+      "repo_path": "paintings/wc1/lua/archive/l2_green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 41707,
+      "repo_bytes": 41707,
+      "sha256": "2dbfb1fdff45f4b438587edaaa723eea3a7fc3313a7657a3619841729b7bc55f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/l2_near.lua",
+      "repo_path": "paintings/wc1/lua/archive/l2_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 30544,
+      "repo_bytes": 30544,
+      "sha256": "94e76f5e1e814c91cf7d5af3fef044b14bb4142d7b36ebf1c5865fe73d875f9e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/l3_green.lua",
+      "repo_path": "paintings/wc1/lua/archive/l3_green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 43640,
+      "repo_bytes": 43640,
+      "sha256": "64b0a0dd9909a143c0bbf824290009b7f6f8c653b293636a534b0fa5cbbef0cf"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/l3_near.lua",
+      "repo_path": "paintings/wc1/lua/archive/l3_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 35515,
+      "repo_bytes": 35515,
+      "sha256": "1401fff775bfc723c67a15cb7841c457531f759ce996ea88baf4f430d40e8bd8"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/l4_near.lua",
+      "repo_path": "paintings/wc1/lua/archive/l4_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 37134,
+      "repo_bytes": 37134,
+      "sha256": "d93e83783e37c21a6387f41502c24224f46e0e0ba112d2f1f3cfdcfca6dfcffe"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/l5_near.lua",
+      "repo_path": "paintings/wc1/lua/archive/l5_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 27958,
+      "repo_bytes": 27958,
+      "sha256": "6d8cf4d1382f1c7a8466446b8046fac339d6d634631c22a1da4a34991d79029f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/ladder.lua",
+      "repo_path": "paintings/wc1/lua/archive/ladder.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 328,
+      "repo_bytes": 328,
+      "sha256": "5a951aca057ae12706838662ab3db4bae0bed7367bcefcd6531e46457bca6def"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/lime_A.lua",
+      "repo_path": "paintings/wc1/lua/archive/lime_A.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5608,
+      "repo_bytes": 5608,
+      "sha256": "c63af9521689735529ba2f66351279e8a7d97c7d2629c25857171949a2376b79"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/lime_H.lua",
+      "repo_path": "paintings/wc1/lua/archive/lime_H.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 26207,
+      "repo_bytes": 26207,
+      "sha256": "e327bb2eb278d46a0eb1b835d770fe7cf4f48db8ff7fcdc6c3871ad51e6a5177"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/lime_setup.lua",
+      "repo_path": "paintings/wc1/lua/archive/lime_setup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2382,
+      "repo_bytes": 2382,
+      "sha256": "da540323e3eed8b1b0656bca4b33c0dd7e3286f3f69cd9275eed73cc16482b07"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/native-finish.lua",
+      "repo_path": "paintings/wc1/lua/archive/native-finish.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1353,
+      "repo_bytes": 1353,
+      "sha256": "91f3d49a5175d986fb90ba9680f081f115e7e350d536e7435ed146bfe369b627"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/native-start.lua",
+      "repo_path": "paintings/wc1/lua/archive/native-start.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 878,
+      "repo_bytes": 878,
+      "sha256": "1f9c9a7314c4e6a3f8ad61191624a0e7ec36b054c080a90a2eca6d521fa3b719"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/oakleaf_A.lua",
+      "repo_path": "paintings/wc1/lua/archive/oakleaf_A.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 9279,
+      "repo_bytes": 9279,
+      "sha256": "0f6315c26431ae9dd342f587e6f4bc34328c56b2970cb7aaf57335c027dc3ca5"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/oakleaf_H.lua",
+      "repo_path": "paintings/wc1/lua/archive/oakleaf_H.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 27435,
+      "repo_bytes": 27435,
+      "sha256": "3c29d011cd5fe059363954a967d1fbe7ffa16e5cf00e2cbfaa904ddfb36f8cc7"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/oakleaf_setup.lua",
+      "repo_path": "paintings/wc1/lua/archive/oakleaf_setup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3030,
+      "repo_bytes": 3030,
+      "sha256": "5506c148474d47726430ff1c959976364e5bdf8563f20d82444db5ab3c1f8718"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/overlap.lua",
+      "repo_path": "paintings/wc1/lua/archive/overlap.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 612,
+      "repo_bytes": 612,
+      "sha256": "88875c8b56b31dc2861337597e9af0d00f5121988ab20f013b47690323307811"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p1_loading.lua",
+      "repo_path": "paintings/wc1/lua/archive/p1_loading.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1610,
+      "repo_bytes": 1610,
+      "sha256": "b8fea980ea0ef41028d0bb2509b5ff36f671ac530e7fd256f8f463fa307c2403"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p2_broken.lua",
+      "repo_path": "paintings/wc1/lua/archive/p2_broken.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1092,
+      "repo_bytes": 1092,
+      "sha256": "4630a6d1dde4a36b5ddfa9559e8c9cc2b4b08ba1bfa1a1e5f94b01c8f0250fbd"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p3_impasto.lua",
+      "repo_path": "paintings/wc1/lua/archive/p3_impasto.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1202,
+      "repo_bytes": 1202,
+      "sha256": "cc9033552cbfd250258e6d9a1360bd02b1bb36f2cab65b1e304a562cc18e25d7"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p4_knife.lua",
+      "repo_path": "paintings/wc1/lua/archive/p4_knife.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1252,
+      "repo_bytes": 1252,
+      "sha256": "2921337465f51cb426ac8789cfb1d6cda1ef6d8d96c191eb8fcd1974103ce85b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p5_glaze.lua",
+      "repo_path": "paintings/wc1/lua/archive/p5_glaze.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1277,
+      "repo_bytes": 1277,
+      "sha256": "a9560ea8066b6a0e4fa28b88d85a4ba8bfd90674c0f9b0ff785cd763b8949655"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p6_leanfat.lua",
+      "repo_path": "paintings/wc1/lua/archive/p6_leanfat.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1441,
+      "repo_bytes": 1441,
+      "sha256": "e27996957903e6f7b89fbe7f8a7f627c510811772ed6ff9a71d44416936704bc"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p7_grounds.lua",
+      "repo_path": "paintings/wc1/lua/archive/p7_grounds.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1679,
+      "repo_bytes": 1679,
+      "sha256": "2c7028bbc6898db9f8db64642df5d827f8df4159141bff8e09d7e01ccb98d403"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p8_palette.lua",
+      "repo_path": "paintings/wc1/lua/archive/p8_palette.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 512,
+      "repo_bytes": 512,
+      "sha256": "987da6f33fc9b8d917f1adcd907dcf94182f7b57ce88e7d8fcd9e8eb45ce1c63"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p9_study.lua",
+      "repo_path": "paintings/wc1/lua/archive/p9_study.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1834,
+      "repo_bytes": 1834,
+      "sha256": "6e8dcccef6307c12d08613277a74a634620a1b3a50bb0e75941d12e3f5339c8d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p9_study2.lua",
+      "repo_path": "paintings/wc1/lua/archive/p9_study2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2671,
+      "repo_bytes": 2671,
+      "sha256": "adca3eb96c410831c5fc7e1ee707ccd2d15b1a43b36bc429f55ef58f420191ea"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/p9_study3.lua",
+      "repo_path": "paintings/wc1/lua/archive/p9_study3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1850,
+      "repo_bytes": 1850,
+      "sha256": "ffb3f5a814cd9770b965b5452905fea8e0b5cb6f076a5fe0bde3b189eed7a770"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/painting - version 02.lua",
+      "repo_path": "paintings/wc1/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 449,
+      "repo_bytes": 449,
+      "sha256": "1cb19b7d876a7f00b2b7f64d148399e3c8156ddbd8ac1a668e9ad88d34778a1f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/painting - version 03.lua",
+      "repo_path": "paintings/wc1/lua/archive/painting - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 46973,
+      "repo_bytes": 46973,
+      "sha256": "e08c9c49d9afc48e0d3dd0e4dc74a934b2baf9a931cb4436b70eeda660360ece"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/wc1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 804,
+      "repo_bytes": 804,
+      "sha256": "1792a12c6675b81dc0a52ee24f6f1c859f7636d139489273a5dcdf581c5b822b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/paper.lua",
+      "repo_path": "paintings/wc1/lua/archive/paper.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 57,
+      "repo_bytes": 57,
+      "sha256": "2c9b00fc86159ecbca0178bdaca171d3d2a4c7e256c1c272abaa29f8fcc70225"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/pickup.lua",
+      "repo_path": "paintings/wc1/lua/archive/pickup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 628,
+      "repo_bytes": 628,
+      "sha256": "342cc526874b81252e83ddfb0a1d054e4862d8ff7be5f2e784934d34ecfdec2c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/prelude.lua",
+      "repo_path": "paintings/wc1/lua/archive/prelude.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 14459,
+      "repo_bytes": 14459,
+      "sha256": "d7f522e830a2faafe91ac0c93ee9a60f9631b6b6f34a2232a5e3834ff4019795"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/r29-mont-plain.lua",
+      "repo_path": "paintings/wc1/lua/archive/r29-mont-plain.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 93835,
+      "repo_bytes": 93835,
+      "sha256": "961ff148e3146845f3552a83a026a96369a3ad120fc4bd3db2ce5b5fd0350907"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/r30-hopr-plain.lua",
+      "repo_path": "paintings/wc1/lua/archive/r30-hopr-plain.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 63662,
+      "repo_bytes": 63662,
+      "sha256": "ea524179c2cbc69e38e1cc5c9aafa285bc7758d024962ce60112691a0839b777"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/r31-smoke-plain.lua",
+      "repo_path": "paintings/wc1/lua/archive/r31-smoke-plain.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 88942,
+      "repo_bytes": 88942,
+      "sha256": "faf57daedc9dd28c057096cec63870850ae55371581155f8514da1da18b5cb40"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/r8arm1_far_hills.lua",
+      "repo_path": "paintings/wc1/lua/archive/r8arm1_far_hills.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4633,
+      "repo_bytes": 4633,
+      "sha256": "bd62475ea2b12d4db78a797913a6de7a65427f4ba20c5f15d5d085b27625d179"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/r8arm3_far_hills.lua",
+      "repo_path": "paintings/wc1/lua/archive/r8arm3_far_hills.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6052,
+      "repo_bytes": 6052,
+      "sha256": "a2c6c6dc2d380d93cfc40cd8ec052ade86b485106c6cd46f7b40c60d5214c7ae"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/r9arm3_snow_shadows.lua",
+      "repo_path": "paintings/wc1/lua/archive/r9arm3_snow_shadows.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5119,
+      "repo_bytes": 5119,
+      "sha256": "0c49a5685fc3a666a5b192a22b7fdcfe5ad61a6c627bd2c7c521fedd7bd61ccc"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rag.lua",
+      "repo_path": "paintings/wc1/lua/archive/rag.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1213,
+      "repo_bytes": 1213,
+      "sha256": "6823aecd0d2b7cdf03b2f5a90d46b1b0e84a0230bb5adfa1a8a837cc3e5bd25f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rag_passes_and_drying.lua",
+      "repo_path": "paintings/wc1/lua/archive/rag_passes_and_drying.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1823,
+      "repo_bytes": 1823,
+      "sha256": "2fc455728467716a0004d567a1f09a9724d3aeb30169f9da566a9e2c762e37e4"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rag_vs_brush_wipe.lua",
+      "repo_path": "paintings/wc1/lua/archive/rag_vs_brush_wipe.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 923,
+      "repo_bytes": 923,
+      "sha256": "ae0035819d4a8bdffa16571b1da5c6492d4958c05468a62af7d9e159620baaf9"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rag_wipe_out.lua",
+      "repo_path": "paintings/wc1/lua/archive/rag_wipe_out.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2022,
+      "repo_bytes": 2022,
+      "sha256": "e375bdb8c1ee645003666df09351816c4df6e7de3c0b3c22dc1a158af47ca591"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rock_A.lua",
+      "repo_path": "paintings/wc1/lua/archive/rock_A.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6022,
+      "repo_bytes": 6022,
+      "sha256": "62fd0b17d6331c84e4e824f0a32f3050312de86b1f532c9ea8609f2da9b5ba72"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rock_B - version 02.lua",
+      "repo_path": "paintings/wc1/lua/archive/rock_B - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7841,
+      "repo_bytes": 7841,
+      "sha256": "096def7daa966d43975e2a1cae8282e49cdeafa71231be18cbfdddf7d11ca21c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rock_B.lua",
+      "repo_path": "paintings/wc1/lua/archive/rock_B.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7206,
+      "repo_bytes": 7206,
+      "sha256": "26615f300e61eebaff8546c9cbe43e370bab64f1098ff3eb5b7ea79c28089b75"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rock_H.lua",
+      "repo_path": "paintings/wc1/lua/archive/rock_H.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15798,
+      "repo_bytes": 15798,
+      "sha256": "712a6e4df63c9c944db26a67a3f406047177f400da7e0b8cadeeb9b00e254b42"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rock_setup - version 02.lua",
+      "repo_path": "paintings/wc1/lua/archive/rock_setup - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1893,
+      "repo_bytes": 1893,
+      "sha256": "877c42296ffa3bcfde061d23e786e9faa8a518840c144a473a6bccd7594bc567"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/rock_setup.lua",
+      "repo_path": "paintings/wc1/lua/archive/rock_setup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2115,
+      "repo_bytes": 2115,
+      "sha256": "e265c9a916aa70b8d18e05a13835f6254ad7740354bd0712aa22a57ae946d76c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/round4-finish.lua",
+      "repo_path": "paintings/wc1/lua/archive/round4-finish.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1408,
+      "repo_bytes": 1408,
+      "sha256": "cee6bf761855801e81d477f2addca472a3217c6b86c43a8251f76756c7c7e270"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/round4-start.lua",
+      "repo_path": "paintings/wc1/lua/archive/round4-start.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 879,
+      "repo_bytes": 879,
+      "sha256": "93845f5046bd7ede28cc6ec92eec1d95cdc2f196dbffc8fc4432307011b00931"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/round5-swatches.lua",
+      "repo_path": "paintings/wc1/lua/archive/round5-swatches.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1095,
+      "repo_bytes": 1095,
+      "sha256": "90afc4cf180139b227152ade527935c52e6880d3e7d91c22e044b91b0a455272"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1232,
+      "repo_bytes": 1232,
+      "sha256": "f5e3dc26916cca46c4cdcd47b9b9cdc0c062ffa09947ed7e23b883593455f6bf"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1806,
+      "repo_bytes": 1806,
+      "sha256": "1af956cf73d1e5739a54e9fcc909b515c609806d05ecd525db80243b4496d163"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2039,
+      "repo_bytes": 2039,
+      "sha256": "5e7f5006d5689748618cf174fbf93e435fad19773a3f302f47dc5ebfbbf03731"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 10554,
+      "repo_bytes": 10554,
+      "sha256": "e61e9b329ddd68922efcd1b717d5dae809a9ab0d5d276a4051ae61a3fead2c49"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1895,
+      "repo_bytes": 1895,
+      "sha256": "810494d467fa07db5f60a5d1a22160ec9808390baa6492d5a6b8dc6108f2df1a"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 20244,
+      "repo_bytes": 20244,
+      "sha256": "7dd8f5639664c477de080773f6e5a6d0653faa471a6ce63f6d128dda93f56700"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 56,
+      "repo_bytes": 56,
+      "sha256": "9394ed4af08e19d2d281f790c1d60b7215a40408b1d777c52bede28fc4b85de3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 924,
+      "repo_bytes": 924,
+      "sha256": "41e044c13e6f2ec82a9991b5d9d2d741956e498cb835a218a2a779c6059ce077"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 977,
+      "repo_bytes": 977,
+      "sha256": "9660839e7a6f23c0b180d8d8a9ad4fc9a9a8422917593fd54cb9146313c41f3c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1370,
+      "repo_bytes": 1370,
+      "sha256": "ab36fbeaf91071d2a2a893a60ab45ce0c4ff5ebe75c035acc772e335ab2af3f3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1966,
+      "repo_bytes": 1966,
+      "sha256": "b2bbb8c7dd05295f99eb95b9d7246c499f4f2de6d88aa33c158cad80f7e38ccc"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1695,
+      "repo_bytes": 1695,
+      "sha256": "2339b40fe71110f2a603f3df31ec5f05d6d69c30924cc0d7c83aa42b2e27646b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2951,
+      "repo_bytes": 2951,
+      "sha256": "c2628ab494609dcb207464900702db3928471c3d9083f462eb4e928ea527d379"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1402,
+      "repo_bytes": 1402,
+      "sha256": "8bb26518fee1bfa9655ffaca75e01fc8aa42153aae95d62b898e7400b85fd260"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2186,
+      "repo_bytes": 2186,
+      "sha256": "dbc67c127292742a1d7c999bebef68d4eb12b12324561860651548656c8994d3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "paintings/wc1/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4266,
+      "repo_bytes": 4266,
+      "sha256": "60895002c86aeba6a8e3977bacc4c925dce85dc02e186d263616fc15b53422e7"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/sequence.lua",
+      "repo_path": "paintings/wc1/lua/archive/sequence.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 930,
+      "repo_bytes": 930,
+      "sha256": "43a278e541583a4ce0901da42572269ef926c208b0d557a839e499440092b2df"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/sky_A.lua",
+      "repo_path": "paintings/wc1/lua/archive/sky_A.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4961,
+      "repo_bytes": 4961,
+      "sha256": "27c9e4d1cb08f5e82342b2cbf2c2e90b44fe56af9d6d412a875448996095b319"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/sky_B.lua",
+      "repo_path": "paintings/wc1/lua/archive/sky_B.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7044,
+      "repo_bytes": 7044,
+      "sha256": "05c7415109fef304c8730c4d1978d7357b1ef1b3c2b5b94d00e212129b7e9dde"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/sky_setup.lua",
+      "repo_path": "paintings/wc1/lua/archive/sky_setup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2637,
+      "repo_bytes": 2637,
+      "sha256": "f0ff866500cb39e2730ecc9e6e62d41b7ed3596af2720069114bf28b2e2f9733"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/smoke-finish.lua",
+      "repo_path": "paintings/wc1/lua/archive/smoke-finish.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 973,
+      "repo_bytes": 973,
+      "sha256": "fc22f990a8e06b1ee1faea945f8abd01e62b22ca18841c58e0b009b2b49a8bcf"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/smoke-start.lua",
+      "repo_path": "paintings/wc1/lua/archive/smoke-start.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 768,
+      "repo_bytes": 768,
+      "sha256": "0925ab25a998e830cd905c938e2f129cddfb55828b249145b11ac0c68bbaf21c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/stroke.lua",
+      "repo_path": "paintings/wc1/lua/archive/stroke.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 550,
+      "repo_bytes": 550,
+      "sha256": "7694c21488613ffdc9fd45790a9c2d543a523c92f072621ce04bab8945a25612"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/wait.lua",
+      "repo_path": "paintings/wc1/lua/archive/wait.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 864,
+      "repo_bytes": 864,
+      "sha256": "115e030d93ec9979a071d9a8ba6cdefb4bfbec79032a5799767dd36525970eb6"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/water_A.lua",
+      "repo_path": "paintings/wc1/lua/archive/water_A.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7493,
+      "repo_bytes": 7493,
+      "sha256": "ab30ae9fad9868b7ae54a1239b4cb670f8f4965fd509f881ef3c1467c1f5ebbc"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/water_B.lua",
+      "repo_path": "paintings/wc1/lua/archive/water_B.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8394,
+      "repo_bytes": 8394,
+      "sha256": "30c8124f0f436f5c9a0f425abc7903e00af4dee39e6f85d545a778d8f7a1641e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/lua/water_setup.lua",
+      "repo_path": "paintings/wc1/lua/archive/water_setup.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3512,
+      "repo_bytes": 3512,
+      "sha256": "81b40a3fe4cb590480dddc0b05a92d2788f8c43d568981898ce36f2b7e684fb3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/sessions/tool-calls.jsonl",
+      "repo_path": "paintings/wc1/sessions/native/tool-calls.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 181187,
+      "repo_bytes": 176971,
+      "sha256": "1562379959b9bbf60356fe26ec161167ab9c62e9e581e3f7fc58189a004384e3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/sessions/2026-10-12T12-19-09-126Z_01a1300d-6ec5-70fa-8bb7-77834f8be861.jsonl",
+      "repo_path": "paintings/wc1/sessions/pi/2026-10-12T12-19-09-126Z_01a1300d-6ec5-70fa-8bb7-77834f8be861.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 37937044,
+      "repo_bytes": 945291,
+      "sha256": "957b3ed5299d292ff1ad434f5af44983b805afb4d0bc9b04a442b930a6ae7420"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/wc1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 233272,
+      "repo_bytes": 228878,
+      "sha256": "be96c3e324a67efa89b8b2b5e503191ffac318d04073d5328d7f469e0756f846"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/sessions/events - version 03.json",
+      "repo_path": "paintings/wc1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 233237,
+      "repo_bytes": 228878,
+      "sha256": "be96c3e324a67efa89b8b2b5e503191ffac318d04073d5328d7f469e0756f846"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/wc1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12975,
+      "repo_bytes": 9213,
+      "sha256": "bc44095ac86ca9ff7953b70604843c3db82e2ebe6f07e82a88329086524c6213"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r03-free.mp4",
+      "repo_path": "paintings/wc1/video/r03-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 551764,
+      "repo_bytes": 551764,
+      "sha256": "a69579faf1172fbd623154e106b4d9714b62a1eed45581470e0e33f6e6206fb3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r03-green.mp4",
+      "repo_path": "paintings/wc1/video/r03-green.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 506694,
+      "repo_bytes": 506694,
+      "sha256": "6f807ae5d93a30ea371017441cc2b9d32043b0ae245e30ce119769eac210b4fe"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r03-near.mp4",
+      "repo_path": "paintings/wc1/video/r03-near.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1052343,
+      "repo_bytes": 1052343,
+      "sha256": "1fd1bcebabd7385e4298410c82344ea029b4010e744cf7510d0bb2c855c52615"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r04-free.mp4",
+      "repo_path": "paintings/wc1/video/r04-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 396977,
+      "repo_bytes": 396977,
+      "sha256": "ed3b2b099ef3e6f6567ee17f9ad06d0b52ae9cebed368e938d5e1b68c36e805d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r04-green.mp4",
+      "repo_path": "paintings/wc1/video/r04-green.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 680821,
+      "repo_bytes": 680821,
+      "sha256": "352e0d43587b16a77780349981dd7a6b7751d7ab518682b7c38d27cd7c26dba3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r04-near.mp4",
+      "repo_path": "paintings/wc1/video/r04-near.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 641487,
+      "repo_bytes": 641487,
+      "sha256": "c16ee4c019bdbf2f92330a9e071f99365ed2e37b7105acfd460f6fb068ff695e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r07-1.mp4",
+      "repo_path": "paintings/wc1/video/r07-1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 592384,
+      "repo_bytes": 592384,
+      "sha256": "17e094f7c3d52eb178bc6108d6957d95452036923280fa6b9aa81801d99ef4a4"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r07-3.mp4",
+      "repo_path": "paintings/wc1/video/r07-3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 499440,
+      "repo_bytes": 499440,
+      "sha256": "e834e24190374c2400c5bdafa0bc5f0d1615f7f9138681aa0fea708381f545af"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r08-1.mp4",
+      "repo_path": "paintings/wc1/video/r08-1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 392785,
+      "repo_bytes": 392785,
+      "sha256": "354c58e38d357dad89c6eae67f3f78cba0642161494d6bde36ede223099ab279"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r08-3.mp4",
+      "repo_path": "paintings/wc1/video/r08-3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 444078,
+      "repo_bytes": 444078,
+      "sha256": "d02b99dfcb41fde9a077a600798cbebb9b0f43d4e4e119faac68add73c1c75fb"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r09-1.mp4",
+      "repo_path": "paintings/wc1/video/r09-1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 653236,
+      "repo_bytes": 653236,
+      "sha256": "02b4ccf7bb8e569dc1bb779e7854228da172ab369419e5f3cd4f3bbddc9b2abb"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r09-3.mp4",
+      "repo_path": "paintings/wc1/video/r09-3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 343440,
+      "repo_bytes": 343440,
+      "sha256": "e3a3ce13e31d959e9e9b1ed63ac6f28ee7721e33dd23412d5d1859f5da97c5c5"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r10-1-1920.mp4",
+      "repo_path": "paintings/wc1/video/r10-1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1408808,
+      "repo_bytes": 1408808,
+      "sha256": "7d3afb9ec0af4e31639b59b51c1230b0e7d921ce134cb9f211e654d3aeff4988"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r10-1-720.mp4",
+      "repo_path": "paintings/wc1/video/r10-1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 306405,
+      "repo_bytes": 306405,
+      "sha256": "0d37f469bcba6978dfa88834a2e2ac8cfcfc71cc4500b2d7fe5ae1f9986dc3b0"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r10-2-1920.mp4",
+      "repo_path": "paintings/wc1/video/r10-2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1384218,
+      "repo_bytes": 1384218,
+      "sha256": "0b70a5e12ffd7e98f28ff224968a2d7ea17151ab0df3b7e07e3076be381ca746"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r10-2-720.mp4",
+      "repo_path": "paintings/wc1/video/r10-2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 280019,
+      "repo_bytes": 280019,
+      "sha256": "d1f6fa7a0cf73851cf06cf2485d9c9dd7294b467f994811644112ab309d52a65"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r10-3-1920.mp4",
+      "repo_path": "paintings/wc1/video/r10-3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1666777,
+      "repo_bytes": 1666777,
+      "sha256": "377d62e36e5bc6a52acbc944097de14b8f0c1f4456ee8640ad7d29dce4c84fc3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r10-3-720.mp4",
+      "repo_path": "paintings/wc1/video/r10-3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 356995,
+      "repo_bytes": 356995,
+      "sha256": "02f327911676c461f5d33e5785a83036bf3f48d4eda882c755e59ac4bf12b4b6"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a1-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-a1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2086686,
+      "repo_bytes": 2086686,
+      "sha256": "464ac6d7f6f155888137486337cf0229964eda844354f893aa9a02ec80b421e0"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a1-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-a1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 439025,
+      "repo_bytes": 439025,
+      "sha256": "c3299a44ea37533306efe54fcf24fec3d6c14e7241ccadc5fc63305ff6930244"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a1.mp4",
+      "repo_path": "paintings/wc1/video/r16-a1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 723716,
+      "repo_bytes": 723716,
+      "sha256": "01ee4399daa136e2754a8316ebfde3a72c3a4bff2f49271b98329407141a7b08"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a2-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-a2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1514807,
+      "repo_bytes": 1514807,
+      "sha256": "90fead8e133c3636431e39eaa26f535218052babd491a96f4af49ffaeb5f6318"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a2-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-a2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 293690,
+      "repo_bytes": 293690,
+      "sha256": "138817cdda8e1fdcfd96818ab765410f80007a11fab22a853059dc91ef285bf3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a2.mp4",
+      "repo_path": "paintings/wc1/video/r16-a2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 502520,
+      "repo_bytes": 502520,
+      "sha256": "ef2066b989f3a5c807026dc0b134365ff29f428d3c266df429fad690e8086f03"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a3-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-a3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2492624,
+      "repo_bytes": 2492624,
+      "sha256": "42ba9094ef4ab608b7fb4fbe37f37835aee465e233c0400c718adf8102474539"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a3-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-a3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 441961,
+      "repo_bytes": 441961,
+      "sha256": "05ffe74ead674848236cf817cfa0e6a943d3806ad115b37a5b0c71217eb6217f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-a3.mp4",
+      "repo_path": "paintings/wc1/video/r16-a3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 762654,
+      "repo_bytes": 762654,
+      "sha256": "b5c2d41917f2e591c32b17df31bf6f7f079ab64d006866aee3f6a46387ca1255"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b1-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-b1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1850093,
+      "repo_bytes": 1850093,
+      "sha256": "a81052892cbde0063581506abb24c5fa742479b360b79042c78c9b572656af25"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b1-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-b1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 390043,
+      "repo_bytes": 390043,
+      "sha256": "f6726560bf3f87f8dbe515d0872edd57ba02d207a1612e970e9c09931fb01678"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b1.mp4",
+      "repo_path": "paintings/wc1/video/r16-b1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 644227,
+      "repo_bytes": 644227,
+      "sha256": "9796cecf550da7f7f09b3f3482b7dd4237ef830c9655c8e85f17d0e460c349ce"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b2-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-b2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2209213,
+      "repo_bytes": 2209213,
+      "sha256": "e27b9acca349c1aef57ae8757b190ff105f2ec53cc99a5e268db5c9297f77914"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b2-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-b2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 365679,
+      "repo_bytes": 365679,
+      "sha256": "175284813f7bf97dce8fd826c87637dcf6dc47e02b712c04b8249774ba1bc9f1"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b2.mp4",
+      "repo_path": "paintings/wc1/video/r16-b2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 653182,
+      "repo_bytes": 653182,
+      "sha256": "669c452f6e30b70a504733ecfca40e3433e8b46b538174e7138448e60201d274"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b3-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-b3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1523151,
+      "repo_bytes": 1523151,
+      "sha256": "371f91cd418924880d2f56100d73891d5b64841f9e4ff6c34319a1797cf12166"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b3-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-b3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 291767,
+      "repo_bytes": 291767,
+      "sha256": "f06caaba08ecf718fc4ac5a5cb15d41255c17fa22787b4ea655e3d6ee97fee38"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-b3.mp4",
+      "repo_path": "paintings/wc1/video/r16-b3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 499543,
+      "repo_bytes": 499543,
+      "sha256": "a4a6074df5a034951c1f0cfd8b66435fc938cb490fa48fa90d9f11201c7daf50"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c1-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-c1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2103525,
+      "repo_bytes": 2103525,
+      "sha256": "3f3cc4556aba4f667dad255d9c301e3a3f4eb1c3d2c8797376dd8cc8457458db"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c1-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-c1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 406606,
+      "repo_bytes": 406606,
+      "sha256": "0d47edb820472f27659481397c5da48efdce04f3b5752da4794c53dec5b37ca7"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c1.mp4",
+      "repo_path": "paintings/wc1/video/r16-c1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 679812,
+      "repo_bytes": 679812,
+      "sha256": "986b35d7b930cf73803492a3a1b8dd33c49557961424be70149ac8fdc2210467"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c2-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-c2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1363829,
+      "repo_bytes": 1363829,
+      "sha256": "6ad53bb3b7a43f125d2ca276a9609f58f2abfcc5bf66cdcd39cb5b47e8b7883a"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c2-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-c2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 305951,
+      "repo_bytes": 305951,
+      "sha256": "af205b9ce926dad5a3802d0194e3d40673d0ba30e9347bfd70c1fc01b7d43934"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c2.mp4",
+      "repo_path": "paintings/wc1/video/r16-c2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 491644,
+      "repo_bytes": 491644,
+      "sha256": "651296432fb904d825bec7b240cdc4062b67f8eac9a23494c7dd4bc99b17b34b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c3-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-c3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1926629,
+      "repo_bytes": 1926629,
+      "sha256": "a8aa38496e709e100d53fcc2218dfa4a00181f1f70bf90d71aa7206d84c82dec"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c3-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-c3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 399151,
+      "repo_bytes": 399151,
+      "sha256": "cf8d346e8ea05da72fa3e8c7949dbfa4dc171e4f553ad005d39d6b7bec52876d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-c3.mp4",
+      "repo_path": "paintings/wc1/video/r16-c3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 675141,
+      "repo_bytes": 675141,
+      "sha256": "81572e190683557918095e90544ffcd5b345ab1f2aa6f708c905df9cdfe406f7"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-d2-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-d2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1636085,
+      "repo_bytes": 1636085,
+      "sha256": "7d5c41636b71c313b5d795376a6527fa62400d5662f29b4d566847b73aa83f68"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-d2-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-d2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 300280,
+      "repo_bytes": 300280,
+      "sha256": "89d450146e8ff4ac113134cf6923d7ecb446a9d1a75ca93109a93590d19c912e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-d2.mp4",
+      "repo_path": "paintings/wc1/video/r16-d2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 519330,
+      "repo_bytes": 519330,
+      "sha256": "b14dd035e4a5fd7baa3c70b2ed799f8d819119ed24b5ab4fa8ece1bf1324318b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-d3-1920.mp4",
+      "repo_path": "paintings/wc1/video/r16-d3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1343761,
+      "repo_bytes": 1343761,
+      "sha256": "5a49029dc2d7f24d6f742b555929143397424c2befd54e1f55a636f3554e4ddb"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-d3-720.mp4",
+      "repo_path": "paintings/wc1/video/r16-d3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 265762,
+      "repo_bytes": 265762,
+      "sha256": "07a6b1320d89da8376b5197679d1c10d96b66b930e1c98866a132abfb7db3855"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r16-d3.mp4",
+      "repo_path": "paintings/wc1/video/r16-d3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 446820,
+      "repo_bytes": 446820,
+      "sha256": "dec640655ec02fd174cdb7d83e4f8105ff314da60c4e81c15e6fd69add3c91eb"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f1-1920.mp4",
+      "repo_path": "paintings/wc1/video/r17-f1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2723454,
+      "repo_bytes": 2723454,
+      "sha256": "78ab8a933f7f2e193e9d530aac9c17113dc925fcd2ab27146ea5995dcaba3816"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f1-720.mp4",
+      "repo_path": "paintings/wc1/video/r17-f1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 529172,
+      "repo_bytes": 529172,
+      "sha256": "56ed776883c8cbc53305a4cbeb1668ee247e296ab447b8537a24455434af136b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f1.mp4",
+      "repo_path": "paintings/wc1/video/r17-f1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 902974,
+      "repo_bytes": 902974,
+      "sha256": "e045e2ddadf130b5238eab238bb7bcaa8d10fc5920996821a33fd0f9d084938e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f2-1920.mp4",
+      "repo_path": "paintings/wc1/video/r17-f2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2112807,
+      "repo_bytes": 2112807,
+      "sha256": "4c499ae6d0a596ad72670e7708046084c54ecfb4ebf14caa29230c2ccceb254c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f2-720.mp4",
+      "repo_path": "paintings/wc1/video/r17-f2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 410194,
+      "repo_bytes": 410194,
+      "sha256": "f12bc318fb00588ca44ed8dc235e72c391724c0b70d5dbdcbd9ddb6a85324f46"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f2.mp4",
+      "repo_path": "paintings/wc1/video/r17-f2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 710520,
+      "repo_bytes": 710520,
+      "sha256": "238e8fcfd270c7fe9ea4fccb670f4478b2f323c013e5ea4c334fd636dbecf75b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f3-1920.mp4",
+      "repo_path": "paintings/wc1/video/r17-f3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2759713,
+      "repo_bytes": 2759713,
+      "sha256": "920da4c713656f1183886a9d0e78ecd754efcbb9dc0335707d4679702a73065a"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f3-720.mp4",
+      "repo_path": "paintings/wc1/video/r17-f3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 460768,
+      "repo_bytes": 460768,
+      "sha256": "b6358c2dc59a9477e227ee6b1363a1f672015ba4619fafc7c849ec97f0c0a6df"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-f3.mp4",
+      "repo_path": "paintings/wc1/video/r17-f3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 823666,
+      "repo_bytes": 823666,
+      "sha256": "88e6071a7234c7cfe8c35e8aaf9e80038af053cee3f4059913db260b28773f5a"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o1-1920.mp4",
+      "repo_path": "paintings/wc1/video/r17-o1-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1249766,
+      "repo_bytes": 1249766,
+      "sha256": "77ceb902bf18cc47694eb7772c3e6f68a2626cd211d50d39b6bcddb641e1bfba"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o1-720.mp4",
+      "repo_path": "paintings/wc1/video/r17-o1-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 265376,
+      "repo_bytes": 265376,
+      "sha256": "3edf4a1bf1d1f1de8d245610acfdd3b8b75288920a96f9a30cb05cbe0012d0a1"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o1.mp4",
+      "repo_path": "paintings/wc1/video/r17-o1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 437594,
+      "repo_bytes": 437594,
+      "sha256": "5bea5e856575637bad8c04873fe84a0e2800f0d0e8d37f96bf145caed07e8b2f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o2-1920.mp4",
+      "repo_path": "paintings/wc1/video/r17-o2-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 955842,
+      "repo_bytes": 955842,
+      "sha256": "eb1e89abce790f50ef809625d690a2eeb163349746efe733cb85567a6d22e609"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o2-720.mp4",
+      "repo_path": "paintings/wc1/video/r17-o2-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 209907,
+      "repo_bytes": 209907,
+      "sha256": "0807e86b8ed163ce21634ea11f6811015f26399e7cc550a129185201d050f697"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o2.mp4",
+      "repo_path": "paintings/wc1/video/r17-o2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 337639,
+      "repo_bytes": 337639,
+      "sha256": "656cd2e61d900aa3c02dc9e396902a4cb54b457b07c4067495b3c2c5923924e2"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o3-1920.mp4",
+      "repo_path": "paintings/wc1/video/r17-o3-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1157723,
+      "repo_bytes": 1157723,
+      "sha256": "cb8214bba522b7177e40a2e47ded93f52bdb2f19abdaa23f90924ff36e1328c0"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o3-720.mp4",
+      "repo_path": "paintings/wc1/video/r17-o3-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 285366,
+      "repo_bytes": 285366,
+      "sha256": "0fae4e3c71c4732519175ddfe753db87e6e045f20d4d23857d82a62d3cb039c4"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r17-o3.mp4",
+      "repo_path": "paintings/wc1/video/r17-o3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 442027,
+      "repo_bytes": 442027,
+      "sha256": "6d7e3c8ddc67191f7731f1ec71b3ca4e81c59e5dd2d5425dcf1af38c8351a60a"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-bun-1920.mp4",
+      "repo_path": "paintings/wc1/video/r18-bun-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3837060,
+      "repo_bytes": 3837060,
+      "sha256": "c612f9ee97a2fdebfd4a91986a073b64a18fbabf1f129c3d265c3f300ea9c1a5"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-bun-720.mp4",
+      "repo_path": "paintings/wc1/video/r18-bun-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 895595,
+      "repo_bytes": 895595,
+      "sha256": "fd290f51a2e7da83e772396cd8063bd8bbe7c9f1a0db318f0c40331bd853cd33"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-dsk-1920.mp4",
+      "repo_path": "paintings/wc1/video/r18-dsk-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2243553,
+      "repo_bytes": 2243553,
+      "sha256": "66d160e2615e10e63f0a370366305baeafb693a118f13aab4f1b0dd2438eaf2d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-dsk-720.mp4",
+      "repo_path": "paintings/wc1/video/r18-dsk-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 544736,
+      "repo_bytes": 544736,
+      "sha256": "1ff983146872d808fa62d241ef701dce424d00923f04c7af6e682da1341263bc"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-dsk.mp4",
+      "repo_path": "paintings/wc1/video/r18-dsk.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 855604,
+      "repo_bytes": 855604,
+      "sha256": "e70405c164c34a9f9265daa09a9cb3cceae08ee781b8465d7f1ae7f7e686a391"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-gem-1920.mp4",
+      "repo_path": "paintings/wc1/video/r18-gem-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1898294,
+      "repo_bytes": 1898294,
+      "sha256": "0d218f074328e62725e6f5ae0abcaa9b1523cfd476869aaeaf48ea8f85e0548e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-gem-720.mp4",
+      "repo_path": "paintings/wc1/video/r18-gem-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 389756,
+      "repo_bytes": 389756,
+      "sha256": "25aa16c47522c6e6d2c674ead5bf28463b8e77ce121daa7604f10956832e362d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-gem.mp4",
+      "repo_path": "paintings/wc1/video/r18-gem.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 623221,
+      "repo_bytes": 623221,
+      "sha256": "0eeb0bdb3b797611bedb708a74884fe72fc143f5a0d04a207ec8e0e60d19106a"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-glm-1920.mp4",
+      "repo_path": "paintings/wc1/video/r18-glm-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4376297,
+      "repo_bytes": 4376297,
+      "sha256": "8e1e41ba4b0e317cab25c7e625d1854a3718a4b7097792641be76fc16b8aaf06"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-glm-720.mp4",
+      "repo_path": "paintings/wc1/video/r18-glm-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 849784,
+      "repo_bytes": 849784,
+      "sha256": "0c7a27fc3254c6c2af930d07180b1e341ce5a3c2f884da33d667d3c2228aee5b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-glm.mp4",
+      "repo_path": "paintings/wc1/video/r18-glm.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2127984,
+      "repo_bytes": 2127984,
+      "sha256": "3c76a827378c515bce8e2ab0d4c893a4a240a28343bfdbacba2567bab4b29300"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-mimo-1920.mp4",
+      "repo_path": "paintings/wc1/video/r18-mimo-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2617453,
+      "repo_bytes": 2617453,
+      "sha256": "9dc8bf5daedfc7933831a0cdd1ac138ede7bc4758ca3e03f438bc4a2b55a394f"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-mimo-720.mp4",
+      "repo_path": "paintings/wc1/video/r18-mimo-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 652265,
+      "repo_bytes": 652265,
+      "sha256": "f2fb299a1c5f651015319c5d40e31c5e4dfbf7d6e481b024d0ecb9e8132b46b3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-mimo.mp4",
+      "repo_path": "paintings/wc1/video/r18-mimo.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 997434,
+      "repo_bytes": 997434,
+      "sha256": "68ee2f22e539e86cc56cb39d9c5fe42f7ac7ae05615d581b8ddacd4fb437feee"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-muse-1920.mp4",
+      "repo_path": "paintings/wc1/video/r18-muse-1920.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1465280,
+      "repo_bytes": 1465280,
+      "sha256": "6411ad913a5e923cd3940e13b7049e473ae35d06a14b1c90ffcbc5b077ed65ab"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-muse-720.mp4",
+      "repo_path": "paintings/wc1/video/r18-muse-720.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 380094,
+      "repo_bytes": 380094,
+      "sha256": "1919cb78489e6e87bae544f7a5fabc3b6c223377097352fcd0fb1f7db9d4065b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r18-muse.mp4",
+      "repo_path": "paintings/wc1/video/r18-muse.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 581063,
+      "repo_bytes": 581063,
+      "sha256": "6ecac936c322afe3cca46254b5e89ab77b19ab1198dbf0c468ab5ba87091ce09"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r22.1-inns-substitute-f334aef.mp4",
+      "repo_path": "paintings/wc1/video/r22.1-inns-substitute-f334aef.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2880752,
+      "repo_bytes": 2880752,
+      "sha256": "006632b23900f200af0743b46018d9e51bf37d9ca46914b357abe137b532a9e6"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r24-inns.mp4",
+      "repo_path": "paintings/wc1/video/r24-inns.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3634036,
+      "repo_bytes": 3634036,
+      "sha256": "367b343b918f144dea6a0f7917b5b86ed0100032af0e3a5717799e6c432a7255"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r25-frdc.mp4",
+      "repo_path": "paintings/wc1/video/r25-frdc.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2312423,
+      "repo_bytes": 2312423,
+      "sha256": "d30ef79b094421b9dd8bc89926d525564dccd3b507140a3ac090994342416dfa"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r26-mont.mp4",
+      "repo_path": "paintings/wc1/video/r26-mont.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5908775,
+      "repo_bytes": 5908775,
+      "sha256": "5ccf787148fb0cf2b6e38f187e06c2fce439dee788aec8e71ab8c8ba908d8693"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r27-hopr.mp4",
+      "repo_path": "paintings/wc1/video/r27-hopr.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1314333,
+      "repo_bytes": 1314333,
+      "sha256": "83e7e5c8bf0573478071206b6661ca5ede28d6648cd727d8d0f19e2369bc03b3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r29-mont-endfirst.mp4",
+      "repo_path": "paintings/wc1/video/r29-mont-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6787603,
+      "repo_bytes": 6787603,
+      "sha256": "a9a02f769527b993b09cf51618fa44c4f10c9f8ebfea888ab241be0bef7cc1e2"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r29-mont-plain-endfirst.mp4",
+      "repo_path": "paintings/wc1/video/r29-mont-plain-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6472714,
+      "repo_bytes": 6472714,
+      "sha256": "6e3ac5135de80753a83d5aa2a7f30229036babfddb43b4db38e6d8564e8c1995"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r29-mont-plain.mp4",
+      "repo_path": "paintings/wc1/video/r29-mont-plain.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4217628,
+      "repo_bytes": 4217628,
+      "sha256": "61acd39d4f31951da09c075908f476abf0b94d65f965299232dc264ac6ac844e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r29-mont.mp4",
+      "repo_path": "paintings/wc1/video/r29-mont.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4402679,
+      "repo_bytes": 4402679,
+      "sha256": "49aca5f169aff3bfa713d63dd7d096a2a0b7e298c023fc98d96fae83d02324f3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r30-hopr-endfirst.mp4",
+      "repo_path": "paintings/wc1/video/r30-hopr-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2271783,
+      "repo_bytes": 2271783,
+      "sha256": "d8149320e5b3f42af3a360d076aa28c95c90d01ce409175f9ab836ab3afabcd4"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r30-hopr-plain-endfirst.mp4",
+      "repo_path": "paintings/wc1/video/r30-hopr-plain-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1696833,
+      "repo_bytes": 1696833,
+      "sha256": "4a4119700214c6cdb4feb1a8b804eacea8e5a28ac0f029c3cbb73a35410fec78"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r30-hopr-plain.mp4",
+      "repo_path": "paintings/wc1/video/r30-hopr-plain.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1096345,
+      "repo_bytes": 1096345,
+      "sha256": "42ba08f025f746dc4c91629e3a9c3a62112f3bcc116e54b5ec1f9967e6be3441"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r30-hopr.mp4",
+      "repo_path": "paintings/wc1/video/r30-hopr.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1383002,
+      "repo_bytes": 1383002,
+      "sha256": "c8c42cbf15347161d9ee8f1449524ea238a5dd29c1e2d5596ef3b2ae0a7bac20"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r31-smoke-plain-endfirst.mp4",
+      "repo_path": "paintings/wc1/video/r31-smoke-plain-endfirst.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3853543,
+      "repo_bytes": 3853543,
+      "sha256": "8805bc5ebae4357d16cd149bbeb24db076c355e2e2208480a63c4c983eb8a949"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/r31-smoke-plain.mp4",
+      "repo_path": "paintings/wc1/video/r31-smoke-plain.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2375053,
+      "repo_bytes": 2375053,
+      "sha256": "7c9819ab55ad19affe4f725a686a2b675954b4f6285fc8fc7d012dd2ccf54122"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 02.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 819258,
+      "repo_bytes": 819258,
+      "sha256": "fe3deed16af9aca8dfc71ac6e7b52477fea1d075b21e8b7ae9631993c37a2a31"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 03.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1579154,
+      "repo_bytes": 1579154,
+      "sha256": "11e32fb22fdbbac9e246fe72cda3ae3357daaa2c5e1c250ccc65a9c2e0a13228"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 04.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1559973,
+      "repo_bytes": 1559973,
+      "sha256": "0fa8bf205faab8d4a727853e5e2a6a82d52a2406cb9df6e9c62dfcc02b878704"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 05.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 674990,
+      "repo_bytes": 674990,
+      "sha256": "d6d9d550f220545a7dab57f3f890653e300fe88c5047aaa0cf6d961c2a21ebaa"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 06.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 06.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 566867,
+      "repo_bytes": 566867,
+      "sha256": "e0363d329147170fd3d5235de6540b1035d80605b886adf7c927352480dffbce"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 07.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 07.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3148777,
+      "repo_bytes": 3148777,
+      "sha256": "171b65d9b646fac90c482ae62ee11a24e959de3a007e44e3e8fd3f97235ba413"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 08.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 08.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 624269,
+      "repo_bytes": 624269,
+      "sha256": "9ee1563b1ca26e7abf8c88d8b8186579b27ab9ffdd621d9d8ecc38dc5bcc0911"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 09.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 09.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1800608,
+      "repo_bytes": 1800608,
+      "sha256": "f6c90f72117794a6d436828e6295196205a866bf0fea41ca84fb808b74111b62"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 10.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 10.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1611859,
+      "repo_bytes": 1611859,
+      "sha256": "66bb9b08a3b62e62c9a404fdad5a80f63a07df04c1d8e4a0c0129407f32897d3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 11.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 11.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 759882,
+      "repo_bytes": 759882,
+      "sha256": "19ee2898a95e5ba0fd781ec733639d4382ffb6f6416bee79482a72cadb4bb979"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 12.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 12.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4003495,
+      "repo_bytes": 4003495,
+      "sha256": "8e0fc504e72189efcfd81692677f5c3ddbbe934837487cf108fec666ad11af62"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 13.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 13.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 777880,
+      "repo_bytes": 777880,
+      "sha256": "528b87233a8824ca6e8e773913ce43c7fb93b6142326f9989019e9e58ebc94eb"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 14.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 14.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1746341,
+      "repo_bytes": 1746341,
+      "sha256": "c0ffca2cb4139199335f4e54aad7b57cb57d693c0b2f3a329870df5a9a57d8e6"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 15.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 15.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2118392,
+      "repo_bytes": 2118392,
+      "sha256": "4b208993e197ec239afdcc2029477233cfa64767b0234bfe69d787ee5d1c34a7"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 16.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 16.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1282853,
+      "repo_bytes": 1282853,
+      "sha256": "0609ebc5168e93b49e561c490be3fa37466dfeea14a403122e5248ac25fdcec5"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 17.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 17.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1406998,
+      "repo_bytes": 1406998,
+      "sha256": "ac2d7246d22c886b3b8ead4cb60cc0077e2ba27013deb5d33b66651c68b6216d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 18.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 18.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1203911,
+      "repo_bytes": 1203911,
+      "sha256": "4968e8f76cc8029127b29c3ab2a43935f78a6d8c3d79c58cd830d031daddc98c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 19.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 19.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 638451,
+      "repo_bytes": 638451,
+      "sha256": "8cfe14a113e32c74e999c751f9838e9f3c4fb9d597cf1c9c023f982e5baf9fb8"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 20.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 20.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1927266,
+      "repo_bytes": 1927266,
+      "sha256": "022e9566c2bcbadc2b4894272b806cb04dfbdab236137be7f0b95a54d1e75bdf"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 21.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 21.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 861860,
+      "repo_bytes": 861860,
+      "sha256": "743037dd0f635c901326ef1d686d77afd9cce08029a47fe635ac8b9b8685fbff"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 22.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 22.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3934163,
+      "repo_bytes": 3934163,
+      "sha256": "adebfa92d7d37dac348fc74a21c53e1f3c3e7853222f1a551a1dc2073acf140a"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 23.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 23.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3145319,
+      "repo_bytes": 3145319,
+      "sha256": "a90911629ec70d3e622511d94cb74138ed3a51d33376c946f5498bd64abeb79c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 24.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 24.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 407334,
+      "repo_bytes": 407334,
+      "sha256": "c43a6a2fbc124f7a21490e7e15950c1c418da7a6ddf0af36db13295891e69736"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 25.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 25.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1878446,
+      "repo_bytes": 1878446,
+      "sha256": "8cc7c95632d03552d10f2d1a47f1eb7bbcc701aac1a45f6e762dba0a97b07e74"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 26.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 26.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 465528,
+      "repo_bytes": 465528,
+      "sha256": "c83a113f21a2696f333e4055651c14d2b9f27712964069631893e662ad7a8143"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 27.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 27.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 469398,
+      "repo_bytes": 469398,
+      "sha256": "73f9e3f6d3e857caebe8b3aa8818adc4504687c2eda666924ceec81c95e9a1c0"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 28.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 28.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1903091,
+      "repo_bytes": 1903091,
+      "sha256": "84114809b69c9c376f2c0dc158bf7788b4aa8f9730bd72677a272e89da618aac"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 29.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 29.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2890549,
+      "repo_bytes": 2890549,
+      "sha256": "5b7c4923969001c020a6fc8810fd71145e13ae565c2037ddcff67eba58ab727c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 30.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 30.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 541909,
+      "repo_bytes": 541909,
+      "sha256": "240095cc409fdca31116521013a4287dae2e03c78aeac0baa6034834d0a1f53c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 31.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 31.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2673707,
+      "repo_bytes": 2673707,
+      "sha256": "066fee01baaac9d12947bd3cf2ca771b1191a8354101fc46e57acac7cc23348d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 32.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 32.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3521821,
+      "repo_bytes": 3521821,
+      "sha256": "2b8d38c74b287aaea8a62bbef99341fbdf0f784c75ff95f016a6e67b61e3e53d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 33.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 33.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 742842,
+      "repo_bytes": 742842,
+      "sha256": "2581ea3e5d2d72474963d94a96e161b1c11bfbf04007362eb0d15824f61f5573"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 34.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 34.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1871430,
+      "repo_bytes": 1871430,
+      "sha256": "1aad953a9098a156310149b88e36f8e7721925be4f8f970af45a6fcd017347cd"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse - version 35.mp4",
+      "repo_path": "paintings/wc1/video/timelapse - version 35.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2878957,
+      "repo_bytes": 2878957,
+      "sha256": "eeefb29b4cac09de74d9f91ab238073810955636172057264f424af1dcacdfae"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/timelapse.mp4",
+      "repo_path": "paintings/wc1/video/timelapse.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2304426,
+      "repo_bytes": 2304426,
+      "sha256": "ae6c420792f8553106504c64642ed63ce5c1c63b733859ba52efc4e2484e9234"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/wc1 - version 02.mp4",
+      "repo_path": "paintings/wc1/video/wc1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1574092,
+      "repo_bytes": 1574092,
+      "sha256": "698ea71fcfdd0d4163c646c22cbf63da803b086d94de7b8cfb0c8b0b4351d34c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 Low Water, Evening Glow (Claude Opus 5.5)/video/wc1.mp4",
+      "repo_path": "paintings/wc1/video/wc1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1570964,
+      "repo_bytes": 1570964,
+      "sha256": "80d09b44ca3842b5867c2fc06791448ba20aa40c46c775193966835310ce7f34"
+    }
+  ]
+}

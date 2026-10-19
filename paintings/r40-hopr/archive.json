@@ -1,0 +1,231 @@
+{
+  "archive": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)",
+  "identity": "69e532",
+  "files": [
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/finals/r40-hopr - version 02.png",
+      "repo_path": "paintings/r40-hopr/finals/r40-hopr - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4106197,
+      "repo_bytes": 4106197,
+      "sha256": "4a323b70949f606910c022adf73c13606cc3180dff36186efd2cc8350e11d0ba"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/finals/r40-hopr - version 03.png",
+      "repo_path": "paintings/r40-hopr/finals/r40-hopr - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1233951,
+      "repo_bytes": 1233951,
+      "sha256": "3e3d86164b6e25cad882269fb0d1a7ebee8086a52cbf2c360582881b1ec9012e"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/finals/r40-hopr-color.jpg",
+      "repo_path": "paintings/r40-hopr/finals/r40-hopr-color.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 76312,
+      "repo_bytes": 76312,
+      "sha256": "dd79cf7f50fcb0a9f5b9af11481ef6809c81a34923d90ee32b30d132809c3aef"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/finals/r40-hopr-gallery.jpg",
+      "repo_path": "paintings/r40-hopr/finals/r40-hopr-gallery.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 115397,
+      "repo_bytes": 115397,
+      "sha256": "1f9e143996134287e6395d2c9837801c0f4ddd858bf80d1a0069a7e80d7fffcf"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/finals/r40-hopr-relief.jpg",
+      "repo_path": "paintings/r40-hopr/finals/r40-hopr-relief.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 158843,
+      "repo_bytes": 158843,
+      "sha256": "0b65d3c2fa6ccbd88f739d1b879517e6b053405aa7475d624c2bb7bd789f0526"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/finals/r40-hopr.png",
+      "repo_path": "paintings/r40-hopr/finals/r40-hopr.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3477110,
+      "repo_bytes": 3477110,
+      "sha256": "ea4b155bf096e0f15d5d677d90ee3949a1f579f181b57aa3a6efa531d80c5a2d"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/lua/HOPR1_finished.lua",
+      "repo_path": "paintings/r40-hopr/lua/archive/HOPR1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 54340,
+      "repo_bytes": 54340,
+      "sha256": "b0e9d495d02b0ad624bfc288eb24c1249f826b5b19b422cccc3d1288a7cd3277"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/lua/committed.lua",
+      "repo_path": "paintings/r40-hopr/lua/archive/committed.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 38927,
+      "repo_bytes": 38927,
+      "sha256": "a12270c6458673aaa78d3325cbe11fbe5cbe38ebb759d075359f7464d0ec526d"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r40-hopr/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 53922,
+      "repo_bytes": 53922,
+      "sha256": "c7602aca6f4089ca065cac8651e49db81dd42f69efeaa94f6c7d0c7be96a614c"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "paintings/r40-hopr/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3439,
+      "repo_bytes": 3439,
+      "sha256": "5992e2c46faa4eb33edf097dc6f4c611480321ac73c6822ca2fcec198fdec6dc"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "paintings/r40-hopr/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1117,
+      "repo_bytes": 1117,
+      "sha256": "fc73251bb91d3fa3ae2dc73c06c1bf6ff583522c111a0ad5da8e4b3c8a984e13"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "paintings/r40-hopr/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1423,
+      "repo_bytes": 1423,
+      "sha256": "44790b4d16c2443e64f0c0f88fd9e079c2c5f8892764ba6623201c727a7e408b"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "paintings/r40-hopr/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1500,
+      "repo_bytes": 1500,
+      "sha256": "4965c3cbcfa515b131e0ae8378da837cd93065ab5a0e0bc1af2dc925274808f7"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "paintings/r40-hopr/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 328,
+      "repo_bytes": 328,
+      "sha256": "b9c283460dc20ea6acf3b9669ed27b4f9e490394d5de72f6fb1f4ff266e36252"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/2026-10-10T22-39-36-165Z_01a127f8-c0e4-7001-8205-97bcc0da90b3 - version 02.jsonl",
+      "repo_path": "paintings/r40-hopr/sessions/pi/2026-10-10T22-39-36-165Z_01a127f8-c0e4-7001-8205-97bcc0da90b3 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 20117014,
+      "repo_bytes": 939599,
+      "sha256": "f8086f3ff2043790ff96052660f3116250d5f3a7a79e27a3590d312fa171afee"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/2026-10-10T22-39-36-165Z_01a127f8-c0e4-7001-8205-97bcc0da90b3.jsonl",
+      "repo_path": "paintings/r40-hopr/sessions/pi/2026-10-10T22-39-36-165Z_01a127f8-c0e4-7001-8205-97bcc0da90b3.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 951687,
+      "repo_bytes": 671892,
+      "sha256": "31d50249ecf222291054f749efeb8d962b0dd7b4410469c8c3aac38f4f6e32a4"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/2026-10-10T23-37-55-601Z_01a1282e-2690-71de-85ef-05e1517456c6.jsonl",
+      "repo_path": "paintings/r40-hopr/sessions/pi/2026-10-10T23-37-55-601Z_01a1282e-2690-71de-85ef-05e1517456c6.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6125002,
+      "repo_bytes": 286043,
+      "sha256": "629db9a9e904be6eb7c4a4c44a48790b175e7b340a4f693db79fe77c89ff616a"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/2026-10-10T23-43-56-224Z_01a12833-a73d-7161-9b96-af46f122f72c.jsonl",
+      "repo_path": "paintings/r40-hopr/sessions/pi/2026-10-10T23-43-56-224Z_01a12833-a73d-7161-9b96-af46f122f72c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5126877,
+      "repo_bytes": 232859,
+      "sha256": "52f91d85e81e01ea6a89cc32f77375c344f309ea0322565be8569f6d0cfe7540"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/2026-10-10T23-47-05-085Z_01a12836-88fc-7470-a3ff-ea37d971b8ca.jsonl",
+      "repo_path": "paintings/r40-hopr/sessions/pi/2026-10-10T23-47-05-085Z_01a12836-88fc-7470-a3ff-ea37d971b8ca.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2940765,
+      "repo_bytes": 115849,
+      "sha256": "5247a9ea32404a939becc13d78ed93158377c1317d3ac2478c601a1dbed5f348"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r40-hopr/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 300104,
+      "repo_bytes": 285416,
+      "sha256": "8671f47cb0333335f908f41d2f20d8528d249e138c44a57fc928cd2e97b9bdce"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r40-hopr/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 292272,
+      "repo_bytes": 285416,
+      "sha256": "8671f47cb0333335f908f41d2f20d8528d249e138c44a57fc928cd2e97b9bdce"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/packet - version 02.json",
+      "repo_path": "paintings/r40-hopr/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13689,
+      "repo_bytes": 11510,
+      "sha256": "15b5da9b8a73997bc97b14cc9cfbed0f262bd9f3525b0072a4f81f118b7e47c6"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "paintings/r40-hopr/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 14333,
+      "repo_bytes": 12043,
+      "sha256": "0e257e3b32c14a795ff0144e995d1c85ae1c2bc6ac91652aecb12a13848276f6"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/video/r40-hopr - version 02.mp4",
+      "repo_path": "paintings/r40-hopr/video/r40-hopr - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1697384,
+      "repo_bytes": 1697384,
+      "sha256": "049f3e485ff32ed30453af86b587b13b7142fe1ca745f11687ab10b7f632893e"
+    },
+    {
+      "archive_path": "2026-10-11 r40 Cleaners, Late (Claude Opus 5.5)/video/r40-hopr.mp4",
+      "repo_path": "paintings/r40-hopr/video/r40-hopr.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1700512,
+      "repo_bytes": 1700512,
+      "sha256": "9e62923028f6e0c082502f122cdb20affb8f3ae7365d8204031fec7428151e61"
+    }
+  ]
+}
