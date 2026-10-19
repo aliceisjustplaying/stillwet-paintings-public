@@ -1,0 +1,96 @@
+{
+  "archive": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)",
+  "identity": "482665",
+  "files": [
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/finals/final.png",
+      "repo_path": "paintings/r21.2-sonf1/finals/final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3096180,
+      "repo_bytes": 3096180,
+      "sha256": "e4b246350b5ba6b00788963d78963faf2e6ae84df603e2bfea6cdeafe7bf110d"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/finals/r21.2-sonf1 - version 02.png",
+      "repo_path": "paintings/r21.2-sonf1/finals/r21.2-sonf1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4052512,
+      "repo_bytes": 4052512,
+      "sha256": "c371e09cb31ccae7869f210192c7cc8e13895f8042f304b37dce55c61cf5a263"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/finals/r21.2-sonf1 - version 03.png",
+      "repo_path": "paintings/r21.2-sonf1/finals/r21.2-sonf1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6229429,
+      "repo_bytes": 6229429,
+      "sha256": "a3caa35627d3ba0fb2fe9fc7406e8381fecff62e77fd7b66c07c0d5c2f5a8f33"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/finals/r21.2-sonf1.png",
+      "repo_path": "paintings/r21.2-sonf1/finals/r21.2-sonf1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 8212970,
+      "repo_bytes": 8212970,
+      "sha256": "3d92c4d1441abf4aa60d37d2ca35b6b0bc7acb589548f0bf5340054b16e8d4ce"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/lua/painting.lua",
+      "repo_path": "paintings/r21.2-sonf1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3235,
+      "repo_bytes": 3235,
+      "sha256": "597d032a5220587b21fb11de11068225a69844f6ce83bcdf41e209e205449c4a"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/lua/r21.2-sonf1.lua",
+      "repo_path": "paintings/r21.2-sonf1/lua/archive/r21.2-sonf1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3654,
+      "repo_bytes": 3654,
+      "sha256": "fb3ed5725cffc96927281f3b3cc2896ebbbb0073d4afb8eb408fbbae1fe6015c"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/sessions/2026-10-01T23-16-56-569Z_01a0f9c1-b478-70ff-a5f2-792b534427c5.jsonl",
+      "repo_path": "paintings/r21.2-sonf1/sessions/pi/2026-10-01T23-16-56-569Z_01a0f9c1-b478-70ff-a5f2-792b534427c5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1492048,
+      "repo_bytes": 149484,
+      "sha256": "bf1ab616d43d025e35a632c80912c3cc017c1ea42299407c5a1e0ae5ce6e4e70"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r21.2-sonf1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 59352,
+      "repo_bytes": 58699,
+      "sha256": "fb10c63ecbc473ca676eff9499006b4dc6d25b927614c483a318483cc220160a"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/sessions/events.json",
+      "repo_path": "paintings/r21.2-sonf1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 59475,
+      "repo_bytes": 58699,
+      "sha256": "fb10c63ecbc473ca676eff9499006b4dc6d25b927614c483a318483cc220160a"
+    },
+    {
+      "archive_path": "2026-10-01 r21.2 untitled (Claude Sonnet 5.5)/video/r21.2-sonf1.mp4",
+      "repo_path": "paintings/r21.2-sonf1/video/r21.2-sonf1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2091529,
+      "repo_bytes": 2091529,
+      "sha256": "b87bfec27149498136bfb857a861d051c3c00c0ea9b079ea2d125caf68d2314a"
+    }
+  ]
+}

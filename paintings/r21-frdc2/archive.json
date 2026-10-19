@@ -1,0 +1,63 @@
+{
+  "archive": "2026-10-02 r21 Evening on the Upland Lake (Space Bunny Free)",
+  "identity": "f99282",
+  "files": [
+    {
+      "archive_path": "2026-10-02 r21 Evening on the Upland Lake (Space Bunny Free)/finals/final.png",
+      "repo_path": "paintings/r21-frdc2/finals/final.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3215079,
+      "repo_bytes": 3215079,
+      "sha256": "25fa60e38b8c5e1601053031296adccb9a277072d8d47a7223706b30840e2b55"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Evening on the Upland Lake (Space Bunny Free)/finals/r21-frdc2 - version 02.png",
+      "repo_path": "paintings/r21-frdc2/finals/r21-frdc2 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7559567,
+      "repo_bytes": 7559567,
+      "sha256": "fdce8aa8bde8a4eb4fe49592ec929e09b78ab1cf3fd3f1c84f5b44bf9167e621"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Evening on the Upland Lake (Space Bunny Free)/finals/r21-frdc2 - version 03.png",
+      "repo_path": "paintings/r21-frdc2/finals/r21-frdc2 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9392899,
+      "repo_bytes": 9392899,
+      "sha256": "decfefbd70eb4b79f0cda7ad4fc74edb871329fdcf1af32b4c3bf302932dcdfb"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Evening on the Upland Lake (Space Bunny Free)/finals/r21-frdc2.png",
+      "repo_path": "paintings/r21-frdc2/finals/r21-frdc2.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4271017,
+      "repo_bytes": 4271017,
+      "sha256": "fcb0802d34cf09bb125cb42b2705530d99af844501597af99d3bdcc88960b1ac"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Evening on the Upland Lake (Space Bunny Free)/lua/painting.lua",
+      "repo_path": "paintings/r21-frdc2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 247526,
+      "repo_bytes": 247526,
+      "sha256": "c30b31add579e2f425478dbc35ab26abae48fc275507663e5d89878531739ffc"
+    },
+    {
+      "archive_path": "2026-10-02 r21 Evening on the Upland Lake (Space Bunny Free)/video/r21-frdc2.mp4",
+      "repo_path": "paintings/r21-frdc2/video/r21-frdc2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 7133090,
+      "repo_bytes": 7133090,
+      "sha256": "1d6deed008e43d77da9a7a82da62a379516ee93e1d65f74fa4c44a45c9080c1e"
+    }
+  ],
+  "exclusions": [
+    "Session logs, viewer logs and sitting records are private under OpenRouter stealth-model confidentiality terms."
+  ]
+}

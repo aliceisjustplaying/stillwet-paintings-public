@@ -1,0 +1,63 @@
+{
+  "archive": "2026-10-03 r21 Before the Mist Lifts (Space Bunny Free)",
+  "identity": "3f29bf",
+  "files": [
+    {
+      "archive_path": "2026-10-03 r21 Before the Mist Lifts (Space Bunny Free)/finals/r21-frdc3.png",
+      "repo_path": "paintings/r21-frdc3/finals/r21-frdc3.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 43831,
+      "repo_bytes": 43831,
+      "sha256": "e0b1582dffdb9843697a85a7f77e74f5e766d2fb6d35409a5f7a492c7575ac2b"
+    },
+    {
+      "archive_path": "2026-10-03 r21 Before the Mist Lifts (Space Bunny Free)/lua/deployed-389-canonical.lua",
+      "repo_path": "paintings/r21-frdc3/lua/archive/deployed-389-canonical.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 186089,
+      "repo_bytes": 186089,
+      "sha256": "5849923e8a5400867d0a800467fc5183d32a5bac23200d99d79780a3506e6e7b"
+    },
+    {
+      "archive_path": "2026-10-03 r21 Before the Mist Lifts (Space Bunny Free)/lua/deployed-canvas-state.lua",
+      "repo_path": "paintings/r21-frdc3/lua/archive/deployed-canvas-state.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 186056,
+      "repo_bytes": 186056,
+      "sha256": "8dbacd00a9d3a40e0880533203036a1fe52960e7e69543c4f8c24a5ed9d0866d"
+    },
+    {
+      "archive_path": "2026-10-03 r21 Before the Mist Lifts (Space Bunny Free)/lua/deployed-whole-state.lua",
+      "repo_path": "paintings/r21-frdc3/lua/archive/deployed-whole-state.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 190831,
+      "repo_bytes": 190831,
+      "sha256": "4f4b9690c8303831853ff7d7590ce7cc7abb0d4cee50703850d4ad1d9d1290d1"
+    },
+    {
+      "archive_path": "2026-10-03 r21 Before the Mist Lifts (Space Bunny Free)/lua/painting.lua",
+      "repo_path": "paintings/r21-frdc3/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 206517,
+      "repo_bytes": 206517,
+      "sha256": "08413f0490c77d623a283031f7658595985e264545f70e359ada9fe7bcb4b5b8"
+    },
+    {
+      "archive_path": "2026-10-03 r21 Before the Mist Lifts (Space Bunny Free)/lua/sitting2.lua",
+      "repo_path": "paintings/r21-frdc3/lua/archive/sitting2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 180833,
+      "repo_bytes": 180833,
+      "sha256": "8bf3fe39c630ed03f638d6247074bd1ae1d81936b8dff6f7c93fe0b49b722371"
+    }
+  ],
+  "exclusions": [
+    "Session logs, viewer logs and sitting records are private under OpenRouter stealth-model confidentiality terms."
+  ]
+}
