@@ -1,0 +1,429 @@
+{
+  "archive": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)",
+  "identity": "e97bf6",
+  "files": [
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/finals/friedrich-dieroll-2400-gallery.png",
+      "repo_path": "studios/paint-studio-e97bf6/finals/friedrich-dieroll-2400-gallery.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4019595,
+      "repo_bytes": 4019595,
+      "sha256": "732a9990326684909d708b36357c2229d1550816f235064e591bb14e8be81bd2"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/finals/friedrich-dieroll-2400-plain.png",
+      "repo_path": "studios/paint-studio-e97bf6/finals/friedrich-dieroll-2400-plain.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2086314,
+      "repo_bytes": 2086314,
+      "sha256": "c24f38f5335dfe14cfc17327f5c66421d7aaed419880884b2d42aa100bd1165a"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/committed - version 02.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/committed - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 190955,
+      "repo_bytes": 190955,
+      "sha256": "ce79001bc3a378c42e3d2620da09a75a974657ad2010f674a25ab45f42ddc3fb"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/committed.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/committed.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6523,
+      "repo_bytes": 6523,
+      "sha256": "7c230f5b1ed12a14c3bb5087ade11e0438ccf92cd3185c2f368419d40dc646bc"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1716,
+      "repo_bytes": 1716,
+      "sha256": "61b9a44d8fa8952ad14e25d756e51b6c57d18a82c273ec88fc5b7f6b9dd76865"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5502,
+      "repo_bytes": 5502,
+      "sha256": "d4d7b5fa49c7c601d312683018b81336d99659703f61bff51ae23c8238b6ad6c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1249,
+      "repo_bytes": 1249,
+      "sha256": "1759ff1c459515d13921a4ec5eedb5d7f2e8a6190d43101af425a88852d39316"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1732,
+      "repo_bytes": 1732,
+      "sha256": "8fd6109389ff62bf2453e3317972e2dba432f800a295048ec2989a07277c77df"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2053,
+      "repo_bytes": 2053,
+      "sha256": "891682115fc803bbdd5a43fb8cc0bb9eebf40b6ca43c8b6e0855d477d97b4b28"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2885,
+      "repo_bytes": 2885,
+      "sha256": "9c0e546fcc04c888af18f4c84f8a129306c722ff08df4a310882fa59a1f1bd5f"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-15.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6136,
+      "repo_bytes": 6136,
+      "sha256": "87601dcf984ba3f66a3473ce5e4647a96883a2e9532d2d47286a71ec9ffb6789"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1475,
+      "repo_bytes": 1475,
+      "sha256": "94c7e639ff221158424f9e853501f84b5a325c3cb57fc3e9a8bf8c940f9e36b3"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-17.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2175,
+      "repo_bytes": 2175,
+      "sha256": "f8f55f0bcd82ff2d3dbcf825d017e5a520d48d43181b85d583135be5f0095d19"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-18.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7077,
+      "repo_bytes": 7077,
+      "sha256": "f7a71976ecabbc89998f75ce36717b87db72e2d3d5ff9509962f51071eabd40a"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-19.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7273,
+      "repo_bytes": 7273,
+      "sha256": "f19c900d5b82f225a95053bc27a7dd8b51612c29bdadd99dceb248d89f7ec26a"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3112,
+      "repo_bytes": 3112,
+      "sha256": "73fa1ce0ca32fdde298bd95b75761ce6f6018b9567fd3d2dc4c8cd454046e73f"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-20.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3410,
+      "repo_bytes": 3410,
+      "sha256": "77ee849f346562109bb2e82678bb9a181d48c8f20d16291049d08b77cef46d5c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-21.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2465,
+      "repo_bytes": 2465,
+      "sha256": "640cc3192afa4c0509a8cfa299fde1c70d6bb0b4662e47d1f4d423c2505153d9"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-22.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-22.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7373,
+      "repo_bytes": 7373,
+      "sha256": "dc53443b37483c7cbcc1d5512774408629887f903976eb700709d6f2a7aa5260"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-23.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5817,
+      "repo_bytes": 5817,
+      "sha256": "42ad52d33375e4b402631a84a7f67df6ef0c8750a74eaaca986ee0acbcc267e2"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-24.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2171,
+      "repo_bytes": 2171,
+      "sha256": "835841f67605e14711998b3316f25b89dba663357fb6e03fe3e82bbbea5121e9"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-25.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-25.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1866,
+      "repo_bytes": 1866,
+      "sha256": "d79439124915e0eda46492ab99e4a97dd8b9a9cd26947102eeaa677324b15678"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-26.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-26.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1652,
+      "repo_bytes": 1652,
+      "sha256": "8be2502ad987499b6ec0df3b37aab0497ff2b31d5d95fb77869aa27694441a0e"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-27.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-27.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8358,
+      "repo_bytes": 8358,
+      "sha256": "d3746203e5142fdaf3eddd553e1c106547a50a82312bf9610d88e9fee22b4dd0"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-28.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-28.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7410,
+      "repo_bytes": 7410,
+      "sha256": "e56e02e62dc4f642bdfe7c97daeb648850eb0dc39798c88b123b6f4be9f6cc2c"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-29.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-29.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 25514,
+      "repo_bytes": 25514,
+      "sha256": "180287400b6f249011bfc0592fa54f2b7b18fc0ae21151b9d5daa3aa7082473e"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3550,
+      "repo_bytes": 3550,
+      "sha256": "99bc9b6fe8b0482a7a461bddcd3497f1c4ff690c73e603f430f5015d3a2b18fd"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4374,
+      "repo_bytes": 4374,
+      "sha256": "37d7eac810e4d2dab785c41f5b27cafb8c370b3820bf0bdfe88a43102d2294c3"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2450,
+      "repo_bytes": 2450,
+      "sha256": "878788cbbc1e56444bf2d95b8e795a6ea4378345f7e8ae58479cc7d6d7e5d9e1"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4884,
+      "repo_bytes": 4884,
+      "sha256": "c2c925e718c9abc6b70645423e9693b2782972169ce1f3769a0e0d0e0884c793"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1201,
+      "repo_bytes": 1201,
+      "sha256": "09febc8487d03e71c54dfa4ffdf86ae446d2e9c5e8df54e4cbccba3fecfbc8bb"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2177,
+      "repo_bytes": 2177,
+      "sha256": "cf303bad56b0b43349e9d3f2353b68a500b77621e6010aa2a5549d02d1805023"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-e97bf6/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2494,
+      "repo_bytes": 2494,
+      "sha256": "558a5d88acd18ad74996d1841ea94030c6f62f1c90c7eafc563eec062ab050f6"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-17T23-03-19-599Z_01a14c1a-fd2f-775b-b231-5ca38c94251f.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-17T23-03-19-599Z_01a14c1a-fd2f-775b-b231-5ca38c94251f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 24542,
+      "repo_bytes": 20334,
+      "sha256": "0bef144c5431f3c66ae43fff729134760d216499809328966ce8a90c070db930"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-17T23-03-45-696Z_01a14c1b-6320-7538-80f5-e491015fde05.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-17T23-03-45-696Z_01a14c1b-6320-7538-80f5-e491015fde05.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 90570708,
+      "repo_bytes": 6210163,
+      "sha256": "2c77b97b025c714cef1d4746fa421f262d6dc98497996a7f9e9cf0b94c360c2d"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-17T23-48-57-146Z_01a14c44-c2ba-715f-ae3d-14e99f668577.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-17T23-48-57-146Z_01a14c44-c2ba-715f-ae3d-14e99f668577.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 9629791,
+      "repo_bytes": 71704,
+      "sha256": "c0978a2ad9aac82fabf123064b172d1e52512694ec90fd2584d739b47d61c2cb"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T00-34-45-050Z_01a14c6e-b0ba-74d7-a36a-949b0224736a.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T00-34-45-050Z_01a14c6e-b0ba-74d7-a36a-949b0224736a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10689544,
+      "repo_bytes": 105049,
+      "sha256": "b9edaac03a654afe9a16eb1b1f1d6d8d129e27b107a224ac1394e930b6288362"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T01-05-23-187Z_01a14c8a-bcf3-750f-87d8-97ee9429180a.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T01-05-23-187Z_01a14c8a-bcf3-750f-87d8-97ee9429180a.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8361004,
+      "repo_bytes": 115499,
+      "sha256": "98200544f1a7a682229b529681430973859ce837d8e383631f6765db9af000fc"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T01-10-43-766Z_01a14c8f-a136-77d2-965a-480006e52ccb.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T01-10-43-766Z_01a14c8f-a136-77d2-965a-480006e52ccb.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 46562789,
+      "repo_bytes": 5720083,
+      "sha256": "0efb5bfedd68005e30c2c2678321cbc358d5c2815b269555a1c4cb3063b291d0"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T03-34-49-359Z_01a14d13-8d0f-76c0-a207-b66609b226f5.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T03-34-49-359Z_01a14d13-8d0f-76c0-a207-b66609b226f5.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 28460004,
+      "repo_bytes": 998007,
+      "sha256": "f6dcd64dc1bf0d7158681ebcd76dad1886f6c117a103e110d479483742f345f2"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T04-46-32-813Z_01a14d55-376d-7119-b1a7-4749db63a9a7.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T04-46-32-813Z_01a14d55-376d-7119-b1a7-4749db63a9a7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 30554900,
+      "repo_bytes": 854863,
+      "sha256": "843fd404afb5b8d128b10dc933427c4696273c121c4bba5f3cbc5cec739f21d5"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T05-29-00-878Z_01a14d7c-18ce-72ff-b585-95a04a9b25e7.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T05-29-00-878Z_01a14d7c-18ce-72ff-b585-95a04a9b25e7.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 14141329,
+      "repo_bytes": 1042002,
+      "sha256": "163836c49dd1c761dc402d26108bde9b9e30e451a7830b3d3db82828d0531108"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T05-44-47-531Z_01a14d8a-8aab-73a3-bb28-4f81c47cf06e.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T05-44-47-531Z_01a14d8a-8aab-73a3-bb28-4f81c47cf06e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 15045801,
+      "repo_bytes": 251396,
+      "sha256": "aa37dfb18bcb6163c9d2e30e6faa7a5ff8e22523afe06888ace9b79bf83802ee"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T05-58-35-125Z_01a14d97-2b75-7102-af3f-3f7cdf44834c.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T05-58-35-125Z_01a14d97-2b75-7102-af3f-3f7cdf44834c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 16691524,
+      "repo_bytes": 271509,
+      "sha256": "e442e8a213121320dfb4a29f301206e6a36f3e7b8354dad9289f6b6684f15819"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T06-09-56-577Z_01a14da1-9160-7027-816d-101d7d37db2c.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T06-09-56-577Z_01a14da1-9160-7027-816d-101d7d37db2c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2523792,
+      "repo_bytes": 98269,
+      "sha256": "9b28dedae9b1421887c2b78e54da71bd520d81ac72935c9b5c1b884667aeb72e"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/sessions/2026-10-18T06-10-37-360Z_01a14da2-30b0-76a1-bc43-60c23c7d8527.jsonl",
+      "repo_path": "studios/paint-studio-e97bf6/sessions/pi/2026-10-18T06-10-37-360Z_01a14da2-30b0-76a1-bc43-60c23c7d8527.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 11028837,
+      "repo_bytes": 142044,
+      "sha256": "87cdf968c5b123d1683f874516735a441e06c30eaed495cc8307c263c2372ea5"
+    },
+    {
+      "archive_path": "2026-10-18 runknown The Ice Keeps Her (Claude Opus 5.5)/video/friedrich-dieroll-2400-timelapse.mp4",
+      "repo_path": "studios/paint-studio-e97bf6/video/friedrich-dieroll-2400-timelapse.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 951153,
+      "repo_bytes": 951153,
+      "sha256": "dfa0a21f0ce7ba74e12627d80c9f85021ad5feb4049598809014d40a745c7727"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "archive": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)",
+  "identity": "f0dc5e",
+  "files": [
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/finals/wet-on-wet-2400-air3-gallery.png",
+      "repo_path": "studios/paint-studio-f0dc5e/finals/wet-on-wet-2400-air3-gallery.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 5505331,
+      "repo_bytes": 5505331,
+      "sha256": "c44edfc5e01c7737700a93c90c872236d5b275d0b4576bdcdac313ab7ffda162"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/finals/wet-on-wet-2400-air3-plain.png",
+      "repo_path": "studios/paint-studio-f0dc5e/finals/wet-on-wet-2400-air3-plain.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3355692,
+      "repo_bytes": 3355692,
+      "sha256": "ae65e2f76ef3c335872f07864abd00cef3906fe0c4181c19b662021b30d1f481"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/committed - version 02.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/committed - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 85959,
+      "repo_bytes": 85959,
+      "sha256": "78c30fa4e6a036f28565c718bad1356491970d99f2aaec4c19050f2dd6096307"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/committed.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/committed.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8844,
+      "repo_bytes": 8844,
+      "sha256": "8285428b5ee1e8c5746b008122f83097f92557aeaea9bbfc66f6b2504481c446"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1554,
+      "repo_bytes": 1554,
+      "sha256": "076cf90d6c523d1e129bb6247df88c6d937255dc8f65b53026be50f155f03bac"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2544,
+      "repo_bytes": 2544,
+      "sha256": "ba5fbdc2c284383e2124a374aad8017829b0b71ba48893559bafd223fd5149bb"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4976,
+      "repo_bytes": 4976,
+      "sha256": "8b2048e404834d77f2e49e315694c81d124326dd919eef058d5f98b82cba8ddf"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 10958,
+      "repo_bytes": 10958,
+      "sha256": "e10dc87fa93fad41e3197273db9ebd7e2c0232a37d518f9de03ff188954c5a24"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5445,
+      "repo_bytes": 5445,
+      "sha256": "5126114a5fd42d272f9996954dd1e996404f25550cb18f8f402a4bd38b36a424"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1948,
+      "repo_bytes": 1948,
+      "sha256": "0cd1ceb3d5ff4da807607dea82e29afab0d65a62a5df7d88ffd2f575937dae15"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-15.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2164,
+      "repo_bytes": 2164,
+      "sha256": "26a2e7341d1adbce34609ca89b4a003bb669fd0bdffff03e2a9d32057080e2c9"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2213,
+      "repo_bytes": 2213,
+      "sha256": "8fe86e737bb9bd708be4f786638bd78980102744ee92438ba47d2bf6679a766a"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-17.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4622,
+      "repo_bytes": 4622,
+      "sha256": "367e54a98a35bb00444284566e65fb867c26db265576b289cbc03f3079bb4ab3"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-18.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2986,
+      "repo_bytes": 2986,
+      "sha256": "9187fa669f55e7949fe5274a28a947ee75c98dfbad44c1646f01738aac5ed2fa"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-19.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1266,
+      "repo_bytes": 1266,
+      "sha256": "7e6e26fabb39583a39d670679e85dfff1336a03a217f3633aa33d033f3fbfaf3"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8744,
+      "repo_bytes": 8744,
+      "sha256": "75589fd8db803a639ebf947557e264dc0b5fdcbb3b343996dc94fa1e2588ace4"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8745,
+      "repo_bytes": 8745,
+      "sha256": "928a9df86bdc62b7aa0b2f21c5b793ec775c1278ab7de3bc91600f13f3cb9b57"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2666,
+      "repo_bytes": 2666,
+      "sha256": "12ffe9074a32f75a4a71897b038e18e648ca3556eb00751775b17884b3fad60b"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8885,
+      "repo_bytes": 8885,
+      "sha256": "5a3dd7117e4e6604e5faadde39b3cfe94b24549afe59fcbb82d149adb4c80838"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4837,
+      "repo_bytes": 4837,
+      "sha256": "79b2c908b830692092df08555b975d8eba3225690a6f628e8f74630a9eb982a2"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2584,
+      "repo_bytes": 2584,
+      "sha256": "2cecc16035f583236e3999a5f71344e4dbaab49c6f5466755529557ea85033e9"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7062,
+      "repo_bytes": 7062,
+      "sha256": "cafa7d17b6b8d763fddb88b1f4882854c6d790f94117359931bc21f3df1bf6ac"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-f0dc5e/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1609,
+      "repo_bytes": 1609,
+      "sha256": "9b2dc72b58d18b88282eb138719fbbcb406a9f4061eaf5b774334e355534d1f1"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/sessions/STIL-201-wet-transcript.txt",
+      "repo_path": "studios/paint-studio-f0dc5e/sessions/native-text/STIL-201-wet-transcript.txt.jsonl",
+      "kind": "sessions",
+      "session_kind": "native-text",
+      "source_bytes": 374182,
+      "repo_bytes": 501387,
+      "sha256": "55294a8177aff74c9007ae9cd6e00816afb68e4d13e1793e2a50b40ec7b75393"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/sessions/2026-10-17T20-47-09-901Z_01a14b9e-544d-7177-bb57-7ba440abc05b.jsonl",
+      "repo_path": "studios/paint-studio-f0dc5e/sessions/pi/2026-10-17T20-47-09-901Z_01a14b9e-544d-7177-bb57-7ba440abc05b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 133428835,
+      "repo_bytes": 5791585,
+      "sha256": "e588786934c70fdb690aaa5ab11bc23fd34da307a87da7b6b55fde8f8787496a"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/sessions/2026-10-17T22-36-13-224Z_01a14c02-2c28-7155-9415-3ef7c758f9f4.jsonl",
+      "repo_path": "studios/paint-studio-f0dc5e/sessions/pi/2026-10-17T22-36-13-224Z_01a14c02-2c28-7155-9415-3ef7c758f9f4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10706972,
+      "repo_bytes": 405833,
+      "sha256": "fb28d12609f57b2420b1d6e7213b4301c014cf35c0f8d009c1f518247ceab961"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/sessions/2026-10-17T22-45-53-742Z_01a14c0b-07ce-7580-a080-f69da6001ed8.jsonl",
+      "repo_path": "studios/paint-studio-f0dc5e/sessions/pi/2026-10-17T22-45-53-742Z_01a14c0b-07ce-7580-a080-f69da6001ed8.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4445910,
+      "repo_bytes": 75908,
+      "sha256": "31c0f670f89d249b4899a381e0b8fe8074d8ab5f58f27fd522c06d3c4c92a6b3"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/video/gallery-cut.mp4",
+      "repo_path": "studios/paint-studio-f0dc5e/video/gallery-cut.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1401400,
+      "repo_bytes": 1401400,
+      "sha256": "2bc95cd703ce0a265c32928a05fbf21e1fbcf70257e851dda2e7f3b32a75085f"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Last Light on the Tarn (Claude Opus 5.5)/video/wet-on-wet-2400-air3-timelapse.mp4",
+      "repo_path": "studios/paint-studio-f0dc5e/video/wet-on-wet-2400-air3-timelapse.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1393779,
+      "repo_bytes": 1393779,
+      "sha256": "d760efa29b9ffd139e249cfb836b44bd8e6741b86bc44b9421c421b053b2a174"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "archive": "2026-10-16 runknown untitled (Gemini 4 Argon High)",
+  "identity": "9c47ea",
+  "files": [
+    {
+      "archive_path": "2026-10-16 runknown untitled (Gemini 4 Argon High)/lua/painting - version 02.lua",
+      "repo_path": "studios/paint-studio-9c47ea/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6406,
+      "repo_bytes": 6406,
+      "sha256": "2fc3480acf45a742b6ea06fce68ecc4c1e60344bdd11fcfac86d3ed0ce980edd"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (Gemini 4 Argon High)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-9c47ea/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 72877,
+      "repo_bytes": 72877,
+      "sha256": "8caacff2f65ac138bc46ceed157898b3fa8627481a5c5905cf719bebe1f8d005"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (Gemini 4 Argon High)/lua/scratch - version 02.lua",
+      "repo_path": "studios/paint-studio-9c47ea/lua/archive/scratch - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 9601,
+      "repo_bytes": 9601,
+      "sha256": "06d55dd274be1cdba7ad9694506f46fe838a6c7fdbce5af3d8a2d31265f997be"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (Gemini 4 Argon High)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-9c47ea/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3992,
+      "repo_bytes": 3992,
+      "sha256": "22bcb132a2cb56ff9991130be2d9f1d5041bb8c487cab44b583cc125c7728619"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (Gemini 4 Argon High)/sessions/transcript.jsonl",
+      "repo_path": "studios/paint-studio-9c47ea/sessions/native/transcript.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 492286,
+      "repo_bytes": 482558,
+      "sha256": "995e2222a5c64b81826f6be12978a2bba0804efbf275bf70011dfa1d4629549c"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (Gemini 4 Argon High)/sessions/agy.jsonl",
+      "repo_path": "studios/paint-studio-9c47ea/sessions/pi/agy.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 36078911,
+      "repo_bytes": 388321,
+      "sha256": "ae3b96f718cbb9dc909a118d52fe226b655a4b2a2d07adb6d05a8876be833c3b"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (Gemini 4 Argon High)/sessions/session.jsonl",
+      "repo_path": "studios/paint-studio-9c47ea/sessions/pi/session.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 36026509,
+      "repo_bytes": 336634,
+      "sha256": "a8955a17ea64591a1835c60c9d1d3fe0e530523c885fe4ecf09480c7fc4455ba"
+    },
+    {
+      "archive_path": "2026-10-16 runknown untitled (Gemini 4 Argon High)/sessions/events.json",
+      "repo_path": "studios/paint-studio-9c47ea/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 79153,
+      "repo_bytes": 78171,
+      "sha256": "9f778ba6e4adefe4cb9706f04b89408f20eb23470f7c7e4816d43d3228e24d00"
+    }
+  ]
+}

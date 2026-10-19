@@ -1,0 +1,51 @@
+{
+  "archive": "2026-10-07 runknown untitled (GPT-6 Astra)",
+  "identity": "b40d1c",
+  "files": [
+    {
+      "archive_path": "2026-10-07 runknown untitled (GPT-6 Astra)/sessions/2026-10-07T21-15-15-608Z_01a11838-7518-768c-b3d8-6cf07cc48336.jsonl",
+      "repo_path": "studios/paint-studio-b40d1c/sessions/pi/2026-10-07T21-15-15-608Z_01a11838-7518-768c-b3d8-6cf07cc48336.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 961577,
+      "repo_bytes": 99584,
+      "sha256": "c3974f2ef85941910cb26f934f39e7ef91f44527bc730b152bf7573b3c54dead"
+    },
+    {
+      "archive_path": "2026-10-07 runknown untitled (GPT-6 Astra)/sessions/events - version 02.json",
+      "repo_path": "studios/paint-studio-b40d1c/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 15201,
+      "repo_bytes": 14786,
+      "sha256": "e5ca6ef6912800abd8d1305297ad11e52a945a7832d96a788445bc150e9f1c9f"
+    },
+    {
+      "archive_path": "2026-10-07 runknown untitled (GPT-6 Astra)/sessions/events - version 03.json",
+      "repo_path": "studios/paint-studio-b40d1c/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 14996,
+      "repo_bytes": 14765,
+      "sha256": "4e5938e63aecf23d65af0f4da88508d50a81befe7e4a619455c2f4ddf7011f99"
+    },
+    {
+      "archive_path": "2026-10-07 runknown untitled (GPT-6 Astra)/sessions/events - version 04.json",
+      "repo_path": "studios/paint-studio-b40d1c/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 15489,
+      "repo_bytes": 14786,
+      "sha256": "e5ca6ef6912800abd8d1305297ad11e52a945a7832d96a788445bc150e9f1c9f"
+    },
+    {
+      "archive_path": "2026-10-07 runknown untitled (GPT-6 Astra)/sessions/events.json",
+      "repo_path": "studios/paint-studio-b40d1c/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 15019,
+      "repo_bytes": 14786,
+      "sha256": "e5ca6ef6912800abd8d1305297ad11e52a945a7832d96a788445bc150e9f1c9f"
+    }
+  ]
+}

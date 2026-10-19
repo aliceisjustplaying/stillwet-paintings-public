@@ -1,0 +1,69 @@
+{
+  "archive": "2026-10-10 r39 untitled (Claude Opus 5.5)",
+  "identity": "c39a10",
+  "files": [
+    {
+      "archive_path": "2026-10-10 r39 untitled (Claude Opus 5.5)/finals/r39-cezn-color.png",
+      "repo_path": "studios/paint-studio-c39a10/finals/r39-cezn-color.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3422596,
+      "repo_bytes": 3422596,
+      "sha256": "e4983262cbe49082617b52fe454e4bc471e74baf8e353783d950016329c1e7a2"
+    },
+    {
+      "archive_path": "2026-10-10 r39 untitled (Claude Opus 5.5)/finals/r39-cezn-gallery.png",
+      "repo_path": "studios/paint-studio-c39a10/finals/r39-cezn-gallery.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6440758,
+      "repo_bytes": 6440758,
+      "sha256": "27d3efb4dc51f62f284de20fa322d40ebaa92841e3d3657ee7b84d9d0144ec79"
+    },
+    {
+      "archive_path": "2026-10-10 r39 untitled (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-c39a10/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7052,
+      "repo_bytes": 7052,
+      "sha256": "fb148e83d86fc965e1bf611eb85829efa40c0bc3a88587582e2caad48b69ea24"
+    },
+    {
+      "archive_path": "2026-10-10 r39 untitled (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-c39a10/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4049,
+      "repo_bytes": 4049,
+      "sha256": "aabc488e5ab19f62ed74fae8284de6c7faac0403aae0013d470c475616b8b00c"
+    },
+    {
+      "archive_path": "2026-10-10 r39 untitled (Claude Opus 5.5)/sessions/2026-10-10T19-38-29-814Z_01a12752-f235-7058-9478-61933a8fa1ad - version 02.jsonl",
+      "repo_path": "studios/paint-studio-c39a10/sessions/pi/2026-10-10T19-38-29-814Z_01a12752-f235-7058-9478-61933a8fa1ad - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 203259,
+      "repo_bytes": 160295,
+      "sha256": "5c310f65b278bd7cfa34d1b6eaece154cbb9c6d9b06455d1cf6b492ad3f36b8b"
+    },
+    {
+      "archive_path": "2026-10-10 r39 untitled (Claude Opus 5.5)/sessions/2026-10-10T19-38-29-814Z_01a12752-f235-7058-9478-61933a8fa1ad.jsonl",
+      "repo_path": "studios/paint-studio-c39a10/sessions/pi/2026-10-10T19-38-29-814Z_01a12752-f235-7058-9478-61933a8fa1ad.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4124368,
+      "repo_bytes": 159883,
+      "sha256": "3f4f39b529bd116122323fd0a59363b443e88950de7263f7ce2ba31f9b16901e"
+    },
+    {
+      "archive_path": "2026-10-10 r39 untitled (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "studios/paint-studio-c39a10/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 38793,
+      "repo_bytes": 37624,
+      "sha256": "3c55efa30f3274e4e359e47ab11eeb8fc306cd95cce7622d3dea7f21f7575a80"
+    }
+  ]
+}

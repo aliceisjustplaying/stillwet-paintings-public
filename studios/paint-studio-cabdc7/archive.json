@@ -1,0 +1,249 @@
+{
+  "archive": "2026-10-07 r33 untitled (Mistral Large 4.0)",
+  "identity": "cabdc7",
+  "files": [
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/FRDC1_finished.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/FRDC1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 36570,
+      "repo_bytes": 36570,
+      "sha256": "0b4ac4b02aecc69f6a1256266021c37805b2c4058fe3996f9f53f3e7103fc16c"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 36152,
+      "repo_bytes": 36152,
+      "sha256": "6537df40bd1c4e6e696c16807e0a4e60f2ef8434eb81fe8b608d0206a767e49f"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2489,
+      "repo_bytes": 2489,
+      "sha256": "c263533e0575b5a45d0c113bcaa042942b2051a23f4ae84cb8e141087f8cc79f"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15067,
+      "repo_bytes": 15067,
+      "sha256": "9bc4f7ff949a95d75b98bee0755041ffb597f6ca2515db915bbe85c26cc13e5f"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3759,
+      "repo_bytes": 3759,
+      "sha256": "fe24499574e3da98fd1007d31e60456561a552e21edd19f8be2ce3c85faa6551"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 542,
+      "repo_bytes": 542,
+      "sha256": "7696f0aee5322be8a78af9225830e6c0400050f0910b15876a32577c6ad95f65"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8843,
+      "repo_bytes": 8843,
+      "sha256": "e01ff16bd07135bed9a830a727a73cdfba355aaa6cdcf7f9750eac39a879c702"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 12019,
+      "repo_bytes": 12019,
+      "sha256": "24784c77315f4b21fc89a18d0dd163763e82616d4327c4abc8c4d8202daa37ac"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 11567,
+      "repo_bytes": 11567,
+      "sha256": "eadce4c35e8a1f674617c628cec2c181973a89153edb4739c39fd4534e092a45"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15071,
+      "repo_bytes": 15071,
+      "sha256": "d3d85df8a0f16e074e919f3e4576489812695ea8e738b1430c707aafebc84d6c"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 14877,
+      "repo_bytes": 14877,
+      "sha256": "69da71b4906b04b4286d444a26018ffd97f4c0d810e8bd55004ebcdc770750dd"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 14929,
+      "repo_bytes": 14929,
+      "sha256": "bee6efbc175fdddb9d6b92d8d3069d3a555989fd6a7b970c1ebdd00dd286768e"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-cabdc7/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2411,
+      "repo_bytes": 2411,
+      "sha256": "1014118033f0caf02e31904e4497d39045209cade35efe426ea411a29297a194"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/2026-10-06T23-19-40-910Z_01a11384-026e-72ab-9665-de33d6b406a1.jsonl",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/pi/2026-10-06T23-19-40-910Z_01a11384-026e-72ab-9665-de33d6b406a1.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 52476231,
+      "repo_bytes": 1418774,
+      "sha256": "ae80bfbeb98522736291214b50ce4a3f4a1c22a2946850cc1e55a71dc5624dc7"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/2026-10-07T01-49-51-988Z_01a1140d-81f4-77ef-9824-0447db03db54.jsonl",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/pi/2026-10-07T01-49-51-988Z_01a1140d-81f4-77ef-9824-0447db03db54.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 894600,
+      "repo_bytes": 44271,
+      "sha256": "925092e6cd7650f78d462f69b6ce004a867a109f8ad15ecb7f318e8c5c440f43"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/2026-10-07T01-51-23-674Z_01a1140e-e81a-747a-a99e-91df03a9a864.jsonl",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/pi/2026-10-07T01-51-23-674Z_01a1140e-e81a-747a-a99e-91df03a9a864.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 894600,
+      "repo_bytes": 44271,
+      "sha256": "18723ef84fc9517453fd7e35c305b516efe3b376e0436bef41a79fe5d0296c75"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/2026-10-07T01-54-25-125Z_01a11411-ace5-7378-b4f9-114a864dddcf.jsonl",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/pi/2026-10-07T01-54-25-125Z_01a11411-ace5-7378-b4f9-114a864dddcf.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 894455,
+      "repo_bytes": 44126,
+      "sha256": "f8b94b5f0f922d0dc52da20f2c065a052897b6d99305b5755c0c19cbd421e9a4"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/2026-10-07T01-59-26-764Z_01a11416-472b-7424-ad7b-c9f664845b34.jsonl",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/pi/2026-10-07T01-59-26-764Z_01a11416-472b-7424-ad7b-c9f664845b34.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 894455,
+      "repo_bytes": 44126,
+      "sha256": "bae7bec3ded447f4cd9baa53f5b444e52895e0ad919f6c75fc8c1a67b94fb0b7"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/2026-10-07T02-09-28-496Z_01a1141f-75af-750f-b28a-7e4d032c89c1.jsonl",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/pi/2026-10-07T02-09-28-496Z_01a1141f-75af-750f-b28a-7e4d032c89c1.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 894455,
+      "repo_bytes": 44126,
+      "sha256": "65df130d6e25a7bca21b423554675973d74178f79180bd359ad5b95aec68f536"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/2026-10-07T02-24-30-547Z_01a1142d-3952-709b-8bd9-837530a1456c.jsonl",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/pi/2026-10-07T02-24-30-547Z_01a1142d-3952-709b-8bd9-837530a1456c.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 894455,
+      "repo_bytes": 44126,
+      "sha256": "f628e991952cf2abb4cc145a36eed0df971e257b639db651f105d17b33375925"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/events - version 02.json",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1238540,
+      "repo_bytes": 1194985,
+      "sha256": "76aa374ad9e574dae5eb9074a914d29da946314973f741ba3fa5dca26ec6a932"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/events - version 03.json",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1238333,
+      "repo_bytes": 1194796,
+      "sha256": "f6a4961c93a5ea427db42e7904b89427a9c15e5e620304788a1cc721713acae8"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/events - version 04.json",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1208256,
+      "repo_bytes": 1194985,
+      "sha256": "969d0da79884698c1884afdb2d799986542271437c059eca5f5944d2cec50645"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/events - version 05.json",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/viewer/events - version 05.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1238540,
+      "repo_bytes": 1194985,
+      "sha256": "969d0da79884698c1884afdb2d799986542271437c059eca5f5944d2cec50645"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/events - version 06.json",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/viewer/events - version 06.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1244668,
+      "repo_bytes": 1194985,
+      "sha256": "76aa374ad9e574dae5eb9074a914d29da946314973f741ba3fa5dca26ec6a932"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/events.json",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 1244668,
+      "repo_bytes": 1194985,
+      "sha256": "969d0da79884698c1884afdb2d799986542271437c059eca5f5944d2cec50645"
+    },
+    {
+      "archive_path": "2026-10-07 r33 untitled (Mistral Large 4.0)/sessions/packet.json",
+      "repo_path": "studios/paint-studio-cabdc7/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 93292,
+      "repo_bytes": 90116,
+      "sha256": "920492bd734a5619820343ea365e16e98b928221cb022dbba0e6cfa2248e66f9"
+    }
+  ]
+}

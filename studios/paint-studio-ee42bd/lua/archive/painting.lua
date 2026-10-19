@@ -1,0 +1,4 @@
+-- easel session "painting": a painting replayed chunk by chunk.
+-- Each "--@ chunk" line starts one chunk as it was run at the easel.
+--@ box every
+--@ engine 5

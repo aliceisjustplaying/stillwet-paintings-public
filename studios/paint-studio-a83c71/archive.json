@@ -1,0 +1,429 @@
+{
+  "archive": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)",
+  "identity": "a83c71",
+  "files": [
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/painting - version 02.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/painting - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 48449,
+      "repo_bytes": 48449,
+      "sha256": "5b341589c2c8eec5bc672037b1b3717a66ee64a2a4a833f2a1512a35aebfd895"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/painting - version 03.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/painting - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 49500,
+      "repo_bytes": 49500,
+      "sha256": "e2d7123c3cc2d9169d1cdd5ba89416c7d7a29afe8717b4660a9e862109a213c3"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 79289,
+      "repo_bytes": 79289,
+      "sha256": "67000bc209edfa801a690c0b739c4a85812eca240874f7c35e395a8120557657"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch - version 02.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4510,
+      "repo_bytes": 4510,
+      "sha256": "7810bfd62741f2fd597ae92566565f1648ced310d66b27ef4660b55ef5004db3"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1740,
+      "repo_bytes": 1740,
+      "sha256": "da9cfaf40833b7d2e24ceab2e31cf26e0e7f8df805aca2b4d74372c200e78a35"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3344,
+      "repo_bytes": 3344,
+      "sha256": "9ac87379857a52512d4c6fb61cabaa80ff8bbc91da688290ad6b6362cf939cdc"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6563,
+      "repo_bytes": 6563,
+      "sha256": "32e3692e4bd9277e171373e617c59a6b2a214597862aea51b669ad1d460e09c3"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 9245,
+      "repo_bytes": 9245,
+      "sha256": "f07f09743ab4489a7d570c50955c627b3df45e100f07de54232a0f556c3f792a"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5504,
+      "repo_bytes": 5504,
+      "sha256": "31e4debb81755f6a0d3b0d18f6a5d365246b180d52b84202d8f8ee9ea4fb79b5"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6427,
+      "repo_bytes": 6427,
+      "sha256": "7ef31da2b4e2304503f6621bb16cd496ff757ea65bb5c0ca1a17b4636b5a3b7e"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-15.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4224,
+      "repo_bytes": 4224,
+      "sha256": "e340899775a8fd078606619ecb885fcb6aff2149daabee0fe9977e17db20270a"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6677,
+      "repo_bytes": 6677,
+      "sha256": "33e34660c237183e245d3b68d4d1be224fb22d872017e5f70506315d9622fcd6"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-17.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3544,
+      "repo_bytes": 3544,
+      "sha256": "52d74d9fda5e18f4fb285bfadce2ddf2ebbf4f79e62cd9c7c9c898b0120f33f2"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-18.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8604,
+      "repo_bytes": 8604,
+      "sha256": "d504a8bcf7ccf95cc3a251e562d848e4f23a827fa812ed19e2082468d0467d42"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-19.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4486,
+      "repo_bytes": 4486,
+      "sha256": "0189aff64cb3d73fe6c750851ebca652f6f0f8cafcad726bb7caf7a2f85bb133"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3113,
+      "repo_bytes": 3113,
+      "sha256": "26061acc08188e8dcfdd18871059aef7cb10f77ffd28c04b18f643c0b3b0754e"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-20.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13886,
+      "repo_bytes": 13886,
+      "sha256": "e8d4037d3ce1ca4ad3d6022ed6042c33566a315be3283117927c91dfd73fefb4"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-21.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-21.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7484,
+      "repo_bytes": 7484,
+      "sha256": "e36837c555c1e4c9e20e6903814595ddbbd9a616d3a5ab6fc56ca911a65ee67d"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-22.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-22.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 11510,
+      "repo_bytes": 11510,
+      "sha256": "bba40ff6ccff5edbc086218ae05ff7c564f9bd7a618388e47128733be47c1d95"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-23.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-23.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6834,
+      "repo_bytes": 6834,
+      "sha256": "f804c3d75d33b09ff43f07b46dde06409121e28084e9c6d19a78235bbafa52e1"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-24.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-24.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7275,
+      "repo_bytes": 7275,
+      "sha256": "16a15bd0c253ab254c5441a5af92bc9834112f2b17a8865513954da5d2c1b4e2"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-25.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-25.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8379,
+      "repo_bytes": 8379,
+      "sha256": "a0b66b7881fc25435dd764bd796d97479d324edbd140fd77be3f7a648178cd25"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-26.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-26.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 4019,
+      "repo_bytes": 4019,
+      "sha256": "803975e4d951826533259992d78df05660923b48f5fb91e6368d504bebbfd295"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-27.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-27.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7772,
+      "repo_bytes": 7772,
+      "sha256": "5a13d245b3d63def917bf445cb679c6fdf8604ade0769ffd070f1471f5358a22"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-28.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-28.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 10121,
+      "repo_bytes": 10121,
+      "sha256": "b0a593e64b5b18f28d81066e15bff05ea97a46c68f7cfafc7843aaa756b8ec16"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-29.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-29.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13155,
+      "repo_bytes": 13155,
+      "sha256": "dd48d0dbceab020b98f3d5662759b34e147f57e072a0c2ab9a28d6841ae9823c"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3032,
+      "repo_bytes": 3032,
+      "sha256": "5921799028103eb2d2ce3784b211bcc43a48b3362c2aa0dd08e9487d1d229a51"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-30.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-30.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7173,
+      "repo_bytes": 7173,
+      "sha256": "765e394f24fce21fda82bb161c26a21a023541a76f1451b11a2cf630f61f1d68"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2943,
+      "repo_bytes": 2943,
+      "sha256": "43f4c3719011c72cfbd296d90fde9d6ae2ae1045cc49a4b6a104815e591f6f75"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 6602,
+      "repo_bytes": 6602,
+      "sha256": "5d9b3f1bea10caa5a28f84d0ead1546ead7f318398f69091af3a6c2716f4f853"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 10731,
+      "repo_bytes": 10731,
+      "sha256": "e2675da121b98b8988284fff3bf3f122fa33213027e468bc06f40b46d2d64841"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 8699,
+      "repo_bytes": 8699,
+      "sha256": "42db84024fc33718b4fbd8ab6482bc2d1ad16cc8ee81fb459303a6ae33669962"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 14937,
+      "repo_bytes": 14937,
+      "sha256": "d743c78e146f88edb5e5a4602ac480c0e1dfc459929fb2fcc22f3588837d97a1"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7929,
+      "repo_bytes": 7929,
+      "sha256": "92796a6853fbd7b8d7e32218e060957a8a08d7613379e6c9fa2980e6b5d6b6cd"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-a83c71/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2213,
+      "repo_bytes": 2213,
+      "sha256": "50363b7bc52f9c102975161022f9d7efbbf68df73193ce140929df069af13f75"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/2026-10-16T19-58-46-676Z_01a1464b-ab93-750e-8641-f45dfaeaafaf.jsonl",
+      "repo_path": "studios/paint-studio-a83c71/sessions/pi/2026-10-16T19-58-46-676Z_01a1464b-ab93-750e-8641-f45dfaeaafaf.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 71626845,
+      "repo_bytes": 4188390,
+      "sha256": "38cfe902afdc88b66b8ed9e87988ff0108f7cccceb7e93eb683891ed3d48a19d"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/2026-10-16T21-34-25-558Z_01a146a3-3d16-74c9-9b02-4078032f4cf8.jsonl",
+      "repo_path": "studios/paint-studio-a83c71/sessions/pi/2026-10-16T21-34-25-558Z_01a146a3-3d16-74c9-9b02-4078032f4cf8.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 54522428,
+      "repo_bytes": 2216131,
+      "sha256": "d99b2f3dcb13fd4f4168be747b0d4e1dc8c2ad660cff00b4e02d18943bad0ea4"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/2026-10-16T22-36-35-830Z_01a146dc-2876-7674-a5fd-00414bc64dea.jsonl",
+      "repo_path": "studios/paint-studio-a83c71/sessions/pi/2026-10-16T22-36-35-830Z_01a146dc-2876-7674-a5fd-00414bc64dea.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 15459299,
+      "repo_bytes": 502535,
+      "sha256": "0c6a2630b5ed157d6681b5fea01a6f35b60e6c349e3c75f781052cfa42d576ec"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/2026-10-16T22-46-56-412Z_01a146e5-a09c-731b-abf5-3c1c7595e187.jsonl",
+      "repo_path": "studios/paint-studio-a83c71/sessions/pi/2026-10-16T22-46-56-412Z_01a146e5-a09c-731b-abf5-3c1c7595e187.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 15235638,
+      "repo_bytes": 409001,
+      "sha256": "a45956422999559366bf7a25d12ce0f1922c573ba3c87da02723e0125f3a1320"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/2026-10-16T22-57-49-930Z_01a146ef-996a-751d-8f93-fb36b6335a0e.jsonl",
+      "repo_path": "studios/paint-studio-a83c71/sessions/pi/2026-10-16T22-57-49-930Z_01a146ef-996a-751d-8f93-fb36b6335a0e.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10239060,
+      "repo_bytes": 522546,
+      "sha256": "98425e63d86d47c4a47513d0112e37f7efa930738b513a193d5a5e1084612898"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/2026-10-16T23-04-42-047Z_01a146f5-e33f-7580-8e57-bdf7758dda03.jsonl",
+      "repo_path": "studios/paint-studio-a83c71/sessions/pi/2026-10-16T23-04-42-047Z_01a146f5-e33f-7580-8e57-bdf7758dda03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13339446,
+      "repo_bytes": 460234,
+      "sha256": "8a0d2e1e3e74090b4f38d91362796da975ca6d52d6fab5b317d8eacc3edb0e36"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/session - version 02.jsonl",
+      "repo_path": "studios/paint-studio-a83c71/sessions/pi/session - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 97071,
+      "repo_bytes": 95743,
+      "sha256": "e77f078be343d209b360664db9a762cb5e5364b6235b70db4f0b442204edf9f8"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/session.jsonl",
+      "repo_path": "studios/paint-studio-a83c71/sessions/pi/session.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 94986,
+      "repo_bytes": 93693,
+      "sha256": "7d2190c5992f89f77dd18ec404d1d2f5b7d405124c5d04d2cd2117a3dec285be"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "studios/paint-studio-a83c71/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 382709,
+      "repo_bytes": 375012,
+      "sha256": "c57863cc3bbd65180450e4b573bd9ef779612615cb4ca19c6b9a77868bb84227"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "studios/paint-studio-a83c71/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 372679,
+      "repo_bytes": 365206,
+      "sha256": "743ea4fa9dcf57737ec780d1b3770fb45dd754083bccc5bf0e15333397c3fea3"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/packet - version 02.json",
+      "repo_path": "studios/paint-studio-a83c71/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 18269,
+      "repo_bytes": 15610,
+      "sha256": "932940ce59e621b544a3bc4c3d603c08777900a2897c74c643ae487ed2252787"
+    },
+    {
+      "archive_path": "2026-10-16 runknown Moonrise over the Sea of Mist (Claude Opus 5.5)/sessions/packet.json",
+      "repo_path": "studios/paint-studio-a83c71/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 18470,
+      "repo_bytes": 16264,
+      "sha256": "3cf9d61e9a6363497a7d9cb4a875a80f4d0907e8c0aa49bc0924789c288a0fc6"
+    }
+  ]
+}

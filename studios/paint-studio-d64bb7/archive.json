@@ -1,0 +1,321 @@
+{
+  "archive": "2026-10-15 runknown untitled (Gemini 4 Argon)",
+  "identity": "d64bb7",
+  "files": [
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/lua/committed.lua",
+      "repo_path": "studios/paint-studio-d64bb7/lua/archive/committed.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 166,
+      "repo_bytes": 166,
+      "sha256": "a63db3ac8092860d40cf3374875b2986cd4f77e4ce526ea79718924200b53871"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-d64bb7/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 56516,
+      "repo_bytes": 56516,
+      "sha256": "534a484052ab1bc6dd28160d2dd7728848af32a32a997bd39326796fbea9f41e"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-d64bb7/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 15314,
+      "repo_bytes": 15314,
+      "sha256": "753d58e449e002bb4616ff22f70443e5939c80eef319ae7f863cfd285dd0f5f5"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/session-00000000.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/session-00000000.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 102400,
+      "repo_bytes": 102467,
+      "sha256": "8af6a21b958ec26cd561d5f980948d8aee69dda239c1852ae07f0011524a588f"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/session-00000001.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/session-00000001.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 41363,
+      "repo_bytes": 40656,
+      "sha256": "e7efef678847ac7b8648fef798aae540610bb821ffde41aff170dafb7fef20c9"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 02.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 44144,
+      "repo_bytes": 44144,
+      "sha256": "37b8042578f62429493764cb08f0dc11d32697fe8a2978c66cf5fd3f06191da6"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 03.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 1291,
+      "repo_bytes": 1291,
+      "sha256": "c24c2b584a8add15813ca22e74b6d51cd590b753caf9fe28fd8be455831c898b"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 04.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 04.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 93042,
+      "repo_bytes": 92171,
+      "sha256": "28c1f741eb84db3421c297c266974b00eb131b7c5d7b254459cdd4f7be21e731"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 05.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 05.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 61526,
+      "repo_bytes": 61029,
+      "sha256": "1dd66a88148811cc647d7670960af89ada375717dea095dc3970f4b70e99fde1"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 06.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 06.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 44537,
+      "repo_bytes": 44144,
+      "sha256": "37b8042578f62429493764cb08f0dc11d32697fe8a2978c66cf5fd3f06191da6"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 07.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 07.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 10167,
+      "repo_bytes": 10115,
+      "sha256": "4d9cc84a44d47feea02de2b36a17f32ff67cdb2622ff61fc08aefe648256fc56"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 08.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 08.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 555,
+      "repo_bytes": 555,
+      "sha256": "84570088a661b5a528459e19c82f8be5916516b5a2189467328db35a926333ad"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 09.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 09.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 2562,
+      "repo_bytes": 2536,
+      "sha256": "af0f23388f8f8ff453897089b27a27ba43f179ecf320077ec29a78b8f056afe1"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 10.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 10.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 2969,
+      "repo_bytes": 2943,
+      "sha256": "e41f34a28633e373bcfa40bdf25e603e70481d92c6a589607680199332b2ef65"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript - version 11.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript - version 11.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 236463,
+      "repo_bytes": 229073,
+      "sha256": "20b359f8550c31ffada9f4ce24cfe5f263597d7ea6f99df83403701f90b09c4a"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 93597,
+      "repo_bytes": 92726,
+      "sha256": "5dd693ef656d596f41cd67ac4447adbd6a475994a4764f8be5dcc746bc3d41f5"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript_full - version 02.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript_full - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 2550,
+      "repo_bytes": 2524,
+      "sha256": "5136d68c8cab2670794b6cc7c64b534ad48a12678d2f1f6a9bfebe60d9f8aad8"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript_full - version 03.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript_full - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 10155,
+      "repo_bytes": 10103,
+      "sha256": "5719a3d6def64843f026dacd026369011d36263a5739f5f27937810ac3c20726"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript_full - version 04.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript_full - version 04.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 80184,
+      "repo_bytes": 79791,
+      "sha256": "9d4c306d496910c7dbea417f6933ae13b940adfda42acc9b1c03b162990baa37"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript_full - version 05.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript_full - version 05.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 2957,
+      "repo_bytes": 2931,
+      "sha256": "e53b743a5b9a757bc8d1023e13a176f3faab21d6417a87afb8c153a09af47ad5"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript_full - version 06.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript_full - version 06.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 143763,
+      "repo_bytes": 142892,
+      "sha256": "dceb00dd469100af7c351b543082bc8944f4b004d6de32459ea9ac08fdacbf50"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/transcript_full.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/native/transcript_full.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 1279,
+      "repo_bytes": 1279,
+      "sha256": "1230413b7f9da53413237772dac8bf19c75399396b73c9763e85d5fe213f7612"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/agy - version 02.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/agy - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 142650,
+      "repo_bytes": 141078,
+      "sha256": "9fd186f4cabb04f7aed59eebe75d1f37d2a0dee0734f20629b84ddbc8c27677c"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/agy - version 03.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/agy - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 366623,
+      "repo_bytes": 363112,
+      "sha256": "308036030db899b644a14383a970e112e087800446d895140606db199a599dec"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/agy - version 04.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/agy - version 04.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 142409,
+      "repo_bytes": 141674,
+      "sha256": "be6595dbbc6eb103e4370f726d7a1c12466670c9fb7c04d6387fd62c63cf24a1"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/agy.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/agy.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 45233868,
+      "repo_bytes": 365527,
+      "sha256": "ccf07eaa1a9ae87fd736060e97f572a3791e46d1644f6c87bae09c7a35847e01"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/session - version 02.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/session - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 119671,
+      "repo_bytes": 119348,
+      "sha256": "38232b577aae145a3385ab712f58b9b9d2b7465ca4a42cb1c8cff2b98858b8e5"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/session - version 03.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/session - version 03.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 130892,
+      "repo_bytes": 129994,
+      "sha256": "84d63300badf1acf32d8ae151ce03c1d3da7e6640ac640eafa8e9e511b1a4c6c"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/session - version 04.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/session - version 04.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 115672,
+      "repo_bytes": 115060,
+      "sha256": "e7e1cbbde4409e6ae9c79c53da4465f3dca2acec606dd0c4b8cb5ff05539f382"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/session - version 05.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/session - version 05.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 45176787,
+      "repo_bytes": 309836,
+      "sha256": "3644dffe8635635b7bed13a020420cb6151397ca9226484c747d9d88f0a31711"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/session - version 06.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/session - version 06.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 131266,
+      "repo_bytes": 129994,
+      "sha256": "84d63300badf1acf32d8ae151ce03c1d3da7e6640ac640eafa8e9e511b1a4c6c"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/session.jsonl",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/pi/session.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 119695,
+      "repo_bytes": 119348,
+      "sha256": "38232b577aae145a3385ab712f58b9b9d2b7465ca4a42cb1c8cff2b98858b8e5"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/events - version 02.json",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 221804,
+      "repo_bytes": 216406,
+      "sha256": "74735f4b0524992fdf998982d45ff9994aa642e1ad6d1530fa47e414c7eb19df"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/events - version 03.json",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 223422,
+      "repo_bytes": 216396,
+      "sha256": "cde3534c5d149a3f72bd6c7a78526a94071243aa5c3e2e2bc00d9edb5a2a4b7f"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/sessions/events.json",
+      "repo_path": "studios/paint-studio-d64bb7/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 218862,
+      "repo_bytes": 216396,
+      "sha256": "cde3534c5d149a3f72bd6c7a78526a94071243aa5c3e2e2bc00d9edb5a2a4b7f"
+    }
+  ]
+}

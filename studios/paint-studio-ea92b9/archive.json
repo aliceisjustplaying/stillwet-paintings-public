@@ -1,0 +1,258 @@
+{
+  "archive": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)",
+  "identity": "ea92b9",
+  "files": [
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 115055,
+      "repo_bytes": 115055,
+      "sha256": "576d7f283e531db2d261e58d48b3da6ed4a369b2906af2c401b0bc186460a396"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1803,
+      "repo_bytes": 1803,
+      "sha256": "3eeb429fcc358dcd1e3db5cc6f7de62fb100ba5f1397b65e9cfa341c3cf547f5"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3330,
+      "repo_bytes": 3330,
+      "sha256": "7b75f2dc5e2f78f775cd3b8a4a6306c85fa6930a367dafab887f9b3c79aa41f6"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2071,
+      "repo_bytes": 2071,
+      "sha256": "c5ac223e065e3a9ef2d4644d5e26af88aa02e1028e330cc35fcd258d491d1273"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 12604,
+      "repo_bytes": 12604,
+      "sha256": "b56c3854c1e5949255ad02169083f9ad093374711336e1821373c9fb2c512903"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1915,
+      "repo_bytes": 1915,
+      "sha256": "963e1d8034957f33b62de930d3d3b4873346b54a20e8f51ea6d639b7bc259122"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1748,
+      "repo_bytes": 1748,
+      "sha256": "12120282537782da6f448a7420c72f1946616364fa11bd42100be31b8935877a"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-15.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1387,
+      "repo_bytes": 1387,
+      "sha256": "d93b8d8113a24318281ddb7c0392a65dbe1bb08e426d319343d5e142a4f92f8c"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7030,
+      "repo_bytes": 7030,
+      "sha256": "85422bff770f6965e14270c2996447f6bdaea29f30660e9154538988faf30507"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-17.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5785,
+      "repo_bytes": 5785,
+      "sha256": "87f9d88b2c6bf16347da1348965aa2c7175283789a7039628d17a217bfdea5c5"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-18.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13349,
+      "repo_bytes": 13349,
+      "sha256": "a8e095da6deae355d1ecafcd8e714cddeb2680c28ac81dcf9f194d639a21bea2"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2090,
+      "repo_bytes": 2090,
+      "sha256": "9a50b7f5f7fad332b6ca557b0f440aa1bdbe1e8cc838bd078dc46ab6f09c3c82"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5935,
+      "repo_bytes": 5935,
+      "sha256": "cc30826da0b324be97eb9f99c30c1f94e4f26ee311f3a71555e1910029b19b8f"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 13437,
+      "repo_bytes": 13437,
+      "sha256": "8a58a0d88c97e2873bffc645db46ec037e193b43948f74337dac9200ce03c45e"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 10038,
+      "repo_bytes": 10038,
+      "sha256": "c5cba7c0b205e7855c82ebb9aa25cc05c5f4cdb6110d026bf6dcd7389f649b02"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7090,
+      "repo_bytes": 7090,
+      "sha256": "5c9f9e597243b00d6fe176daaa09f61f69b4f81c5f0486097a7f21dc1d674faa"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2008,
+      "repo_bytes": 2008,
+      "sha256": "f778dd59b2fce8b2b379e5beae8661e22e72dc67f97610f44f518c2752c27a61"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 7738,
+      "repo_bytes": 7738,
+      "sha256": "b9b39e687384838e5b904c11df1a8bef04ae9590e8ef2dd27ec98e0770a6f28f"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3862,
+      "repo_bytes": 3862,
+      "sha256": "759182f985107196309929390cb5322766a92b8220220d66efdd2d4eeaf71c91"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-ea92b9/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1655,
+      "repo_bytes": 1655,
+      "sha256": "2a534cc9a3af41c96136ecbba86f31b9627d0ef4f1a30d2454454cd696558096"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/sessions/notes-to-critic.jsonl",
+      "repo_path": "studios/paint-studio-ea92b9/sessions/native/notes-to-critic.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 1428,
+      "repo_bytes": 1428,
+      "sha256": "24e76e53df46f4343f2eab2339c10446971e8ef479ee1d5ce821b2acf9dd9e88"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/sessions/2026-10-16T22-46-12-089Z_01a146e4-f378-7499-b752-54b67a5c9be1.jsonl",
+      "repo_path": "studios/paint-studio-ea92b9/sessions/pi/2026-10-16T22-46-12-089Z_01a146e4-f378-7499-b752-54b67a5c9be1.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7954,
+      "repo_bytes": 7908,
+      "sha256": "ae11d703c28a4da1e3cba3d4d278d6684670b5d04def0ff19c5d44f9a929b3d2"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/sessions/2026-10-16T22-46-12-390Z_01a146e4-f4a6-7647-9611-bc836b3e2fc4.jsonl",
+      "repo_path": "studios/paint-studio-ea92b9/sessions/pi/2026-10-16T22-46-12-390Z_01a146e4-f4a6-7647-9611-bc836b3e2fc4.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5017,
+      "repo_bytes": 4971,
+      "sha256": "3c4564a8b261ac0a25ba21ac3c20f7ca074482a025fd25f561870fd1d80e8d3c"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/sessions/2026-10-16T22-47-56-054Z_01a146e6-8995-72d9-b403-4c6fb9560dbd.jsonl",
+      "repo_path": "studios/paint-studio-ea92b9/sessions/pi/2026-10-16T22-47-56-054Z_01a146e6-8995-72d9-b403-4c6fb9560dbd.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 163515054,
+      "repo_bytes": 11462353,
+      "sha256": "d8df1833549c2ee1503e0f908a160b1414986ea6364823ea46bc051dd6e74e47"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/sessions/2026-10-17T01-43-45-307Z_01a14787-819b-773c-a48a-9ebd9afd075d.jsonl",
+      "repo_path": "studios/paint-studio-ea92b9/sessions/pi/2026-10-17T01-43-45-307Z_01a14787-819b-773c-a48a-9ebd9afd075d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 17553326,
+      "repo_bytes": 230452,
+      "sha256": "da6614c1f172a174c9745daa852696f1c0eb3b88020311f8e02e6bafc3ac2ebf"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/sessions/2026-10-17T03-24-08-538Z_01a147e3-69da-7388-8576-e3072d5182c3.jsonl",
+      "repo_path": "studios/paint-studio-ea92b9/sessions/pi/2026-10-17T03-24-08-538Z_01a147e3-69da-7388-8576-e3072d5182c3.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 41909227,
+      "repo_bytes": 794107,
+      "sha256": "c508bc08d99062506dccb908f0ec9517acb9d7aa6330cf434ae3a3e7d11a0f4d"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/sessions/2026-10-17T04-12-19-962Z_01a1480f-887a-705c-865e-151e2e3b28cc.jsonl",
+      "repo_path": "studios/paint-studio-ea92b9/sessions/pi/2026-10-17T04-12-19-962Z_01a1480f-887a-705c-865e-151e2e3b28cc.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 21329466,
+      "repo_bytes": 313369,
+      "sha256": "2329de5a4db009520462fd27b3fb09236cbaa070ab0ffd2282730df8b02c73da"
+    },
+    {
+      "archive_path": "2026-10-17 runknown Evening on the Heath (The Old Oak) (Claude Opus 5.5)/sessions/2026-10-17T04-32-32-963Z_01a14822-0ac3-74e6-9ded-3bfbdf89c789.jsonl",
+      "repo_path": "studios/paint-studio-ea92b9/sessions/pi/2026-10-17T04-32-32-963Z_01a14822-0ac3-74e6-9ded-3bfbdf89c789.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 33942964,
+      "repo_bytes": 2092216,
+      "sha256": "c63500d0aea5a4eb1a3fec71d86804c6f2b65e0a169534359deaff43f5c63efd"
+    }
+  ]
+}

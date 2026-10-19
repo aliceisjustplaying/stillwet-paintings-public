@@ -1,0 +1,141 @@
+{
+  "archive": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)",
+  "identity": "8ee1cde3",
+  "files": [
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 75747,
+      "repo_bytes": 75747,
+      "sha256": "823dbadefa1e7b69e584af982bc6450ed3e6cfa87c17dd1f62ea7cc54b0791b6"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch - version 02.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2477,
+      "repo_bytes": 2477,
+      "sha256": "ce4a6afeee58f8d6d68f5cc2c810e7c92b587eb0723448c553accfb425f75712"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch - version 03.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1282,
+      "repo_bytes": 1282,
+      "sha256": "403098c688b622b1131ec96b471cf04e50a4ddc7e3bb7595a98b1ade05408701"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2059,
+      "repo_bytes": 2059,
+      "sha256": "852c7f6bae663338d4e96a102f61fcb626fd539990c5d3173f481b12d4447aee"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2415,
+      "repo_bytes": 2415,
+      "sha256": "587d3242820a24f41895ffbc59984c6d0761b733cbf4e38d2c3a75fe1c2b7ac4"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2532,
+      "repo_bytes": 2532,
+      "sha256": "f29666ef22c9031ef5c40a0097274bb622d0bb281e91dfb71de69b1265b42560"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2100,
+      "repo_bytes": 2100,
+      "sha256": "079b024c7905b7ba997dab3a6893193b60976ede1489251183bf921dffc54b28"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2198,
+      "repo_bytes": 2198,
+      "sha256": "3710c09bb77925da395037e36ff9b1f7bd8da59a3568fa26eae13ab61d772a7f"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2313,
+      "repo_bytes": 2313,
+      "sha256": "f2f1afd1c528f9ecd92b679608c54c32760abb0b5b04f08fa1173de50b7b0422"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3509,
+      "repo_bytes": 3509,
+      "sha256": "7ede912e0fb9ed8fa5895fd0b4fd08d761ec2a27b1849e13d384fce672da24de"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2950,
+      "repo_bytes": 2950,
+      "sha256": "ebe0be48bafa752ba64af13077ec020e2bc9c617509be856787dd8fa7a6ff9b1"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-8ee1cde3/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1804,
+      "repo_bytes": 1804,
+      "sha256": "3045fe1ffee4a9e6a76f6522018d432d1dd6cbd5a598f707a832bae3beeac5c1"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/sessions/tool-calls.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cde3/sessions/native/tool-calls.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 152331,
+      "repo_bytes": 149230,
+      "sha256": "8f521c1ca9e4c4f6bc37c15fb322247a9dd43805c27960ed34b3b4b84b6f4a55"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/sessions/2026-10-13T23-21-16-053Z_01a13791-fa15-770f-8523-c219999bafda.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cde3/sessions/pi/2026-10-13T23-21-16-053Z_01a13791-fa15-770f-8523-c219999bafda.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 40093083,
+      "repo_bytes": 933290,
+      "sha256": "bb1760d3311fe0147265fa352fed9c229b771677fb8c21843de440aca32c7199"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW3 restart (Claude Opus 5.5)/sessions/[local path redacted]__2026-10-13T23-21-16-053Z_01a13791-fa15-770f-8523-c219999bafda.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cde3/sessions/pi/local-session__2026-10-13T23-21-16-053Z_01a13791-fa15-770f-8523-c219999bafda.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 934048,
+      "repo_bytes": 930861,
+      "sha256": "dcac377c7eac5d1ee5ad31632bcff8977344bef8aca6cc221b7a9e45ca90b87d"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "archive": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)",
+  "identity": "ebf843",
+  "files": [
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/lua/CTEST1_finished.lua",
+      "repo_path": "studios/paint-studio-ebf843/lua/archive/CTEST1_finished.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 36829,
+      "repo_bytes": 36829,
+      "sha256": "e864cee935b57955c8e29662e59d4cb45953a50fcde52e006c10e8df58c1a6f7"
+    },
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-ebf843/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 36411,
+      "repo_bytes": 36411,
+      "sha256": "54bc61f71107dfba5286db9bb14932d5035d5811e65dbe22f466aabd75e43c6e"
+    },
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/sessions/2026-09-28T12-37-25-293Z_01a0e805-20ac-7685-828b-6917fcfb7ccb - version 02.jsonl",
+      "repo_path": "studios/paint-studio-ebf843/sessions/pi/2026-09-28T12-37-25-293Z_01a0e805-20ac-7685-828b-6917fcfb7ccb - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 21854083,
+      "repo_bytes": 592576,
+      "sha256": "793ff6fcf6f98526ba6699c1fa1b440657819841115bb628382fe389af6fa15b"
+    },
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/sessions/2026-09-28T12-37-25-293Z_01a0e805-20ac-7685-828b-6917fcfb7ccb.jsonl",
+      "repo_path": "studios/paint-studio-ebf843/sessions/pi/2026-09-28T12-37-25-293Z_01a0e805-20ac-7685-828b-6917fcfb7ccb.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1199114,
+      "repo_bytes": 589091,
+      "sha256": "c0593cbc90158ae4da788cbb90f5558820544a39e88ffe3a6610c07386c62143"
+    },
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/sessions/2026-09-28T13-16-03-172Z_01a0e828-7ee4-7443-9345-392ea0f4e57f - version 02.jsonl",
+      "repo_path": "studios/paint-studio-ebf843/sessions/pi/2026-09-28T13-16-03-172Z_01a0e828-7ee4-7443-9345-392ea0f4e57f - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 237054,
+      "repo_bytes": 149002,
+      "sha256": "9d682bb2c114e4f7de8792e9223f09c62f0e66d2c1bc1f4da7dd4e280a5ea55c"
+    },
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/sessions/2026-09-28T13-16-03-172Z_01a0e828-7ee4-7443-9345-392ea0f4e57f.jsonl",
+      "repo_path": "studios/paint-studio-ebf843/sessions/pi/2026-09-28T13-16-03-172Z_01a0e828-7ee4-7443-9345-392ea0f4e57f.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 4871208,
+      "repo_bytes": 149722,
+      "sha256": "685a81b71ef6666c9214e0b34b3e844d879fc8a5fb3cf26afd7e0b65615c8086"
+    },
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/sessions/2026-09-28T13-20-23-468Z_01a0e82c-77ab-73fe-84bc-b710b587b7f9 - version 02.jsonl",
+      "repo_path": "studios/paint-studio-ebf843/sessions/pi/2026-09-28T13-20-23-468Z_01a0e82c-77ab-73fe-84bc-b710b587b7f9 - version 02.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 117399,
+      "repo_bytes": 93096,
+      "sha256": "cea436a95f1fc0c490b6124b8177da89edf55db8863fe037f430f7a41fcd2e1a"
+    },
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/sessions/2026-09-28T13-20-23-468Z_01a0e82c-77ab-73fe-84bc-b710b587b7f9.jsonl",
+      "repo_path": "studios/paint-studio-ebf843/sessions/pi/2026-09-28T13-20-23-468Z_01a0e82c-77ab-73fe-84bc-b710b587b7f9.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1853752,
+      "repo_bytes": 93384,
+      "sha256": "74fa3cb8c483a58994adc1b187d8e065f1221ae6696412cb462f769c72f25777"
+    },
+    {
+      "archive_path": "2026-09-28 r19 A Thread of Dawn (GPT-6 Luna)/sessions/events.json",
+      "repo_path": "studios/paint-studio-ebf843/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 155035,
+      "repo_bytes": 147785,
+      "sha256": "d6440f5f17f1e32f360886f57ae14b85d80b040a113c4c12cbebcbd8d57a8e7d"
+    }
+  ]
+}

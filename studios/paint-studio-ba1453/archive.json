@@ -1,0 +1,18 @@
+{
+  "archive": "2026-10-02 runknown untitled (Space Bunny Free)",
+  "identity": "ba1453",
+  "files": [
+    {
+      "archive_path": "2026-10-02 runknown untitled (Space Bunny Free)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-ba1453/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 325875,
+      "repo_bytes": 325875,
+      "sha256": "7e99676edb608ee77394a8449cce4d871af1f2d4cbde94468a6fabd90a6673fa"
+    }
+  ],
+  "exclusions": [
+    "Session logs, viewer logs and sitting records are private under OpenRouter stealth-model confidentiality terms."
+  ]
+}

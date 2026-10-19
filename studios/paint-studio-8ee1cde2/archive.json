@@ -1,0 +1,249 @@
+{
+  "archive": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)",
+  "identity": "8ee1cde2",
+  "files": [
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/painting.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 92117,
+      "repo_bytes": 92117,
+      "sha256": "741334d516a75b9ebc4ef143ae7503623a957e92261d2bec2fb880a178e1d35b"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch - version 02.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch - version 02.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1139,
+      "repo_bytes": 1139,
+      "sha256": "33c0cf6aa37046d321356557b8ff30d1c7c416066a6ab3cd5dcbd31c32746bfc"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch - version 03.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch - version 03.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2283,
+      "repo_bytes": 2283,
+      "sha256": "547eb0595102f6f2749debbdd1745202e6f6d052cc1ec68e07a4daa780b976ad"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-1.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1567,
+      "repo_bytes": 1567,
+      "sha256": "fc2c0355baed59bf2d4afcab95e562f7d060c1d9e2e2c6c74a4ef23ec306f47f"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-10.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-10.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1044,
+      "repo_bytes": 1044,
+      "sha256": "fe9d14525e518827861fac8700778a94a51eefc4837d7444b0a9a4a9df555295"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-11.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-11.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1860,
+      "repo_bytes": 1860,
+      "sha256": "c6efc421cbe106541c617963a9ca83345fae25f89cf178fb4147b10f2f5e1f87"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-12.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-12.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1674,
+      "repo_bytes": 1674,
+      "sha256": "a2ed1d7ff5276fffa04d92eefda4a9b6823097f643790771937847946292e811"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-13.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-13.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1908,
+      "repo_bytes": 1908,
+      "sha256": "e6621dbf7b655158cc0cf53d6b10a76c52e93103c4a8bfdca55875e7d6cc2201"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-14.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-14.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2260,
+      "repo_bytes": 2260,
+      "sha256": "6564eaf8af9dbf3e75f900d289a2bf29676e236e4217d073bb0eac75bb0e9935"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-15.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-15.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3320,
+      "repo_bytes": 3320,
+      "sha256": "f728d5157673d88f3d79901171200736cdf334e4df22faff65d276cd23389ee6"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-16.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-16.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3034,
+      "repo_bytes": 3034,
+      "sha256": "692eed8f1069d575cf856782a3acaa8ca5d0d2fc6b86a222c2908b4e24c0024f"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-17.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-17.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2101,
+      "repo_bytes": 2101,
+      "sha256": "bc6951dd83e32d160af01cf64fa7d3a2d2a920d2e4a8523352472624a18772bd"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-18.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-18.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2606,
+      "repo_bytes": 2606,
+      "sha256": "22fbd237060f97ebdf6d7809bd6750a2a00ff6c3ad51cb9308fef10330f47f96"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-19.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-19.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5262,
+      "repo_bytes": 5262,
+      "sha256": "377bae2ce9c8fa0c425d1fcd473d93ae0ddf3805c578f3073e9045d50d2e21e3"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-2.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1810,
+      "repo_bytes": 1810,
+      "sha256": "b69bc3a263ebaf4b8a024dcef87bbe3346e4b19dabf9c8d274dbc27ac6a989fe"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-20.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-20.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 5840,
+      "repo_bytes": 5840,
+      "sha256": "488c5a78792865bdb913f887a879c59123ed523b54d6313df821ccdee06bf5c7"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-3.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-3.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2274,
+      "repo_bytes": 2274,
+      "sha256": "a35c4ad1a040e4c0aad56789d8cc1f5409d7c8a6aed21312e6077b445fc3b875"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-4.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-4.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1751,
+      "repo_bytes": 1751,
+      "sha256": "fc5b70328af51fef0c97e0f2c94e33dd08b6d856703050a5ac8275b0bdd4f824"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-5.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-5.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1109,
+      "repo_bytes": 1109,
+      "sha256": "aefa52c5f2544eccc599f7ea3345b8961c29aa1f3d46e3e85ffd2c9303bf718e"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-6.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-6.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1381,
+      "repo_bytes": 1381,
+      "sha256": "4e8d570e0cd69c207e3f4f8e2897cf58f28bd4ecd50bd3454a8d63a8ef64521b"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-7.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-7.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 3160,
+      "repo_bytes": 3160,
+      "sha256": "b5d3cf3b500da378557d295c316203e5500010cc507e466a38735fe02baed24a"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-8.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-8.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1022,
+      "repo_bytes": 1022,
+      "sha256": "e109f8bf55bb44370f38b83c3f8de66ca90d9ffeab0497619a84878a8b9dbb5c"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch-9.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch-9.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1867,
+      "repo_bytes": 1867,
+      "sha256": "99b8f3ef0292bd0f273e908318ba3a6465dfb060dabb8d2ae629f3a7a488839b"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/lua/scratch.lua",
+      "repo_path": "studios/paint-studio-8ee1cde2/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1834,
+      "repo_bytes": 1834,
+      "sha256": "2de88f080f7ecb0f4ef190a6be84bd59b312379517cea57065e811fd9281ae3c"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/sessions/tool-calls.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cde2/sessions/native/tool-calls.jsonl",
+      "kind": "sessions",
+      "session_kind": "native",
+      "source_bytes": 230480,
+      "repo_bytes": 224860,
+      "sha256": "a7ba54cce51a3dcb381f4403a89e9824249a53968a8f7c041d7aa409e70dbfb6"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/sessions/2026-10-13T23-16-40-853Z_01a1378d-c714-7215-b335-9ff4d21092ea.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cde2/sessions/pi/2026-10-13T23-16-40-853Z_01a1378d-c714-7215-b335-9ff4d21092ea.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 117773504,
+      "repo_bytes": 2209125,
+      "sha256": "f73abef950622f6354fcece7766564ddfea70b5b0320472a1d6f73713a975ae5"
+    },
+    {
+      "archive_path": "2026-10-13 runknown untitled — RW2 restart (Claude Opus 5.5)/sessions/[local path redacted]__2026-10-13T23-16-40-853Z_01a1378d-c714-7215-b335-9ff4d21092ea.jsonl",
+      "repo_path": "studios/paint-studio-8ee1cde2/sessions/pi/local-session__2026-10-13T23-16-40-853Z_01a1378d-c714-7215-b335-9ff4d21092ea.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2207539,
+      "repo_bytes": 2201935,
+      "sha256": "8bd54d708d880dbd72019de4493c189c1f8e64c7614e7d8e3ad1b3dfe5532137"
+    }
+  ]
+}
