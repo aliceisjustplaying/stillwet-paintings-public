@@ -1,0 +1,105 @@
+{
+  "archive": "2026-09-23 r03 untitled (Claude Opus 5.5)",
+  "identity": "r03-near",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/finals/r03-near.png",
+      "repo_path": "paintings/r03-near/finals/r03-near.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 1101866,
+      "repo_bytes": 1101866,
+      "sha256": "e0ebc34c924158b5f118d9842fc602fb305b1ceeeec59464311c2e147e2c1de4"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/finals/r03-near.src.jpg",
+      "repo_path": "paintings/r03-near/finals/r03-near.src.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 260760,
+      "repo_bytes": 260760,
+      "sha256": "fc7cc78db3f39a524f78c6384a97d3961925e9f1a8809ba287eb77c4cdf8377b"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/lua/r03-near.lua",
+      "repo_path": "paintings/r03-near/lua/archive/r03-near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 36741,
+      "repo_bytes": 36741,
+      "sha256": "c3c39d0907a6e422b2c2051cb641d9215cfa14b10ead88ea82bdb1310187ad04"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/sessions/2026-09-23T12-12-52-879Z_e6e5630c-21735057-10d879ae-4b55.jsonl",
+      "repo_path": "paintings/r03-near/sessions/pi/2026-09-23T12-12-52-879Z_e6e5630c-21735057-10d879ae-4b55.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10971068,
+      "repo_bytes": 526925,
+      "sha256": "f262d132295f741ada8c251e659863cf79cf980b296b72012099058f7fa283c5"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r03-near/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 246337,
+      "repo_bytes": 240294,
+      "sha256": "a19cbeadca936ea87371100b16726e8a2221531ef1ce5ee1510b35a961dee1ba"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/video/easel3-near.mp4",
+      "repo_path": "paintings/r03-near/video/easel3-near.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 10074775,
+      "repo_bytes": 10074775,
+      "sha256": "5555b45ec41f1733c4ffa253313e902a7b88a496fc730deb57bee9afb81a3686"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/video/r03-near - version 02.mp4",
+      "repo_path": "paintings/r03-near/video/r03-near - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1052343,
+      "repo_bytes": 1052343,
+      "sha256": "1fd1bcebabd7385e4298410c82344ea029b4010e744cf7510d0bb2c855c52615"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/video/r03-near - version 03.mp4",
+      "repo_path": "paintings/r03-near/video/r03-near - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1200783,
+      "repo_bytes": 1200783,
+      "sha256": "f5339f55a05880fea5ad6cdb2dbacfd5c741074b7945f5bf354c7c4e5326b75e"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/video/r03-near - version 04.mp4",
+      "repo_path": "paintings/r03-near/video/r03-near - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5847120,
+      "repo_bytes": 5847120,
+      "sha256": "c2f3c78a7c78b9641983ce964eadf7f0eab479199a85d33e85b2df3a2c8e35fe"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/video/r03-near-social.mp4",
+      "repo_path": "paintings/r03-near/video/r03-near-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1230971,
+      "repo_bytes": 1230971,
+      "sha256": "89b33c3744baf2a9dc2932039b7560bfe72276af574f6ff13cad51afcdba74ae"
+    },
+    {
+      "archive_path": "2026-09-23 r03 untitled (Claude Opus 5.5)/video/r03-near.mp4",
+      "repo_path": "paintings/r03-near/video/r03-near.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1203911,
+      "repo_bytes": 1203911,
+      "sha256": "4968e8f76cc8029127b29c3ab2a43935f78a6d8c3d79c58cd830d031daddc98c"
+    }
+  ]
+}

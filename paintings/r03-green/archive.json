@@ -1,0 +1,105 @@
+{
+  "archive": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)",
+  "identity": "r03-green",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/finals/r03-green.png",
+      "repo_path": "paintings/r03-green/finals/r03-green.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 790201,
+      "repo_bytes": 790201,
+      "sha256": "eee5fe88bf86e8e242409a83bb3bafabbfb5bb70c547e06cff00c2bbecc51d49"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/finals/r03-green.src.jpg",
+      "repo_path": "paintings/r03-green/finals/r03-green.src.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 164585,
+      "repo_bytes": 164585,
+      "sha256": "a799592d69a3bd092efdbead8a2ff28c3d92ab927e1b75f961d4ed79ab079510"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/lua/r03-green.lua",
+      "repo_path": "paintings/r03-green/lua/archive/r03-green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 32286,
+      "repo_bytes": 32286,
+      "sha256": "82bd6b9c7a1ee7c73e2c21365fbe2c48e0472af543ea662f5345a2bc7c643f87"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/sessions/2026-09-23T12-12-52-832Z_3719cda8-8462a26c-8cdd407f-ec5b.jsonl",
+      "repo_path": "paintings/r03-green/sessions/pi/2026-09-23T12-12-52-832Z_3719cda8-8462a26c-8cdd407f-ec5b.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7599264,
+      "repo_bytes": 578799,
+      "sha256": "44ae8cdbe281abb919dc3dd45c59b048b0904bc637dd68eabd65ac49edb7d344"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r03-green/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 266427,
+      "repo_bytes": 259497,
+      "sha256": "236c26262a4c514b857efb909023ecd509d9d30d85363ff11cbf78d18260f263"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/video/easel3-green.mp4",
+      "repo_path": "paintings/r03-green/video/easel3-green.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5001273,
+      "repo_bytes": 5001273,
+      "sha256": "62177560681584f2c68d9f30b8a2929b37e796665f94c044dc961d46797bd5bc"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/video/r03-green - version 02.mp4",
+      "repo_path": "paintings/r03-green/video/r03-green - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 624269,
+      "repo_bytes": 624269,
+      "sha256": "9ee1563b1ca26e7abf8c88d8b8186579b27ab9ffdd621d9d8ecc38dc5bcc0911"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/video/r03-green - version 03.mp4",
+      "repo_path": "paintings/r03-green/video/r03-green - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3433707,
+      "repo_bytes": 3433707,
+      "sha256": "c97810b9c1a713ee9d33a584141a91f9cbdbce165116092b61c703051026b6f9"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/video/r03-green - version 04.mp4",
+      "repo_path": "paintings/r03-green/video/r03-green - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 506694,
+      "repo_bytes": 506694,
+      "sha256": "6f807ae5d93a30ea371017441cc2b9d32043b0ae245e30ce119769eac210b4fe"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/video/r03-green-social.mp4",
+      "repo_path": "paintings/r03-green/video/r03-green-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 701487,
+      "repo_bytes": 701487,
+      "sha256": "adb7cd4e064cfa12458dda9b3d813b935762b9ebb5a18ae865dcf53c779f78b1"
+    },
+    {
+      "archive_path": "2026-09-23 r03 The Oak on the Common, Summer Morning (Claude Opus 5.5)/video/r03-green.mp4",
+      "repo_path": "paintings/r03-green/video/r03-green.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 621141,
+      "repo_bytes": 621141,
+      "sha256": "9b2874b7699ad3193f4d29d2b2c0c681d184a24b462b85a063335509459cfd71"
+    }
+  ]
+}

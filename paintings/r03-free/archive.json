@@ -1,0 +1,123 @@
+{
+  "archive": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)",
+  "identity": "r03-free",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/finals/final-00083.png",
+      "repo_path": "paintings/r03-free/finals/final-00083.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 908464,
+      "repo_bytes": 908464,
+      "sha256": "63a5b87a25e0ca5d6f0032948edfad103e5d6f1f043ac86e7ad7bef78450b88e"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/finals/r03-free.png",
+      "repo_path": "paintings/r03-free/finals/r03-free.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 657582,
+      "repo_bytes": 657582,
+      "sha256": "e20bc6764492dff20864da31bcf790909082a87d0bec9940783a5a3573e4e0ab"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/finals/r03-free.src.jpg",
+      "repo_path": "paintings/r03-free/finals/r03-free.src.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 136885,
+      "repo_bytes": 136885,
+      "sha256": "74fdff9248e6aa70a6c9cbeaa22f2123bed4d7e9acc2f4ac2e077bac20ddced4"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/lua/r03-free.lua",
+      "repo_path": "paintings/r03-free/lua/archive/r03-free.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 32246,
+      "repo_bytes": 32246,
+      "sha256": "d0ff82fbe7268a6a8315e033e7a7225f1e8b14123a177d5fe90e289b8e694657"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/sessions/2026-09-23T12-12-52-787Z_94bb4712-a900c569-66123eb7-8562.jsonl",
+      "repo_path": "paintings/r03-free/sessions/pi/2026-09-23T12-12-52-787Z_94bb4712-a900c569-66123eb7-8562.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7804994,
+      "repo_bytes": 622677,
+      "sha256": "7477590659290670818d1cface83c97f8b1a22105ef02c913b313c552b1729a6"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r03-free/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 297167,
+      "repo_bytes": 280921,
+      "sha256": "671c8772bc5a3255fb4e6d293df62262ce0e9f6321c3e9fa8d088334b418cb48"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r03-free/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 289266,
+      "repo_bytes": 280921,
+      "sha256": "671c8772bc5a3255fb4e6d293df62262ce0e9f6321c3e9fa8d088334b418cb48"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/video/chk.mp4",
+      "repo_path": "paintings/r03-free/video/chk.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 635323,
+      "repo_bytes": 635323,
+      "sha256": "ff86f4a97069c1ed5b9b2face66033beea9f6feee28804c592b699fbd5306ee7"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/video/easel3-free.mp4",
+      "repo_path": "paintings/r03-free/video/easel3-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6055410,
+      "repo_bytes": 6055410,
+      "sha256": "324a388249e73472fa84b31a3b48f982927728dd560cfb66efb6de62364cfc00"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/video/r03-free - version 02.mp4",
+      "repo_path": "paintings/r03-free/video/r03-free - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 638451,
+      "repo_bytes": 638451,
+      "sha256": "8cfe14a113e32c74e999c751f9838e9f3c4fb9d597cf1c9c023f982e5baf9fb8"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/video/r03-free - version 03.mp4",
+      "repo_path": "paintings/r03-free/video/r03-free - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3789985,
+      "repo_bytes": 3789985,
+      "sha256": "65715677acfe3916f5f92a0b5ab2fc66ea6b8d087922cb855b6227a74a882c79"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/video/r03-free-social.mp4",
+      "repo_path": "paintings/r03-free/video/r03-free-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 656391,
+      "repo_bytes": 656391,
+      "sha256": "56f075276649938c059a3e399c9bd1d79baead405e3910bf55705f7882f69978"
+    },
+    {
+      "archive_path": "2026-09-23 r03 Dolmen on the Baltic Shore at Evening (Claude Opus 5.5)/video/r03-free.mp4",
+      "repo_path": "paintings/r03-free/video/r03-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 551764,
+      "repo_bytes": 551764,
+      "sha256": "a69579faf1172fbd623154e106b4d9714b62a1eed45581470e0e33f6e6206fb3"
+    }
+  ]
+}

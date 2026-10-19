@@ -1,0 +1,141 @@
+{
+  "archive": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)",
+  "identity": "r04-green",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/finals/r04-green.png",
+      "repo_path": "paintings/r04-green/finals/r04-green.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 890048,
+      "repo_bytes": 890048,
+      "sha256": "bd00f73d39c58eca83088c73bb3ecbf546f1200bf2dd4b17e13f20c853aa8633"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/finals/r04-green.src.jpg",
+      "repo_path": "paintings/r04-green/finals/r04-green.src.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 192623,
+      "repo_bytes": 192623,
+      "sha256": "15ac0f6704fb6756c7285bdcb19ffeb3f510cf9a9dec1326cdcfcea7bfb7b3b2"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/lua/l1_green.lua",
+      "repo_path": "paintings/r04-green/lua/archive/l1_green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 34792,
+      "repo_bytes": 34792,
+      "sha256": "2aa66ca0819a5bbc4a24cabd51868f6ab038e12c6793a0945a714df255afb2bb"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/lua/l2_green.lua",
+      "repo_path": "paintings/r04-green/lua/archive/l2_green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 41707,
+      "repo_bytes": 41707,
+      "sha256": "2dbfb1fdff45f4b438587edaaa723eea3a7fc3313a7657a3619841729b7bc55f"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/lua/l3_green.lua",
+      "repo_path": "paintings/r04-green/lua/archive/l3_green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 43640,
+      "repo_bytes": 43640,
+      "sha256": "64b0a0dd9909a143c0bbf824290009b7f6f8c653b293636a534b0fa5cbbef0cf"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/lua/r04-green.lua",
+      "repo_path": "paintings/r04-green/lua/archive/r04-green.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 29055,
+      "repo_bytes": 29055,
+      "sha256": "10d789a0ef1ef8ea06c67e0a5374849f413ccd16f184f37ac2cba9ed86fadb1e"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/sessions/2026-09-23T15-50-24-452Z_d1dabb36-24f6c2d5-ee90de37-81be.jsonl",
+      "repo_path": "paintings/r04-green/sessions/pi/2026-09-23T15-50-24-452Z_d1dabb36-24f6c2d5-ee90de37-81be.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6781518,
+      "repo_bytes": 401719,
+      "sha256": "81375752f97b368259999abe3ccdcb89ef1845419cb27181e81465dbda829f36"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/sessions/events - version 02.json",
+      "repo_path": "paintings/r04-green/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 158753,
+      "repo_bytes": 150736,
+      "sha256": "79de0f282d239616b0bca24986f8af9a33a14985b05b9541e1d3cfe6a1097366"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r04-green/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 154793,
+      "repo_bytes": 150736,
+      "sha256": "79de0f282d239616b0bca24986f8af9a33a14985b05b9541e1d3cfe6a1097366"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/video/easel4-green.mp4",
+      "repo_path": "paintings/r04-green/video/easel4-green.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3531328,
+      "repo_bytes": 3531328,
+      "sha256": "7864843a2bbe2c9c0ad06d6a5f92db3771baf84508d067738bdd2fa551456008"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/video/r04-green - version 02.mp4",
+      "repo_path": "paintings/r04-green/video/r04-green - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 759882,
+      "repo_bytes": 759882,
+      "sha256": "19ee2898a95e5ba0fd781ec733639d4382ffb6f6416bee79482a72cadb4bb979"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/video/r04-green - version 03.mp4",
+      "repo_path": "paintings/r04-green/video/r04-green - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 680821,
+      "repo_bytes": 680821,
+      "sha256": "352e0d43587b16a77780349981dd7a6b7751d7ab518682b7c38d27cd7c26dba3"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/video/r04-green - version 04.mp4",
+      "repo_path": "paintings/r04-green/video/r04-green - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 756754,
+      "repo_bytes": 756754,
+      "sha256": "3156625e8c3c25cfff0e1cdfd9e9705706d4921be102ec5a6a5dc5414da6e4f3"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/video/r04-green-social.mp4",
+      "repo_path": "paintings/r04-green/video/r04-green-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 825083,
+      "repo_bytes": 825083,
+      "sha256": "b8c7b647017a52734cdfe80d725c3e88db5674d13685038c30ba5f76c1791ac4"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Summer Morning above the River Valley (Claude Opus 5.5)/video/r04-green.mp4",
+      "repo_path": "paintings/r04-green/video/r04-green.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2560860,
+      "repo_bytes": 2560860,
+      "sha256": "a9097d81ac2e1d1cbe9c2307ce9de1bc044a7d15e802d9f6a26ac76a3b7d7e97"
+    }
+  ]
+}

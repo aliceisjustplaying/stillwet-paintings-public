@@ -1,0 +1,78 @@
+{
+  "archive": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)",
+  "identity": "r01-mountains",
+  "files": [
+    {
+      "archive_path": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)/finals/r01-mountains.png",
+      "repo_path": "paintings/r01-mountains/finals/r01-mountains.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 507345,
+      "repo_bytes": 507345,
+      "sha256": "f4cfdf349d63caa80ec549e57336711b74001914faff474d7d51789d9e1ccc45"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)/sessions/2026-09-22T21-59-38-610Z_97b9c6cf-717ee6b0-9275b4e9-4499.jsonl",
+      "repo_path": "paintings/r01-mountains/sessions/pi/2026-09-22T21-59-38-610Z_97b9c6cf-717ee6b0-9275b4e9-4499.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5349693,
+      "repo_bytes": 641857,
+      "sha256": "460738aa79114b2fb8722a6a1bd8272d699625df034f1df6fbe16357e074a352"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r01-mountains/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 323429,
+      "repo_bytes": 319762,
+      "sha256": "7c9d5f1b597e36ebce71982902eaed6dfec34a963fae014a746b017d293a5c4c"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)/video/r01-mountains - version 02.mp4",
+      "repo_path": "paintings/r01-mountains/video/r01-mountains - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4230076,
+      "repo_bytes": 4230076,
+      "sha256": "6181cd7ea262d3475545af46f84b644102d2f4d67b3587ed2df1ec3a2f0f5216"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)/video/r01-mountains - version 03.mp4",
+      "repo_path": "paintings/r01-mountains/video/r01-mountains - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3609647,
+      "repo_bytes": 3609647,
+      "sha256": "de92c16721076d0e367d576a382b97b177556b05726b3d834287524646e7ed89"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)/video/r01-mountains - version 04.mp4",
+      "repo_path": "paintings/r01-mountains/video/r01-mountains - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2878957,
+      "repo_bytes": 2878957,
+      "sha256": "eeefb29b4cac09de74d9f91ab238073810955636172057264f424af1dcacdfae"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)/video/r01-mountains.mp4",
+      "repo_path": "paintings/r01-mountains/video/r01-mountains.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4085003,
+      "repo_bytes": 4085003,
+      "sha256": "4ca4a4963a855684e32b665966f82f01bb9bc54527e8e2e275ecbe0ded381dec"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — mountains (Claude Opus 5.5)/video/r02-fresh-3.mp4",
+      "repo_path": "paintings/r01-mountains/video/r02-fresh-3.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 6653255,
+      "repo_bytes": 6653255,
+      "sha256": "33fbe18832189bcdfd91b24bf9ac9abc842a52b0c1b38da9451a3a191b4eb362"
+    }
+  ]
+}

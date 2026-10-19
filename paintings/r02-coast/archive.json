@@ -1,0 +1,87 @@
+{
+  "archive": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)",
+  "identity": "r02-coast",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/finals/99_final.jpg",
+      "repo_path": "paintings/r02-coast/finals/99_final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 221619,
+      "repo_bytes": 221619,
+      "sha256": "3290f67367acb254d77c2e1f545e1e54ae5c68b2c35be55ef1e5fc6f80c6aca2"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/finals/r02-coast.png",
+      "repo_path": "paintings/r02-coast/finals/r02-coast.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 666455,
+      "repo_bytes": 666455,
+      "sha256": "9eebc6aad74cf4b46ce24d33f4e898bfa17aab12692e535f2e3391b6c81629b0"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/sessions/2026-09-23T01-26-08-077Z_d8b32f3b-24a4f6db-76db6f15-81d3.jsonl",
+      "repo_path": "paintings/r02-coast/sessions/pi/2026-09-23T01-26-08-077Z_d8b32f3b-24a4f6db-76db6f15-81d3.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10107347,
+      "repo_bytes": 862180,
+      "sha256": "2662d0f5ebae0ef2b41e54d948db55b396cacbdc6e904f7ca5270d4c3378d12d"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r02-coast/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 411590,
+      "repo_bytes": 405762,
+      "sha256": "6c228cdf1b2c26b7a126447001f5603baeb5c4d80659a2e46dc275a71245c7d7"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/video/r02-coast - version 02.mp4",
+      "repo_path": "paintings/r02-coast/video/r02-coast - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 8511113,
+      "repo_bytes": 8511113,
+      "sha256": "3040af79755622fcb34b794831c66324ee9423ba07e1138dbbbbbd6e9721c173"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/video/r02-coast - version 03.mp4",
+      "repo_path": "paintings/r02-coast/video/r02-coast - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 8333815,
+      "repo_bytes": 8333815,
+      "sha256": "690c48cc63a0d760646e20b2188a68c397a72589f87ad2f04a1d68a41b3e8d3a"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/video/r02-coast - version 04.mp4",
+      "repo_path": "paintings/r02-coast/video/r02-coast - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 3521821,
+      "repo_bytes": 3521821,
+      "sha256": "2b8d38c74b287aaea8a62bbef99341fbdf0f784c75ff95f016a6e67b61e3e53d"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/video/r02-coast.mp4",
+      "repo_path": "paintings/r02-coast/video/r02-coast.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4470368,
+      "repo_bytes": 4470368,
+      "sha256": "f461d3fa4240359c1c60551bc79664035764ee2f208a68bbbe3a828ad27bf257"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Morning on the Shore at Arkona (Claude Opus 5.5)/video/r03-amnesia-coast.mp4",
+      "repo_path": "paintings/r02-coast/video/r03-amnesia-coast.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 7303814,
+      "repo_bytes": 7303814,
+      "sha256": "304ffda6d063606c1e00783cb7124e90df309ec73864a15bf745b97d3fb34bed"
+    }
+  ]
+}

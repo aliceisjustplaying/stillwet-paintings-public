@@ -1,0 +1,195 @@
+{
+  "archive": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)",
+  "identity": "27183e",
+  "files": [
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/finals/oyo1 - version 02.png",
+      "repo_path": "paintings/oyo1/finals/oyo1 - version 02.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 4704479,
+      "repo_bytes": 4704479,
+      "sha256": "338cba40fb19e3b30d4a0631310261383d095b41aea61931f9916d067e072a07"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/finals/oyo1 - version 03.png",
+      "repo_path": "paintings/oyo1/finals/oyo1 - version 03.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 3857458,
+      "repo_bytes": 3857458,
+      "sha256": "1b0fa4cd9ba12aece54880852acee9d51ff2fee71d6aa524c5b935835c03d25e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/finals/oyo1-color.jpg",
+      "repo_path": "paintings/oyo1/finals/oyo1-color.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 106215,
+      "repo_bytes": 106215,
+      "sha256": "5dc3ea409933ef33585aead5986d7c0bed1e8a38dcc566a083f0b8328f5379f8"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/finals/oyo1-gallery.jpg",
+      "repo_path": "paintings/oyo1/finals/oyo1-gallery.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 122324,
+      "repo_bytes": 122324,
+      "sha256": "d113809324939352dafccae410914f3afdbe97dcf9e19b9a2dc2f4ba5df2652e"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/finals/oyo1-relief.jpg",
+      "repo_path": "paintings/oyo1/finals/oyo1-relief.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 149124,
+      "repo_bytes": 149124,
+      "sha256": "75e94fe4bc9c873a315d5c38c6118ce9f7eb352bc01a7ca2bad11b2f77609daf"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/finals/oyo1.png",
+      "repo_path": "paintings/oyo1/finals/oyo1.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2386705,
+      "repo_bytes": 2386705,
+      "sha256": "bebf0f232de995120e4f9f37390b76b21e431dc1b8ac1fa69c6313b5d8d28a2c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/lua/painting.lua",
+      "repo_path": "paintings/oyo1/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 41095,
+      "repo_bytes": 41095,
+      "sha256": "167c14ed994ec512c2be9dd9ebded69c3770085ec41a3d638a674734a3394cde"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/lua/scratch-1.lua",
+      "repo_path": "paintings/oyo1/lua/archive/scratch-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 2769,
+      "repo_bytes": 2769,
+      "sha256": "d4b50fa7bd829cd3394f0f5fb1db24d37fd9923db34421d6397c0d0ea91ff247"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/lua/scratch.lua",
+      "repo_path": "paintings/oyo1/lua/archive/scratch.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1446,
+      "repo_bytes": 1446,
+      "sha256": "e459896a551ae516204b231eda8caecce3130b8b26ec862911e8c775a2721c8a"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/2026-10-12T18-33-56-089Z_01a13164-8e78-7095-a618-80a80b14f8c0.jsonl",
+      "repo_path": "paintings/oyo1/sessions/pi/2026-10-12T18-33-56-089Z_01a13164-8e78-7095-a618-80a80b14f8c0.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 37779511,
+      "repo_bytes": 321115,
+      "sha256": "6cb0ce7c0319892cef62bbc6f037b541c12ab632608afbcf0c208e3b18e465c9"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/2026-10-12T19-10-45-666Z_01a13186-45a1-7721-a812-56664c779f47.jsonl",
+      "repo_path": "paintings/oyo1/sessions/pi/2026-10-12T19-10-45-666Z_01a13186-45a1-7721-a812-56664c779f47.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 5462885,
+      "repo_bytes": 146637,
+      "sha256": "1e87437496ed29f733de3af55a721fbb369364a682a95f990d7e42c99b7b5067"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/2026-10-12T19-17-28-514Z_01a1318c-6b41-74e7-949a-23a212407e15.jsonl",
+      "repo_path": "paintings/oyo1/sessions/pi/2026-10-12T19-17-28-514Z_01a1318c-6b41-74e7-949a-23a212407e15.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 1527983,
+      "repo_bytes": 90081,
+      "sha256": "82e5c0c154dfc14ca895c544020fab20823e32d810df41c0807d1497909e0fe3"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/2026-10-12T19-20-42-275Z_01a1318f-6022-742a-9f45-f004b3581a70.jsonl",
+      "repo_path": "paintings/oyo1/sessions/pi/2026-10-12T19-20-42-275Z_01a1318f-6022-742a-9f45-f004b3581a70.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7684991,
+      "repo_bytes": 127816,
+      "sha256": "fac4d0299a202449ca49cc3423b870fd554b049ceba6530a466f290537168891"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/events - version 02.json",
+      "repo_path": "paintings/oyo1/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 169099,
+      "repo_bytes": 158911,
+      "sha256": "dee4f38dce24a92cf6386a5bbfa7284cc32fa0fadd14d1497a705002cfafc57d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/events - version 03.json",
+      "repo_path": "paintings/oyo1/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 163234,
+      "repo_bytes": 158911,
+      "sha256": "dee4f38dce24a92cf6386a5bbfa7284cc32fa0fadd14d1497a705002cfafc57d"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/events - version 04.json",
+      "repo_path": "paintings/oyo1/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 163234,
+      "repo_bytes": 158911,
+      "sha256": "424f027c946cee76dfdecf46782488bcdbfcce9107301cc07547ace72d073890"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/events.json",
+      "repo_path": "paintings/oyo1/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 169099,
+      "repo_bytes": 158911,
+      "sha256": "424f027c946cee76dfdecf46782488bcdbfcce9107301cc07547ace72d073890"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/packet - version 02.json",
+      "repo_path": "paintings/oyo1/sessions/viewer/packet - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 13243,
+      "repo_bytes": 11271,
+      "sha256": "cbc5b42aa14c3e14784d2328687133a912a99ab7ec7c4544ca8131948c49fb88"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/sessions/packet.json",
+      "repo_path": "paintings/oyo1/sessions/viewer/packet.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 12654,
+      "repo_bytes": 10857,
+      "sha256": "640387a74f7cde1901ffe65697fb0411dc4ce64c12a46237ef25088d10e4972b"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/video/oyo1 - version 02.mp4",
+      "repo_path": "paintings/oyo1/video/oyo1 - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2036839,
+      "repo_bytes": 2036839,
+      "sha256": "d54aba9c2ebb128e397d083ce596265b30ba974606aebff6c4fd1c12bdc16f4c"
+    },
+    {
+      "archive_path": "2026-10-12 r00 After Harvest, Storm Coming (Muse Wonder Full 1.0)/video/oyo1.mp4",
+      "repo_path": "paintings/oyo1/video/oyo1.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2039967,
+      "repo_bytes": 2039967,
+      "sha256": "3c4d51c28365a27d9fcf3bb307397786024b97ad74d468fd11d301a25c9bf71e"
+    }
+  ]
+}

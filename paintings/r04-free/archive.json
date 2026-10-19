@@ -1,0 +1,105 @@
+{
+  "archive": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)",
+  "identity": "r04-free",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/finals/r04-free.p1000.png",
+      "repo_path": "paintings/r04-free/finals/r04-free.p1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 806982,
+      "repo_bytes": 806982,
+      "sha256": "fb403100c93a922a55c34d52260c0885a6faeb181dc41a4b3550cd502cf55143"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/finals/r04-free.png",
+      "repo_path": "paintings/r04-free/finals/r04-free.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 7893885,
+      "repo_bytes": 7893885,
+      "sha256": "06229e70ea8075fa179cbc261699825c64ea0f3318ba0ba21fcb693ee7fd08c6"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/lua/r04-free.lua",
+      "repo_path": "paintings/r04-free/lua/archive/r04-free.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 28839,
+      "repo_bytes": 28839,
+      "sha256": "b42be2c376db7dd5657e295880d44e24675d6fba5e4a04ee511bd3c4ea153a89"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/sessions/2026-09-23T15-50-24-310Z_0ac6b581-989ff27b-d56a1a8e-9fa0.jsonl",
+      "repo_path": "paintings/r04-free/sessions/pi/2026-09-23T15-50-24-310Z_0ac6b581-989ff27b-d56a1a8e-9fa0.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 7226730,
+      "repo_bytes": 517688,
+      "sha256": "ed1124d4ed7d356d56ce637b90cf84677e4a8e03cc9366398577eb1c03298e6c"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r04-free/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 242335,
+      "repo_bytes": 235797,
+      "sha256": "e7d17e65b217309cb4cd6174b88e0c79c44629636f4e698d7c7e0c49b7be65d3"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/video/easel4-free.mp4",
+      "repo_path": "paintings/r04-free/video/easel4-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2787157,
+      "repo_bytes": 2787157,
+      "sha256": "f0ee6c85dbcf0a034a6230bf8f7f7240ce9f57ec00eace9c37d2e8fda6fd6eb9"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/video/r04-free - version 02.mp4",
+      "repo_path": "paintings/r04-free/video/r04-free - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 462400,
+      "repo_bytes": 462400,
+      "sha256": "42c12ece1ae7a91d624ef252b6648cd62a04c8e78ebe13812126d4b9c4a2b6cb"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/video/r04-free - version 03.mp4",
+      "repo_path": "paintings/r04-free/video/r04-free - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 465528,
+      "repo_bytes": 465528,
+      "sha256": "c83a113f21a2696f333e4055651c14d2b9f27712964069631893e662ad7a8143"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/video/r04-free - version 04.mp4",
+      "repo_path": "paintings/r04-free/video/r04-free - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 396977,
+      "repo_bytes": 396977,
+      "sha256": "ed3b2b099ef3e6f6567ee17f9ad06d0b52ae9cebed368e938d5e1b68c36e805d"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/video/r04-free-social.mp4",
+      "repo_path": "paintings/r04-free/video/r04-free-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 485697,
+      "repo_bytes": 485697,
+      "sha256": "44958586f5f2d12e63279f46bd02b021108c7a72b896836685797179d7d599a2"
+    },
+    {
+      "archive_path": "2026-09-23 r04 Evening on the Heath - Dead Oak and Hünengrab (Claude Opus 5.5)/video/r04-free.mp4",
+      "repo_path": "paintings/r04-free/video/r04-free.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2124629,
+      "repo_bytes": 2124629,
+      "sha256": "baeed0009d95b5fc02010b9b6bcaf340a73c06366183001e772ba5ef72e6d50f"
+    }
+  ]
+}

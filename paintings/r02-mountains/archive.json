@@ -1,0 +1,78 @@
+{
+  "archive": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)",
+  "identity": "r02-mountains",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)/finals/99_final.jpg",
+      "repo_path": "paintings/r02-mountains/finals/99_final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 285679,
+      "repo_bytes": 285679,
+      "sha256": "fa959e32419ec29da38c6d958949df7b4acbd74014e09fbbca49ede93b9f36f0"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)/finals/r02-mountains.png",
+      "repo_path": "paintings/r02-mountains/finals/r02-mountains.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 794729,
+      "repo_bytes": 794729,
+      "sha256": "4275469cb7301062ae21cee87ca1e827fcf13a63fffa92e25d4169c23b1e5750"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)/sessions/2026-09-23T01-26-08-101Z_a86746be-f65a5fbf-0a25eaa8-fdbf.jsonl",
+      "repo_path": "paintings/r02-mountains/sessions/pi/2026-09-23T01-26-08-101Z_a86746be-f65a5fbf-0a25eaa8-fdbf.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 10535370,
+      "repo_bytes": 796588,
+      "sha256": "3e56ac124e65991a3f539053e393e920066aa9c54ac4ff5383a9b01f6a3fdf91"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r02-mountains/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 360824,
+      "repo_bytes": 355949,
+      "sha256": "59b22f525e4ba279ead932302bd5b4ee21e74e8df2dafd46a5b74eb62f596b79"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)/video/r02-mountains - version 02.mp4",
+      "repo_path": "paintings/r02-mountains/video/r02-mountains - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2118392,
+      "repo_bytes": 2118392,
+      "sha256": "4b208993e197ec239afdcc2029477233cfa64767b0234bfe69d787ee5d1c34a7"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)/video/r02-mountains - version 03.mp4",
+      "repo_path": "paintings/r02-mountains/video/r02-mountains - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 7780733,
+      "repo_bytes": 7780733,
+      "sha256": "4bdb32ec9ab6adcea720519209dd9303a4c84bbba2a08b4ed461a26db5a3c35f"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)/video/r02-mountains.mp4",
+      "repo_path": "paintings/r02-mountains/video/r02-mountains.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2533444,
+      "repo_bytes": 2533444,
+      "sha256": "73891dc26545b5799c8796e30cb5c1db3baa5957ee7531f4f8c12f30f6a3302a"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Daybreak in the Riesengebirge (Claude Opus 5.5)/video/r03-amnesia-mountains.mp4",
+      "repo_path": "paintings/r02-mountains/video/r03-amnesia-mountains.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4956716,
+      "repo_bytes": 4956716,
+      "sha256": "c88b9d9c3a2b9d9a79bd9c683382fdaba257a0296e947a77be5f5d0a343a85e2"
+    }
+  ]
+}

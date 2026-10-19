@@ -1,0 +1,105 @@
+{
+  "archive": "2026-10-07 r00 untitled (GPT-6 Astra)",
+  "identity": "e4d2a2",
+  "files": [
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/finals/studio.1000.png",
+      "repo_path": "paintings/paint-studio-e4d2a2/finals/studio.1000.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 513629,
+      "repo_bytes": 513629,
+      "sha256": "935b14864c46f0ad2b415469680cf945f8167d67e46d123cff95d03d5d9a7ae2"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/finals/studio.png",
+      "repo_path": "paintings/paint-studio-e4d2a2/finals/studio.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 2719507,
+      "repo_bytes": 2719507,
+      "sha256": "86c0a75f7b0be80039870a322a96a69774e39c55ad1f7be483cea01608656831"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/lua/chunk-1.lua",
+      "repo_path": "paintings/paint-studio-e4d2a2/lua/archive/chunk-1.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 456,
+      "repo_bytes": 456,
+      "sha256": "aa0a51bb7a0f9f828c23842b0d0d7f0e470343f0d28a104882058f26811ba734"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/lua/chunk-2.lua",
+      "repo_path": "paintings/paint-studio-e4d2a2/lua/archive/chunk-2.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 408,
+      "repo_bytes": 408,
+      "sha256": "bc69ab722c33a2e901aa6a871ccd1f187a575f7118f55a9563593bfc4db6fead"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/lua/painting.lua",
+      "repo_path": "paintings/paint-studio-e4d2a2/lua/archive/painting.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 1054,
+      "repo_bytes": 1054,
+      "sha256": "d535c0a9633adc8d1f3d8789da5e18f27fbe884cb280aba991406748770c5652"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/sessions/2026-10-07T21-17-30-525Z_01a1183a-841c-722f-ae02-3cb40397908d.jsonl",
+      "repo_path": "paintings/paint-studio-e4d2a2/sessions/pi/2026-10-07T21-17-30-525Z_01a1183a-841c-722f-ae02-3cb40397908d.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 2291187,
+      "repo_bytes": 125878,
+      "sha256": "b5eaf9f4a67e5b1a29da0c1b1a5b383b5703e0003e1bebd42add316b73a0b1ba"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/sessions/events - version 02.json",
+      "repo_path": "paintings/paint-studio-e4d2a2/sessions/viewer/events - version 02.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 19901,
+      "repo_bytes": 19447,
+      "sha256": "380a7efb9fb650eacbace014db50f1c42e6d5496b170380fe137941aa798f9ee"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/sessions/events - version 03.json",
+      "repo_path": "paintings/paint-studio-e4d2a2/sessions/viewer/events - version 03.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 20814,
+      "repo_bytes": 19447,
+      "sha256": "380a7efb9fb650eacbace014db50f1c42e6d5496b170380fe137941aa798f9ee"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/sessions/events - version 04.json",
+      "repo_path": "paintings/paint-studio-e4d2a2/sessions/viewer/events - version 04.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 20433,
+      "repo_bytes": 19447,
+      "sha256": "380a7efb9fb650eacbace014db50f1c42e6d5496b170380fe137941aa798f9ee"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/sessions/events.json",
+      "repo_path": "paintings/paint-studio-e4d2a2/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 19878,
+      "repo_bytes": 19426,
+      "sha256": "d015d5e9dec67702857f4f1cc2ebe0f3e4a6b4eec3793580b090afba321f8150"
+    },
+    {
+      "archive_path": "2026-10-07 r00 untitled (GPT-6 Astra)/video/studio.mp4",
+      "repo_path": "paintings/paint-studio-e4d2a2/video/studio.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1169588,
+      "repo_bytes": 1169588,
+      "sha256": "d1ff7ca6049b3c157a8eed8a2b92deebca76acaddb4d8c2a7fc0d5bd6d64ab93"
+    }
+  ]
+}

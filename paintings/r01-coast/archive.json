@@ -1,0 +1,78 @@
+{
+  "archive": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)",
+  "identity": "r01-coast",
+  "files": [
+    {
+      "archive_path": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)/finals/r01-coast.png",
+      "repo_path": "paintings/r01-coast/finals/r01-coast.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 453803,
+      "repo_bytes": 453803,
+      "sha256": "019a64ae9c69a25f6a027105bc38d757db74e3ca151384295d9c388595919bac"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)/sessions/2026-09-22T21-59-38-576Z_ad7233c6-6e12f10d-4ec9b11b-beb0.jsonl",
+      "repo_path": "paintings/r01-coast/sessions/pi/2026-09-22T21-59-38-576Z_ad7233c6-6e12f10d-4ec9b11b-beb0.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 6317845,
+      "repo_bytes": 609922,
+      "sha256": "d6ae4285227242e6b645b1c553df146b3ef14cc494dd9af0cc3a454d7d93cdea"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r01-coast/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 294653,
+      "repo_bytes": 291191,
+      "sha256": "5f6a135b96874f5c6ce19060607811ab4aab0993006eac73e213b21761f7e75a"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)/video/r01-coast - version 02.mp4",
+      "repo_path": "paintings/r01-coast/video/r01-coast - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2795154,
+      "repo_bytes": 2795154,
+      "sha256": "ed26348e41badc018b9b4d6588b47189f95be95bedef27fc17cf463e79feb094"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)/video/r01-coast - version 03.mp4",
+      "repo_path": "paintings/r01-coast/video/r01-coast - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5536532,
+      "repo_bytes": 5536532,
+      "sha256": "5ac134909d7be9a8a62e1d5e0ff86e72352373bde905f3151f616735002cf03f"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)/video/r01-coast - version 04.mp4",
+      "repo_path": "paintings/r01-coast/video/r01-coast - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5506580,
+      "repo_bytes": 5506580,
+      "sha256": "b0efc00cbe73363d87476c20d096ac1954d45574a431791b399859fb33cb171a"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)/video/r01-coast.mp4",
+      "repo_path": "paintings/r01-coast/video/r01-coast.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2304426,
+      "repo_bytes": 2304426,
+      "sha256": "ae6c420792f8553106504c64642ed63ce5c1c63b733859ba52efc4e2484e9234"
+    },
+    {
+      "archive_path": "2026-09-22 r01 untitled — coast (Claude Opus 5.5)/video/r02-fresh-2.mp4",
+      "repo_path": "paintings/r01-coast/video/r02-fresh-2.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4575656,
+      "repo_bytes": 4575656,
+      "sha256": "ce4d45d352f6ab20758b72e375dd5bc04c7d305ac8870264d2bdd1aeee525221"
+    }
+  ]
+}

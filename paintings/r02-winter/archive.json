@@ -1,0 +1,123 @@
+{
+  "archive": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)",
+  "identity": "r02-winter",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/finals/99_final.jpg",
+      "repo_path": "paintings/r02-winter/finals/99_final.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 255701,
+      "repo_bytes": 255701,
+      "sha256": "1cf7eadd4ceb993f3b70596e31ba60d9639e32d109fef44e75deea58df6ac254"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/finals/r02-winter.png",
+      "repo_path": "paintings/r02-winter/finals/r02-winter.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 9503782,
+      "repo_bytes": 9503782,
+      "sha256": "b327b5dfd8bb9aa66411210e1b88a6f9758db078cd4e7b54679c2be00c2cf296"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/sessions/2026-09-23T01-26-08-051Z_aa598520-56f4d44b-d4905e50-9194.jsonl",
+      "repo_path": "paintings/r02-winter/sessions/pi/2026-09-23T01-26-08-051Z_aa598520-56f4d44b-d4905e50-9194.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 13385667,
+      "repo_bytes": 873069,
+      "sha256": "df042e175617327d45c60e552b0fb66a67ab531514f91a5b0c8f0fb84dc42cf9"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r02-winter/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 390200,
+      "repo_bytes": 384921,
+      "sha256": "5e38094e196f8132e318481a8ec128fe29ce9e6e4dfa91521ede3ca1c97a450a"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r02-winter - version 02.mp4",
+      "repo_path": "paintings/r02-winter/video/r02-winter - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4003495,
+      "repo_bytes": 4003495,
+      "sha256": "8e0fc504e72189efcfd81692677f5c3ddbbe934837487cf108fec666ad11af62"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r02-winter - version 03.mp4",
+      "repo_path": "paintings/r02-winter/video/r02-winter - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1876257,
+      "repo_bytes": 1876257,
+      "sha256": "41596827dc5a6e36ddaec4e85d0c8288f97a061ea21390df9983e08cc921b51f"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r02-winter - version 04.mp4",
+      "repo_path": "paintings/r02-winter/video/r02-winter - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5002575,
+      "repo_bytes": 5002575,
+      "sha256": "7925509de8c473b48e5093447f67680695d4691a1aaf6036d4bc39cf3212e020"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r02-winter - version 05.mp4",
+      "repo_path": "paintings/r02-winter/video/r02-winter - version 05.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 8159701,
+      "repo_bytes": 8159701,
+      "sha256": "c43aca684fac29768b8f36b5190f56b2ed62120d3e41746c939b6dda218249a2"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r02-winter-looks-0.7s.mp4",
+      "repo_path": "paintings/r02-winter/video/r02-winter-looks-0.7s.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 4000367,
+      "repo_bytes": 4000367,
+      "sha256": "39fd2ab0f1f9278cb6bf38146bf5d466897fce36f230deb17bff81753aacc80e"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r02-winter.mp4",
+      "repo_path": "paintings/r02-winter/video/r02-winter.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5511747,
+      "repo_bytes": 5511747,
+      "sha256": "a40fe04e637b854697e498e7d4140c302a1ada7228d707e1cfdbb8a7183c6454"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r02-winter_both.mp4",
+      "repo_path": "paintings/r02-winter/video/r02-winter_both.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 5821809,
+      "repo_bytes": 5821809,
+      "sha256": "aa4d41cd9b1762b741b1988d9299edab3bce55a720747548683b9be32d5141a6"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r02-winter_buildup.mp4",
+      "repo_path": "paintings/r02-winter/video/r02-winter_buildup.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1765065,
+      "repo_bytes": 1765065,
+      "sha256": "2b54462daec24aaabfb17bfad43a0b03bce7f9aa198274d326090743eb8b4e5a"
+    },
+    {
+      "archive_path": "2026-09-23 r02 Winter Evening with a Ruined Choir (Claude Opus 5.5)/video/r03-amnesia-winter.mp4",
+      "repo_path": "paintings/r02-winter/video/r03-amnesia-winter.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 9842045,
+      "repo_bytes": 9842045,
+      "sha256": "052a2b60482cea534d45ce814cc27a73bc77499f70fedd948ae96e092aba3e47"
+    }
+  ]
+}

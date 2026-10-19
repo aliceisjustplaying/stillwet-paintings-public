@@ -1,0 +1,150 @@
+{
+  "archive": "2026-09-23 r04 untitled (Claude Opus 5.5)",
+  "identity": "r04-near",
+  "files": [
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/finals/r04-near.png",
+      "repo_path": "paintings/r04-near/finals/r04-near.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 928759,
+      "repo_bytes": 928759,
+      "sha256": "ba4859ba30ffbb8da8c22d9de00f4d24f83adb342dce0bf616682974844032ff"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/finals/r04-near.src.jpg",
+      "repo_path": "paintings/r04-near/finals/r04-near.src.jpg",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 234431,
+      "repo_bytes": 234431,
+      "sha256": "6d94d961995c7caf4957e74a6b1fc3affb9084e56ee30b3b08cc4a0134746ec7"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/lua/l1_near.lua",
+      "repo_path": "paintings/r04-near/lua/archive/l1_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 26351,
+      "repo_bytes": 26351,
+      "sha256": "e4194a2fc7f70e1ba563622d3800d23f0a47711cb987e8c28a3c6bfb5f84f6cc"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/lua/l2_near.lua",
+      "repo_path": "paintings/r04-near/lua/archive/l2_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 30544,
+      "repo_bytes": 30544,
+      "sha256": "94e76f5e1e814c91cf7d5af3fef044b14bb4142d7b36ebf1c5865fe73d875f9e"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/lua/l3_near.lua",
+      "repo_path": "paintings/r04-near/lua/archive/l3_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 35515,
+      "repo_bytes": 35515,
+      "sha256": "1401fff775bfc723c67a15cb7841c457531f759ce996ea88baf4f430d40e8bd8"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/lua/l4_near.lua",
+      "repo_path": "paintings/r04-near/lua/archive/l4_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 37134,
+      "repo_bytes": 37134,
+      "sha256": "d93e83783e37c21a6387f41502c24224f46e0e0ba112d2f1f3cfdcfca6dfcffe"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/lua/l5_near.lua",
+      "repo_path": "paintings/r04-near/lua/archive/l5_near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 27958,
+      "repo_bytes": 27958,
+      "sha256": "6d8cf4d1382f1c7a8466446b8046fac339d6d634631c22a1da4a34991d79029f"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/lua/r04-near.lua",
+      "repo_path": "paintings/r04-near/lua/archive/r04-near.lua",
+      "kind": "lua",
+      "session_kind": null,
+      "source_bytes": 23860,
+      "repo_bytes": 23860,
+      "sha256": "df4b341b861c7c54bbb896204001c3c5b7dc42a814dbeac74c313da16079112d"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/sessions/2026-09-23T15-50-24-478Z_e3091718-46290649-67da0985-c193.jsonl",
+      "repo_path": "paintings/r04-near/sessions/pi/2026-09-23T15-50-24-478Z_e3091718-46290649-67da0985-c193.jsonl",
+      "kind": "sessions",
+      "session_kind": "pi",
+      "source_bytes": 8053385,
+      "repo_bytes": 406979,
+      "sha256": "3c84062a53942ecd57aa11f5cba8e7f236c417c6a0609acd70f9b61323e1e88b"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/sessions/events.json",
+      "repo_path": "paintings/r04-near/sessions/viewer/events.json",
+      "kind": "sessions",
+      "session_kind": "viewer",
+      "source_bytes": 162427,
+      "repo_bytes": 158145,
+      "sha256": "d53d0b6b7cb523e5ca98786cea5cab080098058b93b8c2c4dead9ddd8be1a19d"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/video/easel4-near.mp4",
+      "repo_path": "paintings/r04-near/video/easel4-near.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 2939218,
+      "repo_bytes": 2939218,
+      "sha256": "55a68e3bd2f04afbc0c418a83894915158a0422fd3701b639f88c854c506f452"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/video/r04-near - version 02.mp4",
+      "repo_path": "paintings/r04-near/video/r04-near - version 02.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 777880,
+      "repo_bytes": 777880,
+      "sha256": "528b87233a8824ca6e8e773913ce43c7fb93b6142326f9989019e9e58ebc94eb"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/video/r04-near - version 03.mp4",
+      "repo_path": "paintings/r04-near/video/r04-near - version 03.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 1815030,
+      "repo_bytes": 1815030,
+      "sha256": "eab787b1b68969682f30c147061d82a2df05b9735840b77e23acfaaba2935681"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/video/r04-near - version 04.mp4",
+      "repo_path": "paintings/r04-near/video/r04-near - version 04.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 641487,
+      "repo_bytes": 641487,
+      "sha256": "c16ee4c019bdbf2f92330a9e071f99365ed2e37b7105acfd460f6fb068ff695e"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/video/r04-near-social.mp4",
+      "repo_path": "paintings/r04-near/video/r04-near-social.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 791388,
+      "repo_bytes": 791388,
+      "sha256": "aaec9947868ab61e17ce92b34d2437d577a4f5bc83e41da235003dd952b43fab"
+    },
+    {
+      "archive_path": "2026-09-23 r04 untitled (Claude Opus 5.5)/video/r04-near.mp4",
+      "repo_path": "paintings/r04-near/video/r04-near.mp4",
+      "kind": "video",
+      "session_kind": null,
+      "source_bytes": 774752,
+      "repo_bytes": 774752,
+      "sha256": "230bd8a01a5b491866121222462173212d7a1d93ead73564dde56e01430c64d2"
+    }
+  ]
+}
