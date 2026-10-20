@@ -316,6 +316,24 @@
       "source_bytes": 218862,
       "repo_bytes": 216396,
       "sha256": "cde3534c5d149a3f72bd6c7a78526a94071243aa5c3e2e2bc00d9edb5a2a4b7f"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/finals/d64bb7 - as painted.png",
+      "repo_path": "studios/paint-studio-d64bb7/finals/d64bb7 - as painted.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6424502,
+      "repo_bytes": 6424502,
+      "sha256": "a5282ef59dc3af5d0047f55ac02506496660bb620e4dab6e1475510ef04067af"
+    },
+    {
+      "archive_path": "2026-10-15 runknown untitled (Gemini 4 Argon)/finals/d64bb7 - nearest-limb fix.png",
+      "repo_path": "studios/paint-studio-d64bb7/finals/d64bb7 - nearest-limb fix.png",
+      "kind": "finals",
+      "session_kind": null,
+      "source_bytes": 6604034,
+      "repo_bytes": 6604034,
+      "sha256": "2094beb2d24fc74aaef0c6bbac15e527a3fe24f636f711d3eaa39432ddc215fd"
     }
   ]
 }

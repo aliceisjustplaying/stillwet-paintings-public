@@ -17,6 +17,7 @@
 - [brief.md](brief.md): the brief
 - [journal.md](journal.md): the painter's journal
 - [lua/](lua/): the Lua
+- [finals/](finals/): the finished painting replayed at 2400 px twice: as painted, where an engine bug joined limbs to the wrong branch and drew bars across the crown, and with the nearest-limb fix (claude-paint b4de56fe)
 - [studio/](studio/): the studio's other notes
 
 ## Note
